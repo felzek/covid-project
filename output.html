@@ -13077,16 +13077,37 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Setting-up-our-Facebook-Prophet-Analysis-(USA-COVID-19-Data)">Setting up our Facebook Prophet Analysis (USA COVID-19 Data)<a class="anchor-link" href="#Setting-up-our-Facebook-Prophet-Analysis-(USA-COVID-19-Data)">&#182;</a></h1>
+<h1 id="Introduction-to-Time-Series-Forecasting-with-Seasonality">Introduction to Time Series Forecasting with Seasonality<a class="anchor-link" href="#Introduction-to-Time-Series-Forecasting-with-Seasonality">&#182;</a></h1><p>In normal data analysis, the order of observations that are collected is usally irrelevant. However, most of the data collected in the real world has a certain order built into it. This structure can be exploited for better prediction ability by employing a Time Series Model. The first step in analyzing a time series model is identify and understand the built-in structure of the data over time. These underlying patterns can be classified into four distinct categories:</p>
+<ul>
+<li>Trend - Long term pattern in the data (easiest to identify).</li>
+<li>Seasonality - Short term patterns that occur within the overall time structure, and repeat indefinitely. </li>
+<li>Cyclical Component - Long term oscillations (big waves) within the overall time structure.</li>
+<li>Noise(Error) - Random changes occuring in the overall time structure (unlikely to be repeated).</li>
+</ul>
+<p><img src="./Time_Series_Example_Image.jpg" alt="image"></p>
+<p>The second step is to check the underlying assumptions:</p>
+<ul>
+<li>Stationarity - This means that the series are normally distributed and the mean and variance are constant over a long time period.</li>
+<li>Uncorrelated Random Error - We assume that the error term is randomly distributed and the mean and variance are constant over a time period.</li>
+<li>No outliers - This one is self-explanatory.</li>
+<li>Random shocks - If shocks are present, they are assumed to be randomly distributed with a mean of 0 and a constant variance.</li>
+</ul>
+
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Checking-Directory">Checking Directory<a class="anchor-link" href="#Checking-Directory">&#182;</a></h2><div class="highlight"><pre><span></span><span class="err">!</span><span class="n">ls</span>
+<h2 id="Setting-up-our-Facebook-Prophet-Analysis-(USA-COVID-19-Data)">Setting up our Facebook Prophet Analysis (USA COVID-19 Data)<a class="anchor-link" href="#Setting-up-our-Facebook-Prophet-Analysis-(USA-COVID-19-Data)">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Checking-Directory">Checking Directory<a class="anchor-link" href="#Checking-Directory">&#182;</a></h3><div class="highlight"><pre><span></span><span class="err">!</span><span class="n">ls</span>
 <span class="err">!</span><span class="n">pwd</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Hello World&quot;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -13095,7 +13116,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Importing-all-the-required-packages">Importing all the required packages<a class="anchor-link" href="#Importing-all-the-required-packages">&#182;</a></h2><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<h3 id="Importing-all-the-required-packages">Importing all the required packages<a class="anchor-link" href="#Importing-all-the-required-packages">&#182;</a></h3><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
 <span class="kn">from</span> <span class="nn">fbprophet</span> <span class="kn">import</span> <span class="n">Prophet</span>
 <span class="kn">from</span> <span class="nn">fbprophet.plot</span> <span class="kn">import</span> <span class="n">plot_plotly</span><span class="p">,</span> <span class="n">plot_components_plotly</span>
@@ -13110,7 +13131,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Processing-the-Raw-Data">Processing the Raw Data<a class="anchor-link" href="#Processing-the-Raw-Data">&#182;</a></h2><div class="highlight"><pre><span></span><span class="n">stay_at_home_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;https://covid.ourworldindata.org/data/owid-covid-data.csv&quot;</span><span class="p">)</span>
+<h3 id="Processing-the-Raw-Data">Processing the Raw Data<a class="anchor-link" href="#Processing-the-Raw-Data">&#182;</a></h3><div class="highlight"><pre><span></span><span class="n">stay_at_home_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;https://covid.ourworldindata.org/data/owid-covid-data.csv&quot;</span><span class="p">)</span>
 <span class="n">stay_at_home_df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 <span class="n">stay_at_home_df</span><span class="o">.</span><span class="n">columns</span>
 <span class="n">cleaned_stay_at_home_df</span> <span class="o">=</span> <span class="n">stay_at_home_df</span><span class="p">[[</span><span class="s1">&#39;location&#39;</span><span class="p">,</span><span class="s1">&#39;date&#39;</span><span class="p">,</span><span class="s1">&#39;total_cases&#39;</span><span class="p">,</span><span class="s1">&#39;total_tests&#39;</span><span class="p">,</span><span class="s1">&#39;stringency_index&#39;</span><span class="p">,</span><span class="s1">&#39;positive_rate&#39;</span><span class="p">,</span><span class="s1">&#39;total_deaths&#39;</span><span class="p">]]</span>
@@ -13129,7 +13150,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Setting-up-for-our-Facebook-Prophet-Time-Series-Analysis">Setting up for our Facebook Prophet Time Series Analysis<a class="anchor-link" href="#Setting-up-for-our-Facebook-Prophet-Time-Series-Analysis">&#182;</a></h2><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">plot_metrics</span><span class="p">(</span><span class="n">forecast_cv</span><span class="p">,</span><span class="n">location</span><span class="p">,</span> <span class="n">imgname</span><span class="p">):</span>
+<h3 id="Setting-up-for-our-Facebook-Prophet-Time-Series-Analysis">Setting up for our Facebook Prophet Time Series Analysis<a class="anchor-link" href="#Setting-up-for-our-Facebook-Prophet-Time-Series-Analysis">&#182;</a></h3><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">plot_metrics</span><span class="p">(</span><span class="n">forecast_cv</span><span class="p">,</span><span class="n">location</span><span class="p">,</span> <span class="n">imgname</span><span class="p">):</span>
     <span class="n">mse_plot</span> <span class="o">=</span> <span class="n">plot_cross_validation_metric</span><span class="p">(</span><span class="n">forecast_cv</span><span class="p">,</span> <span class="n">metric</span> <span class="o">=</span> <span class="s1">&#39;mse&#39;</span><span class="p">)</span>
     <span class="n">mse_plot</span><span class="o">.</span><span class="n">suptitle</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">location</span><span class="si">}</span><span class="s1">_mse_</span><span class="si">{</span><span class="n">imgname</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">,</span><span class="n">y</span><span class="o">=</span><span class="mf">0.95</span><span class="p">)</span>
     <span class="n">mse_plot</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;./Seasonality_Comparison/</span><span class="si">{</span><span class="n">location</span><span class="si">}</span><span class="s1">_mse_</span><span class="si">{</span><span class="n">imgname</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
@@ -13186,7 +13207,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Results-of-our-analysis">Results of our analysis<a class="anchor-link" href="#Results-of-our-analysis">&#182;</a></h2><div class="highlight"><pre><span></span><span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="kc">True</span><span class="p">,</span>  <span class="kc">False</span><span class="p">)</span>
+<h3 id="Results-of-our-analysis">Results of our analysis<a class="anchor-link" href="#Results-of-our-analysis">&#182;</a></h3><div class="highlight"><pre><span></span><span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="kc">True</span><span class="p">,</span>  <span class="kc">False</span><span class="p">)</span>
 <span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span>  <span class="kc">False</span><span class="p">,</span>  <span class="kc">False</span><span class="p">)</span>
 <span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="kc">False</span><span class="p">,</span>  <span class="kc">True</span><span class="p">)</span>
 <span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span>  <span class="kc">True</span><span class="p">,</span>  <span class="kc">True</span><span class="p">)</span>
@@ -13194,6 +13215,38 @@ div#notebook {
 
 </div>
 </div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>jupyter nbconvert Prophet_Covid_Analysis.ipynb --to html --output output.html
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>[NbConvertApp] Converting notebook Prophet_Covid_Analysis.ipynb to html
+[NbConvertApp] Writing 292445 bytes to output.html
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
