@@ -13092,6 +13092,34 @@ div#notebook {
 <li>No outliers - This one is self-explanatory.</li>
 <li>Random shocks - If shocks are present, they are assumed to be randomly distributed with a mean of 0 and a constant variance.</li>
 </ul>
+<p>Once these assumptions are met (or not too badly violated), we can start building our Time Series Model. The model description is as follows:</p>
+<ul>
+<li>Notation for Time Series Data<ul>
+<li>$Y_T$ = value of $Y$ in period $t$</li>
+<li>Data set: $Y_1,...,Y_T = T$ observations on the time series random variable $Y$</li>
+<li>We consider only consecutive, evenly-spaced observations. Missing data can cause technical problems, but that can be dealt with in a systematic manner. </li>
+<li>The first lag in a time series $Y_T$ is $Y_{t-1}$; its $j^{th}$ lag is $Y_{t-j}$.</li>
+<li>The first difference of a series, $\Delta Y_t$, is its change between periods $t-1$ and t, that is, $\Delta Y_t = Y_t - Y_{t-1}$</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>If we assume that $Y_t$ is stationary, a natural starting point for a forecasting model is to use past values of $Y$ (that is, $Y_{t-1},Y_{t-2},...$) to forecast $Y_t$.<ul>
+<li>An <em>autoregression</em> is a regression model in which $Y_t$ is regressed against its own lagged values. </li>
+<li>The number of lags used as regressors is called the <strong><em>order</em></strong> of the autoregression.<ul>
+<li>In a <strong><em>first order autoregression</em></strong>, $Y_t$ is regressed against $Y_{t-1}$</li>
+<li>In a $p^{th}$ <strong><em>order autoregression</em></strong>, $Y_t$ is regressed against $Y_{t-1}, Y_{t-2}, ... , Y_{t-p}$.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Let's look at a First Order Autoregressive Model (<strong>AR(1)</strong>) Model:<ul>
+<li>$Y_t = \beta_0 + \beta_1Y_{t-1} + \mu_t$</li>
+</ul>
+</li>
+</ul>
 
 </div>
 </div>
