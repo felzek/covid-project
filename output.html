@@ -13077,7 +13077,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Introduction-to-Time-Series-Forecasting-with-Seasonality">Introduction to Time Series Forecasting with Seasonality<a class="anchor-link" href="#Introduction-to-Time-Series-Forecasting-with-Seasonality">&#182;</a></h1><p>In normal data analysis, the order of observations that are collected is usally irrelevant. However, most of the data collected in the real world has a certain order built into it. This structure can be exploited for better prediction ability by employing a Time Series Model. The first step in analyzing a time series model is identify and understand the built-in structure of the data over time. These underlying patterns can be classified into four distinct categories:</p>
+<h1 id="Introduction-to-Time-Series-Forecasting-with-Seasonality">Introduction to Time Series Forecasting with Seasonality<a class="anchor-link" href="#Introduction-to-Time-Series-Forecasting-with-Seasonality">&#182;</a></h1><p>In normal data analysis, the order of observations that are collected is usually irrelevant. However, most of the data collected in the real world has a certain order built into it. This structure can be exploited for better prediction ability by employing a Time Series Model. The first step in analyzing a time series model is identify and understand the built-in structure of the data over time. These underlying patterns can be classified into four distinct categories:</p>
 <ul>
 <li>Trend - Long term pattern in the data (easiest to identify).</li>
 <li>Seasonality - Short term patterns that occur within the overall time structure, and repeat indefinitely. </li>
@@ -13115,8 +13115,40 @@ div#notebook {
 </li>
 </ul>
 <ul>
-<li>Let's look at a First Order Autoregressive Model (<strong>AR(1)</strong>) Model:<ul>
+<li><p>Let's look at a First Order Autoregressive Model (<strong>AR(1)</strong>) Model:</p>
+<ul>
 <li>$Y_t = \beta_0 + \beta_1Y_{t-1} + \mu_t$</li>
+<li>The <strong>AR(1)</strong> model can be estimated by Ordinary Linear Squares regression of $Y_t$ against $Y_{t-1}$.</li>
+<li>Testing $\beta_1 = 0$ vs. $\beta_1 \neq 0$ provides a test of the hypothesis that $Y_{t-1}$ is not useful in forecasting $Y_{t}$.</li>
+<li>A $p^{th}$ <strong><em>order autoregression</em></strong> follows a similar process.</li>
+</ul>
+</li>
+<li><p>Let's look at some Forecasting Terminology and Notation:</p>
+<ul>
+<li><em>Predicted values</em> are "in-sample".</li>
+<li><em>Forecasts</em> are "out-of-sample" - in the future.</li>
+<li><em>Notation</em><ul>
+<li>$Y_{T+1|T} =$ forecast of $Y_{T+1}$ based on $Y_T,Y_{T-1},...,$ using the population (true unknown) coefficients</li>
+<li>$\hat{Y}_{T+1|T}$ = forecast of $Y_{T+1}$ based on $Y_T,Y_{T-1},...,$ using the estimated coefficients, which are estimated using data through period $T$.</li>
+<li>For an <strong>AR(1)</strong><ul>
+<li>$Y_{T+1|T} = \beta_0 + \beta_1Y_T$</li>
+<li>$\hat{Y}_{T+1|T} = \hat{\beta}_0 + \hat{\beta}_1Y_T$, where $\hat{\beta}_0$ and $\hat{\beta}_1$ are estimated using data through period $T$.</li>
+<li>A similar procedure is employed for a $p^{th}$ <strong><em>order autoregression</em></strong>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Forecast errors vs. residuals<ul>
+<li>Forecast error is "out of sample" because the value of $Y_{T+1}$ isn't used in the estimation of the regression coefficients.<ul>
+<li>forecast error $= Y_{T+1} - \hat{Y}_{T+1|T}$</li>
+</ul>
+</li>
+<li>A residual is "in sample" error.<ul>
+<li>Exact same formula as the forecast error but the values are used in the estimation of the regression coefficients.</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -13246,7 +13278,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>jupyter nbconvert Prophet_Covid_Analysis.ipynb --to html --output output.html
@@ -13267,7 +13299,7 @@ div#notebook {
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>[NbConvertApp] Converting notebook Prophet_Covid_Analysis.ipynb to html
-[NbConvertApp] Writing 292445 bytes to output.html
+[NbConvertApp] Writing 297716 bytes to output.html
 </pre>
 </div>
 </div>
