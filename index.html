@@ -13077,6 +13077,14 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<p>When the first COVID-19 case was discovered in the United States of America (USA) in early march, many believed that the disease would never spread in this country. However, the number of cases have spiked exponentially to 6.5 million and continue to grow each and every day. Despite the existence of many other Machine Learning models out there, Facebook Prophet seems to be one of the most effective models in predicting/forecasting future COVID-19 cases.  Most importantly, it automates many of the parameters that require tunning in a time series model. By the end of the article, you will be able to understand what the Facebook Prophet does, and use it to build your own Machine Learning models.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Introduction-to-Time-Series-Forecasting-with-Seasonality">Introduction to Time Series Forecasting with Seasonality<a class="anchor-link" href="#Introduction-to-Time-Series-Forecasting-with-Seasonality">&#182;</a></h1><p>In normal data analysis, the order of observations that are collected is usually irrelevant. However, most of the data collected in the real world has a certain order built into it. This structure can be exploited for better prediction ability by employing a Time Series Model. The first step in analyzing a time series model is identify and understand the built-in structure of the data over time. These underlying patterns can be classified into four distinct categories:</p>
 <ul>
 <li>Trend - Long term pattern in the data (easiest to identify).</li>
@@ -13084,7 +13092,8 @@ div#notebook {
 <li>Cyclical Component - Long term oscillations (big waves) within the overall time structure.</li>
 <li>Noise(Error) - Random changes occuring in the overall time structure (unlikely to be repeated).</li>
 </ul>
-<p><img src="./Time_Series_Example_Image.jpg" alt="image"></p>
+<p><img src="./Time_Series_Example_Image.jpg" alt="image">
+$$\text{Figure 1: Time Series Components}$$</p>
 <p>The second step is to check the underlying assumptions:</p>
 <ul>
 <li>Stationarity - This means that the series are normally distributed and the mean and variance are constant over a long time period.</li>
@@ -13152,6 +13161,30 @@ div#notebook {
 </ul>
 </li>
 </ul>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Introduction-to-Facebook-Prophet-Model">Introduction to Facebook Prophet Model<a class="anchor-link" href="#Introduction-to-Facebook-Prophet-Model">&#182;</a></h1><p>The Facebook Prophet model is an accurate, fast modular regression model that often performs really well with just the default parameters. The python library, fbprophet, comes with a lot of functionality. Analysts, often, have to select the components that are relevant to their particular problem. We are going to modify a few of the existing components to fit our needs for this COVID-19 study.</p>
+<p><img src="./Facebook_Prophet_Components.png" alt="image">
+$$\text{Figure 2: fbprophet functions in Python}$$</p>
+<p>We shall give a brief introduction to each and every component in this graphic, before we apply the model to our analysis.</p>
+<h2 id="The-Prophet-Forecasting-Model">The Prophet Forecasting Model<a class="anchor-link" href="#The-Prophet-Forecasting-Model">&#182;</a></h2><p>The main model equation (broken into individual components) is:</p>
+<ul>
+<li>$y(t) = g(t) + s(t) + h(t) + \varepsilon(t)$<ul>
+<li>$g(t)$: piecewise linear or logistic growth curve</li>
+<li>$s(t)$: periodic changes (e.g. weekly/yearly seasonality)</li>
+<li>$h(t)$: effects of holidays (user provided) with irregular schedules</li>
+<li>$\varepsilon(t)$: error term accounts for any unusual changes not accommodated by the model</li>
+</ul>
+</li>
+</ul>
+<p>Using time as a regressor, Prophet is trying to fit several linear and non-linear functions of time as components. Modeling seasonality as an additive component is the same approach taken by exponential smoothing in <a href="https://otexts.org/fpp2/holt-winters.html">Holt-Winters Technique</a>. Prophet is framing the forecasting problem as a curve-fitting exercise rather than looking explicitly at the time based dependence of each observation within a time series.</p>
+<h2 id="Python's-fbprophet-Library's-Functionality">Python's fbprophet Library's Functionality<a class="anchor-link" href="#Python's-fbprophet-Library's-Functionality">&#182;</a></h2><p>Referring back to Figure 2, we can see that the Facebook Prophet model can utilize Markov Chain Monte Carlo (MCMC) to do the uncertainty interval estimation (error terms). This method is used for a Bayesian Statistical approach, but we are not going to apply that to our study. The default uncertainty interval is $80\%$. However, we chose to change that to $95\%$, because that is a commonly used significance level. We used a linear trend (default) for the United States Data because logistic trends are usually reserved for <a href="https://www.statisticshowto.com/binary-variable-2/">binary data</a>.</p>
+<p>Additionally, one advantage of Facebook Prophet is that it automatically discovers changes in trends, and tries to account for it in your analysis. We are not going to make any changes to the default functionality in this part. Facebook Prophet also has built in holiday, and you can input your own holidays, but we chose not to use that for our study. We also didn't use the parameter in estimation to control the impact of the holidays.</p>
 
 </div>
 </div>
@@ -13278,10 +13311,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>jupyter nbconvert Prophet_Covid_Analysis.ipynb --to html --output output.html
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>jupyter nbconvert Prophet_Covid_Analysis.ipynb --to html --output index.html
 </pre></div>
 
     </div>
@@ -13299,7 +13332,7 @@ div#notebook {
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>[NbConvertApp] Converting notebook Prophet_Covid_Analysis.ipynb to html
-[NbConvertApp] Writing 297716 bytes to output.html
+[NbConvertApp] Writing 301884 bytes to output.html
 </pre>
 </div>
 </div>
