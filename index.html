@@ -13168,7 +13168,7 @@ $$\text{Figure 1: Time Series Components}$$</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Introduction-to-Facebook-Prophet-Model">Introduction to Facebook Prophet Model<a class="anchor-link" href="#Introduction-to-Facebook-Prophet-Model">&#182;</a></h1><p>The Facebook Prophet model is an accurate, fast modular regression model that often performs really well with just the default parameters. The python library, fbprophet, comes with a lot of functionality. Analysts, often, have to select the components that are relevant to their particular problem. We are going to modify a few of the existing components to fit our needs for this COVID-19 study.</p>
+<h1 id="Introduction-to-Facebook-Prophet-Model">Introduction to Facebook Prophet Model<a class="anchor-link" href="#Introduction-to-Facebook-Prophet-Model">&#182;</a></h1><p>The Facebook Prophet model is an accurate, fast modular regression model that often performs really well with just the default parameters. The python library, fbprophet, comes with mulitiple functionalities. Analysts, often, have to select the components that are relevant to their particular problem. We are going to modify a few of the existing components to fit our needs for this COVID-19 study.</p>
 <p><img src="./Facebook_Prophet_Components.png" alt="image">
 $$\text{Figure 2: fbprophet functions in Python}$$</p>
 <p>We shall give a brief introduction to each and every component in this graphic, before we apply the model to our analysis.</p>
@@ -13184,7 +13184,7 @@ $$\text{Figure 2: fbprophet functions in Python}$$</p>
 </ul>
 <p>Using time as a regressor, Prophet is trying to fit several linear and non-linear functions of time as components. Modeling seasonality as an additive component is the same approach taken by exponential smoothing in <a href="https://otexts.org/fpp2/holt-winters.html">Holt-Winters Technique</a>. Prophet is framing the forecasting problem as a curve-fitting exercise rather than looking explicitly at the time based dependence of each observation within a time series.</p>
 <h2 id="Python's-fbprophet-Library's-Functionality">Python's fbprophet Library's Functionality<a class="anchor-link" href="#Python's-fbprophet-Library's-Functionality">&#182;</a></h2><p>Referring back to Figure 2, we can see that the Facebook Prophet model can utilize Markov Chain Monte Carlo (MCMC) to do the uncertainty interval estimation (error terms). This method is used for a Bayesian Statistical approach, but we are not going to apply that to our study. The default uncertainty interval is $80\%$. However, we chose to change that to $95\%$, because that is a commonly used significance level. We used a linear trend (default) for the United States Data because logistic trends are usually reserved for <a href="https://www.statisticshowto.com/binary-variable-2/">binary data</a>.</p>
-<p>Additionally, one advantage of Facebook Prophet is that it automatically discovers changes in trends, and tries to account for it in your analysis. We are not going to make any changes to the default functionality in this part. Facebook Prophet also has built in holiday, and you can input your own holidays, but we chose not to use that for our study. We also didn't use the parameter in estimation to control the impact of the holidays.</p>
+<p>Additionally, one advantage of Facebook Prophet is that it automatically discovers changes in trends, and tries to account for it in your analysis. We are not going to make any changes to the default functionality in this part. Facebook Prophet also has built in holidays, and you can input your own holidays, but we chose not to use that for our study. We also didn't use the parameter in estimation to control the impact of the holidays.</p>
 
 </div>
 </div>
@@ -13300,18 +13300,29 @@ $$\text{Figure 2: fbprophet functions in Python}$$</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Results-of-our-analysis">Results of our analysis<a class="anchor-link" href="#Results-of-our-analysis">&#182;</a></h3><div class="highlight"><pre><span></span><span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="kc">True</span><span class="p">,</span>  <span class="kc">False</span><span class="p">)</span>
-<span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span>  <span class="kc">False</span><span class="p">,</span>  <span class="kc">False</span><span class="p">)</span>
-<span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="kc">False</span><span class="p">,</span>  <span class="kc">True</span><span class="p">)</span>
-<span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span>  <span class="kc">True</span><span class="p">,</span>  <span class="kc">True</span><span class="p">)</span>
+<h3 id="Results-of-our-analysis">Results of our analysis<a class="anchor-link" href="#Results-of-our-analysis">&#182;</a></h3><div class="highlight"><pre><span></span><span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="n">yearly_seasonality</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span> <span class="n">weekly_seasonality</span> <span class="o">=</span> <span class="kc">False</span><span class="p">)</span> 
+<span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="n">yearly_seasonality</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">weekly_seasonality</span> <span class="o">=</span> <span class="kc">False</span><span class="p">)</span>
+<span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="n">yearly_seasonality</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">weekly_seasonality</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span>
+<span class="n">prophet_predicts</span><span class="p">(</span><span class="n">us_covid_df</span><span class="p">,</span> <span class="s1">&#39;United States&#39;</span><span class="p">,</span> <span class="n">yearly_seasonality</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>  <span class="n">weekly_seasonality</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span>
 </pre></div>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Types-of-Analysis:">Types of Analysis:<a class="anchor-link" href="#Types-of-Analysis:">&#182;</a></h3><p>In our study, we tested four different model types within Facebook Prophet. Each model type had a different seasonality parameter. Facebook Prophet always has daily seasonality by default, but we added on yearly, and weekly seasonlity from our end. We shall discuss the forecast graphs, the seasonality component graphs, and the error measures (MAE, MAPE, MSE, RMSE) graphs for all these model types.</p>
+<h4 id="Forecast-Graphs">Forecast Graphs<a class="anchor-link" href="#Forecast-Graphs">&#182;</a></h4><p><img src="./Seasonality_Comparison/United_States_forecast_daily.png" alt="image">
+$$\text{Figure 3: Forecast Graph of COVID-19 cases with daily seasonality (Black are actual values, and Blue is predicted}$$</p>
+<p>Looking at Figure 3, we can clearly see that the virus started off with a few cases between January and March 2020. Towards the beginning of April 2020, we can see a steady increase in cases till the end of June 2020.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[1]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>jupyter nbconvert Prophet_Covid_Analysis.ipynb --to html --output index.html
@@ -13332,7 +13343,7 @@ $$\text{Figure 2: fbprophet functions in Python}$$</p>
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>[NbConvertApp] Converting notebook Prophet_Covid_Analysis.ipynb to html
-[NbConvertApp] Writing 301884 bytes to output.html
+[NbConvertApp] Writing 301913 bytes to index.html
 </pre>
 </div>
 </div>
