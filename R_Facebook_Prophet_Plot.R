@@ -1,0 +1,72 @@
+#Yearly = TRUE, Weekly = FALSE
+predicted_values <- read.csv(file = "/Users/bhanugarg/covid-project/Predicted_values_yearly_daily.csv")
+actual_value <- read.csv(file = "/Users/bhanugarg/covid-project/Actual_Values_yearly_daily.csv")
+is.data.frame(predicted_values)
+is.data.frame(actual_value)
+y_1 <- actual_value$total_cases
+x_1 <- as.Date(actual_value$date)
+x_2 <- as.Date(predicted_values$ds)
+y_2 <- predicted_values$yhat
+y_3 <- predicted_values$yhat_lower
+y_4 <- predicted_values$yhat_upper
+plot(x_1,y_1, xlab = "Date", ylab = "COVID-19 Cases", type = "l", col = "red", main = "Predicted Number of Covid-19 Cases" )
+lines(x_2, y_2, type = "l", col = "blue")
+lines(x_2,y_3, type = "l", col = "green")
+lines(x_2,y_4, type = "l", col = "green")
+legend("bottomright", legend=c("Actual Cases", "Predicted Cases", "95% Confidence Interval"),
+       col=c("red", "blue","green"), lty=1, cex=0.8)
+
+#Yearly = FALSE, Weekly = FALSE
+predicted_values <- read.csv(file = "/Users/bhanugarg/covid-project/Predicted_values_daily.csv")
+actual_value <- read.csv(file = "/Users/bhanugarg/covid-project/Actual_Values_daily.csv")
+is.data.frame(predicted_values)
+is.data.frame(actual_value)
+y_1 <- actual_value$total_cases
+x_1 <- as.Date(actual_value$date)
+x_2 <- as.Date(predicted_values$ds)
+y_2 <- predicted_values$yhat
+y_3 <- predicted_values$yhat_lower
+y_4 <- predicted_values$yhat_upper
+plot(x_1,y_1, xlab = "Date", ylab = "COVID-19 Cases", type = "l", col = "red", main = "Predicted Number of Covid-19 Cases" )
+lines(x_2, y_2, type = "l", col = "blue")
+lines(x_2,y_3, type = "l", col = "green")
+lines(x_2,y_4, type = "l", col = "green")
+legend("bottomright", legend=c("Actual Cases", "Predicted Cases", "95% Confidence Interval"),
+       col=c("red", "blue","green"), lty=1, cex=0.8)
+
+#Yearly = FALSE, Weekly = TRUE 
+predicted_values <- read.csv(file = "/Users/bhanugarg/covid-project/Predicted_values_weekly_daily.csv")
+actual_value <- read.csv(file = "/Users/bhanugarg/covid-project/Actual_Values_weekly_daily.csv")
+is.data.frame(predicted_values)
+is.data.frame(actual_value)
+y_1 <- actual_value$total_cases
+x_1 <- as.Date(actual_value$date)
+x_2 <- as.Date(predicted_values$ds)
+y_2 <- predicted_values$yhat
+y_3 <- predicted_values$yhat_lower
+y_4 <- predicted_values$yhat_upper
+plot(x_1,y_1, xlab = "Date", ylab = "COVID-19 Cases", type = "l", col = "red", main = "Predicted Number of Covid-19 Cases" )
+lines(x_2, y_2, type = "l", col = "blue")
+lines(x_2,y_3, type = "l", col = "green")
+lines(x_2,y_4, type = "l", col = "green")
+legend("bottomright", legend=c("Actual Cases", "Predicted Cases", "95% Confidence Interval"),
+       col=c("red", "blue","green"), lty=1, cex=0.8)
+
+#Yearly = TRUE, Weekly = TRUE
+predicted_values <- read.csv(file = "/Users/bhanugarg/covid-project/Predicted_values_yearly_weekly_daily.csv")
+actual_value <- read.csv(file = "/Users/bhanugarg/covid-project/Actual_Values_yearly_weekly_daily.csv")
+is.data.frame(predicted_values)
+is.data.frame(actual_value)
+y_1 <- actual_value$total_cases
+x_1 <- as.Date(actual_value$date)
+x_2 <- as.Date(predicted_values$ds)
+y_2 <- predicted_values$yhat
+y_3 <- predicted_values$yhat_lower
+y_4 <- predicted_values$yhat_upper
+plot(x_1,y_1, xlab = "Date", ylab = "COVID-19 Cases", type = "l", col = "red", main = "Predicted Number of Covid-19 Cases" )
+lines(x_2, y_2, type = "l", col = "blue")
+lines(x_2,y_3, type = "l", col = "green")
+lines(x_2,y_4, type = "l", col = "green")
+legend("bottomright", legend=c("Actual Cases", "Predicted Cases", "95% Confidence Interval"),
+       col=c("red", "blue","green"), lty=1, cex=0.8)
+
