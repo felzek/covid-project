@@ -20,6 +20,8 @@ plot(x_1,y_1, ylim = c(y_1_min, y_max_1), xlim = c(x_1_min, x_1_max),type = "l",
 lines(x_2, y_2, type = "l", col = "blue")
 lines(x_2,y_3, type = "l", col = "green")
 lines(x_2,y_4, type = "l", col = "green")
+mtext("a)", side = 2, line = 2, cex = 1, las = 2, padj = -11)
+acc_yearly_daily <- (1 - mean(abs(y_2 - predicted_values_yearly_daily$y)/(predicted_values_yearly_daily$y)))*100
 
 #Yearly = FALSE, Weekly = FALSE
 predicted_values_daily <- read.csv(file = "/Users/bhanugarg/covid-project/Predicted_values_daily.csv")
@@ -42,6 +44,9 @@ plot(x_5,y_5, ylim = c(y_5_min, y_max_2), xlim = c(x_5_min,x_5_max), type = "l",
 lines(x_6, y_6, type = "l", col = "blue")
 lines(x_6,y_7, type = "l", col = "green")
 lines(x_6,y_8, type = "l", col = "green")
+mtext("b)", side = 2, line = 2, cex = 1, las = 2, padj = -11)
+
+acc_daily <- (1 - mean(abs(y_6 - predicted_values_daily$y)/(predicted_values_daily$y)))*100
 
 #Yearly = FALSE, Weekly = TRUE 
 predicted_values_weekly_daily <- read.csv(file = "/Users/bhanugarg/covid-project/Predicted_values_weekly_daily.csv")
@@ -64,6 +69,9 @@ plot(x_9,y_9, ylim = c(y_9_min, y_max_3),  xlim = c(x_9_min,x_9_max), type = "l"
 lines(x_10, y_10, type = "l", col = "blue")
 lines(x_10,y_11, type = "l", col = "green")
 lines(x_10,y_12, type = "l", col = "green")
+mtext("c)", side = 2, line = 2, cex = 1, las = 2, padj = -11)
+
+acc_weekly_daily <- (1 - mean(abs(y_10 - predicted_values_weekly_daily$y)/(predicted_values_weekly_daily$y)))*100
 
 #Yearly = TRUE, Weekly = TRUE
 predicted_values_yearly_weekly_daily <- read.csv(file = "/Users/bhanugarg/covid-project/Predicted_values_yearly_weekly_daily.csv")
@@ -86,11 +94,20 @@ plot(x_13,y_13, ylim = c(y_13_min, y_max_4), xlim = c(x_13_min,x_13_max), type =
 lines(x_14, y_14, type = "l", col = "blue")
 lines(x_14,y_15, type = "l", col = "green")
 lines(x_14,y_15, type = "l", col = "green")
+mtext("d)", side = 2, line = 2, cex = 1, las = 2, padj = -11)
+
+acc_yearly_weekly_daily <- (1 - mean(abs(y_14 - predicted_values_yearly_weekly_daily$y)/(predicted_values_yearly_weekly_daily$y)))*100
+
 par(op)
 mtext("Actual vs. Predicted", side = 3, line = 2, font = 2, cex = 1.2)
 mtext("Number of COVID-19 Cases", side = 2, line = 2, cex = 1.2)
 mtext("Days in 2020", side = 1, line = 2, cex = 1.2)
 op <- par(usr=c(0,1,0,1), # Reset the coordinates
           xpd=NA)         # Allow plotting outside the plot region
-legend(0.05,0.55, legend = c("Actual Cases", "Predicted Cases","95% Confidence Interval"), lty = 1, col = c("red","blue","green"), horiz = TRUE, cex = 0.8, box.col = 0)
+legend(0.05,0.55, legend = c("Actual Cases", "Predicted Cases","95% Confidence Interval"), lty = 1, col = c("red","blue","green"), horiz = TRUE, cex = 0.8, box.col = 0, bg = "transparent", bty = "n")
+
+acc_daily
+acc_weekly_daily
+acc_yearly_daily
+acc_yearly_weekly_daily
 
