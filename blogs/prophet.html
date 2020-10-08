@@ -13171,7 +13171,7 @@ $$\text{Figure 1: Time Series Components}$$</p>
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Introduction-to-Facebook-Prophet-Model">Introduction to Facebook Prophet Model<a class="anchor-link" href="#Introduction-to-Facebook-Prophet-Model">&#182;</a></h2><p>The Facebook Prophet model is an accurate, fast modular regression model that often performs really well with just the default parameters. The python library, fbprophet, comes with mulitiple functionalities. Analysts, often, have to select the components that are relevant to their particular problem. We are going to modify a few of the existing components to fit our needs for this COVID-19 study.</p>
-<p><img src="./Facebook_Prophet_Components.png" alt="image">
+<p><img src="../Facebook_Prophet_Components.png" alt="image">
 $$\text{Figure 2: fbprophet functions in Python}$$</p>
 <p>We shall give a brief introduction to each and every component in this graphic, before we apply the model to our analysis.</p>
 <h3 id="The-Prophet-Forecasting-Model">The Prophet Forecasting Model<a class="anchor-link" href="#The-Prophet-Forecasting-Model">&#182;</a></h3><p>The main model equation (broken into individual components) is:</p>
@@ -13315,7 +13315,7 @@ $$\text{Figure 2: fbprophet functions in Python}$$</p>
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h4 id="Types-of-Analysis:">Types of Analysis:<a class="anchor-link" href="#Types-of-Analysis:">&#182;</a></h4><p>In our study, we tested four different model types within Facebook Prophet. Each model type had a different seasonality parameter. Facebook Prophet always has daily seasonality by default, but we added on yearly, and weekly seasonlity from our end. We shall discuss the forecast graphs, and the model accuracies given by varying seasonality types.</p>
-<h5 id="Forecast-Graphs-and-Model-Accuracy">Forecast Graphs and Model Accuracy<a class="anchor-link" href="#Forecast-Graphs-and-Model-Accuracy">&#182;</a></h5><p><img src="./Prophet_Forecast_Graphs.png" alt="image">
+<h5 id="Forecast-Graphs-and-Model-Accuracy">Forecast Graphs and Model Accuracy<a class="anchor-link" href="#Forecast-Graphs-and-Model-Accuracy">&#182;</a></h5><p><img src="../Prophet_Forecast_Graphs.png" alt="image">
 $$\text{Figure 3: a) Yearly &amp; Daily Seasonality. b) Daily Seasonality. c) Weekly &amp; Daily Seasonality. d) Yearly, Weekly &amp; Daily Seasonality.}$$</p>
 <table>
 <thead><tr>
