@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TFC",
+    "data": {
+        "bs": [
+            {
+                "label": "Mortgage loans sold with recourse",
+                "concept": "FairValueDisclosureOffbalanceSheetRisksFaceAmountLiability",
+                "unit": "usd",
+                "value": 373000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 958000000
+            },
+            {
+                "label": "Change in unrecognized net pension and postretirement costs",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Change in unrealized net gains (losses) on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 11000000
+            },
+            {
+                "label": "Change in unrealized net gains (losses) on AFS securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 79000000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherComprehensiveIncomeOtherNetOfTax",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Total OCI, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 51000000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 907000000
+            },
+            {
+                "label": "Change in unrecognized net pension and postretirement costs",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Change in unrealized net gains (losses) on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Change in unrealized net gains (losses) on AFS securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 24000000
+            },
+            {
+                "label": "Other, net",
+                "concept": "tfc:OtherComprehensiveIncomeOtherNetTax",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ]
+    }
+}

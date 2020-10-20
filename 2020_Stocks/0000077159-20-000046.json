@@ -1,0 +1,200 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PVA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 21945000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for credit losses",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 42833000
+            },
+            {
+                "label": "Derivative Asset, Current",
+                "concept": "DerivativeAssetsCurrent",
+                "unit": "usd",
+                "value": 117369000
+            },
+            {
+                "label": "Income Taxes Receivable, Current",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 4141000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 186288000
+            },
+            {
+                "label": "Property and equipment, net (full cost method)",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1099838000
+            },
+            {
+                "label": "Derivative Asset, Noncurrent",
+                "concept": "DerivativeAssetsNoncurrent",
+                "unit": "usd",
+                "value": 4053000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 5537000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1295716000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 55924000
+            },
+            {
+                "label": "Derivative liabilities",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 74583000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 130507000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 9578000
+            },
+            {
+                "label": "Derivative liabilities",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 8900000
+            },
+            {
+                "label": "Long-term debt, net",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 553234000
+            },
+            {
+                "label": "Commitments and contingencies (Note 12)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock of $0.01 par value \u2013 5,000,000 shares authorized; none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock of $0.01 par value \u2013 45,000,000 shares authorized; 15,175,667 and 15,135,598 shares issued as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 152000
+            },
+            {
+                "label": "Paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 202158000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 388290000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 61000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 590539000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1295716000
+            },
+            {
+                "label": "Deferred Income Tax Liabilities, Net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 2958000
+            },
+            {
+                "label": "Preferred stock, par value",
+                "concept": "PreferredStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Common stock, par value",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 94715000
+            },
+            {
+                "label": "Change in pension and postretirement obligations, net of tax of $0 and $0 in 2016",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Total Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 94716000
+            }
+        ]
+    }
+}

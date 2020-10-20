@@ -1,0 +1,176 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BSIG",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 115800000.0
+            },
+            {
+                "label": "Investment advisory fees receivable",
+                "concept": "bsig:InvestmentAdvisoryFeesReceivable",
+                "unit": "usd",
+                "value": 126200000.0
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": 28600000.0
+            },
+            {
+                "label": "Fixed assets, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 70900000.0
+            },
+            {
+                "label": "Investments (includes balances reported at fair value)",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 145100000.0
+            },
+            {
+                "label": "Acquired intangibles, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 61600000.0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 258200000.0
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 60700000.0
+            },
+            {
+                "label": "Deferred tax assets",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 219400000.0
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 33800000.0
+            },
+            {
+                "label": "Accrued incentive compensation",
+                "concept": "EmployeeRelatedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 94500000.0
+            },
+            {
+                "label": "Due to OM plc",
+                "concept": "bsig:DuetoFormerParentOtherObligationsCurrentandNoncurrent",
+                "unit": "usd",
+                "value": 3400000.0
+            },
+            {
+                "label": "Other compensation liabilities",
+                "concept": "DeferredCompensationLiabilityCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 367500000.0
+            },
+            {
+                "label": "Accrued income taxes",
+                "concept": "AccruedIncomeTaxes",
+                "unit": "usd",
+                "value": 13000000.0
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 3300000.0
+            },
+            {
+                "label": "Non-recourse borrowings",
+                "concept": "NonRecourseDebt",
+                "unit": "usd",
+                "value": 21700000.0
+            },
+            {
+                "label": "Third party borrowings",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 524000000.0
+            },
+            {
+                "label": "Common stock (par value $0.001; 80,099,696 and 85,886,371 shares, respectively, issued)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 500600000.0
+            },
+            {
+                "label": "Retained deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 410100000.0
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 18200000.0
+            },
+            {
+                "label": "Non-controlling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1400000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 53900000.0
+            },
+            {
+                "label": "Amortization related to derivative securities, net of tax",
+                "concept": "bsig:OCIDebtSecuritiesAvailableForSaleGainLossAfterAdjustmentAndTaxAmortization",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Total comprehensive income attributable to controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 19800000.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "INNO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash {1}",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 8
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 8
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 26052
+            },
+            {
+                "label": "Accrued liabilities - related party",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 276918
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 838270
+            },
+            {
+                "label": "Preferred Stock, Value",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Common stock at $0.001 par value; 199,000,000 shares authorized; 172,075,000 shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 172075
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 733105
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -1744442
+            },
+            {
+                "label": "Total Stockholders' Deficit",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -838262
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 8
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "OtherGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11527
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -11527
+            },
+            {
+                "label": "Net loss per common share - basic and diluted",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Weighted average number of common shares outstanding - basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 172075000
+            }
+        ]
+    }
+}

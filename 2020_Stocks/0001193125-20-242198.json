@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-05-03",
+    "endDate": "2020-08-01",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "ALOT",
+    "data": {
+        "bs": [
+            {
+                "label": "Long-term Debt, Gross",
+                "concept": "DebtInstrumentCarryingAmount",
+                "unit": "usd",
+                "value": 14430000
+            },
+            {
+                "label": "Debt Issuance Costs, Net",
+                "concept": "DeferredFinanceCostsNet",
+                "unit": "usd",
+                "value": 179000
+            },
+            {
+                "label": "Long-term Debt, Current Maturities",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 4392000
+            },
+            {
+                "label": "Long-term Debt, Excluding Current Maturities",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 9859000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 351000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), before Reclassification, after Tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 229000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), Reclassification, after Tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 232000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Derivative, Excluded Component, Increase (Decrease), before Adjustments, after Tax",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseBeforeAdjustmentsAfterTax",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 399000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 402000
+            }
+        ]
+    }
+}

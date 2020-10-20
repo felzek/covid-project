@@ -1,0 +1,212 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SAFE",
+    "data": {
+        "bs": [
+            {
+                "label": "Real estate, at cost",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 707381000
+            },
+            {
+                "label": "Less: accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 19300000
+            },
+            {
+                "label": "Real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 688081000
+            },
+            {
+                "label": "Real estate-related intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 240845000
+            },
+            {
+                "label": "Total real estate, net and real estate-related intangible assets, net",
+                "concept": "safe:RealEstateInvestmentPropertyIncludingFiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 928926000
+            },
+            {
+                "label": "Net investment in sales-type leases",
+                "concept": "SalesTypeLeaseNetInvestmentInLease",
+                "unit": "usd",
+                "value": 1045003000
+            },
+            {
+                "label": "Ground Lease receivables",
+                "concept": "safe:GroundLeaseReceivable",
+                "unit": "usd",
+                "value": 477460000
+            },
+            {
+                "label": "Equity investments in Ground Leases",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 128736000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 96700000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 42373000
+            },
+            {
+                "label": "Deferred operating lease income receivable",
+                "concept": "DeferredRentReceivablesNet",
+                "unit": "usd",
+                "value": 75841000
+            },
+            {
+                "label": "Deferred expenses and other assets, net",
+                "concept": "DeferredCostsAndOtherAssets",
+                "unit": "usd",
+                "value": 34324000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2829363000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 73825000
+            },
+            {
+                "label": "Real estate-related intangible liabilities, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 57007000
+            },
+            {
+                "label": "Debt obligations, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 1460114000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1590946000
+            },
+            {
+                "label": "Commitments and contingencies (refer to Note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 400,000 shares authorized, 51,110 and 47,782 shares issued and outstanding as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 511000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1287385000
+            },
+            {
+                "label": "Retained earnings (accumulated deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 11454000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 62744000
+            },
+            {
+                "label": "Total Safehold Inc. shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1236606000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1811000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1238417000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2829363000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 12562000
+            },
+            {
+                "label": "Reclassification of (gains) losses on derivatives into earnings",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 469000
+            },
+            {
+                "label": "Unrealized loss on derivatives",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 1434000
+            },
+            {
+                "label": "Other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 965000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 11597000
+            },
+            {
+                "label": "Comprehensive (income) loss attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 48000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Safehold Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 11549000
+            }
+        ]
+    }
+}

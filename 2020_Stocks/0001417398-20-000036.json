@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "HI",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 44900000.0
+            },
+            {
+                "label": "Balance, shares",
+                "concept": "SharesIssued",
+                "unit": "shares",
+                "value": 1100000.0
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 44900000.0
+            },
+            {
+                "label": "Balance, shares",
+                "concept": "SharesIssued",
+                "unit": "shares",
+                "value": 1100000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 607500000.0
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 400200000.0
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 207300000.0
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 118500000.0
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 53300000.0
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 28300000.0
+            },
+            {
+                "label": "Consolidated net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 25000000.0
+            }
+        ]
+    }
+}

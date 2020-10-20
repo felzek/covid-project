@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ACER",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 5880861
+            },
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 5880861
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 2816749
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2953137
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 5769886
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -5769886
+            },
+            {
+                "label": "Interest and other (expense) income, net.",
+                "concept": "acer:InterestAndOtherExpenseIncomeNet",
+                "unit": "usd",
+                "value": -2317
+            },
+            {
+                "label": "Foreign currency transaction gain (loss)",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 1402
+            },
+            {
+                "label": "Total other (expense) income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -915
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -5770801
+            },
+            {
+                "label": "Net loss per share - basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.56
+            },
+            {
+                "label": "Weighted average common shares outstanding - basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 10365767
+            }
+        ]
+    }
+}

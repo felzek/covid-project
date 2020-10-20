@@ -1,0 +1,127 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NKLA",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Solar revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 36000
+            },
+            {
+                "label": "Cost of solar revenues",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Gross profit (loss)",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 42501000
+            },
+            {
+                "label": "Selling, general, and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 44147000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 86648000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 86642000
+            },
+            {
+                "label": "Interest income, net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Revaluation of Series A redeemable convertible preferred stock warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss on forward contract liability",
+                "concept": "nkla:GainLossOnFinancialInstrumentsSubjectToMandatoryRedemption",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 86642000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 86643000
+            },
+            {
+                "label": "Less: Premium on repurchase of redeemable convertible preferred stock",
+                "concept": "PreferredStockRedemptionPremium",
+                "unit": "usd",
+                "value": 13407000
+            },
+            {
+                "label": "Net loss attributable to common stockholder, basic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss attributable to common stockholder, diluted",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "unit": "usd",
+                "value": 100050000
+            },
+            {
+                "label": "Net loss per share attributable to common stockholders, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.33
+            },
+            {
+                "label": "Weighted-average shares used to compute net loss per share to common stockholders, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 303785616
+            }
+        ]
+    }
+}

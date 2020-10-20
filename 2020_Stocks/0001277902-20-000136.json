@@ -1,0 +1,290 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MVBF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 28636000
+            },
+            {
+                "label": "Interest bearing balances with banks",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 50218000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 78854000
+            },
+            {
+                "label": "Certificates of deposit with other banks",
+                "concept": "CertificatesOfDepositAtCarryingValue",
+                "unit": "usd",
+                "value": 13046000
+            },
+            {
+                "label": "Investment securities available-for-sale, at fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 220699000
+            },
+            {
+                "label": "Equity securities",
+                "concept": "EquitySecuritiesFvNi",
+                "unit": "usd",
+                "value": 19464000
+            },
+            {
+                "label": "Loans held for sale",
+                "concept": "LoansReceivableHeldForSaleAmount",
+                "unit": "usd",
+                "value": 242089000
+            },
+            {
+                "label": "Loans:",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 1494672000
+            },
+            {
+                "label": "Less: Allowance for loan losses",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 17742000
+            },
+            {
+                "label": "Net Loans",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 1476930000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 24586000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 35818000
+            },
+            {
+                "label": "Accrued interest receivable and other assets",
+                "concept": "InterestReceivableAndOtherAssets",
+                "unit": "usd",
+                "value": 84439000
+            },
+            {
+                "label": "Assets of branches held for sale",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 19232000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2215157000
+            },
+            {
+                "label": "Noninterest bearing",
+                "concept": "NoninterestBearingDepositLiabilitiesDomestic",
+                "unit": "usd",
+                "value": 528527000
+            },
+            {
+                "label": "Interest bearing",
+                "concept": "InterestBearingDepositLiabilitiesDomestic",
+                "unit": "usd",
+                "value": 1335436000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "DepositsDomestic",
+                "unit": "usd",
+                "value": 1863963000
+            },
+            {
+                "label": "Deposits of branches held for sale",
+                "concept": "mvbf:DepositLiabilitiesHeldForSale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued interest payable and other liabilities",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 72145000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 9815000
+            },
+            {
+                "label": "FHLB and other borrowings",
+                "concept": "mvbf:FederalHomeLoanBankAndOtherBorrowings",
+                "unit": "usd",
+                "value": 36610000
+            },
+            {
+                "label": "Subordinated debt",
+                "concept": "SubordinatedDebt",
+                "unit": "usd",
+                "value": 4124000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1986657000
+            },
+            {
+                "label": "Preferred stock, par value $1,000; 20,000 authorized; 733 issued in 2020 and 2019, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 7334000
+            },
+            {
+                "label": "Common stock, par value $1; 20,000,000 shares authorized; 12,065,627 shares issued and 11,968,425 shares outstanding in 2020 and 11,995,366 shares issued and 11,944,289 shares outstanding in 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 12066000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 123848000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 89197000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2193000
+            },
+            {
+                "label": "Treasury stock, 97,202 shares in 2020 and 51,077 shares in 2019, at cost",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 1752000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 228500000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2215157000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 18034000
+            },
+            {
+                "label": "Unrealized holding gains on securities available-for-sale",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 551000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesBeforeReclassificationAdjustmentsTax",
+                "unit": "usd",
+                "value": 149000
+            },
+            {
+                "label": "Reclassification adjustment for (gain) loss recognized in income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 554000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax",
+                "unit": "usd",
+                "value": 150000
+            },
+            {
+                "label": "Change in defined benefit pension plan",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1001000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 270000
+            },
+            {
+                "label": "Reclassification adjustment for amortization of net actuarial loss recognized in income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax",
+                "unit": "usd",
+                "value": 105000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossTax",
+                "unit": "usd",
+                "value": 28000
+            },
+            {
+                "label": "Reclassification adjustment for carrying value adjustment - investment hedge recognized in income",
+                "concept": "OtherComprehensiveIncomeLossNetInvestmentHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 960000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "mvbf:OtherComprehensiveIncomeLossNetInvestmentHedgeGainLossBeforeReclassificationTax",
+                "unit": "usd",
+                "value": 259000
+            },
+            {
+                "label": "Total other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 18079000
+            }
+        ]
+    }
+}

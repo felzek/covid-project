@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LIND",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 80897000
+            },
+            {
+                "label": "Total restricted cash and marketable securities",
+                "concept": "RestrictedCashAndInvestmentsCurrent",
+                "unit": "usd",
+                "value": 21333000
+            },
+            {
+                "label": "Total cash, cash equivalents and restricted cash as presented in the statement of cash flows",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 102230000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss) available to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 39658000
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 49741635
+            },
+            {
+                "label": "Dilutive potential common shares (in shares)",
+                "concept": "WeightedAverageNumberDilutedSharesOutstandingAdjustment",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Dilutive potential options (in shares)",
+                "concept": "lind:WeightedAverageNumberOfDilutedOptionsOutstandingAdjustment",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Dilutive potential warrants (in shares)",
+                "concept": "lind:WeightedAverageNumberOfDilutedWarrantsOutstandingAdjustment",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 49741635
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.8
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.8
+            }
+        ]
+    }
+}

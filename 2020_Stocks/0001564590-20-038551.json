@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PSTV",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents, and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 9266000
+            },
+            {
+                "label": "Cash, cash equivalents, and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 9266000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue earned during the period from non-product related activities and revenue earned during the period from non-repayable sum of money awarded to an entity to carry out a specific purpose as provided in government contract and other agreements.",
+                "concept": "pstv:GovernmentContractsAndOther",
+                "unit": "usd",
+                "value": 185000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 105000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1324000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2537000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -2352000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 252000
+            },
+            {
+                "label": "Change in fair value of warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -756000
+            },
+            {
+                "label": "Total other income (expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 513000
+            },
+            {
+                "label": "Loss from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1839000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1839000
+            },
+            {
+                "label": "Basic and diluted net loss per share attributable to common stockholders - continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.45
+            },
+            {
+                "label": "Net loss per share, basis and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.45
+            },
+            {
+                "label": "Basic and diluted weighted average shares used in calculating net loss per share attributable to common stockholders",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 4053242
+            }
+        ]
+    }
+}

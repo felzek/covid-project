@@ -1,0 +1,272 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CTL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Accounts receivable, less allowance of $42 and $39",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 413000000
+            },
+            {
+                "label": "Advances to affiliates",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 482000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 141000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1041000000
+            },
+            {
+                "label": "Property, plant and equipment, net of accumulated depreciation of $8,020 and $7,746",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 8294000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 9360000000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 567000000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 185000000
+            },
+            {
+                "label": "Total goodwill and other assets",
+                "concept": "ctl:IntangibleAssetsNetIncludingGoodwillAndOtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 10112000000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 19447000000
+            },
+            {
+                "label": "Current maturities of long-term debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+                "unit": "usd",
+                "value": 302000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 288000000
+            },
+            {
+                "label": "Note payable - affiliate",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 1100000000
+            },
+            {
+                "label": "Salaries and benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 184000000
+            },
+            {
+                "label": "Income and other taxes",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 132000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 202000000
+            },
+            {
+                "label": "Current portion of deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 185000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2393000000
+            },
+            {
+                "label": "LONG-TERM DEBT",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 4358000000
+            },
+            {
+                "label": "Deferred income taxes, net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 1186000000
+            },
+            {
+                "label": "Affiliate obligations, net",
+                "concept": "DueToAffiliateNoncurrent",
+                "unit": "usd",
+                "value": 673000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 714000000
+            },
+            {
+                "label": "Total deferred credits and other liabilities",
+                "concept": "DeferredCreditsAndOtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 2573000000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (Note\u00a08)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock - one share without par value, owned by Qwest Services Corporation",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 10050000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 73000000
+            },
+            {
+                "label": "Total stockholder's equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 10123000000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDER'S EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 19447000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total operating revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 1799000000
+            },
+            {
+                "label": "Cost of services and products (exclusive of depreciation and amortization)",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 490000000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 139000000
+            },
+            {
+                "label": "Operating expenses - affiliates",
+                "concept": "CostsAndExpensesRelatedParty",
+                "unit": "usd",
+                "value": 164000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 327000000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 1120000000
+            },
+            {
+                "label": "OPERATING INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 679000000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseOther",
+                "unit": "usd",
+                "value": 75000000
+            },
+            {
+                "label": "Interest expense - affiliates, net",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 16000000
+            },
+            {
+                "label": "Other (expense) income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Total other expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 96000000
+            },
+            {
+                "label": "INCOME BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 583000000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 153000000
+            },
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 430000000
+            }
+        ]
+    }
+}

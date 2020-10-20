@@ -1,0 +1,675 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "PYX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 172795000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2649000
+            },
+            {
+                "label": "Trade receivables, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 159392000
+            },
+            {
+                "label": "Other receivables",
+                "concept": "OtherReceivables",
+                "unit": "usd",
+                "value": 10788000
+            },
+            {
+                "label": "Accounts receivable, related parties",
+                "concept": "AccountsReceivableRelatedParties",
+                "unit": "usd",
+                "value": 4589000
+            },
+            {
+                "label": "Notes receivable, related parties",
+                "concept": "NotesReceivableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryFinishedGoodsAndWorkInProcess",
+                "unit": "usd",
+                "value": 832223000
+            },
+            {
+                "label": "Advances to tobacco suppliers, net",
+                "concept": "AdvancesOnInventoryPurchases",
+                "unit": "usd",
+                "value": 32535000
+            },
+            {
+                "label": "Recoverable income taxes",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 16873000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 30836000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 14170000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1277250000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsNoncurrent",
+                "unit": "usd",
+                "value": 389000
+            },
+            {
+                "label": "Long-term notes receivable, related parties",
+                "concept": "NotesReceivableRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investments in unconsolidated affiliates",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 57479000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 6120000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 64957000
+            },
+            {
+                "label": "Deferred income taxes, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Long-term recoverable income taxes",
+                "concept": "pyx:LongTermRecoverableIncomeTaxesNet",
+                "unit": "usd",
+                "value": 2628000
+            },
+            {
+                "label": "Other noncurrent assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 46089000
+            },
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 39602000
+            },
+            {
+                "label": "Property, plant, and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 298154000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1792668000
+            },
+            {
+                "label": "Notes payable to banks",
+                "concept": "NotesPayableToBank",
+                "unit": "usd",
+                "value": 524266000
+            },
+            {
+                "label": "DIP financing",
+                "concept": "pyx:DebtorInPossessionBorrowingsOutstandingCurrent",
+                "unit": "usd",
+                "value": 131700000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 84078000
+            },
+            {
+                "label": "Accounts payable, related parties",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 19775000
+            },
+            {
+                "label": "Advances from customers",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 22100000
+            },
+            {
+                "label": "Advances from related parties",
+                "concept": "DueToOtherRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 4030000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 91989000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 2735000
+            },
+            {
+                "label": "Operating leases payable",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 10978000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 273524000
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1165175000
+            },
+            {
+                "label": "Long-term taxes payable",
+                "concept": "AccruedIncomeTaxesNoncurrent",
+                "unit": "usd",
+                "value": 7623000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 3238000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 25603000
+            },
+            {
+                "label": "Liability for unrecognized tax benefits",
+                "concept": "LiabilityForUncertainTaxPositionsNoncurrent",
+                "unit": "usd",
+                "value": 12229000
+            },
+            {
+                "label": "Long-term leases",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 25121000
+            },
+            {
+                "label": "Pension, postretirement, and other long-term liabilities",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 73869000
+            },
+            {
+                "label": "Total liabilities not subject to compromise",
+                "concept": "pyx:LiabilitiesNotSubjectToCompromise",
+                "unit": "usd",
+                "value": 1312858000
+            },
+            {
+                "label": "Debt subject to compromise",
+                "concept": "pyx:LiabilitiesSubjectToCompromiseDebt",
+                "unit": "usd",
+                "value": 635686000
+            },
+            {
+                "label": "Accrued interest on debt subject to compromise",
+                "concept": "pyx:LiabilitiesSubjectToCompromiseAccruedInterest",
+                "unit": "usd",
+                "value": 13421000
+            },
+            {
+                "label": "Total liabilities subject to compromise",
+                "concept": "LiabilitiesSubjectToCompromise",
+                "unit": "usd",
+                "value": 649107000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1961965000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Authorized shares (shares)",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": 250000000
+            },
+            {
+                "label": "Issued shares (shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 9976000
+            },
+            {
+                "label": "Issued shares",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 469794000
+            },
+            {
+                "label": "Retained deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 580706000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 59233000
+            },
+            {
+                "label": "Total stockholders\u2019 equity of Pyxus International, Inc.",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 170145000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 848000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 169297000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1792668000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 92809000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 10026000
+            },
+            {
+                "label": "Debt amortization/interest",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 3434000
+            },
+            {
+                "label": "Gain on foreign currency transactions",
+                "concept": "ForeignCurrencyTransactionGainLossRealized",
+                "unit": "usd",
+                "value": 5006000
+            },
+            {
+                "label": "Income from unconsolidated affiliates, net of dividends",
+                "concept": "IncomeLossFromEquityMethodInvestmentsNetOfDividendsOrDistributions",
+                "unit": "usd",
+                "value": 4359000
+            },
+            {
+                "label": "Reorganization items",
+                "concept": "ReorganizationItems",
+                "unit": "usd",
+                "value": 15703000
+            },
+            {
+                "label": "Changes in operating assets and liabilities, net",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 49285000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 13292000
+            },
+            {
+                "label": "Net cash used by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 100286000
+            },
+            {
+                "label": "Purchases of property, plant, and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 5002000
+            },
+            {
+                "label": "Collections on beneficial interests on securitized trade receivables",
+                "concept": "ProceedsFromCollectionOfRetainedInterestInSecuritizedReceivables",
+                "unit": "usd",
+                "value": 53949000
+            },
+            {
+                "label": "Payments to acquire businesses, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 4805000
+            },
+            {
+                "label": "Other, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Net cash provided by investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 44175000
+            },
+            {
+                "label": "Net repayments and proceeds from short-term borrowings",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 19517000
+            },
+            {
+                "label": "Proceeds from DIP facility",
+                "concept": "pyx:ProceedsFromDebtorInPossessionFacility",
+                "unit": "usd",
+                "value": 131700000
+            },
+            {
+                "label": "Repayment of revolving loans facilities",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 44900000
+            },
+            {
+                "label": "Proceeds from long term borrowings",
+                "concept": "ProceedsFromIssuanceOfOtherLongTermDebt",
+                "unit": "usd",
+                "value": 2606000
+            },
+            {
+                "label": "Debt issuance cost",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 1758000
+            },
+            {
+                "label": "DIP financing fees",
+                "concept": "pyx:PaymentsOfDebtorInPossessionFinancingCosts",
+                "unit": "usd",
+                "value": 9085000
+            },
+            {
+                "label": "Other, net",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 384000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 58662000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 199000
+            },
+            {
+                "label": "Increase (decrease) in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 2750000
+            },
+            {
+                "label": "Cash paid for income taxes, net",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 2173000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 18803000
+            },
+            {
+                "label": "Cash received from interest",
+                "concept": "ProceedsFromInterestReceived",
+                "unit": "usd",
+                "value": 903000
+            },
+            {
+                "label": "Cash paid for reorganization items",
+                "concept": "pyx:CashPaidForReorganizationItems",
+                "unit": "usd",
+                "value": 2078000
+            },
+            {
+                "label": "Purchases of property, plant, and equipment included in accounts payable",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 690000
+            },
+            {
+                "label": "Sales of property, plant, and equipment included in notes receivable",
+                "concept": "MortgageLoanRelatedToPropertySales1",
+                "unit": "usd",
+                "value": 409000
+            },
+            {
+                "label": "Non-cash amounts obtained as a beneficial interest in exchange for transferring trade receivables in a securitization transaction",
+                "concept": "CashFlowsBetweenTransferorAndTransfereeBeneficialInterest",
+                "unit": "usd",
+                "value": 47120000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Sales and other operating revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 262809000
+            },
+            {
+                "label": "Cost of goods and services sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 243183000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 19626000
+            },
+            {
+                "label": "Selling, general, and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 60757000
+            },
+            {
+                "label": "Other (expense) income, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 2392000
+            },
+            {
+                "label": "Restructuring and asset impairment charges",
+                "concept": "RestructuringSettlementAndImpairmentProvisions",
+                "unit": "usd",
+                "value": 73000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 43596000
+            },
+            {
+                "label": "Debt retirement expense",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 828000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 31262000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 755000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "DebtorReorganizationItemsLegalAndAdvisoryProfessionalFees",
+                "unit": "usd",
+                "value": 2573000
+            },
+            {
+                "label": "United States trustee fees",
+                "concept": "pyx:DebtorReorganizationItemsTrusteeFees",
+                "unit": "usd",
+                "value": 518000
+            },
+            {
+                "label": "Write-off of unamortized debt issuance costs and discount",
+                "concept": "DebtorReorganizationItemsWriteOffOfDeferredFinancingCostsAndDebtDiscounts",
+                "unit": "usd",
+                "value": 4020000
+            },
+            {
+                "label": "DIP financing fees",
+                "concept": "DebtorReorganizationItemsDebtorInPossessionFacilityFinancingCosts",
+                "unit": "usd",
+                "value": 19755000
+            },
+            {
+                "label": "Loss before income taxes and other items",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 101797000
+            },
+            {
+                "label": "Income tax (benefit) expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 8168000
+            },
+            {
+                "label": "Income from unconsolidated affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 820000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 92809000
+            },
+            {
+                "label": "Net loss attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 648000
+            },
+            {
+                "label": "Net loss attributable to Pyxus International, Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 92161000
+            },
+            {
+                "label": "Basic (USD per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 9.24
+            },
+            {
+                "label": "Diluted (USD per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 9.24
+            },
+            {
+                "label": "Basic (shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 9976000
+            },
+            {
+                "label": "Diluted (shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 9976000
+            }
+        ]
+    }
+}

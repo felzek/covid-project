@@ -1,0 +1,43 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PLBC",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3185000
+            },
+            {
+                "label": "Basic earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.62
+            },
+            {
+                "label": "Diluted earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.61
+            },
+            {
+                "label": "Basic shares (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 5178000
+            },
+            {
+                "label": "Diluted shares (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 5229000
+            }
+        ]
+    }
+}

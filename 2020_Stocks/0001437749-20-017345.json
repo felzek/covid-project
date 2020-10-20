@@ -1,0 +1,97 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "STLY",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "us-gaap_SellingGeneralAndAdministrativeExpense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 434000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 207000
+            },
+            {
+                "label": "Dividend income",
+                "concept": "InvestmentIncomeDividend",
+                "unit": "usd",
+                "value": 121000
+            },
+            {
+                "label": "Gain on sale of closely held stock",
+                "concept": "stly:GainLossOnSaleOfCloselyHeldStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income from Continued Dumping and Subsidy Offset Act",
+                "concept": "stly:IncomeFromContinuedDumpingAndSubsidyOffsetActNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gain on settlement of subordinated note receivable",
+                "concept": "stly:GainLossOnExtinguishmentOfNoteReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss from affiliate",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -69000
+            },
+            {
+                "label": "us-gaap_EquitySecuritiesWithoutReadilyDeterminableFairValueImpairmentLossAnnualAmount",
+                "concept": "EquitySecuritiesWithoutReadilyDeterminableFairValueImpairmentLossAnnualAmount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -175000
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetIncomeLoss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -175000
+            },
+            {
+                "label": "us-gaap_EarningsPerShareBasicAndDiluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Weighted average shares outstanding for basic calculation (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 19395000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 19395000
+            }
+        ]
+    }
+}

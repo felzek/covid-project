@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ODP",
+    "data": {
+        "bs": [
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1717000000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1717000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 439000000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net of tax, where applicable",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 426000000
+            }
+        ]
+    }
+}

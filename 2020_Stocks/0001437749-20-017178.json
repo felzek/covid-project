@@ -1,0 +1,170 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HYMC",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2723000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2723000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total gold and silver sales, amount",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 7636000
+            },
+            {
+                "label": "Production costs",
+                "concept": "ManufacturingCosts",
+                "unit": "usd",
+                "value": 7486000
+            },
+            {
+                "label": "Mine site period costs - Note 4",
+                "concept": "hymc:MineSiteCostsNet",
+                "unit": "usd",
+                "value": 11996000
+            },
+            {
+                "label": "Depreciation and amortization mine site period costs",
+                "concept": "hymc:CostDepreciationAmortizationAndDepletionMineSite",
+                "unit": "usd",
+                "value": 874000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "CostDepreciationAmortizationAndDepletion",
+                "unit": "usd",
+                "value": 548000
+            },
+            {
+                "label": "Write-down of production inventories - Note 4",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 10959000
+            },
+            {
+                "label": "us-gaap_CostOfGoodsAndServicesSold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 31863000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 10432000
+            },
+            {
+                "label": "Accretion - Note 11",
+                "concept": "AccretionExpense",
+                "unit": "usd",
+                "value": 94000
+            },
+            {
+                "label": "Project and development",
+                "concept": "CostsIncurredDevelopmentCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Pre-production depreciation and amortization",
+                "concept": "hymc:PreProductionDepreciationAndAmortization",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Care and maintenance",
+                "concept": "hymc:CareAndMaintenanceCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 34753000
+            },
+            {
+                "label": "Interest expense, net of capitalized interest of $290, $272, $334, and $417 respectively - Note 9",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 15072000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "hymc_IncomeLossFromContinuingOperationsBeforeReorganizationItemsNetIncomeTaxesNoncontrollingInterest",
+                "concept": "hymc:IncomeLossFromContinuingOperationsBeforeReorganizationItemsNetIncomeTaxesNoncontrollingInterest",
+                "unit": "usd",
+                "value": 49790000
+            },
+            {
+                "label": "Reorganization items",
+                "concept": "ReorganizationItems",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 49790000
+            },
+            {
+                "label": "Income taxes - Note 15",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 49790000
+            },
+            {
+                "label": "Basic - Note 16 (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 2.71
+            },
+            {
+                "label": "Diluted - Note 16 (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 2.71
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfSharesOutstandingBasic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 18395983
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 18395983
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ITT",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 86300000.0
+            },
+            {
+                "label": "Issued and outstanding \u2013 86.3 shares and 87.8 shares, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 86300000.0
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2398200000.0
+            },
+            {
+                "label": "Total accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 432700000.0
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 3200000.0
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2055000000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 48000000.0
+            },
+            {
+                "label": "Net foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2100000.0
+            },
+            {
+                "label": "Net change in postretirement benefit plans, net of tax benefits of $0.3, $0.2, $0.6 and $0.4, respectively",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3000000.0
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 51000000.0
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income attributable to ITT Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 51000000.0
+            },
+            {
+                "label": "Amortization of prior service benefit, net of tax expense of $(0.3), $(0.2), $(0.6) and $(0.5), respectively",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Amortization of net actuarial loss, net of tax benefits of $0.6, $0.4, $1.2 and $0.9, respectively",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 1900000.0
+            },
+            {
+                "label": "Net change in postretirement benefit plans, net of tax benefits of $0.3, $0.2, $0.6 and $0.4, respectively",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 900000.0
+            }
+        ]
+    }
+}

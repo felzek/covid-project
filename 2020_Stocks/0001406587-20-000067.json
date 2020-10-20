@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "FOR",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning balances (shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 48059921
+            },
+            {
+                "label": "Beginning balances (shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 48059921
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 48100000.0
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 48100000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 177900000.0
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 157100000.0
+            },
+            {
+                "label": "Selling, general and administrative expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11200000.0
+            },
+            {
+                "label": "Equity in loss (earnings) of unconsolidated ventures",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Gain on sale of assets",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest and other income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 800000.0
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 10300000.0
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 10100000.0
+            },
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income attributable to Forestar Group Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10100000.0
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 48100000.0
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 48100000.0
+            },
+            {
+                "label": "Earnings Per Share, Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Earnings Per Share, Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.21
+            }
+        ]
+    }
+}

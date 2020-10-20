@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FLKS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 7222798
+            },
+            {
+                "label": "Grants receivable from CPRIT",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 1834439
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 339883
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 9397120
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 18762
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 8865909
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 279768
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 18561559
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1150106
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "flks:AccruedExpensesAndOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": 459152
+            },
+            {
+                "label": "Note payable",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Warrant liability",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 97327
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1706585
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 10,000,000 shares authorized; 0 issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.0001 par value; 100,000,000 shares authorized; 14,641,326 and 4,519,533 shares issued at June\u00a030, 2020 and December\u00a031, 2019, and 14,638,008 and 4,511,174 shares outstanding at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1463
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 32798285
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 15944774
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 16854974
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 18561559
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Grant revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 1243310
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1443322
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1700942
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 3144264
+            },
+            {
+                "label": "Loss before other income (expense)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 1900954
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 62635
+            },
+            {
+                "label": "Government grants and other income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 179027
+            },
+            {
+                "label": "Interest income, net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 304
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1784258
+            },
+            {
+                "label": "Loss per common share - basic and diluted (usd per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.13
+            },
+            {
+                "label": "Weighted-average number of common shares outstanding\u00a0\u2014 basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 13951283
+            }
+        ]
+    }
+}

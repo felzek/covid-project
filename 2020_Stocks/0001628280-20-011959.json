@@ -1,0 +1,290 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SFNC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and non-interest bearing balances due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 234998000
+            },
+            {
+                "label": "Interest bearing balances due from banks and federal funds sold",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 2310162000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsAndFederalFundsSold",
+                "unit": "usd",
+                "value": 2545160000
+            },
+            {
+                "label": "Interest bearing balances due from banks - time",
+                "concept": "sfnc:InterestBearingBalancesDueFromBanksTime",
+                "unit": "usd",
+                "value": 4561000
+            },
+            {
+                "label": "Held-to-maturity, net of allowance for credit losses of $307 at June 30, 2020",
+                "concept": "sfnc:DebtSecuritiesHeldToMaturityNetOfAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 51720000
+            },
+            {
+                "label": "Available-for-sale securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 2496896000
+            },
+            {
+                "label": "Total investments",
+                "concept": "DebtSecurities",
+                "unit": "usd",
+                "value": 2548616000
+            },
+            {
+                "label": "Mortgage loans held for sale",
+                "concept": "LoansReceivableHeldForSaleNetNotPartOfDisposalGroup",
+                "unit": "usd",
+                "value": 120034000
+            },
+            {
+                "label": "Other assets held for sale",
+                "concept": "sfnc:OtherAssetsHeldForSale",
+                "unit": "usd",
+                "value": 399000
+            },
+            {
+                "label": "Loans",
+                "concept": "sfnc:LoansAndLeasesReceivableNetOfDeferredIncomeExcludingAcquiredLoans",
+                "unit": "usd",
+                "value": 14606900000
+            },
+            {
+                "label": "Allowance for credit losses on loans",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 231643000
+            },
+            {
+                "label": "Net loans",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 14375257000
+            },
+            {
+                "label": "Premises and equipment",
+                "concept": "sfnc:PropertyPlantandEquipmentandRightofUseAssetafterAccumulatedDepreciationandAmortization",
+                "unit": "usd",
+                "value": 478896000
+            },
+            {
+                "label": "Premises held for sale",
+                "concept": "RealEstateHeldforsale",
+                "unit": "usd",
+                "value": 4576000
+            },
+            {
+                "label": "Foreclosed assets and other real estate owned",
+                "concept": "RealEstateAcquiredThroughForeclosure",
+                "unit": "usd",
+                "value": 14111000
+            },
+            {
+                "label": "Interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 79772000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 256643000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1064765000
+            },
+            {
+                "label": "Other intangible assets",
+                "concept": "OtherIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 117823000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 293071000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 21903684000
+            },
+            {
+                "label": "Non-interest bearing transaction accounts",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 4608098000
+            },
+            {
+                "label": "Interest bearing transaction accounts and savings deposits",
+                "concept": "InterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 8978045000
+            },
+            {
+                "label": "Time deposits",
+                "concept": "TimeDeposits",
+                "unit": "usd",
+                "value": 3029975000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 16616118000
+            },
+            {
+                "label": "Federal funds purchased and securities sold under agreements to repurchase",
+                "concept": "FederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 387025000
+            },
+            {
+                "label": "Other borrowings",
+                "concept": "OtherBorrowings",
+                "unit": "usd",
+                "value": 1393689000
+            },
+            {
+                "label": "Subordinated debentures",
+                "concept": "SubordinatedDebt",
+                "unit": "usd",
+                "value": 382604000
+            },
+            {
+                "label": "Other liabilities held for sale",
+                "concept": "sfnc:OtherLiabilitiesHeldForSale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued interest and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 219545000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 18998981000
+            },
+            {
+                "label": "Preferred stock, 40,040,000 shares authorized; Series D, $0.01 par value, $1,000 liquidation value per share; 767 shares issued and outstanding at June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 767000
+            },
+            {
+                "label": "Common stock, Class A, $0.01 par value; 175,000,000 shares authorized at June 30, 2020 and December 31, 2019; 108,994,389 and 113,628,601 shares issued and outstanding at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1090000
+            },
+            {
+                "label": "Surplus",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2029383000
+            },
+            {
+                "label": "Undivided profits",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 819153000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 54310000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2904703000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 21903684000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 58802000
+            },
+            {
+                "label": "Unrealized holding gains arising during the period on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 22159000
+            },
+            {
+                "label": "Unrealized holding gain on the transfer of held-to-maturity securities to available-for-sale per ASU 2017-12",
+                "concept": "OtherComprehensiveIncomeReclassificationAdjustmentForHeldToMaturityTransferredToAvailableForSaleSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Less: Reclassification adjustment for realized gains included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 390000
+            },
+            {
+                "label": "Other comprehensive income, before tax effect",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 21769000
+            },
+            {
+                "label": "Less: Tax effect of other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 5689000
+            },
+            {
+                "label": "TOTAL OTHER COMPREHENSIVE INCOME",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 16080000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 74882000
+            }
+        ]
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "CIDM",
+    "data": {
+        "bs": [
+            {
+                "label": "Preferred stock, shares outstanding (shares)",
+                "concept": "PreferredStockSharesOutstanding",
+                "unit": "shares",
+                "value": 7
+            },
+            {
+                "label": "Total deficit",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3559000
+            },
+            {
+                "label": "Preferred stock, shares outstanding (shares)",
+                "concept": "PreferredStockSharesOutstanding",
+                "unit": "shares",
+                "value": 7
+            },
+            {
+                "label": "Total deficit",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3559000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 19870000
+            },
+            {
+                "label": "Depreciation\u00a0and amortization\u00a0of property and equipment and amortization\u00a0of intangible assets",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 2114000
+            },
+            {
+                "label": "Changes in fair value of equity investment in Starrise",
+                "concept": "EquitySecuritiesFvNiGainLoss",
+                "unit": "usd",
+                "value": 15794000
+            },
+            {
+                "label": "Gain on extinguishment of notes payable",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Gain from sale of property and equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Amortization of debt issuance costs included in interest expense",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 233000
+            },
+            {
+                "label": "Provision for doubtful accounts",
+                "concept": "cidm:ProvisionForDoubtfulAccountsTotal",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Recovery for inventory reserve",
+                "concept": "cidm:ProvisionforInventoryReserve",
+                "unit": "usd",
+                "value": 328000
+            },
+            {
+                "label": "Stock-based compensation and expenses",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 177000
+            },
+            {
+                "label": "Accretion and PIK interest expense added to note payable",
+                "concept": "PaidInKindInterest",
+                "unit": "usd",
+                "value": 176000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 8236000
+            },
+            {
+                "label": "Inventory",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 473000
+            },
+            {
+                "label": "Unbilled revenue",
+                "concept": "cidm:IncreaseDecreaseInUnbilledRevenue",
+                "unit": "usd",
+                "value": 191000
+            },
+            {
+                "label": "Prepaids and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 1135000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 11527000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInDeferredRevenue",
+                "unit": "usd",
+                "value": 503000
+            },
+            {
+                "label": "Net cash (used in) provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 3738000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 79000
+            },
+            {
+                "label": "Sale of equity investment in Starrise",
+                "concept": "ProceedsFromSaleOfEquityMethodInvestments",
+                "unit": "usd",
+                "value": 587000
+            },
+            {
+                "label": "Net cash provided by (used in) in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 508000
+            },
+            {
+                "label": "Payment of notes payable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 7754000
+            },
+            {
+                "label": "Proceeds under revolving credit agreement, net",
+                "concept": "ProceedsFromRepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 3388000
+            },
+            {
+                "label": "Proceeds from PPP Loan",
+                "concept": "cidm:ProceedsFromPPPLoanCARESAct",
+                "unit": "usd",
+                "value": 2152000
+            },
+            {
+                "label": "Proceeds from issuance of Class A common stock, net",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 7451000
+            },
+            {
+                "label": "Net cash provided by (used in) in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 5237000
+            },
+            {
+                "label": "Net change in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 2007000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 6018000
+            },
+            {
+                "label": "Direct operating (excludes depreciation and amortization shown below)",
+                "concept": "DirectOperatingCosts",
+                "unit": "usd",
+                "value": 2679000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3840000
+            },
+            {
+                "label": "Provision for doubtful accounts",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Depreciation and amortization of property and equipment",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1524000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 590000
+            },
+            {
+                "label": "Total Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 8633000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 2615000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1290000
+            },
+            {
+                "label": "Gain on extinguishment of notes payable",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Changes in fair value of equity investment in Starrise, a related party",
+                "concept": "MarketableSecuritiesUnrealizedGainLoss",
+                "unit": "usd",
+                "value": 15794000
+            },
+            {
+                "label": "Other expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 194000
+            },
+            {
+                "label": "Loss from operations before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 19870000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 19870000
+            },
+            {
+                "label": "Net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 14000
+            },
+            {
+                "label": "Net loss attributable to controlling interests",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 19856000
+            },
+            {
+                "label": "Preferred stock dividends",
+                "concept": "DividendsPreferredStock",
+                "unit": "usd",
+                "value": 89000
+            },
+            {
+                "label": "Net loss attributable to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 19945000
+            },
+            {
+                "label": "Net loss attributable to common stockholders (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Weighted average number of Class A and Class B common stock outstanding: basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 94416684
+            }
+        ]
+    }
+}

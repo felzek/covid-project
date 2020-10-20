@@ -1,0 +1,133 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SOHO",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 5293907
+            },
+            {
+                "label": "Total hotel operating expenses",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 10502648
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 4993107
+            },
+            {
+                "label": "Gain on disposal of assets",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 451
+            },
+            {
+                "label": "Corporate general and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1227808
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 16723112
+            },
+            {
+                "label": "NET OPERATING (LOSS) INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 11429205
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 4719796
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 72001
+            },
+            {
+                "label": "Unrealized loss on hedging activities",
+                "concept": "UnrealizedGainLossOnCashFlowHedgingInstruments",
+                "unit": "usd",
+                "value": 214876
+            },
+            {
+                "label": "Gain loss due to Involuntary conversion of assets.",
+                "concept": "soho:GainLossDueToInvoluntaryConversionOfAssets",
+                "unit": "usd",
+                "value": 14168
+            },
+            {
+                "label": "Net (loss) income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 16277708
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 23362
+            },
+            {
+                "label": "Net (loss) income before income taxes",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 16301070
+            },
+            {
+                "label": "Less: Net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1365368
+            },
+            {
+                "label": "Net (loss) income attributable to the Company",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 14935702
+            },
+            {
+                "label": "Declared and undeclared distributions to preferred stockholders",
+                "concept": "RedeemablePreferredStockDividends",
+                "unit": "usd",
+                "value": 2188910
+            },
+            {
+                "label": "Net loss available to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 17124612
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 1.2
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 14303119
+            }
+        ]
+    }
+}

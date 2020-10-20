@@ -1,0 +1,236 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FULT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 141702000
+            },
+            {
+                "label": "Interest-bearing deposits with other banks",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 916897000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1058599000
+            },
+            {
+                "label": "FRB and FHLB stock",
+                "concept": "RestrictedInvestments",
+                "unit": "usd",
+                "value": 91042000
+            },
+            {
+                "label": "Loans held for sale",
+                "concept": "LoansReceivableHeldForSaleNetNotPartOfDisposalGroup",
+                "unit": "usd",
+                "value": 77415000
+            },
+            {
+                "label": "AFS, at estimated fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 2644299000
+            },
+            {
+                "label": "HTM, at amortized cost",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 330514000
+            },
+            {
+                "label": "Loans",
+                "concept": "LoansAndLeasesReceivableNetOfDeferredIncome",
+                "unit": "usd",
+                "value": 18704722000
+            },
+            {
+                "label": "Less: ACL - loans",
+                "concept": "LoansAndLeasesReceivableAllowance",
+                "unit": "usd",
+                "value": 256537000
+            },
+            {
+                "label": "Net Loans",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 18448185000
+            },
+            {
+                "label": "Premises and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 239596000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 73720000
+            },
+            {
+                "label": "Goodwill and intangible assets",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 535039000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 1119454000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 24617863000
+            },
+            {
+                "label": "Noninterest-bearing",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 6239055000
+            },
+            {
+                "label": "Interest-bearing",
+                "concept": "InterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 13645153000
+            },
+            {
+                "label": "Total Deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 19884208000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 572551000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 11571000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 513836000
+            },
+            {
+                "label": "Federal Home Loan Bank advances and long-term debt",
+                "concept": "fult:FederalHomeLoanBankAdvancesAndDebtLongTerm",
+                "unit": "usd",
+                "value": 1295196000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 22277362000
+            },
+            {
+                "label": "Common stock, $2.50 par value, 600\u00a0million shares authorized, 223.0 million shares issued in 2020 and 222.4 million issued in 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 557569000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1503750000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1059160000
+            },
+            {
+                "label": "Accumulated other comprehensive gain (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 51439000
+            },
+            {
+                "label": "Treasury stock, at cost, 61.1\u00a0million shares in 2020 and 58.2 million shares in 2019",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 831417000
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2340501000
+            },
+            {
+                "label": "Total Liabilities and Shareholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 24617863000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 39559000
+            },
+            {
+                "label": "Unrealized gain on securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 34424000
+            },
+            {
+                "label": "Amortization of net unrealized losses on available for sale securities transferred to held to maturity",
+                "concept": "fult:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForAmortizationOfUnrealizedLossesOnInvestmentsTransferredFromAvailableForSaleToHeldToMaturityAfterTax",
+                "unit": "usd",
+                "value": 793000
+            },
+            {
+                "label": "Non-credit related unrealized loss on other-than-temporarily impaired debt securities",
+                "concept": "OtherThanTemporaryImpairmentLossesInvestmentsPortionInOtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of net unrecognized pension and postretirement income",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 255000
+            },
+            {
+                "label": "Other Comprehensive Income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 33131000
+            },
+            {
+                "label": "Total Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 72690000
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ESGR",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET EARNINGS",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 787486000
+            },
+            {
+                "label": "Unrealized holding gains on fixed income available-for-sale investments arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 112506000
+            },
+            {
+                "label": "Reclassification adjustment for change in allowance for credit losses recognized in net earnings",
+                "concept": "esgr:OtherComprehensiveIncomeLossSecuritiesAvailableForSaleReclassificationAdjustmentFromAOCIForChangeInAllowanceForCreditLossesNetofTax",
+                "unit": "usd",
+                "value": 10762000
+            },
+            {
+                "label": "Reclassification adjustment for net realized losses included in net earnings",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 4222000
+            },
+            {
+                "label": "Unrealized gains (losses) arising during the period, net of reclassification adjustments",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 97522000
+            },
+            {
+                "label": "Total cumulative currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1205000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 96317000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 883803000
+            },
+            {
+                "label": "Comprehensive loss attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9616000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME ATTRIBUTABLE TO ENSTAR",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 893419000
+            }
+        ]
+    }
+}

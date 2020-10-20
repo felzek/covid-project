@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CYH",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1552000000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1552000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 93000000
+            },
+            {
+                "label": "Net change in fair value of available-for-sale debt securities, net of tax",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 95000000
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 23000000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Community Health Systems, Inc. stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 72000000
+            }
+        ]
+    }
+}

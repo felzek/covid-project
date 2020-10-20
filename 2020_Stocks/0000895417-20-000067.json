@@ -1,0 +1,199 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ELS",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental income",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 217963000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 9680000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 1791000
+            },
+            {
+                "label": "Income from other investments, net",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 1022000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 254090000
+            },
+            {
+                "label": "Property operating and maintenance",
+                "concept": "CostOfOtherPropertyOperatingExpense",
+                "unit": "usd",
+                "value": 85265000
+            },
+            {
+                "label": "Real estate taxes",
+                "concept": "RealEstateTaxExpense",
+                "unit": "usd",
+                "value": 16668000
+            },
+            {
+                "label": "Sales and marketing, gross",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 4276000
+            },
+            {
+                "label": "Membership sales commissions, deferred, net",
+                "concept": "els:SalesAndMarketingDeferredCommissionsNet",
+                "unit": "usd",
+                "value": 481000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 38332000
+            },
+            {
+                "label": "Home selling expenses",
+                "concept": "els:HomeSellingExpenses",
+                "unit": "usd",
+                "value": 1081000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 10609000
+            },
+            {
+                "label": "Other expenses",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 639000
+            },
+            {
+                "label": "Early debt retirement",
+                "concept": "ExtinguishmentOfDebtAmount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest and related amortization",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 26249000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 206301000
+            },
+            {
+                "label": "Gain on sale of real estate, net",
+                "concept": "GainsLossesOnSalesOfInvestmentRealEstate",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income before equity in income of unconsolidated joint ventures",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 47789000
+            },
+            {
+                "label": "Equity in income of unconsolidated joint ventures",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1064000
+            },
+            {
+                "label": "Consolidated net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 48853000
+            },
+            {
+                "label": "Income allocated to non-controlling interests \u2013 Common OP Units",
+                "concept": "NoncontrollingInterestInNetIncomeLossOperatingPartnershipsRedeemable",
+                "unit": "usd",
+                "value": 2658000
+            },
+            {
+                "label": "Redeemable perpetual preferred stock dividends",
+                "concept": "RedeemablePreferredStockDividends",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Net income available for Common Stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 46187000
+            },
+            {
+                "label": "Adjustment for fair market value of swap",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsAndTax",
+                "unit": "usd",
+                "value": 552000
+            },
+            {
+                "label": "Consolidated comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 49405000
+            },
+            {
+                "label": "Comprehensive income allocated to non-controlling interests \u2013 Common OP Units",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2689000
+            },
+            {
+                "label": "Comprehensive income attributable to Common Stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 46708000
+            },
+            {
+                "label": "Earnings per common share \u2013 basic (usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.25
+            },
+            {
+                "label": "Earnings per common share \u2013 fully diluted (usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.25
+            },
+            {
+                "label": "Weighted average common shares outstanding \u2013 basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 181833000
+            },
+            {
+                "label": "Weighted average number of shares outstanding, diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 192542000
+            }
+        ]
+    }
+}

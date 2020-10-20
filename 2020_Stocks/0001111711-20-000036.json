@@ -1,0 +1,434 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NIX",
+    "data": {
+        "bs": [
+            {
+                "label": "Utility Plant",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentPlantInService",
+                "unit": "usd",
+                "value": 20427100000.0
+            },
+            {
+                "label": "Accumulated depreciation and amortization",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 5549000000.0
+            },
+            {
+                "label": "Net utility plant",
+                "concept": "nix:PublicUtilitiesPropertyPlantAndEquipmentPlantInServiceNet",
+                "unit": "usd",
+                "value": 14878100000.0
+            },
+            {
+                "label": "Other property, at cost, less accumulated depreciation",
+                "concept": "nix:PublicUtilitiesPropertyPlantAndEquipmentOtherPropertyAtCostLessAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 894300000.0
+            },
+            {
+                "label": "Net Property, Plant and Equipment",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 15772400000.0
+            },
+            {
+                "label": "Unconsolidated affiliates",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Available-for-sale debt securities (amortized cost of $151.4 and $150.1, allowance for credit losses of $0.8 and $0, respectively",
+                "concept": "AvailableForSaleSecuritiesDebtSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 155200000.0
+            },
+            {
+                "label": "Other investments",
+                "concept": "OtherLongTermInvestments",
+                "unit": "usd",
+                "value": 72600000.0
+            },
+            {
+                "label": "Total Investments and Other Assets",
+                "concept": "InvestmentsAndOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": 229200000.0
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 142200000.0
+            },
+            {
+                "label": "Restricted Cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 11400000.0
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableGrossCurrent",
+                "unit": "usd",
+                "value": 577100000.0
+            },
+            {
+                "label": "Allowance for credit losses",
+                "concept": "AllowanceForDoubtfulAccountsReceivableCurrent",
+                "unit": "usd",
+                "value": 31400000.0
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 545700000.0
+            },
+            {
+                "label": "Gas inventory",
+                "concept": "EnergyRelatedInventoryNaturalGasInStorage",
+                "unit": "usd",
+                "value": 112400000.0
+            },
+            {
+                "label": "Materials and supplies, at average cost",
+                "concept": "InventoryRawMaterialsAndSupplies",
+                "unit": "usd",
+                "value": 131800000.00000001
+            },
+            {
+                "label": "Electric production fuel, at average cost",
+                "concept": "EnergyRelatedInventoryCoal",
+                "unit": "usd",
+                "value": 67600000.0
+            },
+            {
+                "label": "Exchange gas receivable",
+                "concept": "nix:ExchangeGasReceivable",
+                "unit": "usd",
+                "value": 17900000.0
+            },
+            {
+                "label": "Assets held for sale",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": 1542300000.0
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsCurrent",
+                "unit": "usd",
+                "value": 145700000.0
+            },
+            {
+                "label": "Prepayments and other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 142600000.0
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 2859600000.0
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsNoncurrent",
+                "unit": "usd",
+                "value": 1926300000.0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1485900000.0
+            },
+            {
+                "label": "Deferred charges and other",
+                "concept": "nix:DeferredChargesAndOther",
+                "unit": "usd",
+                "value": 163100000.0
+            },
+            {
+                "label": "Total Other Assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 3575300000.0
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 22436500000.0
+            },
+            {
+                "label": "Common stock - $0.01 par value, 600,000,000 shares authorized; 382,917,033 and 382,135,680 shares outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3800000.0
+            },
+            {
+                "label": "Preferred stock - $0.01 par value, 20,000,000 shares authorized; 440,000 shares outstanding",
+                "concept": "PreferredStockValueOutstanding",
+                "unit": "usd",
+                "value": 880000000.0
+            },
+            {
+                "label": "Treasury stock",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 99900000.0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 6676500000.0
+            },
+            {
+                "label": "Retained deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1576700000.0
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 221900000.0
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5661800000.0
+            },
+            {
+                "label": "Long-term debt, excluding amounts due within one year",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 8810200000.0
+            },
+            {
+                "label": "Total Capitalization",
+                "concept": "CapitalizationLongtermDebtAndEquity",
+                "unit": "usd",
+                "value": 14472000000.0
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+                "unit": "usd",
+                "value": 15600000.0
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 1163500000.0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 402500000.0
+            },
+            {
+                "label": "Dividends payable - common stock",
+                "concept": "nix:CommonDividendsPayableCurrent",
+                "unit": "usd",
+                "value": 80400000.0
+            },
+            {
+                "label": "Dividends payable - preferred stock",
+                "concept": "nix:PreferredDividendsPayableCurrent",
+                "unit": "usd",
+                "value": 8100000.0
+            },
+            {
+                "label": "Customer deposits and credits",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 163100000.0
+            },
+            {
+                "label": "Taxes accrued",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 195700000.0
+            },
+            {
+                "label": "Interest accrued",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 106000000.0
+            },
+            {
+                "label": "Risk management liabilities",
+                "concept": "DerivativeInstrumentsAndHedgesLiabilities",
+                "unit": "usd",
+                "value": 120000000.0
+            },
+            {
+                "label": "Exchange gas payable",
+                "concept": "nix:ExchangeGasPayable",
+                "unit": "usd",
+                "value": 27700000.0
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityCurrent",
+                "unit": "usd",
+                "value": 184900000.0
+            },
+            {
+                "label": "Liabilities held for sale",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": 455400000.0
+            },
+            {
+                "label": "Legal and environmental",
+                "concept": "nix:LegalAndEnvironmentalReserves",
+                "unit": "usd",
+                "value": 21600000.0
+            },
+            {
+                "label": "Accrued compensation and employee benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 120300000.0
+            },
+            {
+                "label": "Claims accrued",
+                "concept": "nix:AccruedInsuranceClaimsCurrent",
+                "unit": "usd",
+                "value": 22400000.0
+            },
+            {
+                "label": "Other accruals",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 140500000.0
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3227700000.0
+            },
+            {
+                "label": "Risk management liabilities",
+                "concept": "DerivativeInstrumentsAndHedgesLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 200000000.0
+            },
+            {
+                "label": "Deferred Income Tax Liabilities, Net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 1477400000.0
+            },
+            {
+                "label": "Deferred investment tax credits",
+                "concept": "AccumulatedDeferredInvestmentTaxCredit",
+                "unit": "usd",
+                "value": 9100000.0
+            },
+            {
+                "label": "Accrued insurance liabilities",
+                "concept": "AccruedInsuranceNoncurrent",
+                "unit": "usd",
+                "value": 85400000.0
+            },
+            {
+                "label": "Accrued liability for postretirement and postemployment benefits",
+                "concept": "PensionAndOtherPostretirementAndPostemploymentBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 351300000.0
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 1967700000.0
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 447100000.0
+            },
+            {
+                "label": "Other noncurrent liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 198800000.0
+            },
+            {
+                "label": "Total Other Liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 4736800000.0
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Capitalization and Liabilities",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 22436500000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4700000.0
+            },
+            {
+                "label": "Net unrealized gain (loss) on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 5700000.0
+            },
+            {
+                "label": "Net unrealized gain (loss) on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 2700000.0
+            },
+            {
+                "label": "Unrecognized pension and OPEB benefit",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 8700000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4000000.0
+            }
+        ]
+    }
+}

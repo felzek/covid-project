@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SYN",
+    "data": {
+        "bs": [
+            {
+                "label": "Total cash, cash equivalents, restricted cash, and restricted cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1571225000
+            },
+            {
+                "label": "Trading securities",
+                "concept": "TradingSecurities",
+                "unit": "usd",
+                "value": 4626000
+            },
+            {
+                "label": "Investment securities available for sale, at fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 7197493000
+            },
+            {
+                "label": "Mortgage loans held for sale",
+                "concept": "LoansReceivableHeldForSaleNetNotPartOfDisposalGroup",
+                "unit": "usd",
+                "value": 900936000
+            },
+            {
+                "label": "Private equity investments",
+                "concept": "syn:PrivateEquityInvestments",
+                "unit": "usd",
+                "value": 698000
+            },
+            {
+                "label": "Mutual funds and mutual funds held in rabbi trusts",
+                "concept": "syn:MutualFundsandMutualFundsHeldInRabbiTrusts",
+                "unit": "usd",
+                "value": 34219000
+            },
+            {
+                "label": "Loans, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 39325649000
+            },
+            {
+                "label": "GGL/SBA loans servicing asset",
+                "concept": "ServicingAssetAtFairValueAmount",
+                "unit": "usd",
+                "value": 3019000
+            },
+            {
+                "label": "Derivative assets",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 496978000
+            },
+            {
+                "label": "Non-interest-bearing deposits",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 12555714000
+            },
+            {
+                "label": "Non-time interest-bearing deposits",
+                "concept": "InterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 23236436000
+            },
+            {
+                "label": "Time deposits",
+                "concept": "TimeDeposits",
+                "unit": "usd",
+                "value": 8402430000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 44194580000
+            },
+            {
+                "label": "Federal funds purchased and securities sold under repurchase agreements",
+                "concept": "syn:FederalFundsPurchasedAndOtherShortTermBorrowings",
+                "unit": "usd",
+                "value": 225576000
+            },
+            {
+                "label": "Other short-term borrowings",
+                "concept": "OtherShortTermBorrowings",
+                "unit": "usd",
+                "value": 300000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 2327921000
+            },
+            {
+                "label": "Earnout liabilities, fair value",
+                "concept": "syn:EarnoutLiabilitiesFairValueDisclosure",
+                "unit": "usd",
+                "value": 15924000
+            },
+            {
+                "label": "Derivative liabilities",
+                "concept": "DerivativeFairValueOfDerivativeLiability",
+                "unit": "usd",
+                "value": 196131000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Mortgage loans held for sale",
+                "concept": "syn:ChangeInMortgageLoansHeldForSaleIncludedInNetIncome",
+                "unit": "usd",
+                "value": 5365000
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MADI",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -5100
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -5100
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4340
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 4340
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -4340
+            },
+            {
+                "label": "Net loss per share, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Weighted average number of common shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 500000
+            }
+        ]
+    }
+}

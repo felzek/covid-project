@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PRDO",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH, CASH EQUIVALENTS AND RESTRICTED CASH, beginning of the period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 95536000
+            },
+            {
+                "label": "CASH, CASH EQUIVALENTS AND RESTRICTED CASH, beginning of the period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 95536000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 28167000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 53000
+            },
+            {
+                "label": "Unrealized gain on investments",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1431000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1484000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME (LOSS)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 29651000
+            }
+        ]
+    }
+}

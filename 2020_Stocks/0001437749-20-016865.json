@@ -1,0 +1,116 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2019",
+    "quarter": "Q3",
+    "symbol": "NGVC",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 170630000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 170630000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 265110000
+            },
+            {
+                "label": "Cost of goods sold and occupancy costs",
+                "concept": "ngvc:CostOfGoodsSoldAndOccupancyCosts",
+                "unit": "usd",
+                "value": 192729000
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 72381000
+            },
+            {
+                "label": "Store expenses",
+                "concept": "ngvc:StoreExpenses",
+                "unit": "usd",
+                "value": 58577000
+            },
+            {
+                "label": "Administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6818000
+            },
+            {
+                "label": "Pre-opening and relocation expenses",
+                "concept": "ngvc:PreOpeningCostsAndRelocationExpenses",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 6686000
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 505000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 6181000
+            },
+            {
+                "label": "us-gaap_IncomeTaxExpenseBenefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1490000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4691000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 22510987
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 22641255
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ORA",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1556811000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1556811000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Weighted average number of shares used in computation of basic earnings per share add: (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 51043000
+            },
+            {
+                "label": "Additional shares from the assumed exercise of employee stock options (in shares)",
+                "concept": "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+                "unit": "shares",
+                "value": 319000
+            },
+            {
+                "label": "Weighted average number of shares used in computation of diluted earnings per share (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 51362000
+            }
+        ]
+    }
+}

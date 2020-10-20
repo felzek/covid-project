@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CK0001784254",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 4570000
+            },
+            {
+                "label": "Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 4570000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET REVENUES",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 6996000
+            },
+            {
+                "label": "Operating expenses excluding depreciation and amortization expense.",
+                "concept": "ck0001784254:OperatingExpensesExcludingDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 6488000
+            },
+            {
+                "label": "Corporate expenses.",
+                "concept": "ck0001784254:CorporateExpenses",
+                "unit": "usd",
+                "value": 932000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 1163000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 8583000
+            },
+            {
+                "label": "OPERATING INCOME (LOSS)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1587000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 2279000
+            },
+            {
+                "label": "INCOME (LOSS) BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -3866000
+            },
+            {
+                "label": "PROVISION FOR INCOME TAXES",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 14493000
+            },
+            {
+                "label": "CONSOLIDATED NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -18359000
+            },
+            {
+                "label": "PREFERRED STOCK DIVIDENDS",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 528000
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -18887000
+            },
+            {
+                "label": "Basic and diluted income (loss) per share attributable to common shareholders",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -2.66
+            },
+            {
+                "label": "Basic and diluted weighted average number of common shares outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 7096
+            }
+        ]
+    }
+}

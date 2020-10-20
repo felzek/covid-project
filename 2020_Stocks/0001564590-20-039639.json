@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-05",
+    "endDate": "2020-07-04",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NUE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents - beginning of year",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 2789189000
+            },
+            {
+                "label": "Cash and cash equivalents - beginning of year",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 2789189000
+            },
+            {
+                "label": "Change in accrued plant and equipment purchases.",
+                "concept": "nue:ChangeInAccruedPlantAndEquipmentPurchases",
+                "unit": "usd",
+                "value": 25897000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 133153000
+            },
+            {
+                "label": "Net unrealized income (loss) on hedging derivatives, net of income taxes of $200 and $(1,700) for the second quarter of 2020 and 2019, respectively, and $(600) and $(1,500) for the first six months of 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 757000
+            },
+            {
+                "label": "Reclassification adjustment for settlement of hedging derivatives included in net income, net of income taxes of $900 and $200 for the second quarter of 2020 and 2019, respectively, and $1,600 and $0 for the first six months of 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 2543000
+            },
+            {
+                "label": "Foreign currency translation gain (loss), net of income taxes of $0 for the second quarter and first six months of 2020 and 2019",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 23491000
+            },
+            {
+                "label": "Net current-period other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 26791000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 159944000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 24272000
+            },
+            {
+                "label": "Comprehensive income attributable to Nucor stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 135672000
+            }
+        ]
+    }
+}

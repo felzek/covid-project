@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ATLC",
+    "data": {
+        "bs": [
+            {
+                "label": "Amount of TDRs on non-accrual status (in thousands)",
+                "concept": "FinancingReceivableModificationsRecordedInvestment",
+                "unit": "usd",
+                "value": 74400000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 23117000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 23117000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -48000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 23165000
+            },
+            {
+                "label": "Comprehensive income attributable to controlling interests to common shareholders",
+                "concept": "atlc:ComprehensiveIncomeLossAttributableToControllingInterestsToCommonShareholders",
+                "unit": "usd",
+                "value": 18429000
+            }
+        ]
+    }
+}

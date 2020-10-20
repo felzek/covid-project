@@ -1,0 +1,308 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GSHD",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 54318000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 1488000
+            },
+            {
+                "label": "Commissions and agency fees receivable, net",
+                "concept": "gshd:AccountsReceivableNetCurrentCommissionsAndAgencyFeesReceivable",
+                "unit": "usd",
+                "value": 7628000
+            },
+            {
+                "label": "Receivable from franchisees, net",
+                "concept": "gshd:AccountsReceivableNetCurrentFranchiseReceivable",
+                "unit": "usd",
+                "value": 3944000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 4981000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 72359000
+            },
+            {
+                "label": "Receivable from franchisees, net of current portion",
+                "concept": "gshd:AccountsReceivableNetNoncurrentFranchiseReceivable",
+                "unit": "usd",
+                "value": 13199000
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 12349000
+            },
+            {
+                "label": "Intangible assets, net of accumulated amortization",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 491000
+            },
+            {
+                "label": "Deferred income taxes, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 41424000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2767000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 142589000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4152000
+            },
+            {
+                "label": "Premiums payable",
+                "concept": "gshd:PremiumsPayableCurrent",
+                "unit": "usd",
+                "value": 1488000
+            },
+            {
+                "label": "Deferred rent",
+                "concept": "gshd:LesseeOperatingLeaseDeferredRentCurrent",
+                "unit": "usd",
+                "value": 881000
+            },
+            {
+                "label": "Contract liabilities",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 3365000
+            },
+            {
+                "label": "Note payable",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 2500000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 12386000
+            },
+            {
+                "label": "Deferred rent, net of current portion",
+                "concept": "gshd:LesseeOperatingLeaseDeferredRentNoncurrent",
+                "unit": "usd",
+                "value": 7571000
+            },
+            {
+                "label": "Note payable, net of current portion",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 81272000
+            },
+            {
+                "label": "Contract liabilities, net of current portion",
+                "concept": "ContractWithCustomerLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 23395000
+            },
+            {
+                "label": "Liabilities under tax receivable agreement, net of current portion",
+                "concept": "DueToRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 35151000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 159775000
+            },
+            {
+                "label": "Commitments and contingencies (see note 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 21348000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 20525000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1188000
+            },
+            {
+                "label": "Non-controlling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 18374000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 17186000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 142589000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 29924000
+            },
+            {
+                "label": "Employee compensation and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 15904000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5364000
+            },
+            {
+                "label": "Bad debts",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 319000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "gshd:DepreciationDepletionAndAmortizationExcludingDebtIssuanceCostAmortization",
+                "unit": "usd",
+                "value": 712000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 22299000
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 7625000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 479000
+            },
+            {
+                "label": "Income before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 7146000
+            },
+            {
+                "label": "Tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 240000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 7386000
+            },
+            {
+                "label": "Less: net income attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4007000
+            },
+            {
+                "label": "Net income attributable to Goosehead Insurance, Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3379000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.19
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 16458000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 17947000
+            },
+            {
+                "label": "Dividends declared per share (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": "N/A"
+            }
+        ]
+    }
+}

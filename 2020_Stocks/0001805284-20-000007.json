@@ -1,0 +1,350 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RKT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1724035000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 78367000
+            },
+            {
+                "label": "Mortgage loans held for sale, at fair value",
+                "concept": "MortgagesHeldForSaleFairValueDisclosure",
+                "unit": "usd",
+                "value": 17628535000
+            },
+            {
+                "label": "Mortgage servicing rights (\u201cMSRs\u201d), at fair value",
+                "concept": "ServicingAssetAtFairValueAmount",
+                "unit": "usd",
+                "value": 2289209000
+            },
+            {
+                "label": "MSRs collateral for financing liability, at fair value",
+                "concept": "rkt:MortgageServicingRightCollateralForFinancingLiabilityFairValue",
+                "unit": "usd",
+                "value": 59926000
+            },
+            {
+                "label": "Notes receivable and due from affiliates",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 17028000
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation and amortization of $459,474 and $428,540, respectively",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 192173000
+            },
+            {
+                "label": "Lease right of use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 256183000
+            },
+            {
+                "label": "Loans subject to repurchase right from Ginnie Mae",
+                "concept": "rkt:LoansSubjectToRepurchaseRightAsset",
+                "unit": "usd",
+                "value": 3496120000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 714789000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 28856457000
+            },
+            {
+                "label": "Funding facilities",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 15685860000
+            },
+            {
+                "label": "Lines of credit",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 160000000
+            },
+            {
+                "label": "Senior Notes, net",
+                "concept": "SeniorNotes",
+                "unit": "usd",
+                "value": 2235721000
+            },
+            {
+                "label": "Early buy out facility",
+                "concept": "OtherLongTermDebt",
+                "unit": "usd",
+                "value": 241752000
+            },
+            {
+                "label": "MSRs financing liability, at fair value",
+                "concept": "rkt:MortgageServicingRightFinancingLiabilityFairValue",
+                "unit": "usd",
+                "value": 58926000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 219650000
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 288866000
+            },
+            {
+                "label": "Forward commitments, at fair value",
+                "concept": "DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsLiabilityAtFairValue",
+                "unit": "usd",
+                "value": 351261000
+            },
+            {
+                "label": "Investor reserves",
+                "concept": "rkt:LoanRepresentationAndWarrantyReserve",
+                "unit": "usd",
+                "value": 63012000
+            },
+            {
+                "label": "Notes payable and due to affiliates",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 61192000
+            },
+            {
+                "label": "Loans subject to repurchase right from Ginnie Mae",
+                "concept": "rkt:LoansSubjectToRepurchaseRightLiability",
+                "unit": "usd",
+                "value": 3496120000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 457920000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 23320280000
+            },
+            {
+                "label": "Net parent investment",
+                "concept": "rkt:NetParentInvestment",
+                "unit": "usd",
+                "value": 5527173000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 5929000
+            },
+            {
+                "label": "Non-controlling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 3075000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5536177000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 28856457000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Gain on sale of loans excluding fair value of MSRs, net",
+                "concept": "rkt:GainLossOnSalesOfLoansExcludingFairValueOfMortgageServicingRightsNet",
+                "unit": "usd",
+                "value": 4083661000
+            },
+            {
+                "label": "Fair value of originated MSRs",
+                "concept": "rkt:MortgageServicingRightFairValueOnOrigination",
+                "unit": "usd",
+                "value": 669923000
+            },
+            {
+                "label": "Gain on sale of loans, net",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 4753584000
+            },
+            {
+                "label": "Servicing fee income",
+                "concept": "ContractuallySpecifiedServicingFeesAmount",
+                "unit": "usd",
+                "value": 249842000
+            },
+            {
+                "label": "Change in fair value of MSRs",
+                "concept": "MortgageServicingRightsMSRImpairmentRecovery",
+                "unit": "usd",
+                "value": 552843000
+            },
+            {
+                "label": "Loan servicing loss, net",
+                "concept": "rkt:LoanServicingIncomeLoss",
+                "unit": "usd",
+                "value": 303001000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 78039000
+            },
+            {
+                "label": "Interest expense on funding facilities",
+                "concept": "rkt:InterestExpenseFundingFacilities",
+                "unit": "usd",
+                "value": 53756000
+            },
+            {
+                "label": "Interest income, net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 24283000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 562265000
+            },
+            {
+                "label": "Total revenue, net",
+                "concept": "RevenuesNetOfInterestExpense",
+                "unit": "usd",
+                "value": 5037131000
+            },
+            {
+                "label": "Salaries, commissions and team member benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 853750000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 288494000
+            },
+            {
+                "label": "Marketing and advertising expenses",
+                "concept": "MarketingAndAdvertisingExpense",
+                "unit": "usd",
+                "value": 202198000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 16189000
+            },
+            {
+                "label": "Interest and amortization expense on non-funding debt",
+                "concept": "rkt:InterestAndAmortizationExpenseNonFundingDebt",
+                "unit": "usd",
+                "value": 33168000
+            },
+            {
+                "label": "Other expenses",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 161452000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 1555251000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 3481880000
+            },
+            {
+                "label": "(Provision for) benefit from income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 20669000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 3461211000
+            },
+            {
+                "label": "Net loss attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 436000
+            },
+            {
+                "label": "Net income (loss) attributable to Rocket Companies",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3461647000
+            },
+            {
+                "label": "Net income (loss) attributable to Rocket Companies",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3461647000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 588000
+            },
+            {
+                "label": "Unrealized gain on investment securities",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 7087000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Rocket Companies",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3469322000
+            }
+        ]
+    }
+}

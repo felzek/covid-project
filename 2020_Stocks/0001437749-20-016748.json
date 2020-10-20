@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "MLAB",
+    "data": {
+        "bs": [],
+        "cf": [
+            {
+                "label": "Net income available for shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 1025000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 3908000
+            },
+            {
+                "label": "us-gaap_ShareBasedCompensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1268000
+            },
+            {
+                "label": "Non-cash interest and debt amortization",
+                "concept": "PaidInKindInterest",
+                "unit": "usd",
+                "value": 1326000
+            },
+            {
+                "label": "Amortization of step-up in inventory basis",
+                "concept": "mlab:AmortizationOfInventoryStepupCost",
+                "unit": "usd",
+                "value": 436000
+            },
+            {
+                "label": "mlab_IncreaseDecreaseInInventoryReserve",
+                "concept": "mlab:IncreaseDecreaseInInventoryReserve",
+                "unit": "usd",
+                "value": 47000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInDeferredIncomeTaxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 360000
+            },
+            {
+                "label": "us-gaap_OtherNoncashIncomeExpense",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 84000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 4251000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 1194000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidExpense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 1982000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 913000
+            },
+            {
+                "label": "Accrued liabilities and taxes payable",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 4377000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerLiability",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 1299000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 2068000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireBusinessesGross",
+                "concept": "PaymentsToAcquireBusinessesGross",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 216000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 216000
+            },
+            {
+                "label": "Proceeds from the issuance of common stock, net",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 145935000
+            },
+            {
+                "label": "us-gaap_RepaymentsOfDebt",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsOfDividends",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 704000
+            },
+            {
+                "label": "Proceeds from the exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 1654000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 146885000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 834000
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 149571000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income available for shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 1025000
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 13052000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 14077000
+            }
+        ]
+    }
+}

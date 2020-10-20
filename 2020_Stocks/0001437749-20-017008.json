@@ -1,0 +1,55 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NHC",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 28522000
+            },
+            {
+                "label": "Unrealized gains on investments in restricted marketable debt securities",
+                "concept": "nhc:OtherComprehensiveIncomeLossSecuritiesRestrictedMarketableDebtSecuritiesUnrealizedHoldingGainLossArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 4796000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossTax",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 1005000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3780000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 198000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 32104000
+            }
+        ]
+    }
+}

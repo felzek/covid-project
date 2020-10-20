@@ -1,0 +1,231 @@
+{
+    "startDate": "2017-11-01",
+    "endDate": "2018-10-31",
+    "year": "2018",
+    "quarter": "FY",
+    "symbol": "ARMA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": -13
+            },
+            {
+                "label": "Escrow account",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": -13
+            },
+            {
+                "label": "Developed website, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": -13
+            },
+            {
+                "label": "Accounts Payable {1}",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Director loan",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 9343
+            },
+            {
+                "label": "Accrued Expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1650
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15993
+            },
+            {
+                "label": "Common Stock, Value",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 6240
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 20160
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -42406
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -16006
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": -13
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -10215
+            },
+            {
+                "label": "Accrued Expenses {1}",
+                "concept": "AccretionExpense",
+                "unit": "usd",
+                "value": 1650
+            },
+            {
+                "label": "Accounts Payable {2}",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts Payable - Related party",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accumulated Amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Net cash provided operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -3565
+            },
+            {
+                "label": "Developed Website, net",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net cash provided by Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Director loan {1}",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 3350
+            },
+            {
+                "label": "Capital Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 3350
+            },
+            {
+                "label": "Net increase in cash and equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -214
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Depreciation and Amortization Expense",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Bank Service Charges",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 185
+            },
+            {
+                "label": "Computer and internet expenses",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 30
+            },
+            {
+                "label": "Professional Fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Net income (loss) from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -10215
+            },
+            {
+                "label": "Income (Loss) before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -10215
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -10215
+            },
+            {
+                "label": "Loss per common share:, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Weighted Average Number of Common Shares Outstanding: Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 6240000
+            }
+        ]
+    }
+}

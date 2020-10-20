@@ -1,0 +1,140 @@
+{
+    "startDate": "2019-10-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "EXLT",
+    "data": {
+        "bs": [
+            {
+                "label": "Escrow account",
+                "concept": "EscrowDeposit",
+                "unit": "usd",
+                "value": 23045
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 23045
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 23045
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Loan from director",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 10832
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 23832
+            },
+            {
+                "label": "Common stock, par value $0.0001; 75,000,000 shares authorized, 5,648,000 and 3,000,000 shares issued and outstanding respectively;",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 564
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 26216
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -27567
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -787
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 23045
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (loss) for the period",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -21044
+            },
+            {
+                "label": "Increase (decrease) in accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "CASH FLOWS USED IN OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -12044
+            },
+            {
+                "label": "Proceeds from capital stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 26480
+            },
+            {
+                "label": "Proceeds from Director Loan",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 8609
+            },
+            {
+                "label": "CASH FLOWS PROVIDED BY FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 35089
+            },
+            {
+                "label": "Net Cash Increase for Period",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 23045
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Income taxes paid",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": []
+    }
+}

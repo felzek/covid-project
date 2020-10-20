@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-05-03",
+    "endDate": "2020-08-01",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "M",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning balance",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 431000000
+            },
+            {
+                "label": "Actuarial gain (loss) on postretirement benefit plans, before tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansNetUnamortizedGainLossArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Amortization of net actuarial loss and prior service credit on post employment and postretirement benefit plans included in net income, before tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansBeforeTax",
+                "unit": "usd",
+                "value": 11000000
+            },
+            {
+                "label": "Settlement charges, before tax",
+                "concept": "OtherComprehensiveIncomeLossFinalizationOfPensionAndNonPensionPostretirementPlanValuationBeforeTax",
+                "unit": "usd",
+                "value": 38000000
+            },
+            {
+                "label": "Tax effect related to items of other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 17000000
+            },
+            {
+                "label": "Total other comprehensive loss, net of tax effect",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansNetOfTax",
+                "unit": "usd",
+                "value": 51000000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 380000000
+            }
+        ]
+    }
+}

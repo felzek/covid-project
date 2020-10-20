@@ -1,0 +1,145 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "A12344345",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 42790000
+            },
+            {
+                "label": "Cost of revenue\u2014depreciation",
+                "concept": "CostOfGoodsAndServicesSoldDepreciation",
+                "unit": "usd",
+                "value": 14021000
+            },
+            {
+                "label": "Cost of revenue\u2014other",
+                "concept": "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 2869000
+            },
+            {
+                "label": "Operations and maintenance",
+                "concept": "a12344345:OperationsAndMaintenanceExpense",
+                "unit": "usd",
+                "value": 2926000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 28133000
+            },
+            {
+                "label": "Other operating income",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Total operating expense, net",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 47933000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 5143000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 30532000
+            },
+            {
+                "label": "Interest expense, net\u2014affiliates",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 6680000
+            },
+            {
+                "label": "Loss on extinguishment of long-term debt, net\u2014affiliates",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other (income) expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 266000
+            },
+            {
+                "label": "Loss before income tax",
+                "concept": "IncomeLossIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 28729000
+            },
+            {
+                "label": "Income tax",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 28729000
+            },
+            {
+                "label": "Net income (loss) attributable to redeemable noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToRedeemableNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3471000
+            },
+            {
+                "label": "Net loss attributable to stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 25258000
+            },
+            {
+                "label": "Net loss attributable to common stockholders\u2014basic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss attributable to common stockholders\u2014diluted",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "unit": "usd",
+                "value": 25258000
+            },
+            {
+                "label": "Net loss per share attributable to common stockholders\u2014basic and diluted (in USD per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.3
+            },
+            {
+                "label": "Weighted average common shares outstanding\u2014basic and diluted (shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 84033278
+            }
+        ]
+    }
+}

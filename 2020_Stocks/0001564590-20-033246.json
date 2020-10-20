@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FAF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents\u2014Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1523344000
+            },
+            {
+                "label": "Cash and cash equivalents\u2014Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1523344000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 171694000
+            },
+            {
+                "label": "Unrealized gains on debt securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 58467000
+            },
+            {
+                "label": "Other comprehensive income loss available for sale securities for credit related portion recognized in earnings adjustment net of tax.",
+                "concept": "faf:OtherComprehensiveIncomeLossAvailableForSaleSecuritiesForCreditRelatedPortionRecognizedInEarningsAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 62000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 14373000
+            },
+            {
+                "label": "Pension benefit adjustment",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 399000
+            },
+            {
+                "label": "Total other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 73301000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 244995000
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1039000
+            },
+            {
+                "label": "Comprehensive income attributable to the Company",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 243956000
+            }
+        ]
+    }
+}

@@ -1,0 +1,386 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PCG",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 968000000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 14413000000
+            },
+            {
+                "label": "Customers (net of allowance for doubtful accounts of $81 and $43 at respective dates)",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 1419000000
+            },
+            {
+                "label": "Accrued unbilled revenue",
+                "concept": "ContractWithCustomerAssetNetCurrent",
+                "unit": "usd",
+                "value": 1061000000
+            },
+            {
+                "label": "Regulatory balancing accounts",
+                "concept": "pcg:RegulatoryBalancingAccountsAssets",
+                "unit": "usd",
+                "value": 2638000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherReceivables",
+                "unit": "usd",
+                "value": 2618000000
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsCurrent",
+                "unit": "usd",
+                "value": 377000000
+            },
+            {
+                "label": "Gas stored underground and fuel oil",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 89000000
+            },
+            {
+                "label": "Materials and supplies",
+                "concept": "InventoryRawMaterialsAndSupplies",
+                "unit": "usd",
+                "value": 564000000
+            },
+            {
+                "label": "Wildfire fund asset",
+                "concept": "pcg:LitigationAssetCurrent",
+                "unit": "usd",
+                "value": 466000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 400000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 25013000000
+            },
+            {
+                "label": "Electric",
+                "concept": "pcg:ElectricPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 64832000000
+            },
+            {
+                "label": "Gas",
+                "concept": "pcg:GasPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 23371000000
+            },
+            {
+                "label": "Construction work in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 2615000000
+            },
+            {
+                "label": "Other",
+                "concept": "PropertyPlantAndEquipmentOther",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Total property, plant, and equipment",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 90838000000
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 27437000000
+            },
+            {
+                "label": "Net property, plant, and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 63401000000
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsNoncurrent",
+                "unit": "usd",
+                "value": 7507000000
+            },
+            {
+                "label": "Nuclear decommissioning trusts",
+                "concept": "DecommissioningFundInvestments",
+                "unit": "usd",
+                "value": 3196000000
+            },
+            {
+                "label": "Operating lease right of use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 2127000000
+            },
+            {
+                "label": "Wildfire fund asset",
+                "concept": "pcg:LitigationAssetNoncurrent",
+                "unit": "usd",
+                "value": 6048000000
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncomeTaxesReceivableNoncurrent",
+                "unit": "usd",
+                "value": 67000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 1870000000
+            },
+            {
+                "label": "Total other noncurrent assets",
+                "concept": "RegulatedEntityOtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 20815000000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 109229000000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 300000000
+            },
+            {
+                "label": "Long-term debt, classified as current",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 450000000
+            },
+            {
+                "label": "Debtor-in-possession financing, classified as current",
+                "concept": "DebtorInPossessionFinancingBorrowingsOutstanding",
+                "unit": "usd",
+                "value": 2000000000
+            },
+            {
+                "label": "Trade creditors",
+                "concept": "AccountsPayableTradeCurrent",
+                "unit": "usd",
+                "value": 3399000000
+            },
+            {
+                "label": "Regulatory balancing accounts",
+                "concept": "pcg:RegulatoryBalancingAccountsLiabilities",
+                "unit": "usd",
+                "value": 1915000000
+            },
+            {
+                "label": "Other",
+                "concept": "AccountsPayableOtherCurrent",
+                "unit": "usd",
+                "value": 631000000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 551000000
+            },
+            {
+                "label": "Interest payable",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 1363000000
+            },
+            {
+                "label": "Disputed claims and customer refunds",
+                "concept": "pcg:DisputedClaimsAndCustomerRefunds",
+                "unit": "usd",
+                "value": 238000000
+            },
+            {
+                "label": "Wildfire-related Claims",
+                "concept": "pcg:WildfireRelatedClaims",
+                "unit": "usd",
+                "value": 26143000000
+            },
+            {
+                "label": "Wildfire fund liability",
+                "concept": "LitigationReserveCurrent",
+                "unit": "usd",
+                "value": 5200000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3605000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 45795000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 34920000000
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 9641000000
+            },
+            {
+                "label": "Pension and other post-retirement benefits",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1941000000
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 5961000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 1171000000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 1576000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 4423000000
+            },
+            {
+                "label": "Total noncurrent liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 59633000000
+            },
+            {
+                "label": "Liabilities Subject to Compromise",
+                "concept": "LiabilitiesSubjectToCompromise",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 13045000000
+            },
+            {
+                "label": "Reinvested earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 9486000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3549000000
+            },
+            {
+                "label": "Noncontrolling Interest - Preferred Stock of Subsidiary",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 252000000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3801000000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 109229000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1968000000
+            },
+            {
+                "label": "Pension and other post-retirement benefit plans obligations (net of taxes of $0, $0, $0, and $0, at respective dates)",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive Loss",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1968000000
+            },
+            {
+                "label": "Preferred stock dividend requirement of subsidiary",
+                "concept": "pcg:ComprehensiveIncomePreferredStockDividendRequirementOfSubsidiary",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Comprehensive Loss Attributable to Common Shareholders",
+                "concept": "pcg:ComprehensiveIncomeNetOfTaxAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 1972000000
+            }
+        ]
+    }
+}

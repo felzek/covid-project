@@ -1,0 +1,470 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "POAI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 3394078
+            },
+            {
+                "label": "Accounts Receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 272493
+            },
+            {
+                "label": "us-gaap_InventoryNet",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 235368
+            },
+            {
+                "label": "Prepaid Expense and Other Assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 426704
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 4328643
+            },
+            {
+                "label": "Fixed Assets, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2409721
+            },
+            {
+                "label": "Total, Net Carrying Amount",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 3539597
+            },
+            {
+                "label": "Lease Right-of-Use Assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1528150
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 15690290
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 27496401
+            },
+            {
+                "label": "Accounts Payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 2449046
+            },
+            {
+                "label": "Notes Payable \u2013 Net of Discounts of $282,099 and $350,426",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 4412377
+            },
+            {
+                "label": "us-gaap_AccruedLiabilitiesCurrent",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2649160
+            },
+            {
+                "label": "Derivative Liability",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4629570
+            },
+            {
+                "label": "Deferred Revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 38582
+            },
+            {
+                "label": "Lease Liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 473043
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 14651778
+            },
+            {
+                "label": "Lease Liability \u2013 Net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 1055107
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 98358
+            },
+            {
+                "label": "us-gaap_Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 15805243
+            },
+            {
+                "label": "Common Stock, $.01 par value, 100,000,000 shares authorized, 13,190,787 and 4,056,652 outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 131908
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 102163864
+            },
+            {
+                "label": "Accumulated Deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -90605406
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 11691158
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 27496401
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -8106695
+            },
+            {
+                "label": "Recognition of credit loss on notes receivable",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_InterestRevenueExpenseNet",
+                "concept": "InterestRevenueExpenseNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss on equity method investment",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gain on revaluation of equity method in investment",
+                "concept": "poai:GainLossOnRevaluationOfEquityMethodInvestment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gain on notes receivables associated with asset purchase",
+                "concept": "poai:GainLossOnReceivablePreviouslyConsideredUncollectable",
+                "unit": "usd",
+                "value": 1290000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 402738
+            },
+            {
+                "label": "Vesting expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 422777
+            },
+            {
+                "label": "poai_EquityInstrumentsIssuedForManagementAndConsulting",
+                "concept": "poai:EquityInstrumentsIssuedForManagementAndConsulting",
+                "unit": "usd",
+                "value": 397300
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 858353
+            },
+            {
+                "label": "Loss on valuation of equity-linked instruments and derivative liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 394974
+            },
+            {
+                "label": "Gain on revaluation of cash advances to Helomics",
+                "concept": "poai:GainLossesOnDebtRevaluation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_GainsLossesOnExtinguishmentOfDebt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -300000
+            },
+            {
+                "label": "poai_EquityInstrumentsIssuedConversionOfConvertibleDebt",
+                "concept": "poai:EquityInstrumentsIssuedConversionOfConvertibleDebt",
+                "unit": "usd",
+                "value": -20695
+            },
+            {
+                "label": "us-gaap_GainLossOnDispositionOfAssets1",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": -118472
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -113769
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 45212
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 197182
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -614651
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 505380
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerLiability",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -1802
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -6721084
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInNotesReceivableCurrent",
+                "concept": "IncreaseDecreaseInNotesReceivableCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash received from notes receivable",
+                "concept": "ProceedsFromSaleAndCollectionOfNotesReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash received in Helomics Acquisition",
+                "concept": "CashAcquiredFromAcquisition",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from asset sales",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 133850
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireIntangibleAssets",
+                "concept": "PaymentsToAcquireIntangibleAssets",
+                "unit": "usd",
+                "value": 43874
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 89976
+            },
+            {
+                "label": "poai_ExtinguishmentOfConvertibleDebt",
+                "concept": "poai:ExtinguishmentOfConvertibleDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from debt issuance",
+                "concept": "ProceedsFromIssuanceOfDebt",
+                "unit": "usd",
+                "value": 2761867
+            },
+            {
+                "label": "Proceeds from exercise of warrants into common stock",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": 1866554
+            },
+            {
+                "label": "Proceeds from issuance of Series E convertible preferred stock",
+                "concept": "ProceedsFromIssuanceOfConvertiblePreferredStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_RepaymentsOfDebt",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 1459973
+            },
+            {
+                "label": "poai_PaymentsForPenalties",
+                "concept": "poai:PaymentsForPenalties",
+                "unit": "usd",
+                "value": 247327
+            },
+            {
+                "label": "Proceeds from issuance of common stock pursuant to equity line",
+                "concept": "poai:ProceedsFromIssuanceOfStockPursuantToEquityLine",
+                "unit": "usd",
+                "value": 1869899
+            },
+            {
+                "label": "Issuance of common stock, A, B and prefunded warrants, net",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 5057919
+            },
+            {
+                "label": "Other financing (security deposit)",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 25416
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 9874355
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 3243247
+            },
+            {
+                "label": "Bridge loan conversion into common stock",
+                "concept": "DebtConversionConvertedInstrumentAmount1",
+                "unit": "usd",
+                "value": 267328
+            },
+            {
+                "label": "poai_StockIssuedDuringPeriodSharesExchangeAgreement",
+                "concept": "poai:StockIssuedDuringPeriodSharesExchangeAgreement",
+                "unit": "shares",
+                "value": 2322878
+            },
+            {
+                "label": "Inducement shares issued pursuant to convertible debt",
+                "concept": "poai:WaiverSharesIssuedForConvertibleDebt",
+                "unit": "usd",
+                "value": 99305
+            },
+            {
+                "label": "Inducement shares issued for debt extension",
+                "concept": "poai:InducementSharesIssuedForDebtExtension",
+                "unit": "usd",
+                "value": 41250
+            },
+            {
+                "label": "Warrants issued pursuant to debt issuance",
+                "concept": "poai:WarrantsIssuedDebtIssuance",
+                "unit": "usd",
+                "value": 179324
+            },
+            {
+                "label": "Put and conversion derivative from debt issuance",
+                "concept": "poai:DerivativesDebtIssued",
+                "unit": "usd",
+                "value": 141463
+            },
+            {
+                "label": "Series D preferred stock conversions",
+                "concept": "ConversionOfStockAmountConverted1",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "Increase to operating lease right of use asset and lease liability due to lease modification",
+                "concept": "poai:IncreaseInOperatingLeaseRightOfAssetAndLeaseLiabilityDueToLeaseModification",
+                "unit": "usd",
+                "value": 995571
+            },
+            {
+                "label": "Asset purchase acquired for notes receivable and common stock",
+                "concept": "poai:StockAndNotesIssued",
+                "unit": "usd",
+                "value": 1492500
+            },
+            {
+                "label": "Forbearance settlement bridge loan",
+                "concept": "poai:ForebearanaceSettlementOnBridgeLoan",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "poai_WarrantsIssued",
+                "concept": "poai:WarrantsIssued",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Consideration given for acquisition of Helomics",
+                "concept": "poai:ConsiderationForExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": []
+    }
+}

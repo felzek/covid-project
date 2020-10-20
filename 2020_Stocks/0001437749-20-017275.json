@@ -1,0 +1,49 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FXNC",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2243000
+            },
+            {
+                "label": "Unrealized holding gains on available for sale securities, net of tax $136 and $369 for the three months and $692 and $776 for the six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 514000
+            },
+            {
+                "label": "Unrealized holding losses on securities transferred from held to maturity to available for sale, net of tax $0 and $0 for the three months and $0 and ($91) for the six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossTransfersFromHeldToMaturityToAvailableForSaleSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Change in fair value of cash flow hedges, net of tax ($6) and $0 for the three months and ($6) and $0 for the six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 489000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2732000
+            }
+        ]
+    }
+}

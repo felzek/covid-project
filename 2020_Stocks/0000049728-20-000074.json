@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-03-28",
+    "endDate": "2020-06-26",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "IEC",
+    "data": {
+        "bs": [
+            {
+                "label": "Unbilled contract revenue",
+                "concept": "ContractWithCustomerAssetNetCurrent",
+                "unit": "usd",
+                "value": 10517000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 46863000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 10449000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income/(loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2114000
+            },
+            {
+                "label": "Less: Income attributable to non-vested shares",
+                "concept": "UndistributedEarningsLossAllocatedToParticipatingSecuritiesBasic",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Net income available to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 2104000
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 10424056
+            },
+            {
+                "label": "Basic net income (loss) per share (in usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.2
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 10424056
+            },
+            {
+                "label": "Dilutive effect of non-vested shares",
+                "concept": "IncrementalCommonSharesAttributableToNonvestedSharesWithForfeitableDividends",
+                "unit": "shares",
+                "value": 334036
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 10758092
+            },
+            {
+                "label": "Diluted net income (loss) per share (in usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.2
+            },
+            {
+                "label": "Anti-dilutive shares excluded (in shares)",
+                "concept": "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount",
+                "unit": "shares",
+                "value": "N/A"
+            }
+        ]
+    }
+}

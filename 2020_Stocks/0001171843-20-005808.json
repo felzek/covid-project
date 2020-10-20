@@ -1,0 +1,97 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "UG",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Sales",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 2954644
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 1270434
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 511635
+            },
+            {
+                "label": "Research and development expense",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 108566
+            },
+            {
+                "label": "us-gaap_CostsAndExpenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 1890635
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 1064009
+            },
+            {
+                "label": "Investment income",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 48319
+            },
+            {
+                "label": "Net gain on marketable securities",
+                "concept": "MarketableSecuritiesGainLoss",
+                "unit": "usd",
+                "value": 387179
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 435498
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1499507
+            },
+            {
+                "label": "us-gaap_IncomeTaxExpenseBenefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 312896
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1186611
+            },
+            {
+                "label": "Earnings per common share (basic and diluted) (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.26
+            },
+            {
+                "label": "Weighted average shares (basic and diluted)",
+                "concept": "ug:GainLossFromTradeInOfEquipment",
+                "unit": "usd",
+                "value": 4594319
+            }
+        ]
+    }
+}

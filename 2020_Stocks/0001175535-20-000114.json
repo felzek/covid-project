@@ -1,0 +1,428 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WSR",
+    "data": {
+        "bs": [
+            {
+                "label": "Property",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 1102379000
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 150711000
+            },
+            {
+                "label": "Total real estate assets",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 951668000
+            },
+            {
+                "label": "Investment in real estate partnership",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 34653000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 39924000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 155000
+            },
+            {
+                "label": "Escrows and acquisition deposits",
+                "concept": "DepositAssets",
+                "unit": "usd",
+                "value": 6940000
+            },
+            {
+                "label": "Accrued rents and accounts receivable, net of allowance for doubtful accounts",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 24676000
+            },
+            {
+                "label": "Receivable due from related party",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 1069000
+            },
+            {
+                "label": "Unamortized lease commissions, legal fees and loan costs",
+                "concept": "wsr:UnamortizedLeaseCommissionsAndLoanCostsNet",
+                "unit": "usd",
+                "value": 8194000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 3364000
+            },
+            {
+                "label": "Operating lease right of use assets (net) (related to adoption of Topic 842)",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 883000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1070643000
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 676371000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 45127000
+            },
+            {
+                "label": "Operating lease liabilities (related to adoption of Topic 842)",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 887000
+            },
+            {
+                "label": "Payable due to related party",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 705000
+            },
+            {
+                "label": "Tenants' security deposits",
+                "concept": "SecurityDepositLiability",
+                "unit": "usd",
+                "value": 6881000
+            },
+            {
+                "label": "Dividends and distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 4528000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 733612000
+            },
+            {
+                "label": "Commitments and contingencies:",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred shares, $0.001 par value per share; 50,000,000 shares authorized; none issued and outstanding as of June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValueOutstanding",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares, $0.001 par value per share; 400,000,000 shares authorized; 42,343,638 and 41,492,117 issued and outstanding as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 42000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 558516000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 210921000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 16915000
+            },
+            {
+                "label": "Total Whitestone REIT shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 330722000
+            },
+            {
+                "label": "Noncontrolling interest in subsidiary",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 6309000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 337031000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1070643000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 27052000
+            },
+            {
+                "label": "Management, transaction, and other fees",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 545000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 27597000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "OtherDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 6970000
+            },
+            {
+                "label": "Operating and maintenance",
+                "concept": "CostOfPropertyRepairsAndMaintenance",
+                "unit": "usd",
+                "value": 4395000
+            },
+            {
+                "label": "Real estate taxes",
+                "concept": "RealEstateTaxExpense",
+                "unit": "usd",
+                "value": 4385000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4644000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 20394000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 6468000
+            },
+            {
+                "label": "Loss on sale or disposal of assets and assets held for sale",
+                "concept": "GainLossOnSaleOfOtherAssets",
+                "unit": "usd",
+                "value": 657000
+            },
+            {
+                "label": "Interest, dividend and other investment income",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 73000
+            },
+            {
+                "label": "Total other expense",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 7052000
+            },
+            {
+                "label": "Income before equity investments in real estate partnerships and income tax",
+                "concept": "wsr:IncomeFromContinuingOperationsBeforeLossOnDisposalOfAssetsAndIncomeTaxes",
+                "unit": "usd",
+                "value": 151000
+            },
+            {
+                "label": "Equity in earnings of real estate partnership",
+                "concept": "NetIncomeLossFromRealEstateInvestmentPartnershipAttributableToParent",
+                "unit": "usd",
+                "value": 364000
+            },
+            {
+                "label": "Provision for income tax",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 96000
+            },
+            {
+                "label": "Income from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 419000
+            },
+            {
+                "label": "Gain on sale of property from discontinued operations",
+                "concept": "wsr:DiscontinuedOperationGainLossOnSaleOfProperty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 419000
+            },
+            {
+                "label": "Less: Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Net income attributable to Whitestone REIT",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 410000
+            },
+            {
+                "label": "Income from continuing operations attributable to Whitestone REIT, excluding amounts attributable to unvested restricted shares (in dollars per share)",
+                "concept": "wsr:IncomeLossFromContinuingOperationsExcludingAmountsAttributableToUnvestedRestrictedSharesPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Income from discontinued operations attributable to Whitestone REIT (in dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Net income attributable to common shareholders, excluding amounts attributable to unvested restricted shares (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Income from continuing operations attributable to Whitestone REIT, excluding amounts attributable to unvested restricted shares (in dollars per share)",
+                "concept": "wsr:IncomeLossFromContinuingOperationsExcludingAmountsAttributableToUnvestedRestrictedSharesPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Income from discontinued operations attributable to Whitestone REIT (in dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Net income attributable to common shareholders, excluding amounts attributable to unvested restricted shares (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 42212000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 42763000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 419000
+            },
+            {
+                "label": "Unrealized gain (loss) on cash flow hedging activities",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 684000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 265000
+            },
+            {
+                "label": "Less: Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Less: Comprehensive loss attributable to noncontrolling interests",
+                "concept": "wsr:ComprehensiveIncomeLossNetOfTaxAttributableToNoncontrollingInterestExcludingNetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Whitestone REIT",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 259000
+            },
+            {
+                "label": "Rental revenues",
+                "concept": "OperatingLeaseLeaseIncomeLeasePayments",
+                "unit": "usd",
+                "value": 21706000
+            },
+            {
+                "label": "Recoveries",
+                "concept": "OperatingLeaseVariableLeaseIncome",
+                "unit": "usd",
+                "value": 7674000
+            },
+            {
+                "label": "Bad debt",
+                "concept": "wsr:OperatingLeaseLeaseIncomeBadDebtExpense",
+                "unit": "usd",
+                "value": 2328000
+            },
+            {
+                "label": "Rental",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 27052000
+            }
+        ]
+    }
+}

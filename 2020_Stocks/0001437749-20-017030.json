@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BOCH",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 16738685
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 169555000
+            },
+            {
+                "label": "Common stock, outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 16738685
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 169555000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Average recorded investment",
+                "concept": "ImpairedFinancingReceivableAverageRecordedInvestment",
+                "unit": "usd",
+                "value": 10486000
+            },
+            {
+                "label": "Interest income recognized",
+                "concept": "ImpairedFinancingReceivableInterestIncomeAccrualMethod",
+                "unit": "usd",
+                "value": 47000
+            }
+        ]
+    }
+}

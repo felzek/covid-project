@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MHH",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating Lease, Right-of-Use Asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 3978000
+            },
+            {
+                "label": "Operating Lease, Liability, Current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1295000
+            },
+            {
+                "label": "Operating Lease, Liability, Noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2760000
+            },
+            {
+                "label": "Operating Lease, Liability",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 4055000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2969000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, before Tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, before Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": -38000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), before Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -12000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -19000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2950000
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-05-03",
+    "endDate": "2020-08-01",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "CIEN",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 48573000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 71558000
+            },
+            {
+                "label": "Buildings, gross",
+                "concept": "FinanceLeaseRightOfUseAssetBeforeAccumulatedAmortization",
+                "unit": "usd",
+                "value": 70289000
+            },
+            {
+                "label": "Less: accumulated depreciation",
+                "concept": "FinanceLeaseRightOfUseAssetAccumulatedAmortization",
+                "unit": "usd",
+                "value": 16592000
+            },
+            {
+                "label": "Buildings, net",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 53697000
+            },
+            {
+                "label": "Finance lease liabilities",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 64608000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 142267000
+            },
+            {
+                "label": "Change in unrealized gain (loss) on available-for-sale securities, net of tax",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 241000
+            },
+            {
+                "label": "Change in cumulative translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 15169000
+            },
+            {
+                "label": "Other comprehensive gain (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 21197000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 163464000
+            }
+        ]
+    }
+}

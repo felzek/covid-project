@@ -1,0 +1,272 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ENBL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 11000000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts (Note 1)",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 223000000
+            },
+            {
+                "label": "Accounts receivable\u2014affiliated companies",
+                "concept": "AccountsReceivableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 43000000
+            },
+            {
+                "label": "Gas imbalances",
+                "concept": "enbl:GasImbalanceAsset",
+                "unit": "usd",
+                "value": 38000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 44000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 374000000
+            },
+            {
+                "label": "Property, plant and equipment",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 13172000000
+            },
+            {
+                "label": "Less: Accumulated depreciation and amortization",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 2430000000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 10742000000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 570000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investment in equity method affiliate",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 301000000
+            },
+            {
+                "label": "Other, net of allowance for doubtful accounts (Note 1)",
+                "concept": "OtherAssetsMiscellaneousNoncurrent",
+                "unit": "usd",
+                "value": 74000000
+            },
+            {
+                "label": "Total other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 945000000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 12061000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 88000000
+            },
+            {
+                "label": "Accounts payable\u2014affiliated companies",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Short-term debt",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 30000000
+            },
+            {
+                "label": "Taxes accrued",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 38000000
+            },
+            {
+                "label": "Gas imbalances",
+                "concept": "enbl:GasImbalanceLiability",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 113000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 290000000
+            },
+            {
+                "label": "Accumulated deferred income taxes, net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 25000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 75000000
+            },
+            {
+                "label": "Total other liabilities",
+                "concept": "LiabilitiesOtherThanLongtermDebtNoncurrent",
+                "unit": "usd",
+                "value": 105000000
+            },
+            {
+                "label": "Long-Term Debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 4349000000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 14)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Series A Preferred Units (14,520,000 issued and outstanding at June 30, 2020 and December 31, 2019)",
+                "concept": "PreferredUnitsPreferredPartnersCapitalAccounts",
+                "unit": "usd",
+                "value": 362000000
+            },
+            {
+                "label": "Common Units (435,454,209 issued and outstanding at June 30, 2020 and 435,201,365 issued and outstanding at December 31, 2019)",
+                "concept": "CommonUnitIssuanceValue",
+                "unit": "usd",
+                "value": 6937000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossCumulativeChangesInNetGainLossFromCashFlowHedgesEffectNetOfTax",
+                "unit": "usd",
+                "value": 9000000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "PartnersCapitalAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 27000000
+            },
+            {
+                "label": "Total Partners\u2019 Equity",
+                "concept": "PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 7317000000
+            },
+            {
+                "label": "Total Liabilities and Partners\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 12061000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 44000000
+            },
+            {
+                "label": "Unrealized losses on derivative instruments",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 44000000
+            },
+            {
+                "label": "Less: Comprehensive (loss) income attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income attributable to Limited Partners",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 44000000
+            }
+        ]
+    }
+}

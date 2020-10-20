@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CDAY",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, restricted cash, and equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1541000000.0
+            },
+            {
+                "label": "Cash, restricted cash, and equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1541000000.0
+            },
+            {
+                "label": "Cash and equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations",
+                "unit": "usd",
+                "value": 526900000.0
+            },
+            {
+                "label": "Restricted cash and cash equivalents at carrying value including discontinued operations.",
+                "concept": "cday:RestrictedCashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1014100000.0
+            },
+            {
+                "label": "Cash, restricted cash, and equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1541000000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 5500000.0
+            },
+            {
+                "label": "Change in foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 21600000.0
+            },
+            {
+                "label": "Other comprehensive income loss unrealized gain loss from invested customer trust funds adjustment before tax.",
+                "concept": "cday:OtherComprehensiveIncomeLossUnrealizedGainLossFromInvestedCustomerTrustFundsAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 20100000.0
+            },
+            {
+                "label": "Change in pension liability adjustment",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 3300000.0
+            },
+            {
+                "label": "Other comprehensive income before income taxes",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 45000000.0
+            },
+            {
+                "label": "Income tax benefit, net",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 5900000.0
+            },
+            {
+                "label": "Other comprehensive income after income taxes",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 39100000.0
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 44600000.0
+            }
+        ]
+    }
+}

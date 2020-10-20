@@ -1,0 +1,254 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RPT",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "LandAndLandImprovements",
+                "unit": "usd",
+                "value": 124860000
+            },
+            {
+                "label": "Buildings and improvements, less accumulated depreciation of $24,903 and $21,403, respectively",
+                "concept": "rpt:InvestmentBuildingandBuildingImprovementsNet",
+                "unit": "usd",
+                "value": 164311000
+            },
+            {
+                "label": "Furniture, fixtures and equipment, less accumulated depreciation of $412 and $369, respectively",
+                "concept": "rpt:FurnitureFixturesAndEquipmentNet",
+                "unit": "usd",
+                "value": 207000
+            },
+            {
+                "label": "Acquired intangible lease assets, less accumulated amortization of $27,249 and $24,413, respectively",
+                "concept": "rpt:FiniteLivedIntangibleAssetsLeaseAssetsNet",
+                "unit": "usd",
+                "value": 36442000
+            },
+            {
+                "label": "Total investment in real estate assets, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 325820000
+            },
+            {
+                "label": "Investment in marketable securities",
+                "concept": "MarketableSecurities",
+                "unit": "usd",
+                "value": 17988000
+            },
+            {
+                "label": "Total investment in real estate assets and marketable securities, net",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 343808000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 6233000
+            },
+            {
+                "label": "Receivables, net of allowance for doubtful accounts of $112 and $6, respectively",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 4955000
+            },
+            {
+                "label": "Deferred leasing costs, net of amortization of $935 and $732, respectively",
+                "concept": "DeferredCostsLeasingNetCurrent",
+                "unit": "usd",
+                "value": 2821000
+            },
+            {
+                "label": "Prepaid and other assets",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 1725000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 359542000
+            },
+            {
+                "label": "Line of credit, net",
+                "concept": "rpt:LineofcreditnetofdeferredFinancingCosts",
+                "unit": "usd",
+                "value": 77424000
+            },
+            {
+                "label": "Mortgage loans payable, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 125630000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 3351000
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 14999000
+            },
+            {
+                "label": "Note to affiliate, net of unamortized discount of $901 and $1,217, respectively",
+                "concept": "rpt:NotesPayableRelatedPartiesNetofDiscount",
+                "unit": "usd",
+                "value": 4482000
+            },
+            {
+                "label": "Acquired below market lease intangibles, less accumulated amortization of $4,785 and $4,346, respectively",
+                "concept": "OffMarketLeaseUnfavorable",
+                "unit": "usd",
+                "value": 13780000
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 431000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 2644000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 242741000
+            },
+            {
+                "label": "Preferred stock, none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 171636000
+            },
+            {
+                "label": "Deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 54986000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 116801000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 359542000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Property related income",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 7977000
+            },
+            {
+                "label": "Investment income on marketable securities",
+                "concept": "InvestmentIncomeDividend",
+                "unit": "usd",
+                "value": 131000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 8108000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 487000
+            },
+            {
+                "label": "Property operating expenses",
+                "concept": "CostOfOtherPropertyOperatingExpense",
+                "unit": "usd",
+                "value": 2148000
+            },
+            {
+                "label": "Advisory fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 532000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "DepreciationNonproduction",
+                "unit": "usd",
+                "value": 1764000
+            },
+            {
+                "label": "Amortization",
+                "concept": "rpt:AmortizationofIntangibleAssetsExcludingPortionRecognizedinRevenue",
+                "unit": "usd",
+                "value": 1449000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 6380000
+            },
+            {
+                "label": "Net realized (loss) gain upon sale of marketable securities",
+                "concept": "EquitySecuritiesFvNiRealizedGainLoss",
+                "unit": "usd",
+                "value": 1707000
+            },
+            {
+                "label": "Net unrealized change in fair value of investment in marketable securities",
+                "concept": "EquitySecuritiesFvNiUnrealizedGainLoss",
+                "unit": "usd",
+                "value": 3005000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 3026000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1761000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1265000
+            }
+        ]
+    }
+}

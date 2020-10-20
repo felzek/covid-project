@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TSSI",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1493000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1493000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1042000
+            },
+            {
+                "label": "Weighted-average shares of common stock outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 17841000
+            },
+            {
+                "label": "Basic net income (loss) per share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.06
+            },
+            {
+                "label": "Less interest expense on convertible debt",
+                "concept": "tssi:DilutiveSecuritiesEffectOnBasicEarningsPerShareDilutiveConvertibleSecuritiesInterestExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAttributableToParentDiluted",
+                "concept": "NetIncomeLossAttributableToParentDiluted",
+                "unit": "usd",
+                "value": -1042000
+            },
+            {
+                "label": "Dilutive options and warrants outstanding (in shares)",
+                "concept": "IncrementalCommonSharesAttributableToCallOptionsAndWarrants",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Effect of conversion of convertible notes (in shares)",
+                "concept": "IncrementalCommonSharesAttributableToConversionOfDebtSecurities",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 17841000
+            },
+            {
+                "label": "Diluted net loss per share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.06
+            }
+        ]
+    }
+}

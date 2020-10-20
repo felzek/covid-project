@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CHP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and restricted cash at beginning of period, including assets held for sale",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 150052000
+            },
+            {
+                "label": "Cash and restricted cash at beginning of period, including assets held for sale",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 150052000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 246000
+            },
+            {
+                "label": "Amount after tax of reclassification adjustment from accumulated other comprehensive income of accumulated gain (loss) realized from derivative instruments designated and qualifying as the effective portion of cash flow hedges.",
+                "concept": "chp:OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTaxExcludingEquityMethodInvestments",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 251000
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Comprehensive income attributable to common stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 225000
+            }
+        ]
+    }
+}

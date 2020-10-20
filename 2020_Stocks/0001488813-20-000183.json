@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CUBI",
+    "data": {
+        "bs": [
+            {
+                "label": "Lease receivables",
+                "concept": "DirectFinancingLeaseLeaseReceivable",
+                "unit": "usd",
+                "value": 96924000
+            },
+            {
+                "label": "Guaranteed residual assets",
+                "concept": "DirectFinancingLeaseResidualValueOfLeasedAsset",
+                "unit": "usd",
+                "value": 7730000
+            },
+            {
+                "label": "Unguaranteed residual assets",
+                "concept": "DirectFinancingLeaseUnguaranteedResidualAsset",
+                "unit": "usd",
+                "value": 3271000
+            },
+            {
+                "label": "Deferred initial direct costs",
+                "concept": "cubi:DirectFinancingLeaseDeferredInitialDirectCosts",
+                "unit": "usd",
+                "value": 666000
+            },
+            {
+                "label": "Unearned income",
+                "concept": "DirectFinancingLeaseDeferredSellingProfit",
+                "unit": "usd",
+                "value": 11569000
+            },
+            {
+                "label": "Net investment in direct financing leases",
+                "concept": "DirectFinancingLeaseNetInvestmentInLease",
+                "unit": "usd",
+                "value": 97022000
+            },
+            {
+                "label": "Investment in operating leases",
+                "concept": "cubi:OperatingLeaseInvestmentinLeaseGross",
+                "unit": "usd",
+                "value": 116850000
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 21310000
+            },
+            {
+                "label": "Deferred initial direct costs",
+                "concept": "cubi:OperatingLeaseDeferredInitialDirectCosts",
+                "unit": "usd",
+                "value": 1148000
+            },
+            {
+                "label": "Net investment in operating leases",
+                "concept": "cubi:OperatingLeaseNetInvestmentinLease",
+                "unit": "usd",
+                "value": 96688000
+            },
+            {
+                "label": "Total lease assets",
+                "concept": "cubi:NetInvestmentinDirectFinancingandOperatingLeases",
+                "unit": "usd",
+                "value": 193710000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 22718000
+            },
+            {
+                "label": "Unrealized gains (losses) arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 35315000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 9182000
+            },
+            {
+                "label": "Reclassification adjustments for (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 4353000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax",
+                "unit": "usd",
+                "value": 1131000
+            },
+            {
+                "label": "Net unrealized gains (losses) on available for sale debt securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 22911000
+            },
+            {
+                "label": "Unrealized gains\u00a0(losses) arising during the period",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 6369000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationTax",
+                "unit": "usd",
+                "value": 1684000
+            },
+            {
+                "label": "Reclassification adjustment for (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 2718000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationTax",
+                "unit": "usd",
+                "value": 734000
+            },
+            {
+                "label": "Net unrealized gains (losses) on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 2701000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of income tax effect",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 20210000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 42928000
+            }
+        ]
+    }
+}

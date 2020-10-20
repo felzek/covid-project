@@ -1,0 +1,170 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CRWD",
+    "data": {
+        "bs": [
+            {
+                "label": "Web hosting services",
+                "concept": "crwd:WebHostingServicesCurrent",
+                "unit": "usd",
+                "value": 8169000
+            },
+            {
+                "label": "Other accrued expenses",
+                "concept": "OtherAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 4133000
+            },
+            {
+                "label": "Accrued marketing",
+                "concept": "AccruedMarketingCostsCurrent",
+                "unit": "usd",
+                "value": 2900000
+            },
+            {
+                "label": "Accrued purchases of property and equipment",
+                "concept": "crwd:AccruedPurchasesOfPropertyAndEquipment",
+                "unit": "usd",
+                "value": 2630000
+            },
+            {
+                "label": "Accrued legal and accounting",
+                "concept": "crwd:AccruedLegalAndAccountingExpenses",
+                "unit": "usd",
+                "value": 1379000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 19211000
+            },
+            {
+                "label": "Accrued commissions",
+                "concept": "AccruedSalesCommissionCurrent",
+                "unit": "usd",
+                "value": 11024000
+            },
+            {
+                "label": "Accrued payroll and related expenses",
+                "concept": "AccruedSalariesCurrent",
+                "unit": "usd",
+                "value": 10635000
+            },
+            {
+                "label": "Accrued bonuses",
+                "concept": "AccruedBonusesCurrent",
+                "unit": "usd",
+                "value": 8115000
+            },
+            {
+                "label": "Employee Stock Purchase Plan",
+                "concept": "crwd:AccruedExpensesEmployeeStockPurchasePlan",
+                "unit": "usd",
+                "value": 6325000
+            },
+            {
+                "label": "Accrued payroll and benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 36099000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 198971000
+            },
+            {
+                "label": "Total cost of revenue",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 54391000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 144580000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 95127000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 50483000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 28961000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 174571000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 29991000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 174000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 732000
+            },
+            {
+                "label": "Loss before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 29433000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 441000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 29874000
+            },
+            {
+                "label": "Net loss per share attributable to Class A and Class B common stockholders, basic and diluted (in usd per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.14
+            },
+            {
+                "label": "Weighted-average shares used in computing net loss per share attributable to Class A and Class B common stockholders, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 216695000
+            }
+        ]
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LADR",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 826059000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 47945000
+            },
+            {
+                "label": "Mortgage loans held by consolidated subsidiaries",
+                "concept": "ladr:LoansAndLeasesReceivableMortgageLoansHeldByConsolidatedSubsidiaries",
+                "unit": "usd",
+                "value": 2955084000
+            },
+            {
+                "label": "Allowance for loan losses",
+                "concept": "NotesAndLoansReceivableNetCurrent",
+                "unit": "usd",
+                "value": 49102000
+            },
+            {
+                "label": "Mortgage loan receivables held for sale",
+                "concept": "ladr:LoansReceivableHeldForSaleNetNotPartOfDisposalGroupOrDiscontinuedOperation",
+                "unit": "usd",
+                "value": 85977000
+            },
+            {
+                "label": "Real estate securities",
+                "concept": "ladr:DebtSecuritiesAvailableforsaleandFVNI",
+                "unit": "usd",
+                "value": 1506713000
+            },
+            {
+                "label": "Real estate and related lease intangibles, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 1042210000
+            },
+            {
+                "label": "Investments in and advances to unconsolidated joint ventures",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 48919000
+            },
+            {
+                "label": "FHLB stock",
+                "concept": "FederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 61619000
+            },
+            {
+                "label": "Derivative instruments",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 380000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 18783000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 64963000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 6609550000
+            },
+            {
+                "label": "Debt obligations, net",
+                "concept": "ladr:SecuredAndUnsecuredDebtObligations",
+                "unit": "usd",
+                "value": 4953514000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 23583000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 55616000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 68457000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5101170000
+            },
+            {
+                "label": "Commitments and contingencies (Note 18)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1649170000
+            },
+            {
+                "label": "Treasury stock, 2,457,319 and 3,184,269 shares, at cost",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 53619000
+            },
+            {
+                "label": "Retained earnings (dividends in excess of earnings)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 120082000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 45080000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1430510000
+            },
+            {
+                "label": "Noncontrolling interest in operating partnership",
+                "concept": "MinorityInterestInOperatingPartnerships",
+                "unit": "usd",
+                "value": 70968000
+            },
+            {
+                "label": "Noncontrolling interest in consolidated joint ventures",
+                "concept": "MinorityInterestInJointVentures",
+                "unit": "usd",
+                "value": 6902000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1508380000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 6609550000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss) attributable to Class\u00a0A common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 4189000
+            },
+            {
+                "label": "Diluted Net income (loss) available for Class\u00a0A common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "unit": "usd",
+                "value": 4189000
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 106809987
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 106809987
+            }
+        ]
+    }
+}

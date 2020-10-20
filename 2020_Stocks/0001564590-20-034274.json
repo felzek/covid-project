@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MSCI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalent, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1384977000
+            },
+            {
+                "label": "Cash and cash equivalent, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1384977000
+            },
+            {
+                "label": "Cash dividends declared, but not yet paid",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1129000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 115123000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 1562000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": 379000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1183000
+            },
+            {
+                "label": "Pension and other post-retirement adjustments",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 88000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 41000
+            },
+            {
+                "label": "Pension and other post-retirement adjustments, net",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 47000
+            },
+            {
+                "label": "Other comprehensive (loss) income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1136000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 116259000
+            }
+        ]
+    }
+}

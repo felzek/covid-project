@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SAVE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and short-term investments",
+                "concept": "CashCashEquivalentsAndShortTermInvestments",
+                "unit": "usd",
+                "value": 1233800000.0
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 2664800000.0
+            },
+            {
+                "label": "Number of aircraft to be delivered, remainder of fiscal year",
+                "concept": "save:NumberOfAircraftToBeDeliveredRemainderOfFiscalYear",
+                "unit": "aircraft",
+                "value": 3
+            },
+            {
+                "label": "Number of aircraft to be delivered, 2021",
+                "concept": "save:NumberOfAircraftToBeDeliveredYearOne",
+                "unit": "aircraft",
+                "value": 16
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 144428000
+            },
+            {
+                "label": "Unrealized gain on short-term investment securities and cash and cash equivalents, net of deferred taxes of $5, $29, $59 and $67",
+                "concept": "save:OtherComprehensiveIncomeLossSecuritiesAvailableForSaleCashAndCashEquivalentsUnrealizedHoldingGainLossArisingDuringPeriodAfterTax",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "Interest rate derivative loss reclassified into earnings, net of taxes of $15, $19, $39 and $46",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 48000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 66000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 144362000
+            }
+        ]
+    }
+}

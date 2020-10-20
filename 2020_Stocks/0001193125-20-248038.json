@@ -1,0 +1,153 @@
+{
+    "startDate": "2020-06-04",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "YAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 11171
+            },
+            {
+                "label": "Assets, Current",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 11171
+            },
+            {
+                "label": "Deferred Costs, Noncurrent",
+                "concept": "DeferredCosts",
+                "unit": "usd",
+                "value": 166950
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 178121
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 23450
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 91250
+            },
+            {
+                "label": "Notes Payable, Related Parties, Current",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 52250
+            },
+            {
+                "label": "Liabilities, Current",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 166950
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital, Common Stock",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 24137
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -13829
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 11171
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 178121
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -13829
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 13829
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash and Cash Equivalents, Period Increase (Decrease)",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Prepaid expenses paid by Sponsor in exchange for issuance of ClassB ordinary shares",
+                "concept": "yac:PrepaidExpensesPaidBySponsorInExchangeForIssuanceOfClassbOrdinaryShares",
+                "unit": "usd",
+                "value": 25000
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 13829
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -13829
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 8625000
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            }
+        ]
+    }
+}

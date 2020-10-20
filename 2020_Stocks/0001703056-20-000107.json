@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ADT",
+    "data": {
+        "bs": [
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 176545000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 324453000
+            },
+            {
+                "label": "Deferred tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 1030936000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3206845000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 1331387000
+            },
+            {
+                "label": "Cost of revenue (exclusive of depreciation and amortization shown separately below)",
+                "concept": "adt:CostofRevenueExcludingDepreciationDepletionandAmortization",
+                "unit": "usd",
+                "value": 376347000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 414031000
+            },
+            {
+                "label": "Depreciation and intangible asset amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 477869000
+            },
+            {
+                "label": "Merger, restructuring, integration, and other",
+                "concept": "RestructuringSettlementAndImpairmentProvisions",
+                "unit": "usd",
+                "value": 12038000
+            },
+            {
+                "label": "Loss on sale of business",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": 680000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 50422000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 187265000
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 2271000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 134572000
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 27831000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 106741000
+            },
+            {
+                "label": "Basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.14
+            },
+            {
+                "label": "Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 760597000
+            }
+        ]
+    }
+}

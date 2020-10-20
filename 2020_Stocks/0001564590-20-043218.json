@@ -1,0 +1,231 @@
+{
+    "startDate": "2020-05-04",
+    "endDate": "2020-08-02",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "CULP",
+    "data": {
+        "bs": [
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 125869000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 125869000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 2733000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1822000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": 118000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 126000
+            },
+            {
+                "label": "Deferred income tax expense benefit from continuing and discontinued operations.",
+                "concept": "culp:DeferredIncomeTaxExpenseBenefitFromContinuingAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 3693000
+            },
+            {
+                "label": "Income from investment in unconsolidated joint venture",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 67000
+            },
+            {
+                "label": "Foreign currency exchange loss (gain)",
+                "concept": "ForeignCurrencyTransactionGainLossUnrealized",
+                "unit": "usd",
+                "value": 154000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 4757000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 7592000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": 1254000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "Accounts payable \u2013 trade",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 2544000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 183000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the aggregate amount of expenses incurred but not yet paid and in the obligation created by employee agreements whereby earned compensation will be paid in the future.",
+                "concept": "culp:IncreaseDecreaseInAccruedLiabilitiesAndDeferredCompensation",
+                "unit": "usd",
+                "value": 2377000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncreaseDecreaseInIncomeTaxes",
+                "unit": "usd",
+                "value": 807000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 10581000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 500000
+            },
+            {
+                "label": "Investment in unconsolidated joint venture",
+                "concept": "PaymentsToAcquireInterestInJointVenture",
+                "unit": "usd",
+                "value": 90000
+            },
+            {
+                "label": "Proceeds from the sale of short-term investments (Held to Maturity)",
+                "concept": "ProceedsFromSaleOfHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 350000
+            },
+            {
+                "label": "Purchase of short-term and long-term investments (Held to Maturity)",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 423000
+            },
+            {
+                "label": "Purchase of short-term investments (Available for Sale)",
+                "concept": "PaymentsToAcquireShortTermInvestments",
+                "unit": "usd",
+                "value": 34000
+            },
+            {
+                "label": "Proceeds from the sale of long-term investments (Rabbi Trust)",
+                "concept": "ProceedsFromSaleOfLongtermInvestments",
+                "unit": "usd",
+                "value": 39000
+            },
+            {
+                "label": "Purchase of long-term investments (Rabbi Trust)",
+                "concept": "PaymentsToAcquireLongtermInvestments",
+                "unit": "usd",
+                "value": 78000
+            },
+            {
+                "label": "Net cash (used in) provided by investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 736000
+            },
+            {
+                "label": "Payments associated with lines of credit",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 30772000
+            },
+            {
+                "label": "Payments associated with Paycheck Protection Program Loan.",
+                "concept": "culp:PaymentsAssociatedWithPaycheckProtectionProgramLoan",
+                "unit": "usd",
+                "value": 7606000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 1291000
+            },
+            {
+                "label": "Payments of debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 39684000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "(Decrease) increase in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 29804000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Unrealized holding gains on investments, net of tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 69000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2664000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Culp, Inc. common shareholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2664000
+            }
+        ]
+    }
+}

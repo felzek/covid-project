@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "QEP",
+    "data": {
+        "bs": [
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationCurrent",
+                "unit": "usd",
+                "value": 6200000.0
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 94900000.0
+            },
+            {
+                "label": "Total ARO Liability",
+                "concept": "AssetRetirementObligation",
+                "unit": "usd",
+                "value": 101100000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 184400000.0
+            },
+            {
+                "label": "Amortization of prior service costs",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of actuarial losses(1)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 184100000.0
+            }
+        ]
+    }
+}

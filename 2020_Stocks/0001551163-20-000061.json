@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BOTH",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1947
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1947
+            },
+            {
+                "label": "FIXED ASSETS, NET",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 369
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2316
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 49898
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 28633
+            },
+            {
+                "label": "discount of $5,843 and $3,716, respectively",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 14157
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 150000
+            },
+            {
+                "label": "Notes payable - related parties",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 167134
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 426226
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 426226
+            },
+            {
+                "label": "Preferred stock, $0.01 par value; 25,000,000 shares authorized, -0- shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock, $0.001 par value; 250,000,000 shares authorized, 11,000,000 shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 490614
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -925524
+            },
+            {
+                "label": "Total Stockholders' Equity (Deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -423910
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2316
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET REVENUES",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 16743
+            },
+            {
+                "label": "Total Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 16743
+            },
+            {
+                "label": "LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -16743
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 10971
+            },
+            {
+                "label": "Total Other Income (Expenses)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -10971
+            },
+            {
+                "label": "NET LOSS BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -27714
+            },
+            {
+                "label": "PROVISION FOR INCOME TAXES",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "NET LOSS",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -27714
+            },
+            {
+                "label": "BASIC AND DILUTED LOSS PER SHARE",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING",
+                "concept": "WeightedAverageNumberOfSharesIssuedBasic",
+                "unit": "shares",
+                "value": 11000000
+            }
+        ]
+    }
+}

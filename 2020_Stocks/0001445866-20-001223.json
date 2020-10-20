@@ -1,0 +1,176 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NAHD",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 30503
+            },
+            {
+                "label": "Prepaid Expense {1}",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 6300
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 36803
+            },
+            {
+                "label": "Deposit",
+                "concept": "DepositsAssetsNoncurrent",
+                "unit": "usd",
+                "value": 195
+            },
+            {
+                "label": "Total Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 195
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 36998
+            },
+            {
+                "label": "Accounts Payable and Accrued Liabilities {1}",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 125439
+            },
+            {
+                "label": "Advance From Shareholder",
+                "concept": "DueToOfficersOrStockholdersCurrent",
+                "unit": "usd",
+                "value": 906452
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1031891
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1031891
+            },
+            {
+                "label": "Preferred Stock, $0.001 par value, 30,000,000 shares authorized, 0 shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, $0.001 par value, 400,000,000 shares authorized, 72,288,667 shares issued and outstanding at June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 72289
+            },
+            {
+                "label": "Additional Paid In Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 11182713
+            },
+            {
+                "label": "Accumulated Deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 12249106
+            },
+            {
+                "label": "Accumulated Other Comprehensive Loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 789
+            },
+            {
+                "label": "Total Stockholders' Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 994893
+            },
+            {
+                "label": "TOTAL LIABILITIES & STOCKHOLDERS' DEFICIT",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 36998
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 101077
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 4700
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 33581
+            },
+            {
+                "label": "Net cash used by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 62796
+            },
+            {
+                "label": "Advance from shareholder",
+                "concept": "IncreaseDecreaseInDueToOfficersAndStockholdersCurrent",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "Effect of exchange rate on cash",
+                "concept": "EffectOfExchangeRateOnCash",
+                "unit": "usd",
+                "value": 575
+            },
+            {
+                "label": "Net increase in cash",
+                "concept": "CashPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 6629
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Taxes paid",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 800
+            }
+        ],
+        "ic": []
+    }
+}

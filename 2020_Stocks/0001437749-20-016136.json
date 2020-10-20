@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "JJSF",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 18888000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 810600000
+            },
+            {
+                "label": "Common stock, shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 18888000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 810600000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12647000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 41000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 41000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 12606000
+            }
+        ]
+    }
+}

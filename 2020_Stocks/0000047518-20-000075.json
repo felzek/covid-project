@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "HRC",
+    "data": {
+        "bs": [
+            {
+                "label": "Common Stock, Shares, Outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 66602366
+            },
+            {
+                "label": "Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1652400000.0
+            },
+            {
+                "label": "Common Stock, Shares, Outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 66602366
+            },
+            {
+                "label": "Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1652400000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 93900000.0
+            },
+            {
+                "label": "Derivative instruments designated as hedges",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6700000.0
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 17100000.0
+            },
+            {
+                "label": "Change in pension and postretirement defined benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Total Other Comprehensive Income (Loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 11400000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 105300000.0
+            }
+        ]
+    }
+}

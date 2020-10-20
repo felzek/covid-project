@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CHDN",
+    "data": {
+        "bs": [
+            {
+                "label": "Current assets",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationCurrentAssets",
+                "unit": "usd",
+                "value": 98300000.0
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "chdn:EquityMethodInvestmentPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 271200000.0
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationNoncurrentAssets",
+                "unit": "usd",
+                "value": 246100000.0
+            },
+            {
+                "label": "Total assets",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationAssets",
+                "unit": "usd",
+                "value": 615600000.0
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationCurrentLiabilities",
+                "unit": "usd",
+                "value": 91300000.0
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "chdn:EquityMethodInvestmentSummarizedFinancialInformationLongtermDebt",
+                "unit": "usd",
+                "value": 790100000.0
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationNoncurrentLiabilities",
+                "unit": "usd",
+                "value": 43900000.0
+            },
+            {
+                "label": "Members' deficit",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationEquity",
+                "unit": "usd",
+                "value": 309700000.0
+            },
+            {
+                "label": "Total liabilities and members' deficit",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationLiabilitiesAndEquity",
+                "unit": "usd",
+                "value": 615600000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net revenue",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationRevenue",
+                "unit": "usd",
+                "value": 6800000.0
+            },
+            {
+                "label": "Operating and SG&A expense",
+                "concept": "chdn:EquityMethodOperatingAndSellingGeneralAndAdministrativeExpenses",
+                "unit": "usd",
+                "value": 7200000.0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "chdn:EquityMethodDepreciationAmortization",
+                "unit": "usd",
+                "value": 4099999.9999999995
+            },
+            {
+                "label": "Total operating expense",
+                "concept": "chdn:EquityMethodInvestmentOperatingExpense",
+                "unit": "usd",
+                "value": 11300000.0
+            },
+            {
+                "label": "Operating (loss) income",
+                "concept": "chdn:EquityMethodInvestmentOperatingIncomeLoss",
+                "unit": "usd",
+                "value": 4500000.0
+            },
+            {
+                "label": "Interest and other, net",
+                "concept": "chdn:EquityMethodInvestmentInterest",
+                "unit": "usd",
+                "value": 13400000.0
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationNetIncomeLoss",
+                "unit": "usd",
+                "value": 17900000.0
+            }
+        ]
+    }
+}

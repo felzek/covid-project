@@ -1,0 +1,105 @@
+{
+    "startDate": "2020-05-22",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ERESU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash \u2014 Beginning",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Cash \u2014 Beginning",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 25000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -468
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 373
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -95
+            },
+            {
+                "label": "Proceeds from issuance of Class B common stock to Sponsor",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Proceeds from promissory note\u2014related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 52345
+            },
+            {
+                "label": "Payment of offering costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 52250
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 25095
+            },
+            {
+                "label": "Net Change in Cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Deferred offering costs included in accrued offering costs.",
+                "concept": "eresu:DeferredOfferingCostsIncludedInAccruedOfferingCosts",
+                "unit": "usd",
+                "value": 162466
+            }
+        ],
+        "ic": [
+            {
+                "label": "Formation and operating costs.",
+                "concept": "eresu:FormationAndOperatingCosts",
+                "unit": "usd",
+                "value": 468
+            },
+            {
+                "label": "Net Loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -468
+            },
+            {
+                "label": "Weighted average shares outstanding, basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 7500000
+            },
+            {
+                "label": "Basic and diluted net loss per common share",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            }
+        ]
+    }
+}

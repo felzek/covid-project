@@ -1,0 +1,134 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CCAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1328729
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 86835
+            },
+            {
+                "label": "Assets, Current",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1415564
+            },
+            {
+                "label": "Assets Held-in-trust, Noncurrent",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 277831868
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 279247432
+            },
+            {
+                "label": "Accounts Payable and Accrued Liabilities, Current",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 81690
+            },
+            {
+                "label": "Due to Related Parties, Current",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 71645
+            },
+            {
+                "label": "Liabilities, Current",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 153335
+            },
+            {
+                "label": "Deferred Underwriting Commissions Noncurrent",
+                "concept": "ccac:DeferredUnderwritingCommissionsNoncurrent",
+                "unit": "usd",
+                "value": 9660000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 9813335
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3404038
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1595157
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000001
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 279247432
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Selling, General and Administrative Expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 165209
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -165209
+            },
+            {
+                "label": "Interest Income and Realized Gain from Sale of Treasury Securities",
+                "concept": "ccac:InterestIncomeAndRealizedGainFromSaleOfTreasurySecurities",
+                "unit": "usd",
+                "value": 69247
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -95962
+            }
+        ]
+    }
+}

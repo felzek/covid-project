@@ -1,0 +1,236 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FHLBI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 99090000
+            },
+            {
+                "label": "Interest-bearing deposits (Note 3)",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 300057000
+            },
+            {
+                "label": "Securities purchased under agreements to resell (Note 3)",
+                "concept": "SecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 3000000000
+            },
+            {
+                "label": "Federal funds sold (Note 3)",
+                "concept": "FederalFundsSold",
+                "unit": "usd",
+                "value": 2392000000
+            },
+            {
+                "label": "Trading securities (Note 3)",
+                "concept": "TradingSecurities",
+                "unit": "usd",
+                "value": 4966079000
+            },
+            {
+                "label": "Debt Securities, Available-for-sale",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 10506534000
+            },
+            {
+                "label": "Held-to-maturity securities, net (estimated fair values of $4,364,237 and $5,216,206) (Note 3)",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 4344346000
+            },
+            {
+                "label": "Advances (Note 4)",
+                "concept": "FederalHomeLoanBankAdvances",
+                "unit": "usd",
+                "value": 34847863000
+            },
+            {
+                "label": "Mortgage loans held for portfolio, net (Note 5)",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 10082914000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 123044000
+            },
+            {
+                "label": "Premises, software, and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 35874000
+            },
+            {
+                "label": "Derivative assets, net (Note 6)",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 321339000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 50956000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 71070096000
+            },
+            {
+                "label": "Deposits",
+                "concept": "DepositsDomestic",
+                "unit": "usd",
+                "value": 1145562000
+            },
+            {
+                "label": "Discount notes",
+                "concept": "FederalHomeLoanBankConsolidatedObligationsDiscountNotes",
+                "unit": "usd",
+                "value": 28233523000
+            },
+            {
+                "label": "Bonds",
+                "concept": "FederalHomeLoanBankConsolidatedObligationsBonds",
+                "unit": "usd",
+                "value": 36973035000
+            },
+            {
+                "label": "Total consolidated obligations, net",
+                "concept": "FederalHomeLoanBankConsolidatedObligations",
+                "unit": "usd",
+                "value": 65206558000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 102651000
+            },
+            {
+                "label": "Affordable Housing Program payable (Note 8)",
+                "concept": "AffordableHousingProgramObligation",
+                "unit": "usd",
+                "value": 36661000
+            },
+            {
+                "label": "Derivative liabilities, net (Note 6)",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 9474000
+            },
+            {
+                "label": "Mandatorily redeemable capital stock (Note 9)",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsAmount",
+                "unit": "usd",
+                "value": 299704000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 951545000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 67752155000
+            },
+            {
+                "label": "Commitments and contingencies (Note 13)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Capital stock",
+                "concept": "CommonStockOtherValueOutstanding",
+                "unit": "usd",
+                "value": 2194319000
+            },
+            {
+                "label": "Unrestricted",
+                "concept": "RetainedEarningsUnappropriated",
+                "unit": "usd",
+                "value": 868328000
+            },
+            {
+                "label": "Restricted",
+                "concept": "RetainedEarningsAppropriated",
+                "unit": "usd",
+                "value": 259403000
+            },
+            {
+                "label": "Total retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1127731000
+            },
+            {
+                "label": "Total accumulated other comprehensive income (loss) (Note 10)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossBeforeFederalHomeLoanBankAssessments",
+                "unit": "usd",
+                "value": 4109000
+            },
+            {
+                "label": "Total capital",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3317941000
+            },
+            {
+                "label": "Total liabilities and capital",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 71070096000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 13199000
+            },
+            {
+                "label": "Net change in unrealized gains (losses) on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 79020000
+            },
+            {
+                "label": "Pension benefits, net",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2381000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 76639000
+            },
+            {
+                "label": "Total comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeLossNetOfFederalHomeLoanBankAssessmentsAttributableToParent",
+                "unit": "usd",
+                "value": 89838000
+            }
+        ]
+    }
+}

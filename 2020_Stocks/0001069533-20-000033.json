@@ -1,0 +1,320 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "RGCO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1201205
+            },
+            {
+                "label": "Accounts receivable (less allowance for uncollectibles of $562,698 and $110,743, respectively)",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 3296251
+            },
+            {
+                "label": "Materials and supplies",
+                "concept": "OtherInventory",
+                "unit": "usd",
+                "value": 1001929
+            },
+            {
+                "label": "Gas in storage",
+                "concept": "EnergyRelatedInventoryNaturalGasInStorage",
+                "unit": "usd",
+                "value": 3451588
+            },
+            {
+                "label": "Prepaid income taxes",
+                "concept": "PrepaidTaxes",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsCurrent",
+                "unit": "usd",
+                "value": 2298890
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1295649
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 12545512
+            },
+            {
+                "label": "In service",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentPlantInService",
+                "unit": "usd",
+                "value": 247110539
+            },
+            {
+                "label": "Accumulated depreciation and amortization",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 70898572
+            },
+            {
+                "label": "In service, net",
+                "concept": "rgco:PublicUtilitiesPropertyPlantAndEquipmentInServiceNet",
+                "unit": "usd",
+                "value": 176211967
+            },
+            {
+                "label": "Construction work in progress",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentConstructionWorkInProgress",
+                "unit": "usd",
+                "value": 17837998
+            },
+            {
+                "label": "Utility plant, net",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 194049965
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsNoncurrent",
+                "unit": "usd",
+                "value": 11604142
+            },
+            {
+                "label": "Investment in unconsolidated affiliates",
+                "concept": "LongTermInvestments",
+                "unit": "usd",
+                "value": 54856710
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsMiscellaneousNoncurrent",
+                "unit": "usd",
+                "value": 284429
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 66745281
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 273340758
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrent",
+                "unit": "usd",
+                "value": 1426247
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 4150305
+            },
+            {
+                "label": "Capital contributions payable",
+                "concept": "rgco:CapitalContributionsPayable",
+                "unit": "usd",
+                "value": 2427398
+            },
+            {
+                "label": "Customer credit balances",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 1133566
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 352325
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "ContractWithCustomerRefundLiabilityCurrent",
+                "unit": "usd",
+                "value": 1652387
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2578809
+            },
+            {
+                "label": "Interest rate swaps",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 531698
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityCurrent",
+                "unit": "usd",
+                "value": 817437
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15070172
+            },
+            {
+                "label": "Notes payable",
+                "concept": "UnsecuredLongTermDebt",
+                "unit": "usd",
+                "value": 113810200
+            },
+            {
+                "label": "Line-of-credit",
+                "concept": "LongTermLineOfCredit",
+                "unit": "usd",
+                "value": 2858130
+            },
+            {
+                "label": "Less unamortized debt issuance costs",
+                "concept": "UnamortizedDebtIssuanceExpense",
+                "unit": "usd",
+                "value": 321363
+            },
+            {
+                "label": "Long-term debt, net",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 116346967
+            },
+            {
+                "label": "Interest rate swaps",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1817424
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 7038745
+            },
+            {
+                "label": "Regulatory cost of retirement obligations",
+                "concept": "rgco:RegulatoryCostOfRetirementObligations",
+                "unit": "usd",
+                "value": 12563824
+            },
+            {
+                "label": "Benefit plan liabilities",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 5761734
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 13742696
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 10748044
+            },
+            {
+                "label": "Total deferred credits and other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 51672467
+            },
+            {
+                "label": "Common stock, $5 par value; authorized 20,000,000 and 10,000,000 shares; issued and outstanding 8,147,437 and 8,073,264 shares, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 40737185
+            },
+            {
+                "label": "Preferred stock, no par, authorized 5,000,000 shares; no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Capital in excess of par value",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 15586761
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 37446071
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3518865
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 90251152
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 273340758
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1206578
+            },
+            {
+                "label": "Interest rate swaps",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 126800
+            },
+            {
+                "label": "Defined benefit plans",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 16791
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 110009
+            },
+            {
+                "label": "COMPREHENSIVE INCOME",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1096569
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "SGU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents, and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 66968000
+            },
+            {
+                "label": "Cash, cash equivalents, and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 66968000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 46000
+            },
+            {
+                "label": "Unrealized gain on pension plan obligation",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 455000
+            },
+            {
+                "label": "Tax effect of unrealized gain on pension plan obligation",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 127000
+            },
+            {
+                "label": "Unrealized gain on captive insurance collateral",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 986000
+            },
+            {
+                "label": "Tax effect of unrealized gain on captive insurance collateral",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax",
+                "unit": "usd",
+                "value": 207000
+            },
+            {
+                "label": "Unrealized loss on interest rate hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 126000
+            },
+            {
+                "label": "Tax effect of unrealized loss on interest rate hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTax",
+                "unit": "usd",
+                "value": 34000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1015000
+            },
+            {
+                "label": "Total comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 969000
+            }
+        ]
+    }
+}

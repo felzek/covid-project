@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HTSI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 197
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 197
+            },
+            {
+                "label": "Property, Plant and Equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 143467
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 143664
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 350000
+            },
+            {
+                "label": "Notes payable - Related party",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 42557
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 90027
+            },
+            {
+                "label": "Accounts payable and accrued expenses - Related party",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 2777
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 485361
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 485361
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Preferred stock no par value, non-voting, 5,000,000 shares authorized; 0 shares issued and outstanding at June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock no par value, 50,000,000 shares authorized; 20,189,642 and 20,189,642 shares issued and outstanding at June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 237348
+            },
+            {
+                "label": "Accumulated (Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -579045
+            },
+            {
+                "label": "Total Stockholders' Equity (Deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -341697
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Equity (Deficit)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 143664
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 8789
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 10446
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 19446
+            },
+            {
+                "label": "(Loss) from operations",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -19446
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 11470
+            },
+            {
+                "label": "Interest Expense, Related Party",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 1150
+            },
+            {
+                "label": "Total other (expense)",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -12620
+            },
+            {
+                "label": "(Loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+                "unit": "usd",
+                "value": -32066
+            },
+            {
+                "label": "Income Taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -32066
+            },
+            {
+                "label": "(Loss) per share- Basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Weighted average shares outstanding Basic and Diluted",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 20189642
+            }
+        ]
+    }
+}

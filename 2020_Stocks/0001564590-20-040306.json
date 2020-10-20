@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CFBI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 194424000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 194424000
+            },
+            {
+                "label": "Noncash or part noncash vacant land transferred to other real estate owned.",
+                "concept": "cfbi:NoncashOrPartNoncashVacantLandTransferredToOtherRealEstateOwned",
+                "unit": "usd",
+                "value": 460000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1079000
+            },
+            {
+                "label": "Net unrealized gain on available-for-sale securities, net of taxes of $20, $77, $63 and $208",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 61000
+            },
+            {
+                "label": "Reclassification adjustment for gain included in net income, net of taxes of ($5)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 46000
+            },
+            {
+                "label": "Total comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1125000
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "startDate": "2020-06-01",
+    "endDate": "2020-08-31",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "NG",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 115728000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 115728000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12736000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromEquityMethodInvestments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 6150000
+            },
+            {
+                "label": "Share-based compensation (Note 11)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1783000
+            },
+            {
+                "label": "Interest expense on promissory note",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 1428000
+            },
+            {
+                "label": "us-gaap_DeferredIncomeTaxExpenseBenefit",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "us-gaap_ForeignCurrencyTransactionGainLossBeforeTax",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 1745000
+            },
+            {
+                "label": "Accretion of notes receivable",
+                "concept": "ng:NotesReceivableAccretion",
+                "unit": "usd",
+                "value": 835000
+            },
+            {
+                "label": "Change in fair market value of marketable securities",
+                "concept": "EquitySecuritiesFvNiGainLoss",
+                "unit": "usd",
+                "value": 372000
+            },
+            {
+                "label": "Other operating adjustments",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInOperatingCapital",
+                "concept": "IncreaseDecreaseInOperatingCapital",
+                "unit": "usd",
+                "value": 832000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 1826000
+            },
+            {
+                "label": "Proceeds from term deposits",
+                "concept": "ProceedsFromSaleMaturityAndCollectionsOfInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireInvestments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireInterestInSubsidiariesAndAffiliates",
+                "concept": "PaymentsToAcquireInterestInSubsidiariesAndAffiliates",
+                "unit": "usd",
+                "value": 6693000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 6693000
+            },
+            {
+                "label": "Withholding tax paid on PSUs vested",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 538000
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 7981000
+            }
+        ],
+        "ic": []
+    }
+}

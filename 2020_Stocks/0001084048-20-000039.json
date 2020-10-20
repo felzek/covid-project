@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "JCOM",
+    "data": {
+        "bs": [
+            {
+                "label": "Shares, Outstanding",
+                "concept": "SharesOutstanding",
+                "unit": "shares",
+                "value": 46892691
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 469000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 38101000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 169000
+            },
+            {
+                "label": "Change in fair value on available-for-sale investments, net of tax expense of $173 and $173 for the three and six months ended June\u00a030, 2020, respectively, and $7 and $184 for the three and six months ended June\u00a030, 2019, respectively.",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 163000
+            },
+            {
+                "label": "Unrealized gain on available-for-sale investments",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 173000
+            },
+            {
+                "label": "Other comprehensive loss, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 332000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 37769000
+            }
+        ]
+    }
+}

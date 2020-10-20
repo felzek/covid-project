@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OYST",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 226748000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1816000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 228564000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 483000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 61000
+            },
+            {
+                "label": "Right-of-use assets, net",
+                "concept": "oyst:LeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 874000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 229982000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 3759000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4526000
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "oyst:LeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8685000
+            },
+            {
+                "label": "Lease liabilities, non-current",
+                "concept": "oyst:LeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 482000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 9167000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.001 par value per share; 5,000,000 shares authorized; none outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value per share; 1,000,000,000 shares authorized, 25,743,405 and 21,366,950 shares issued and outstanding at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 337003000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 116214000
+            },
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 220815000
+            },
+            {
+                "label": "Total Liabilities and Stockholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 229982000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 8554000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6940000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 15494000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 15494000
+            },
+            {
+                "label": "Other income, net",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 15464000
+            },
+            {
+                "label": "Net loss per share, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.66
+            },
+            {
+                "label": "Weighted-average shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 23442530
+            }
+        ]
+    }
+}

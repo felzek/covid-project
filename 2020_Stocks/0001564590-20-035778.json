@@ -1,0 +1,291 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ATAX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 37124721
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 37124721
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 7570105
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 1421519
+            },
+            {
+                "label": "Gain on sale of investment in securities",
+                "concept": "GainLossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": 1416023
+            },
+            {
+                "label": "Provision for credit loss (Note 6)",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 1822356
+            },
+            {
+                "label": "Contingent interest realized on investing activities.",
+                "concept": "atax:ContingentInterestRealizedOnInvesting",
+                "unit": "usd",
+                "value": 12043
+            },
+            {
+                "label": "Impairment charge on real estate assets",
+                "concept": "ImpairmentOfRealEstate",
+                "unit": "usd",
+                "value": 25200
+            },
+            {
+                "label": "(Gain) loss on derivatives, net of cash paid",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": 18915
+            },
+            {
+                "label": "Restricted unit compensation expense",
+                "concept": "RestrictedStockExpense",
+                "unit": "usd",
+                "value": 335336
+            },
+            {
+                "label": "Amortization of bond discount (premium).",
+                "concept": "atax:AmortizationOfBondDiscountPremium",
+                "unit": "usd",
+                "value": 48021
+            },
+            {
+                "label": "Debt premium amortization",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 20229
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 791026
+            },
+            {
+                "label": "Deferred income tax expense benefit and income tax payable receivables.",
+                "concept": "atax:DeferredIncomeTaxExpenseBenefitAndIncomeTaxPayableReceivables",
+                "unit": "usd",
+                "value": 90927
+            },
+            {
+                "label": "Change in preferred return receivable from unconsolidated entity.",
+                "concept": "atax:ChangeInPreferredReturnReceivableFromUnconsolidatedEntity",
+                "unit": "usd",
+                "value": 1260261
+            },
+            {
+                "label": "Increase in interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": 104356
+            },
+            {
+                "label": "Decrease in other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 362468
+            },
+            {
+                "label": "Decrease in accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 597859
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 8941230
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 116887
+            },
+            {
+                "label": "Acquisition of mortgage revenue bonds",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 7489950
+            },
+            {
+                "label": "Advances on governmental issuer loan.",
+                "concept": "atax:AdvancesOnGovernmentalIssuerLoan",
+                "unit": "usd",
+                "value": 40000000
+            },
+            {
+                "label": "Contributions to unconsolidated entities",
+                "concept": "PaymentsForAdvanceToAffiliate",
+                "unit": "usd",
+                "value": 11163709
+            },
+            {
+                "label": "Payments for Property loans.",
+                "concept": "atax:PaymentsForPropertyLoans",
+                "unit": "usd",
+                "value": 1667776
+            },
+            {
+                "label": "Proceeds from sale of investment in an unconsolidated entity.",
+                "concept": "atax:ProceedsFromSaleOfInvestmentInAnUnconsolidatedEntity",
+                "unit": "usd",
+                "value": 7762166
+            },
+            {
+                "label": "Proceeds from taxable mortgage revenue bonds.",
+                "concept": "atax:ProceedsFromTaxableMortgageRevenueBonds",
+                "unit": "usd",
+                "value": 4324
+            },
+            {
+                "label": "Proceeds from property loans and related contingent interest.",
+                "concept": "atax:ProceedsFromPropertyLoansAndRelatedContingentInterest",
+                "unit": "usd",
+                "value": 12043
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 3406388
+            },
+            {
+                "label": "The cash outflow from the distribution to the partners consisting of a distribution of earnings or return of capital.",
+                "concept": "atax:PaymentOfDistributionsToPartners",
+                "unit": "usd",
+                "value": 16629884
+            },
+            {
+                "label": "Repurchase of beneficial unit certificates.",
+                "concept": "atax:RepurchaseOfBeneficialUnitCertificates",
+                "unit": "usd",
+                "value": 2106673
+            },
+            {
+                "label": "Proceeds from debt financing",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 91386000
+            },
+            {
+                "label": "Principal payments on debt financing",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 88985375
+            },
+            {
+                "label": "Principal payments on mortgages payable",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 419128
+            },
+            {
+                "label": "Principal borrowing on unsecured lines of credit",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 7475000
+            },
+            {
+                "label": "Principal payments on unsecured lines of credit",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 1980000
+            },
+            {
+                "label": "Decrease in security deposit liability related to restricted cash",
+                "concept": "ProceedsFromRepaymentsOfRestrictedCashFinancingActivities",
+                "unit": "usd",
+                "value": 50617
+            },
+            {
+                "label": "Debt financing and other deferred costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 285425
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 11596102
+            },
+            {
+                "label": "Net decrease in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 6061260
+            },
+            {
+                "label": "Cash paid during the period for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 10226352
+            },
+            {
+                "label": "Cash paid during the period for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 18491
+            },
+            {
+                "label": "Distributions declared but not paid for beneficial unit certificates and general partner.",
+                "concept": "atax:DistributionsDeclaredButNotPaidForBeneficialUnitCertificatesAndGeneralPartner",
+                "unit": "usd",
+                "value": 3686982
+            },
+            {
+                "label": "Distributions declared but not paid for Series A Preferred Units.",
+                "concept": "atax:DistributionsDeclaredButNotPaidForSeriesAPreferredUnits",
+                "unit": "usd",
+                "value": 708750
+            },
+            {
+                "label": "Deferred financing costs financed through accounts payable.",
+                "concept": "atax:DeferredFinancingCostsFinancedThroughAccountsPayable",
+                "unit": "usd",
+                "value": 55557
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 7570105
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 20447383
+            }
+        ]
+    }
+}

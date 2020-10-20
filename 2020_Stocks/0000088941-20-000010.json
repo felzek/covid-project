@@ -1,0 +1,230 @@
+{
+    "startDate": "2020-04-27",
+    "endDate": "2020-07-26",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "SMTC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 281456000
+            },
+            {
+                "label": "Accounts receivable, less allowances of $529 and $633, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 51672000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 77548000
+            },
+            {
+                "label": "Prepaid taxes",
+                "concept": "PrepaidTaxes",
+                "unit": "usd",
+                "value": 20990000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 22205000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 453871000
+            },
+            {
+                "label": "Property, plant and equipment, net of accumulated depreciation of $225,807 and $214,787, respectively",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 125542000
+            },
+            {
+                "label": "Deferred tax assets",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 26929000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 351141000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 15152000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 81396000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1054031000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableTradeCurrent",
+                "unit": "usd",
+                "value": 39319000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 62753000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 102072000
+            },
+            {
+                "label": "Deferred tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 3735000
+            },
+            {
+                "label": "Long term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 186955000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 83536000
+            },
+            {
+                "label": "Commitments and contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 250,000,000 shares authorized, 78,136,144 issued and 65,019,501 outstanding and 78,136,144 issued and 65,758,115 outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 785000
+            },
+            {
+                "label": "Treasury stock, at cost, 13,116,643 shares and 12,378,029 shares, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 424095000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 471091000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 637053000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 7341000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 677493000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 240000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 677733000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1054031000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 16122000
+            },
+            {
+                "label": "Unrealized gain on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 133000
+            },
+            {
+                "label": "Reclassification of realized gain on available-for-sale securities, net to net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 757000
+            },
+            {
+                "label": "Change in defined benefit plans, net",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 193000
+            },
+            {
+                "label": "Other comprehensive loss, net",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 169000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 15953000
+            },
+            {
+                "label": "Comprehensive loss attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Comprehensive income attributable to common stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 15956000
+            }
+        ]
+    }
+}

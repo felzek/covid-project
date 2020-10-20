@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NSM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsFairValueDisclosure",
+                "unit": "usd",
+                "value": 1041000000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 260000000
+            },
+            {
+                "label": "Advances and other receivables, net",
+                "concept": "nsm:ServicesAdvancesNetFairValueDisclosure",
+                "unit": "usd",
+                "value": 668000000
+            },
+            {
+                "label": "Mortgage loans held for sale at fair value",
+                "concept": "MortgagesHeldForSaleFairValueDisclosure",
+                "unit": "usd",
+                "value": 3179000000
+            },
+            {
+                "label": "Derivative financial instruments",
+                "concept": "DerivativeFairValueOfDerivativeAsset",
+                "unit": "usd",
+                "value": 391000000
+            },
+            {
+                "label": "Advance facilities, net",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 475000000
+            },
+            {
+                "label": "Warehouse facilities, net",
+                "concept": "NotesPayableFairValueDisclosure",
+                "unit": "usd",
+                "value": 4031000000
+            },
+            {
+                "label": "Mortgage servicing rights financing - fair value",
+                "concept": "nsm:MortgageServicingRightsLiabilityResultingfromSaleofServicerAdvancesRightsnotAccountedforasaSale",
+                "unit": "usd",
+                "value": 49000000
+            },
+            {
+                "label": "Excess spread financing - fair value",
+                "concept": "nsm:ExcessSpreadFinancingFairValueDisclosure",
+                "unit": "usd",
+                "value": 1124000000
+            },
+            {
+                "label": "Derivative financial instruments",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 50000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Service related, net",
+                "concept": "FeesAndCommissionsMortgageBankingAndServicing",
+                "unit": "usd",
+                "value": 12000000
+            },
+            {
+                "label": "Net gain on mortgage loans held for sale",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 618000000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 630000000
+            },
+            {
+                "label": "Salaries, wages and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 248000000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 171000000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 419000000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOther",
+                "unit": "usd",
+                "value": 76000000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 177000000
+            },
+            {
+                "label": "Other income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total other expenses, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 101000000
+            },
+            {
+                "label": "Income (loss) before income tax expense (benefit)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 110000000
+            },
+            {
+                "label": "Less: Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 37000000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 73000000
+            },
+            {
+                "label": "Less: Net loss attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income (loss) attributable to Mr. Cooper",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 73000000
+            },
+            {
+                "label": "Less: Undistributed earnings attributable to participating stockholders",
+                "concept": "UndistributedEarningsLossAllocatedToParticipatingSecuritiesBasic",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Net income (loss) attributable to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 72000000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.78
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.77
+            }
+        ]
+    }
+}

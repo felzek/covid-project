@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CZNC",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 255791000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 255791000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 5438000
+            },
+            {
+                "label": "Amount, before tax and adjustment, of unrealized holding gain (loss) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale). Excludes unrealized gain (loss) on investment in debt security measured at amortized cost (held-to-maturity) from transfer to available-for-sale.",
+                "concept": "cznc:OtherComprehensiveIncomeUnrealizedHoldingGainLossOnAvailableForSaleDebtSecurities",
+                "unit": "usd",
+                "value": 2835000
+            },
+            {
+                "label": "Changes from plan amendments and actuarial gains and losses",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansNetUnamortizedGainLossArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Amount of amortization of net transition obligation, prior service cost and net actuarial losses that are included in net periodic benefit cost.",
+                "concept": "cznc:AmortizationOfNetTransitionObligationPriorServiceCostAndNetActuarialLoss",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentBeforeTaxPortionAttributableToParent",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Other comprehensive income before income tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2829000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossTaxPortionAttributableToParent1",
+                "concept": "OtherComprehensiveIncomeLossTaxPortionAttributableToParent1",
+                "unit": "usd",
+                "value": 592000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossNetOfTax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2237000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 7675000
+            }
+        ]
+    }
+}

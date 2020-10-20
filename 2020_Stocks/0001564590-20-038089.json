@@ -1,0 +1,291 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "NICK",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and restricted cash at the beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 32318000
+            },
+            {
+                "label": "Cash and restricted cash at the beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 32318000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1430000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "DepreciationNonproduction",
+                "unit": "usd",
+                "value": 69000
+            },
+            {
+                "label": "Amortization of debt issuance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 107000
+            },
+            {
+                "label": "Amortization of operating of lease right of use assets.",
+                "concept": "nick:AmortizationOfOperatingOfLeaseRightOfUseAssets",
+                "unit": "usd",
+                "value": 428000
+            },
+            {
+                "label": "Gain on sale of property and equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Repossessed assets change in fair value.",
+                "concept": "nick:RepossessedAssetsChangeInFairValue",
+                "unit": "usd",
+                "value": 267000
+            },
+            {
+                "label": "Provision for credit losses",
+                "concept": "ProvisionForLoanLeaseAndOtherLosses",
+                "unit": "usd",
+                "value": 3300000
+            },
+            {
+                "label": "A dealer discount represents the difference between the finance receivable, net of unearned interest, of a Contract, and the amount of money the Company actually pays for the Contract. The entire amount of discount is amortized as an adjustment to yield using the interest method over the life of the loan.",
+                "concept": "nick:AmortizationOfDealerDiscount",
+                "unit": "usd",
+                "value": 1489000
+            },
+            {
+                "label": "Amortization of insurance and fee commissions.",
+                "concept": "nick:AmortizationOfInsuranceAndFeeCommissions",
+                "unit": "usd",
+                "value": 552000
+            },
+            {
+                "label": "Accretion of purchase price discount.",
+                "concept": "nick:AccretionOfPurchasePriceDiscount",
+                "unit": "usd",
+                "value": 78000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 78000
+            },
+            {
+                "label": "Principal reduction on operating lease liabilities.",
+                "concept": "nick:PrincipalReductionOnOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": -386000
+            },
+            {
+                "label": "Share-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 49000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": -129000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 190000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -430000
+            },
+            {
+                "label": "The increase (decrease) during the period in income taxes receivable, which represents the amount due from tax authorities for refunds of overpayments or recoveries of income taxes paid and income taxes payable in the amount due for taxes based on the reporting entity's earnings or attributable to the entity's income earning process (business presence) within a given jurisdiction.",
+                "concept": "nick:IncreaseDecreaseInIncomeTaxesReceivableAndPayable",
+                "unit": "usd",
+                "value": -373000
+            },
+            {
+                "label": "Increase decrease in unearned insurance and fee commissions.",
+                "concept": "nick:IncreaseDecreaseInUnearnedInsuranceAndFeeCommissions",
+                "unit": "usd",
+                "value": -59000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 3044000
+            },
+            {
+                "label": "The cash outflow associated with the acquisition and origination of finance contracts.",
+                "concept": "nick:PurchaseAndOriginationOfFinanceContracts",
+                "unit": "usd",
+                "value": 19223000
+            },
+            {
+                "label": "Principal payments received",
+                "concept": "ProceedsFromPrincipalRepaymentsOnLoansAndLeasesHeldForInvestment",
+                "unit": "usd",
+                "value": 28425000
+            },
+            {
+                "label": "Purchase of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "Proceeds from sale of property and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Net cash provided by (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 9204000
+            },
+            {
+                "label": "Repayments on credit facility",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 7830000
+            },
+            {
+                "label": "Proceeds from note payable",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 3244000
+            },
+            {
+                "label": "Repurchases of treasury stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 28000
+            },
+            {
+                "label": "Net cash (used in) provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -4614000
+            },
+            {
+                "label": "Net increase (decrease) in cash and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 7634000
+            },
+            {
+                "label": "Interest paid including debt origination costs.",
+                "concept": "nick:InterestPaidIncludingDebtOriginationCosts",
+                "unit": "usd",
+                "value": 1643000
+            },
+            {
+                "label": "Leased assets obtained in exchange for new operating lease liabilities",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 867000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest and fee income on finance receivables",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 14151000
+            },
+            {
+                "label": "Marketing",
+                "concept": "MarketingExpense",
+                "unit": "usd",
+                "value": 219000
+            },
+            {
+                "label": "Salaries and employee benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 4152000
+            },
+            {
+                "label": "Administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2903000
+            },
+            {
+                "label": "Provision for credit losses",
+                "concept": "ProvisionForLoanLeaseAndOtherLosses",
+                "unit": "usd",
+                "value": 3300000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "DepreciationNonproduction",
+                "unit": "usd",
+                "value": 69000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1649000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 12292000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1859000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 429000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1430000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.18
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.18
+            }
+        ]
+    }
+}

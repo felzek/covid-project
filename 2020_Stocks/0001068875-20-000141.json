@@ -1,0 +1,145 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BCOR",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 161122000
+            },
+            {
+                "label": "Total cost of revenue",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 86922000
+            },
+            {
+                "label": "Engineering and technology",
+                "concept": "bcor:EngineeringAndTechnology",
+                "unit": "usd",
+                "value": 7377000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 40057000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 20200000
+            },
+            {
+                "label": "Acquisition and integration",
+                "concept": "bcor:BusinessCombinationAcquisitionRelatedAndIntegrationRelatedCosts",
+                "unit": "usd",
+                "value": 2824000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1675000
+            },
+            {
+                "label": "Amortization of other acquired intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 6673000
+            },
+            {
+                "label": "Impairment of goodwill",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 165728000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 4606000
+            },
+            {
+                "label": "Other loss, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 5288000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9894000
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 59539000
+            },
+            {
+                "label": "Net income (loss) attributable to Blucora, Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 49645000
+            },
+            {
+                "label": "Basic (in USD per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 1.04
+            },
+            {
+                "label": "Diluted (in USD per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 1.03
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 47941000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 48092000
+            },
+            {
+                "label": "Net income (loss) attributable to Blucora, Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 49645000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Blucora, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 49645000
+            }
+        ]
+    }
+}

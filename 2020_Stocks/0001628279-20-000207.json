@@ -1,0 +1,333 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "VEEV",
+    "data": {
+        "bs": [
+            {
+                "label": "Derivative Assets",
+                "concept": "ForeignCurrencyDerivativeInstrumentsNotDesignatedAsHedgingInstrumentsAssetAtFairValue",
+                "unit": "usd",
+                "value": 120000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 93551000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "OtherDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 7317000
+            },
+            {
+                "label": "Reduction of operating lease right-of-use assets",
+                "concept": "veev:OperatingLeaseRightOfUseAssetAmortization",
+                "unit": "usd",
+                "value": 3092000
+            },
+            {
+                "label": "Accretion of discount on short-term investments",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": 496000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 49366000
+            },
+            {
+                "label": "Amortization of deferred costs",
+                "concept": "veev:AmortizationOfDeferredCostsExcludingRightOfUseAssets",
+                "unit": "usd",
+                "value": 5324000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 504000
+            },
+            {
+                "label": "(Gain) Loss on foreign currency from mark-to-market derivative",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 98000
+            },
+            {
+                "label": "Bad debt expense (recovery)",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 514000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 14606000
+            },
+            {
+                "label": "Unbilled accounts receivable",
+                "concept": "veev:IncreaseDecreaseInUnbilledAccountsReceivable",
+                "unit": "usd",
+                "value": 619000
+            },
+            {
+                "label": "Deferred costs",
+                "concept": "IncreaseDecreaseInDeferredCharges",
+                "unit": "usd",
+                "value": 5793000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 3141000
+            },
+            {
+                "label": "Prepaid expenses and other current and long-term assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 11683000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 914000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 125000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInDeferredRevenue",
+                "unit": "usd",
+                "value": 49166000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "veev:IncreaseDecreaseInLeaseLiabilities",
+                "unit": "usd",
+                "value": 2456000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "IncreaseDecreaseInOtherNoncurrentLiabilities",
+                "unit": "usd",
+                "value": 2237000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 105320000
+            },
+            {
+                "label": "Purchases of short-term investments",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 267749000
+            },
+            {
+                "label": "Maturities and sales of short-term investments",
+                "concept": "ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 229224000
+            },
+            {
+                "label": "Long-term assets",
+                "concept": "PaymentsForSoftware",
+                "unit": "usd",
+                "value": 5407000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 43932000
+            },
+            {
+                "label": "Reduction of lease liabilities - finance leases",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 251000
+            },
+            {
+                "label": "Proceeds from exercise of common stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 9278000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 9027000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2734000
+            },
+            {
+                "label": "Net change in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 73149000
+            },
+            {
+                "label": "Cash paid for income taxes, net of refunds",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 9089000
+            },
+            {
+                "label": "Excess tax benefits from employee stock plans",
+                "concept": "veev:ExcessTaxBenefitFromEmployeeStockPlans",
+                "unit": "usd",
+                "value": 22123000
+            },
+            {
+                "label": "Changes in accounts payable and accrued expenses related to property and equipment purchases",
+                "concept": "veev:IncreaseDecreaseInCapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 184000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 353683000
+            },
+            {
+                "label": "Total cost of revenues",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 97204000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 256479000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 70053000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 59172000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 37173000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 166398000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 90081000
+            },
+            {
+                "label": "Other income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 2881000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 92962000
+            },
+            {
+                "label": "Provision for (benefit from) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 589000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 93551000
+            },
+            {
+                "label": "Net income, basic and diluted",
+                "concept": "veev:NetIncomeLossAttributableToCommonStockholdersBasicAndDiluted",
+                "unit": "usd",
+                "value": 93551000
+            },
+            {
+                "label": "Basic (in usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.62
+            },
+            {
+                "label": "Diluted (in usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.58
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 150413000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 160840000
+            },
+            {
+                "label": "Net change in unrealized gain on available-for-sale investments",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1131000
+            },
+            {
+                "label": "Net change in cumulative foreign currency translation loss",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 2893000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 97575000
+            }
+        ]
+    }
+}

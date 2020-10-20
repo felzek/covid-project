@@ -1,0 +1,339 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "ATRX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 65000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 250000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 315000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 315000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 2123000
+            },
+            {
+                "label": "Due to related party",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1278000
+            },
+            {
+                "label": "Accrued dividends",
+                "concept": "DividendsPayableCurrent",
+                "unit": "usd",
+                "value": 2948000
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 5795000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 12148000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 12148000
+            },
+            {
+                "label": "Commitments and contingencies (Note 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.006 par value; 180,000,000 shares authorized, 10,869,530 shares issued and outstanding as of March 31, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 65000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 29650000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 41548000
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 11833000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 315000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1838000
+            },
+            {
+                "label": "Share based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 36000
+            },
+            {
+                "label": "Amortization of intangibles",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of debt discount and fees",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 294000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Non-cash interest expense",
+                "concept": "atrx:NonCashInterestExpense",
+                "unit": "usd",
+                "value": 221000
+            },
+            {
+                "label": "Non-cash lease expense",
+                "concept": "atrx:NoncashLeaseExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Inventory",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 121000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 720000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 52000
+            },
+            {
+                "label": "Due to related party",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Lease liability",
+                "concept": "atrx:IncreaseDecreaseInLeaseLiability",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Cash Used in Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 394000
+            },
+            {
+                "label": "Proceeds from loan payable, net of discount",
+                "concept": "ProceedsFromRepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 500000
+            },
+            {
+                "label": "Notes payable issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 91000
+            },
+            {
+                "label": "Net Cash Provided by Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 409000
+            },
+            {
+                "label": "Net increase (decrease) in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Capitalization of operating lease right of use asset",
+                "concept": "atrx:CapitalizationOfOperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Issuance of warrants with notes payable",
+                "concept": "atrx:IssuanceOfWarrants",
+                "unit": "usd",
+                "value": 239000
+            },
+            {
+                "label": "Accrued dividends",
+                "concept": "atrx:AccruedDividends",
+                "unit": "usd",
+                "value": 383000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gross margin",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 784000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 539000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1323000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 1323000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseOther",
+                "unit": "usd",
+                "value": 410000
+            },
+            {
+                "label": "Amortization of debt discount and fees",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 105000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1838000
+            },
+            {
+                "label": "Preferred Stock Dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 383000
+            },
+            {
+                "label": "Net Loss Applicable to Common Stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 2221000
+            },
+            {
+                "label": "Net loss per share \u2013 Common Shareholders - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.2
+            },
+            {
+                "label": "Weighted average shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 10869530
+            }
+        ]
+    }
+}

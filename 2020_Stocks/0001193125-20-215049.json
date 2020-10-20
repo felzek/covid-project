@@ -1,0 +1,146 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DMS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 243
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 48334
+            },
+            {
+                "label": "Assets, Current",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 48577
+            },
+            {
+                "label": "Assets Held-in-trust, Noncurrent",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 200768225
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 200816802
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3649900
+            },
+            {
+                "label": "Due to Related Parties, Current",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 110000
+            },
+            {
+                "label": "Due to related party",
+                "concept": "dms:DueToRelatedParty",
+                "unit": "usd",
+                "value": 1426344
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1574421
+            },
+            {
+                "label": "Liabilities, Current",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 6670665
+            },
+            {
+                "label": "Deferred Underwriting Commissions",
+                "concept": "dms:DeferredUnderwritingCommissions",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 13760665
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital, Common Stock",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 4892534
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 106862
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000007
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 200816802
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 459975
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 459975
+            },
+            {
+                "label": "Investment Income, Nonoperating",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 74775
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 385200
+            }
+        ]
+    }
+}

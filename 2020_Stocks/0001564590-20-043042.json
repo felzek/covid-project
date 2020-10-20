@@ -1,0 +1,134 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "FCEL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash-beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 107280000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash-beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 107280000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 18728000
+            },
+            {
+                "label": "Costs of revenues",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 21856000
+            },
+            {
+                "label": "Gross profit (loss).",
+                "concept": "fcel:GrossProfitLoss",
+                "unit": "usd",
+                "value": 3128000
+            },
+            {
+                "label": "Administrative and selling expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6607000
+            },
+            {
+                "label": "Research and development expenses",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1027000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 7634000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 10762000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 4165000
+            },
+            {
+                "label": "Change in fair value of common stock warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 1694000
+            },
+            {
+                "label": "Gain on extinguishment of financing obligation",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 1801000
+            },
+            {
+                "label": "Other expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 501000
+            },
+            {
+                "label": "Loss before benefit (provision) for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 15321000
+            },
+            {
+                "label": "(Provision) benefit for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 15331000
+            },
+            {
+                "label": "Series B preferred stock dividends",
+                "concept": "DividendsPreferredStock",
+                "unit": "usd",
+                "value": 800000
+            },
+            {
+                "label": "Net loss attributable to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 16131000
+            },
+            {
+                "label": "Net loss per share attributable to common stockholders",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 217966402
+            }
+        ]
+    }
+}

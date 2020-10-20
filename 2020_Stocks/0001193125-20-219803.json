@@ -1,0 +1,49 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BCOW",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 194000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Securities, Available-for-Sale, Unrealized Holding Gain (Loss) Arising During Period, before Tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 2503000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), before Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2503000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossTaxPortionAttributableToParent1",
+                "unit": "usd",
+                "value": 676000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1827000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2021000
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OTEL",
+    "data": {
+        "bs": [
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 22493000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 22493000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Weighted average number of common shares outstanding - basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 3421794
+            },
+            {
+                "label": "Effect of dilutive securities (in shares)",
+                "concept": "WeightedAverageNumberDilutedSharesOutstandingAdjustment",
+                "unit": "shares",
+                "value": 19228
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 3441022
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1431000
+            },
+            {
+                "label": "Net income per common share - basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.42
+            },
+            {
+                "label": "Net income per common share - diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.42
+            }
+        ]
+    }
+}

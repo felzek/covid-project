@@ -1,0 +1,140 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CK0000889123",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1001000
+            },
+            {
+                "label": "Cash, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1001000
+            },
+            {
+                "label": "Real estate acquired by foreclosure",
+                "concept": "RealEstateAcquiredThroughForeclosure",
+                "unit": "usd",
+                "value": 5787000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 2107000
+            },
+            {
+                "label": "Interest expense, line of credit.",
+                "concept": "ck0000889123:InterestExpenseLineOfCredit",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Interest expense, mortgages payable.",
+                "concept": "ck0000889123:InterestExpenseMortgagesPayable",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Total interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestRevenueExpenseNet",
+                "unit": "usd",
+                "value": 2087000
+            },
+            {
+                "label": "Late fees",
+                "concept": "LateFeeIncomeGeneratedByServicingFinancialAssetsAmount",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Total revenue, net",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 2094000
+            },
+            {
+                "label": "Recovery of loan losses",
+                "concept": "AllowanceForLoanAndLeaseLossRecoveryOfBadDebts",
+                "unit": "usd",
+                "value": 126000
+            },
+            {
+                "label": "Fees paid to collect monthly payments on mortgage loans from borrowers.",
+                "concept": "ck0000889123:LoanServicingFees",
+                "unit": "usd",
+                "value": 315000
+            },
+            {
+                "label": "Asset management fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 89000
+            },
+            {
+                "label": "Affiliate operating costs.",
+                "concept": "ck0000889123:AffiliateOperatingCosts",
+                "unit": "usd",
+                "value": 177000
+            },
+            {
+                "label": "Professional services",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 318000
+            },
+            {
+                "label": "Real estate owned income (expense).",
+                "concept": "ck0000889123:RealEstateOwnedIncomeExpense",
+                "unit": "usd",
+                "value": -21000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -17000
+            },
+            {
+                "label": "Total operations expense",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 937000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1283000
+            },
+            {
+                "label": "Limited partners (99%)",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": 1270000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1283000
+            }
+        ]
+    }
+}

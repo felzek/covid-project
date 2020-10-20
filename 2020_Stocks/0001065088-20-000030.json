@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EBAY",
+    "data": {
+        "bs": [
+            {
+                "label": "Allowance for doubtful accounts and authorized credits",
+                "concept": "ebay:AllowanceForDoubtfulAccountsReceivableAndAuthorizedCredits",
+                "unit": "usd",
+                "value": 194000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 746000000
+            },
+            {
+                "label": "Foreign currency translation gains (losses)",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 49000000
+            },
+            {
+                "label": "Unrealized gains (losses) on investments, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 32000000
+            },
+            {
+                "label": "Tax benefit (expense) on unrealized gains (losses) on investments, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Unrealized gains (losses) on hedging activities, net",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 47000000
+            },
+            {
+                "label": "Tax benefit (expense) on unrealized gains (losses) on hedging activities, net",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationTax",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 36000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 782000000
+            }
+        ]
+    }
+}

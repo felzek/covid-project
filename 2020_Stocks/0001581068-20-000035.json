@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BRX",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 1758946000
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 8419007000
+            },
+            {
+                "label": "Real estate, gross",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 10177953000
+            },
+            {
+                "label": "Accumulated depreciation and amortization",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 2581127000
+            },
+            {
+                "label": "Real estate, net",
+                "concept": "brx:RealEstateInvestmentPropertyNetExcludingHeldForSale",
+                "unit": "usd",
+                "value": 7596826000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 318540000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 1451000
+            },
+            {
+                "label": "Marketable securities",
+                "concept": "MarketableSecurities",
+                "unit": "usd",
+                "value": 20765000
+            },
+            {
+                "label": "Receivables, net",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 274532000
+            },
+            {
+                "label": "Deferred charges and prepaid expenses, net",
+                "concept": "brx:DeferredChargesAndPrepaidExpensesNet",
+                "unit": "usd",
+                "value": 141645000
+            },
+            {
+                "label": "Real estate assets held for sale",
+                "concept": "RealEstateHeldforsale",
+                "unit": "usd",
+                "value": 10514000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 52012000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8416285000
+            },
+            {
+                "label": "Debt obligations, net",
+                "concept": "brx:MortgagesPayableIncludingUnamortizedPremium",
+                "unit": "usd",
+                "value": 5307527000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 429138000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5736665000
+            },
+            {
+                "label": "Commitments and contingencies (Note 15)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2965000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3207116000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 34061000
+            },
+            {
+                "label": "Distributions in excess of net income",
+                "concept": "brx:AccumulatedLosses",
+                "unit": "usd",
+                "value": 496400000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2679620000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 8416285000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "IncomeLossAttributableToParent",
+                "unit": "usd",
+                "value": 9044000
+            },
+            {
+                "label": "Change in unrealized loss on interest rate swaps, net (Note 6)",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 835000
+            },
+            {
+                "label": "Change in unrealized gain on marketable securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax, Total",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 819000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent, Total",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 8225000
+            }
+        ]
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CCTC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 866
+            },
+            {
+                "label": "Prepaid Expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 39219
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 40085
+            },
+            {
+                "label": "Right to use ground lease, net of accumulated amortization of $26,000 and $20,000, respectively",
+                "concept": "GroundLeasesNet",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 50085
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 895889
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8418269
+            },
+            {
+                "label": "Customer deposit \u2013 related party",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Convertible debt, net of unamortized discounts \u2013 related party",
+                "concept": "ConvertibleDebtCurrent",
+                "unit": "usd",
+                "value": 7871511
+            },
+            {
+                "label": "Notes payable \u2013 related party",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 754600
+            },
+            {
+                "label": "Convertible notes payable, net of unamortized discount",
+                "concept": "ConvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 2378403
+            },
+            {
+                "label": "Notes payable",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 413185
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 20831857
+            },
+            {
+                "label": "Convertible debt, net of unamortized discounts \u2013 related party",
+                "concept": "ConvertibleDebtNoncurrent",
+                "unit": "usd",
+                "value": 537431
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 21369288
+            },
+            {
+                "label": "Common stock, $0.00001 par value; 500,000,000 shares authorized, 196,425,103 and 181,347,218 shares issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1967
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 260611429
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -281932599
+            },
+            {
+                "label": "Total Stockholders\u2019 Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -21319203
+            },
+            {
+                "label": "Total Liabilities and Stockholders\u2019 Deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 50085
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 276839
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 13700
+            },
+            {
+                "label": "Consulting services",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 6803
+            },
+            {
+                "label": "Gain on settlement of accounts payable",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Loss from Operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -297342
+            },
+            {
+                "label": "Change in fair value of share-settled debt",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -627692
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 835243
+            },
+            {
+                "label": "Debt prepayment and default expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Total Other Expenses",
+                "concept": "OtherNonoperatingExpense",
+                "unit": "usd",
+                "value": 1463935
+            },
+            {
+                "label": "Net Loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1761277
+            },
+            {
+                "label": "Net loss per share basic and diluted (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Weighted average shares outstanding \u2013 basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 187892840000000
+            }
+        ]
+    }
+}

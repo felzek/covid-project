@@ -1,0 +1,411 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "CRM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4052000000
+            },
+            {
+                "label": "Marketable securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecuritiesCurrent",
+                "unit": "usd",
+                "value": 5231000000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 3445000000
+            },
+            {
+                "label": "Costs capitalized to obtain revenue contracts, net",
+                "concept": "CapitalizedContractCostNetCurrent",
+                "unit": "usd",
+                "value": 948000000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1170000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 14846000000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2528000000
+            },
+            {
+                "label": "Operating lease right-of-use assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 2985000000
+            },
+            {
+                "label": "Noncurrent costs capitalized to obtain revenue contracts, net",
+                "concept": "CapitalizedContractCostNetNoncurrent",
+                "unit": "usd",
+                "value": 1309000000
+            },
+            {
+                "label": "Strategic investments",
+                "concept": "OtherLongTermInvestments",
+                "unit": "usd",
+                "value": 2555000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 26301000000
+            },
+            {
+                "label": "Intangible assets acquired through business combinations, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 4676000000
+            },
+            {
+                "label": "Deferred tax assets and other assets, net",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2580000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 57780000000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndOtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3485000000
+            },
+            {
+                "label": "Operating lease liabilities, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 767000000
+            },
+            {
+                "label": "Unearned revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 8711000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 12963000000
+            },
+            {
+                "label": "Noncurrent debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 2673000000
+            },
+            {
+                "label": "Noncurrent operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2407000000
+            },
+            {
+                "label": "Other noncurrent liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1297000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 19340000000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 33922000000
+            },
+            {
+                "label": "Accumulated other comprehensive\u00a0loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 68000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 4585000000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 38440000000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 57780000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2625000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 649000000
+            },
+            {
+                "label": "Amortization of costs capitalized to obtain revenue contracts, net",
+                "concept": "CapitalizedContractCostAmortization",
+                "unit": "usd",
+                "value": 250000000
+            },
+            {
+                "label": "Stock-based expenses",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 578000000
+            },
+            {
+                "label": "Loss on settlement of Salesforce.org reseller agreement",
+                "concept": "crm:FairValueAdjustmentLossOnRemainingPerformanceObligationsofAgreements",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Gains on strategic investments, net",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 682000000
+            },
+            {
+                "label": "Tax benefit from intra-entity transfer of intangible property",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 2003000000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 349000000
+            },
+            {
+                "label": "Costs capitalized to obtain revenue contracts, net",
+                "concept": "crm:IncreaseDecreaseinCapitalizedContractCosts",
+                "unit": "usd",
+                "value": 455000000
+            },
+            {
+                "label": "Prepaid expenses and other current assets and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 203000000
+            },
+            {
+                "label": "Accounts payable and accrued expenses and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 693000000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "crm:IncreaseDecreaseinOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 209000000
+            },
+            {
+                "label": "Unearned revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 465000000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 429000000
+            },
+            {
+                "label": "Business combinations, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 1154000000
+            },
+            {
+                "label": "Purchases of strategic investments",
+                "concept": "crm:PaymentsForInvestmentsInPrivatelyHeldCompanies",
+                "unit": "usd",
+                "value": 232000000
+            },
+            {
+                "label": "Sales of strategic investments",
+                "concept": "crm:ProceedsFromInvestmentsInPrivatelyHeldCompanies",
+                "unit": "usd",
+                "value": 51000000
+            },
+            {
+                "label": "Purchases of marketable securities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 1681000000
+            },
+            {
+                "label": "Sales of marketable securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 207000000
+            },
+            {
+                "label": "Maturities of marketable securities",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 330000000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 114000000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 2593000000
+            },
+            {
+                "label": "Proceeds from employee stock plans",
+                "concept": "ProceedsFromStockPlans",
+                "unit": "usd",
+                "value": 466000000
+            },
+            {
+                "label": "Principal payments on financing obligations",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 24000000
+            },
+            {
+                "label": "Repayments of debt",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 441000000
+            },
+            {
+                "label": "Effect of exchange rate changes",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1720000000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Income taxes, net of tax refunds",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 66000000
+            },
+            {
+                "label": "Fair value of equity awards assumed",
+                "concept": "crm:EquityAwardsAssumed",
+                "unit": "usd",
+                "value": 6000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2625000000
+            },
+            {
+                "label": "Foreign currency translation and other losses",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 28000000
+            },
+            {
+                "label": "Unrealized gains on marketable securities and privately held debt securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 49000000
+            },
+            {
+                "label": "Other comprehensive income (loss), before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 77000000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeLossTaxPortionAttributableToParent1",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Other comprehensive income (loss), net",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 67000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2692000000
+            }
+        ]
+    }
+}

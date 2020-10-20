@@ -1,0 +1,320 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GPMT",
+    "data": {
+        "bs": [
+            {
+                "label": "Loans held-for-investment, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 4290047000
+            },
+            {
+                "label": "Loans held-for-investment, at fair value",
+                "concept": "LoansReceivableFairValueDisclosure",
+                "unit": "usd",
+                "value": 4250847000
+            },
+            {
+                "label": "Loans held-for-investment",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 4366757000
+            },
+            {
+                "label": "Available-for-sale securities, at fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 12542000
+            },
+            {
+                "label": "Held-to-maturity securities",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 10788000
+            },
+            {
+                "label": "Held-to-maturity securities, at fair value",
+                "concept": "MortgageBackedSecuritiesHeldToMaturityFairValueDisclosure",
+                "unit": "usd",
+                "value": 11374000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 55969000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 3497000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "AssetsSoldUnderAgreementsToRepurchaseRepurchaseLiability",
+                "unit": "usd",
+                "value": 2030916000
+            },
+            {
+                "label": "Securitized debt obligations",
+                "concept": "BeneficialInterest",
+                "unit": "usd",
+                "value": 983521000
+            },
+            {
+                "label": "Securitized debt obligations, at fair value",
+                "concept": "gpmt:SecuritizedDebtObligationsFairValueDisclosure",
+                "unit": "usd",
+                "value": 941262000
+            },
+            {
+                "label": "Asset-specific financings",
+                "concept": "gpmt:AssetSpecificFinancings",
+                "unit": "usd",
+                "value": 121242000
+            },
+            {
+                "label": "Revolving credit facilities",
+                "concept": "gpmt:RevolvingCreditFacilities",
+                "unit": "usd",
+                "value": 12589000
+            },
+            {
+                "label": "Convertible senior notes",
+                "concept": "ConvertibleNotesPayable",
+                "unit": "usd",
+                "value": 270437000
+            },
+            {
+                "label": "Convertible senior notes, at fair value",
+                "concept": "ConvertibleDebtFairValueDisclosures",
+                "unit": "usd",
+                "value": 205983000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Loans held-for-investment",
+                "concept": "InterestAndFeeIncomeLoansCommercialRealEstate",
+                "unit": "usd",
+                "value": 60299000
+            },
+            {
+                "label": "Loans held-for-sale",
+                "concept": "InterestAndFeeIncomeLoansHeldForSaleMortgages",
+                "unit": "usd",
+                "value": 121000
+            },
+            {
+                "label": "Available-for-sale securities",
+                "concept": "InterestIncomeDebtSecuritiesAvailableForSaleOperating",
+                "unit": "usd",
+                "value": 247000
+            },
+            {
+                "label": "Held-to-maturity securities",
+                "concept": "InterestAndDividendIncomeSecuritiesHeldToMaturity",
+                "unit": "usd",
+                "value": 236000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "InterestIncomeDomesticDeposits",
+                "unit": "usd",
+                "value": 41000
+            },
+            {
+                "label": "Total interest income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 60944000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "RepurchaseAgreementsInterestExpenseAmount",
+                "unit": "usd",
+                "value": 14276000
+            },
+            {
+                "label": "Securitized debt obligations",
+                "concept": "InterestExpenseBeneficialInterestsIssuedByConsolidatedVariableInterestEntities",
+                "unit": "usd",
+                "value": 6502000
+            },
+            {
+                "label": "Convertible senior notes",
+                "concept": "gpmt:InterestExpenseConvertibleDebt",
+                "unit": "usd",
+                "value": 4525000
+            },
+            {
+                "label": "Asset-specific financings",
+                "concept": "gpmt:InterestExpenseAssetSpecificFinancings",
+                "unit": "usd",
+                "value": 939000
+            },
+            {
+                "label": "Revolving credit facilities",
+                "concept": "gpmt:InterestExpenseRevolvingCreditFacilities",
+                "unit": "usd",
+                "value": 320000
+            },
+            {
+                "label": "Total interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 26562000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 34382000
+            },
+            {
+                "label": "Provision for credit losses",
+                "concept": "gpmt:AccountsandFinancingReceivableCreditLossExpenseReversal",
+                "unit": "usd",
+                "value": 14205000
+            },
+            {
+                "label": "Realized losses on sales",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 6894000
+            },
+            {
+                "label": "Fee income",
+                "concept": "AncillaryFeeIncomeGeneratedByServicingFinancialAssetsAmount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total other (loss) income",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 21099000
+            },
+            {
+                "label": "Management fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 3959000
+            },
+            {
+                "label": "Incentive fees",
+                "concept": "IncentiveFeeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Servicing expenses",
+                "concept": "gpmt:ServicingExpense",
+                "unit": "usd",
+                "value": 1002000
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 10060000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 15021000
+            },
+            {
+                "label": "(Loss) income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1738000
+            },
+            {
+                "label": "Benefit from income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1733000
+            },
+            {
+                "label": "Dividends on preferred stock",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Net (loss) income\u00a0attributable to common stockholders",
+                "concept": "gpmt:NetIncomeAvailabletoCommonStockholders",
+                "unit": "usd",
+                "value": 1758000
+            },
+            {
+                "label": "Basic earnings per weighted average common share (in usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.03
+            },
+            {
+                "label": "Diluted earnings per weighted average common share (in usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.03
+            },
+            {
+                "label": "Dividends declared per common share (in usd per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Weighted average basic common shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 55158283
+            },
+            {
+                "label": "Weighted average diluted common shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 55158283
+            },
+            {
+                "label": "Net (loss) income\u00a0attributable to common stockholders",
+                "concept": "gpmt:NetIncomeAvailabletoCommonStockholders",
+                "unit": "usd",
+                "value": 1758000
+            },
+            {
+                "label": "Unrealized (loss) gain on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 3712000
+            },
+            {
+                "label": "Other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3712000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "gpmt:ComprehensiveIncomeLossAttributabletoCommonStockholders",
+                "unit": "usd",
+                "value": 1954000
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LSCC",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10629000
+            },
+            {
+                "label": "Shares used in basic Net income per share (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 134857000
+            },
+            {
+                "label": "Dilutive effect of stock options, RSUs, ESPP shares, and equity awards with a market condition or performance condition (in shares)",
+                "concept": "WeightedAverageNumberDilutedSharesOutstandingAdjustment",
+                "unit": "shares",
+                "value": 4345000
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 139202000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.08
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.08
+            },
+            {
+                "label": "Stock options, RSUs, ESPP shares, and equity awards with a market condition or performance condition excluded as they are antidilutive (in shares)",
+                "concept": "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount",
+                "unit": "shares",
+                "value": 579000
+            }
+        ]
+    }
+}

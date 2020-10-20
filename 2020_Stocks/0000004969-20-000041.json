@@ -1,0 +1,170 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AEXC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2280000000
+            },
+            {
+                "label": "Card Member receivables, less reserves for credit losses",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 9925000000
+            },
+            {
+                "label": "Card Member loans, less reserves for credit losses",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 481000000
+            },
+            {
+                "label": "Loans to affiliates and other",
+                "concept": "LoansAndLeasesReceivableRelatedParties",
+                "unit": "usd",
+                "value": 12088000000
+            },
+            {
+                "label": "Due from affiliates",
+                "concept": "DueFromAffiliates",
+                "unit": "usd",
+                "value": 18000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 298000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 25090000000
+            },
+            {
+                "label": "Short-term debt",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Short-term debt to affiliates",
+                "concept": "aexc:ShortTermDebttoAffiliates",
+                "unit": "usd",
+                "value": 8622000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 8950000000
+            },
+            {
+                "label": "Long-term debt to affiliates",
+                "concept": "aexc:LongTermDebtwithAffiliates",
+                "unit": "usd",
+                "value": 972000000
+            },
+            {
+                "label": "Total debt",
+                "concept": "DebtLongtermAndShorttermCombinedAmount",
+                "unit": "usd",
+                "value": 18544000000
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 3473000000
+            },
+            {
+                "label": "Accrued interest and other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 341000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 22358000000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 161000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3736000000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1165000000
+            },
+            {
+                "label": "Total accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1165000000
+            },
+            {
+                "label": "Total shareholder\u2019s equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2732000000
+            },
+            {
+                "label": "Total liabilities and shareholder\u2019s equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 25090000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 82000000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 59000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 59000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 141000000
+            }
+        ]
+    }
+}

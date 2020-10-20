@@ -1,0 +1,67 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NRC",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 7715000
+            },
+            {
+                "label": "us-gaap_ParticipatingSecuritiesDistributedAndUndistributedEarningsLossBasic",
+                "concept": "ParticipatingSecuritiesDistributedAndUndistributedEarningsLossBasic",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 7700000
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 25148000
+            },
+            {
+                "label": "Basic Earnings Per Share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.31
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 7700000
+            },
+            {
+                "label": "us-gaap_IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+                "concept": "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+                "unit": "shares",
+                "value": 532000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 25680000
+            },
+            {
+                "label": "Diluted Earnings Per Share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.3
+            }
+        ]
+    }
+}

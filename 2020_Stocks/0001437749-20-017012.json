@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "KIM",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5618374000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5618374000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income available to the Company's common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 741539000
+            },
+            {
+                "label": "us-gaap_ParticipatingSecuritiesDistributedAndUndistributedEarningsLossDiluted",
+                "concept": "ParticipatingSecuritiesDistributedAndUndistributedEarningsLossDiluted",
+                "unit": "usd",
+                "value": 5253000
+            },
+            {
+                "label": "kim_NetIncomeLossAvailableToTheCompanysCommonShareholders",
+                "concept": "kim:NetIncomeLossAvailableToTheCompanysCommonShareholders",
+                "unit": "usd",
+                "value": 736286000
+            },
+            {
+                "label": "Distributions on convertible units",
+                "concept": "DilutiveSecuritiesEffectOnBasicEarningsPerShareOther",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "unit": "usd",
+                "value": 736319000
+            },
+            {
+                "label": "-Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 429967000
+            },
+            {
+                "label": "Equity awards (in shares)",
+                "concept": "WeightedAverageNumberDilutedSharesOutstandingAdjustment",
+                "unit": "shares",
+                "value": 970000
+            },
+            {
+                "label": "Assumed conversion of convertible units (in shares)",
+                "concept": "IncrementalCommonSharesAttributableToConversionOfDebtSecurities",
+                "unit": "shares",
+                "value": 233000
+            },
+            {
+                "label": "-Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 431170000
+            },
+            {
+                "label": "Basic earnings per share (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": 1.71
+            },
+            {
+                "label": "Diluted earnings per share (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 1.71
+            }
+        ]
+    }
+}

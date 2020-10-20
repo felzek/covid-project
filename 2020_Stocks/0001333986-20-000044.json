@@ -1,0 +1,296 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AXAEQ",
+    "data": {
+        "bs": [
+            {
+                "label": "Fixed maturities available-for-sale, at fair value (amortized cost of $67,515 and $62,937) (allowance for credit losses of $13 at June 30, 2020)",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 76243000000
+            },
+            {
+                "label": "Mortgage loans on real estate (net of allowance for credit losses of $66 at June 30, 2020)",
+                "concept": "MortgageLoansOnRealEstate",
+                "unit": "usd",
+                "value": 12523000000
+            },
+            {
+                "label": "Policy loans",
+                "concept": "LoansInsurancePolicy",
+                "unit": "usd",
+                "value": 3689000000
+            },
+            {
+                "label": "Other equity investments",
+                "concept": "axaeq:OtherEquityInvestments",
+                "unit": "usd",
+                "value": 1342000000
+            },
+            {
+                "label": "Trading securities, at fair value",
+                "concept": "TradingSecuritiesDebt",
+                "unit": "usd",
+                "value": 6616000000
+            },
+            {
+                "label": "Other invested assets",
+                "concept": "OtherInvestments",
+                "unit": "usd",
+                "value": 2280000000
+            },
+            {
+                "label": "Total investments",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 102693000000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 8364000000
+            },
+            {
+                "label": "Cash and securities segregated, at fair value",
+                "concept": "CashAndSecuritiesSegregatedUnderFederalAndOtherRegulations",
+                "unit": "usd",
+                "value": 1882000000
+            },
+            {
+                "label": "Broker-dealer related receivables",
+                "concept": "ReceivablesFromBrokersDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 1998000000
+            },
+            {
+                "label": "Deferred policy acquisition costs",
+                "concept": "DeferredPolicyAcquisitionCosts",
+                "unit": "usd",
+                "value": 4182000000
+            },
+            {
+                "label": "Goodwill and other intangible assets, net",
+                "concept": "axaeq:GoodwillAndOtherIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 4756000000
+            },
+            {
+                "label": "Amounts due from reinsurers (allowance for credit losses of $6 at June 30, 2020)",
+                "concept": "ReinsuranceRecoverablesOnPaidLosses",
+                "unit": "usd",
+                "value": 4665000000
+            },
+            {
+                "label": "GMIB reinsurance contract asset, at fair value",
+                "concept": "axaeq:GuaranteedMinimumIncomeBenefitReinsuranceContractAssetAtFairValue",
+                "unit": "usd",
+                "value": 2931000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 3724000000
+            },
+            {
+                "label": "Assets held-for-sale",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Separate Accounts assets",
+                "concept": "SeparateAccountAssets",
+                "unit": "usd",
+                "value": 118915000000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 254110000000
+            },
+            {
+                "label": "Policyholders\u2019 account balances",
+                "concept": "PolicyholderContractDeposits",
+                "unit": "usd",
+                "value": 59272000000
+            },
+            {
+                "label": "Future policy benefits and other policyholders' liabilities",
+                "concept": "LiabilityForFuturePolicyBenefits",
+                "unit": "usd",
+                "value": 41476000000
+            },
+            {
+                "label": "Amounts due to reinsurers",
+                "concept": "ReinsurancePayable",
+                "unit": "usd",
+                "value": 1399000000
+            },
+            {
+                "label": "Short-term and long-term debt",
+                "concept": "DebtLongtermAndShorttermCombinedAmount",
+                "unit": "usd",
+                "value": 4113000000
+            },
+            {
+                "label": "Current and deferred income taxes",
+                "concept": "TaxesPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1848000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 3666000000
+            },
+            {
+                "label": "Liabilities held-for-sale",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Separate Accounts liabilities",
+                "concept": "SeparateAccountsLiability",
+                "unit": "usd",
+                "value": 118915000000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 234889000000
+            },
+            {
+                "label": "Redeemable noncontrolling interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 87000000
+            },
+            {
+                "label": "Commitments and contingent liabilities (Note 14)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock and additional paid-in capital, $1 par value, 32 million shares authorized, issued and outstanding; $25,000 liquidation preference",
+                "concept": "axaeq:PreferredStockandAdditionalPaidinCapitalValueIssued",
+                "unit": "usd",
+                "value": 775000000
+            },
+            {
+                "label": "Common stock, $0.01 par value, 2,000,000,000 shares authorized; 552,896,328 and 552,896,328 shares issued, respectively; 449,436,843 and 463,711,392 shares outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1938000000
+            },
+            {
+                "label": "Treasury stock, at cost, 103,459,485 and 89,184,936 shares, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 2047000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 12995000000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3928000000
+            },
+            {
+                "label": "Total equity attributable to Holdings",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 17594000000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1540000000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 19134000000
+            },
+            {
+                "label": "Total Liabilities, Redeemable Noncontrolling Interest and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 254110000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 3942000000
+            },
+            {
+                "label": "Change in unrealized gains (losses), net of reclassification adjustment",
+                "concept": "axaeq:OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax1",
+                "unit": "usd",
+                "value": 1614000000
+            },
+            {
+                "label": "Changes in defined benefit plan related items not yet recognized in periodic benefit cost, net of reclassification adjustment",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 22000000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net of income taxes",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1642000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2300000000
+            },
+            {
+                "label": "Less: Comprehensive income (loss) attributable to the noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 89000000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Holdings",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2389000000
+            }
+        ]
+    }
+}

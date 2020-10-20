@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SKAS",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4762589
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4762589
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "REVENUE",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 438632
+            },
+            {
+                "label": "COST OF REVENUE",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 543600
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": -104968
+            },
+            {
+                "label": "us-gaap_SellingGeneralAndAdministrativeExpense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 375125
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -480093
+            },
+            {
+                "label": "Impairment charge",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": 270000
+            },
+            {
+                "label": "us-gaap_InvestmentIncomeInterest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 6217
+            },
+            {
+                "label": "INTEREST EXPENSE",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 11059
+            },
+            {
+                "label": "us-gaap_OtherNonoperatingIncomeExpense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -274842
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -754935
+            },
+            {
+                "label": "us-gaap_IncomeTaxExpenseBenefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -754935
+            },
+            {
+                "label": "Basic Net (Loss) Income Per Common Share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.74
+            },
+            {
+                "label": "Diluted Net (Loss) Income Per Common Share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.73
+            },
+            {
+                "label": "Weighted Average Number of Common Shares \u2013 Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 1023129
+            },
+            {
+                "label": "Weighted Average Number of Common Shares - Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 1035650
+            }
+        ]
+    }
+}

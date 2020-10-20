@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "MSB",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 458957
+            },
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 458957
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Royalty Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 7218361
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 24
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 7218385
+            },
+            {
+                "label": "General and Administrative Expense",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 542382
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6676003
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 13120010
+            },
+            {
+                "label": "Earnings Per Share, Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.5088
+            },
+            {
+                "label": "Represents the cash distributions per unit declared and paid by the entity during the period for all units of stock.",
+                "concept": "msb:DistributionDeclaredDistributionsPaidPerUnit",
+                "unit": "usd/shares",
+                "value": 0.05
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LGL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 16639000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 16639000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "REVENUES",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 7059000
+            },
+            {
+                "label": "Manufacturing cost of sales",
+                "concept": "ManufacturingCosts",
+                "unit": "usd",
+                "value": 4816000
+            },
+            {
+                "label": "The aggregate total costs related to engineering a product design and manufacture, selling a firm's product and services, as well as all other general and administrative expenses. Direct selling expenses are expenses that can be directly linked to the sale of specific products. Indirect selling expenses are expenses that cannot be directly linked to the sale of specific products. General and administrative expenses include salaries of non-sales personnel, rent, utilities, communication, etc.",
+                "concept": "lgl:EngineeringSellingAndAdministrative",
+                "unit": "usd",
+                "value": 2059000
+            },
+            {
+                "label": "OPERATING INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 184000
+            },
+            {
+                "label": "Interest (expense) income, net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": -4000
+            },
+            {
+                "label": "Gain (loss) on equity investment in unconsolidated subsidiary.",
+                "concept": "lgl:GainLossOnEquityInvestmentInUnconsolidatedSubsidiary",
+                "unit": "usd",
+                "value": -100000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 232000
+            },
+            {
+                "label": "Total other income (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 128000
+            },
+            {
+                "label": "INCOME BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 312000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 57000
+            },
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 255000
+            },
+            {
+                "label": "Weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 5211773
+            },
+            {
+                "label": "Net income",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.05
+            },
+            {
+                "label": "Weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 5245162
+            },
+            {
+                "label": "Net income",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.05
+            }
+        ]
+    }
+}

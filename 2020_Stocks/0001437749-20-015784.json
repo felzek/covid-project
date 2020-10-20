@@ -1,0 +1,296 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BCTF",
+    "data": {
+        "bs": [
+            {
+                "label": "Available-for-sale securities",
+                "concept": "AvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 63568281
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest and fees on loans",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 4466516
+            },
+            {
+                "label": "Interest on securities",
+                "concept": "InterestAndDividendIncomeSecurities",
+                "unit": "usd",
+                "value": 356845
+            },
+            {
+                "label": "Interest on other interest-earning assets",
+                "concept": "bctf:InterestIncomeOnOtherInterestEarningAssets",
+                "unit": "usd",
+                "value": 17956
+            },
+            {
+                "label": "us-gaap_InterestAndDividendIncomeOperating",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 4841317
+            },
+            {
+                "label": "Interest on deposits",
+                "concept": "InterestExpenseDeposits",
+                "unit": "usd",
+                "value": 851395
+            },
+            {
+                "label": "Interest on borrowings",
+                "concept": "InterestExpenseBorrowings",
+                "unit": "usd",
+                "value": 212374
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1063769
+            },
+            {
+                "label": "us-gaap_InterestIncomeExpenseNet",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 3777548
+            },
+            {
+                "label": "Provision for loan losses",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 577000
+            },
+            {
+                "label": "us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "concept": "InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "unit": "usd",
+                "value": 3200548
+            },
+            {
+                "label": "Gain on sale of loans",
+                "concept": "GainLossOnSaleOfMortgageLoans",
+                "unit": "usd",
+                "value": 2641
+            },
+            {
+                "label": "Gain on sale of securities",
+                "concept": "DebtSecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": 10157
+            },
+            {
+                "label": "Service charges and fees",
+                "concept": "bctf:NoninterestIncomeServiceChargesAndFees",
+                "unit": "usd",
+                "value": 73687
+            },
+            {
+                "label": "us-gaap_BankOwnedLifeInsuranceIncome",
+                "concept": "BankOwnedLifeInsuranceIncome",
+                "unit": "usd",
+                "value": 90550
+            },
+            {
+                "label": "Loss on disposal of fixed assets",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": -205663
+            },
+            {
+                "label": "Other",
+                "concept": "NoninterestIncomeOther",
+                "unit": "usd",
+                "value": 19398
+            },
+            {
+                "label": "Total noninterest income",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": -9230
+            },
+            {
+                "label": "Salaries and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 1300507
+            },
+            {
+                "label": "Occupancy",
+                "concept": "OccupancyNet",
+                "unit": "usd",
+                "value": 351003
+            },
+            {
+                "label": "Data processing fees",
+                "concept": "InformationTechnologyAndDataProcessing",
+                "unit": "usd",
+                "value": 518628
+            },
+            {
+                "label": "FDIC and other insurance expense",
+                "concept": "bctf:FederalDepositInsuranceCorporationPremiumExpenseRecovery",
+                "unit": "usd",
+                "value": 44408
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 141917
+            },
+            {
+                "label": "Advertising",
+                "concept": "AdvertisingExpense",
+                "unit": "usd",
+                "value": 43063
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 179607
+            },
+            {
+                "label": "Total noninterest expense",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 2579133
+            },
+            {
+                "label": "Income from continuing operations before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 612185
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 110049
+            },
+            {
+                "label": "Net income from continuing operations",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": 502136
+            },
+            {
+                "label": "Loss from discontinued operations",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Benefit for income taxes",
+                "concept": "DiscontinuedOperationTaxEffectOfDiscontinuedOperation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 502136
+            },
+            {
+                "label": "Unrealized gain on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 473260
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 120444
+            },
+            {
+                "label": "Unrealized gain (loss) on available-for-sale securities, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 352816
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostCreditArisingDuringPeriodBeforeTax",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostCreditArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 1542112
+            },
+            {
+                "label": "Tax effect of unrecognized DB plan prior service cost",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansBenefitPlanImprovementTaxEffect",
+                "unit": "usd",
+                "value": 393237
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostsCreditArisingDuringPeriodNetOfTax",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostsCreditArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1148875
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossNetOfTax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -796059
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -293923
+            },
+            {
+                "label": "Earnings per common share - continuing operations (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.17
+            },
+            {
+                "label": "Loss per common share - discontinued operations (in dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Earnings per common share - Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.17
+            },
+            {
+                "label": "Diluted earnings per common share - continuing operations (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.17
+            },
+            {
+                "label": "Diluted loss per common share - discontinued operations (in dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Earnings per common share - Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.17
+            }
+        ]
+    }
+}

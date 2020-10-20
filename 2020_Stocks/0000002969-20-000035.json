@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "APD",
+    "data": {
+        "bs": [
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 352000000.0
+            },
+            {
+                "label": "Operating lease liabilities, payables and accrued liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 67400000.0
+            },
+            {
+                "label": "Operating lease liabilities, other noncurrent liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 325700000.0
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 393100000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Before-tax share-based compensation cost",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 12500000.0
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense",
+                "unit": "usd",
+                "value": 3000000.0
+            },
+            {
+                "label": "After-tax share-based compensation cost",
+                "concept": "AllocatedShareBasedCompensationExpenseNetOfTax",
+                "unit": "usd",
+                "value": 9500000.0
+            }
+        ]
+    }
+}

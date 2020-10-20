@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AVA",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 67913265
+            },
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 67913265
+            },
+            {
+                "label": "Beginning Balance",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1975038000
+            },
+            {
+                "label": "Beginning Balance",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1975038000
+            },
+            {
+                "label": "Total Avista Corporation shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1975038000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 17453000
+            },
+            {
+                "label": "Change in unfunded benefit obligation for pension and other postretirement benefit plans - net of taxes of $59, $42, $113 and $85 respectively",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 220000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 220000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 17673000
+            },
+            {
+                "label": "Comprehensive income attributable to Avista Corporation shareholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 17673000
+            }
+        ]
+    }
+}

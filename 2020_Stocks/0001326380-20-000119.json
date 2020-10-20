@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-05-03",
+    "endDate": "2020-08-01",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GME",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 735100000.0
+            },
+            {
+                "label": "Receivables, net",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 83100000.0
+            },
+            {
+                "label": "Merchandise inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 474600000.0
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 87100000.0
+            },
+            {
+                "label": "Assets held-for-sale",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1379900000.0
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 219700000.0
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 689000000.0
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 29200000.0
+            },
+            {
+                "label": "Other noncurrent assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 57400000.0
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2375200000.0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 256399999.99999997
+            },
+            {
+                "label": "Accrued liabilities and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 580700000.0
+            },
+            {
+                "label": "Current portion of operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 218800000.0
+            },
+            {
+                "label": "Short-term debt, including current portion of long-term debt, net",
+                "concept": "gme:DebtExcludingLineOfCreditCurrent",
+                "unit": "usd",
+                "value": 221300000.0
+            },
+            {
+                "label": "Borrowings under revolving line of credit",
+                "concept": "LinesOfCreditCurrent",
+                "unit": "usd",
+                "value": 35000000.0
+            },
+            {
+                "label": "Liabilities held-for-sale",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1312200000.0
+            },
+            {
+                "label": "Long-term debt, net",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 215900000.0
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 475500000.0
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 19300000.0
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2022900000.0
+            },
+            {
+                "label": "Commitments and contingencies (Note 7)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Class A common stock \u2014 $.001 par value; 300 shares authorized; 65.2, 90.5 and 64.3 shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 2900000.0
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 63900000.0
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 413200000.0
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 352300000.0
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2375200000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 111300000.0
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 27000000.0
+            },
+            {
+                "label": "Total comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 84300000.0
+            }
+        ]
+    }
+}

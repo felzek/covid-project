@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DFFN",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 32876655
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 32876655
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 2173183
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1458257
+            },
+            {
+                "label": "us-gaap_DepreciationNonproduction",
+                "concept": "DepreciationNonproduction",
+                "unit": "usd",
+                "value": 27021
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -3658461
+            },
+            {
+                "label": "us-gaap_InterestIncomeExpenseNonoperatingNet",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 25913
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -3632548
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -507325
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -3125223
+            },
+            {
+                "label": "dffn_DeemedDividendFromWarrantExchange",
+                "concept": "dffn:DeemedDividendFromWarrantExchange",
+                "unit": "usd",
+                "value": 1950378
+            },
+            {
+                "label": "Net loss attributable to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -5075601
+            },
+            {
+                "label": "Net loss per share of common stock, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.1
+            },
+            {
+                "label": "Weighted average shares outstanding, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 51978286
+            }
+        ]
+    }
+}

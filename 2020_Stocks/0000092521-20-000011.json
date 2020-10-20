@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SPS",
+    "data": {
+        "bs": [
+            {
+                "label": "Inventories",
+                "concept": "PublicUtilitiesInventory",
+                "unit": "usd",
+                "value": 33500000.0
+            },
+            {
+                "label": "Inventory, Net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 33500000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 71700000.0
+            },
+            {
+                "label": "Other Comprehensive (Income) Loss, Defined Benefit Plan, Prior Service Cost (Credit), Reclassification Adjustment from AOCI, after Tax",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI on Derivatives, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent, Total",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 71800000.0
+            }
+        ]
+    }
+}

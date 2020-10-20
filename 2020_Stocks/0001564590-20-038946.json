@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BY",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH AND CASH EQUIVALENTS, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 139931000
+            },
+            {
+                "label": "CASH AND CASH EQUIVALENTS, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 139931000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 9139000
+            },
+            {
+                "label": "Unrealized holding gains arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 13402000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 3732000
+            },
+            {
+                "label": "Net of tax",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 9670000
+            },
+            {
+                "label": "Reclassification adjustments for net losses (gains) included in net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTax",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Net of tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 9685000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 18824000
+            }
+        ]
+    }
+}

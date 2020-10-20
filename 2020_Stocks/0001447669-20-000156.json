@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "TWLO",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating right-of-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 196647000
+            },
+            {
+                "label": "Finance lease assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 16333000
+            },
+            {
+                "label": "Total leased assets",
+                "concept": "twlo:LeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 212980000
+            },
+            {
+                "label": "Operating lease liability, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 35287000
+            },
+            {
+                "label": "Finance lease liability, current",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 7134000
+            },
+            {
+                "label": "Operating lease liability, noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 172408000
+            },
+            {
+                "label": "Finance lease liability, noncurrent",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 10116000
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "twlo:LeaseLiability",
+                "unit": "usd",
+                "value": 224945000
+            },
+            {
+                "label": "Operating lease accumulated amortization",
+                "concept": "twlo:LesseeOperatingLeaseAccumulatedAmortization",
+                "unit": "usd",
+                "value": 41000000.0
+            },
+            {
+                "label": "Finance lease accumulated amortization",
+                "concept": "FinanceLeaseRightOfUseAssetAccumulatedAmortization",
+                "unit": "usd",
+                "value": 9700000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 400849000
+            },
+            {
+                "label": "Cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 191718000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 209131000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 120701000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 129823000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 61251000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 311775000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 102644000
+            },
+            {
+                "label": "Other income (expenses), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 3015000
+            },
+            {
+                "label": "Loss before (provision) benefit for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 99629000
+            },
+            {
+                "label": "(Provision) benefit for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 294000
+            },
+            {
+                "label": "Net loss attributable to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 99923000
+            },
+            {
+                "label": "Net loss per share attributable to common stockholders, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.71
+            },
+            {
+                "label": "Weighted-average shares used to compute net loss per share attributable to common stockholders, basic\u00a0and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 141618541
+            }
+        ]
+    }
+}

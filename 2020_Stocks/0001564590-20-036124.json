@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CIX",
+    "data": {
+        "bs": [
+            {
+                "label": "Balance at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 62450000
+            },
+            {
+                "label": "Balance at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 62450000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 23800000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 16434000
+            },
+            {
+                "label": "Gross margin",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 7366000
+            },
+            {
+                "label": "Selling, general and administrative expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4997000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 2369000
+            },
+            {
+                "label": "Interest income from related party and dividend income.",
+                "concept": "cix:InterestIncomeFromRelatedPartyAndDividendIncome",
+                "unit": "usd",
+                "value": 370000
+            },
+            {
+                "label": "Income before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2739000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 674000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2065000
+            },
+            {
+                "label": "Basic and diluted net income per common share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.17
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 12446000
+            }
+        ]
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "startDate": "2019-05-01",
+    "endDate": "2020-04-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "VALU",
+    "data": {
+        "bs": [],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 15663000
+            },
+            {
+                "label": "us-gaap_DepreciationDepletionAndAmortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 266000
+            },
+            {
+                "label": "us-gaap_EquitySecuritiesFvNiRealizedGainLoss",
+                "concept": "EquitySecuritiesFvNiRealizedGainLoss",
+                "unit": "usd",
+                "value": -581000
+            },
+            {
+                "label": "Profits interest in EAM Trust",
+                "concept": "valu:NonVotingProfitsInterestInUnconsolidatedEntity",
+                "unit": "usd",
+                "value": 1166000
+            },
+            {
+                "label": "Revenues interest in EAM Trust",
+                "concept": "valu:NonVotingRevenuesInterestInUnconsolidatedEntity",
+                "unit": "usd",
+                "value": 11184000
+            },
+            {
+                "label": "Revenues distribution received from EAM Trust",
+                "concept": "valu:RevenuesDistributionFromVariableInterestEntitiesOperatingActivities",
+                "unit": "usd",
+                "value": 10588000
+            },
+            {
+                "label": "Profits distributions received from EAM Trust",
+                "concept": "valu:ProfitsDistributionsFromVariableInterestEntitiesOperatingActivities",
+                "unit": "usd",
+                "value": 1222000
+            },
+            {
+                "label": "valu_NoncashDeferredRentExpenses",
+                "concept": "valu:NoncashDeferredRentExpenses",
+                "unit": "usd",
+                "value": 99000
+            },
+            {
+                "label": "us-gaap_DeferredIncomeTaxExpenseBenefit",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 267000
+            },
+            {
+                "label": "us-gaap_OtherNoncashIncomeExpense",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerLiability",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -745000
+            },
+            {
+                "label": "Accounts payable & accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -12000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccruedSalaries",
+                "concept": "IncreaseDecreaseInAccruedSalaries",
+                "unit": "usd",
+                "value": -66000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 898000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInIncomeTaxesReceivable",
+                "concept": "IncreaseDecreaseInIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": -254000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -14000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 2934000
+            },
+            {
+                "label": "us-gaap_AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities",
+                "concept": "AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -1918000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 13745000
+            },
+            {
+                "label": "Proceeds from sales of equity securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesEquity",
+                "unit": "usd",
+                "value": 4387000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireAvailableForSaleSecuritiesEquity",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesEquity",
+                "unit": "usd",
+                "value": 9302000
+            },
+            {
+                "label": "Proceeds from sales of fixed income securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 8663000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 12403000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "us-gaap_PaymentsForSoftware",
+                "concept": "PaymentsForSoftware",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -8657000
+            },
+            {
+                "label": "us-gaap_PaymentsForRepurchaseOfCommonStock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 1214000
+            },
+            {
+                "label": "Proceeds from SBA loan",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 2331000
+            },
+            {
+                "label": "valu_IncreaseDecreaseInReceivablesFromBrokersdealersAndClearingOrganizationsFinancingActivities",
+                "concept": "valu:IncreaseDecreaseInReceivablesFromBrokersdealersAndClearingOrganizationsFinancingActivities",
+                "unit": "usd",
+                "value": 608000
+            },
+            {
+                "label": "valu_IncreaseDecreaseInPayablesToBrokerdealersAndClearingOrganizationsFinancingActivities",
+                "concept": "valu:IncreaseDecreaseInPayablesToBrokerdealersAndClearingOrganizationsFinancingActivities",
+                "unit": "usd",
+                "value": 588000
+            },
+            {
+                "label": "us-gaap_PaymentsOfDividendsCommonStock",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 7724000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -6627000
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -1539000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 15663000
+            },
+            {
+                "label": "Change in unrealized gains on securities, net of taxes",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -623000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossNetOfTax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -623000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 15040000
+            }
+        ]
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "IDXX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 105293000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 320320000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 229377000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 124622000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 779612000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 550895000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 82407000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 235426000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 55619000
+            },
+            {
+                "label": "Other long-term assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 256754000
+            },
+            {
+                "label": "Total long-term assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 1181101000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1960713000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 73903000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 308768000
+            },
+            {
+                "label": "Line of credit",
+                "concept": "LinesOfCreditCurrent",
+                "unit": "usd",
+                "value": 121596000
+            },
+            {
+                "label": "Current portion of deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 36317000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 540584000
+            },
+            {
+                "label": "Deferred income tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 36599000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "SecuredLongTermDebt",
+                "unit": "usd",
+                "value": 899562000
+            },
+            {
+                "label": "Long-term deferred revenue, net of current portion",
+                "concept": "ContractWithCustomerLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 57764000
+            },
+            {
+                "label": "Long-term operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 68597000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 84207000
+            },
+            {
+                "label": "Total long-term liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1146729000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1687313000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 16)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.10 par value: Authorized: 120,000 shares; Issued: 106,031 shares in 2020 and 105,711 shares in 2019; Outstanding: 85,049 shares in 2020 and 85,471 shares in 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 10603000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1247456000
+            },
+            {
+                "label": "Deferred stock units: Outstanding: 147 units in 2020 and 143 units in 2019",
+                "concept": "CommonStockOtherValueOutstanding",
+                "unit": "usd",
+                "value": 5402000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1854586000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 57032000
+            },
+            {
+                "label": "Treasury stock, at cost: 20,981 shares in 2020 and 20,240 shares in 2019",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 2788052000
+            },
+            {
+                "label": "Total IDEXX Laboratories, Inc. stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 272963000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 437000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 273400000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1960713000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 148996000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 7006000
+            },
+            {
+                "label": "Unrealized (loss) gain on Euro-denominated notes, net of tax (benefit) expense of $(532) and $(202) in 2020 and $(309) and $158 in 2019",
+                "concept": "idxx:OtherComprehensiveIncomeLossNetInvestmentHedgeEuroDenominatedNotesGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 1689000
+            },
+            {
+                "label": "Unrealized (loss) gain on investments, net of tax (benefit) expense of $(93) and $(181) in 2020 and $(14) and $114 in 2019",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 295000
+            },
+            {
+                "label": "Unrealized gain (loss) on foreign currency exchange contracts, net of tax (benefit) expense of $(805) and $1,247 in 2020 and $(21) and $203 in 2019",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 3888000
+            },
+            {
+                "label": "Unrealized gain (loss) on cross currency swaps, net of tax expense (benefit) expense of $(283) and $586 in 2020 and $(148) and $159 in 2019",
+                "concept": "idxx:OtherComprehensiveIncomeLossNetInvestmentHedgeCrossCurrencySwapsGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 1447000
+            },
+            {
+                "label": "Reclassification adjustment for (gain) included in net income, net of tax (expense) of $(339) and $(579) in 2020 and $(358) and $(607) in 2019",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 1473000
+            },
+            {
+                "label": "Unrealized (loss) gain on derivative instruments",
+                "concept": "idxx:OtherComprehensiveIncomeLossCashFlowHedgeAndNetInvestmentHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 6808000
+            },
+            {
+                "label": "Other comprehensive (loss) gain, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1786000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 147210000
+            },
+            {
+                "label": "Less: Comprehensive income (loss) attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 56000
+            },
+            {
+                "label": "Comprehensive income attributable to IDEXX Laboratories, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 147154000
+            }
+        ]
+    }
+}

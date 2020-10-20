@@ -1,0 +1,44 @@
+{
+    "startDate": "2020-04-06",
+    "endDate": "2020-07-05",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SYPR",
+    "data": {
+        "bs": [
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 11518000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 11518000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Service cost",
+                "concept": "DefinedBenefitPlanServiceCost",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Other (income), net",
+                "concept": "NetPeriodicDefinedBenefitsExpenseReversalOfExpenseExcludingServiceCostComponent",
+                "unit": "usd",
+                "value": 154000
+            },
+            {
+                "label": "us-gaap_DefinedBenefitPlanNetPeriodicBenefitCost",
+                "concept": "DefinedBenefitPlanNetPeriodicBenefitCost",
+                "unit": "usd",
+                "value": 155000
+            }
+        ]
+    }
+}

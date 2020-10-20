@@ -1,0 +1,645 @@
+{
+    "startDate": "2019-04-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "PYX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 170208000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 2486000
+            },
+            {
+                "label": "Trade receivables, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 226742000
+            },
+            {
+                "label": "Other receivables",
+                "concept": "AccountsAndOtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 12997000
+            },
+            {
+                "label": "Accounts receivable, related parties",
+                "concept": "AccountsReceivableRelatedParties",
+                "unit": "usd",
+                "value": 5030000
+            },
+            {
+                "label": "Notes receivable, related parties",
+                "concept": "NotesReceivableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 406000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryFinishedGoodsAndWorkInProcess",
+                "unit": "usd",
+                "value": 730019000
+            },
+            {
+                "label": "Advances to suppliers, net",
+                "concept": "AdvancesOnInventoryPurchases",
+                "unit": "usd",
+                "value": 38877000
+            },
+            {
+                "label": "Recoverable income taxes",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": 7562000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 23383000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 14658000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1232368000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 389000
+            },
+            {
+                "label": "Long-term notes receivable, related parties",
+                "concept": "NotesReceivableRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 7450000
+            },
+            {
+                "label": "Investments in unconsolidated affiliates",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 67967000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 65948000
+            },
+            {
+                "label": "Deferred income taxes, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Long-term recoverable income taxes",
+                "concept": "IncomeTaxesReceivableNoncurrent",
+                "unit": "usd",
+                "value": 3038000
+            },
+            {
+                "label": "Other deferred charges",
+                "concept": "DeferredFinanceCostsNoncurrentNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other noncurrent assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 48434000
+            },
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 41471000
+            },
+            {
+                "label": "Property, plant, and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 295996000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1763063000
+            },
+            {
+                "label": "Notes payable to banks",
+                "concept": "NotesPayableToBank",
+                "unit": "usd",
+                "value": 540157000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 67094000
+            },
+            {
+                "label": "Accounts payable, related parties",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 11820000
+            },
+            {
+                "label": "Advances from customers",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 18810000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 89928000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 5049000
+            },
+            {
+                "label": "Operating leases payable",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 11160000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 45048000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 789066000
+            },
+            {
+                "label": "Long-term taxes payable",
+                "concept": "AccruedIncomeTaxesNoncurrent",
+                "unit": "usd",
+                "value": 8543000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 904316000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 22903000
+            },
+            {
+                "label": "Liability for unrecognized tax benefits",
+                "concept": "LiabilityForUncertainTaxPositionsNoncurrent",
+                "unit": "usd",
+                "value": 12311000
+            },
+            {
+                "label": "Long-term leases",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 27843000
+            },
+            {
+                "label": "Pension, postretirement, and other long-term liabilities",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 74389000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1839371000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "250,000 authorized shares, 9,976 issued and outstanding (9,881 at March 31, 2019)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 469677000
+            },
+            {
+                "label": "Retained deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 488545000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 59132000
+            },
+            {
+                "label": "Total stockholders\u2019 (deficit) equity of Pyxus International, Inc.",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 78000000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1692000
+            },
+            {
+                "label": "Total stockholders' (deficit) equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 76308000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1763063000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net (loss) income",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 270319000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 35828000
+            },
+            {
+                "label": "Debt amortization/interest",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 12875000
+            },
+            {
+                "label": "Debt retirement benefit",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Asset impairment charges",
+                "concept": "RestructuringCosts",
+                "unit": "usd",
+                "value": 34813000
+            },
+            {
+                "label": "Remeasurement loss (gain) on foreign currency transactions",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 14105000
+            },
+            {
+                "label": "Gain on sale of property, plant, and equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 6539000
+            },
+            {
+                "label": "Gain on insurance proceeds received for destroyed buildings and equipment",
+                "concept": "pyx:GainonAcquisitionofSubsidiariesNetofCashAcquired",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "Bad debt expenses (recovery)",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 8644000
+            },
+            {
+                "label": "Loss (income) from unconsolidated affiliates, net of dividends",
+                "concept": "IncomeLossFromEquityMethodInvestmentsNetOfDividendsOrDistributions",
+                "unit": "usd",
+                "value": 820000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1231000
+            },
+            {
+                "label": "Trade and other receivables",
+                "concept": "IncreaseDecreaseInAccountsAndOtherReceivables",
+                "unit": "usd",
+                "value": 186334000
+            },
+            {
+                "label": "Inventories and advances to tobacco suppliers",
+                "concept": "pyx:InventoriesAndAdvancesToSuppliers",
+                "unit": "usd",
+                "value": 82639000
+            },
+            {
+                "label": "Deferred items",
+                "concept": "pyx:DeferredItemsExpenseBenefit",
+                "unit": "usd",
+                "value": 105977000
+            },
+            {
+                "label": "Recoverable income taxes",
+                "concept": "IncreaseDecreaseInIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 2955000
+            },
+            {
+                "label": "Payables and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 15607000
+            },
+            {
+                "label": "Advances from customers",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 3354000
+            },
+            {
+                "label": "Current derivative asset",
+                "concept": "IncreaseDecreaseInDerivativeAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaids",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 16945000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 2462000
+            },
+            {
+                "label": "Other operating assets and liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 4849000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 7474000
+            },
+            {
+                "label": "Net cash used by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 358622000
+            },
+            {
+                "label": "Purchases of property, plant, and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 61063000
+            },
+            {
+                "label": "Intangibles, including internally developed software costs",
+                "concept": "PaymentsToDevelopSoftware",
+                "unit": "usd",
+                "value": 3236000
+            },
+            {
+                "label": "Proceeds from sale of property, plant, and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 9677000
+            },
+            {
+                "label": "Collections on beneficial interests on securitized trade receivables",
+                "concept": "ProceedsFromCollectionOfRetainedInterestInSecuritizedReceivables",
+                "unit": "usd",
+                "value": 240994000
+            },
+            {
+                "label": "Loans to unconsolidated affiliates",
+                "concept": "PaymentsToFundLongtermLoansToRelatedParties",
+                "unit": "usd",
+                "value": 5250000
+            },
+            {
+                "label": "Insurance proceeds received for destroyed buildings and equipment",
+                "concept": "ProceedsFromInsuranceSettlementInvestingActivities",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "Payments to acquire equity method investments",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments to acquire controlling interests, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 213000
+            },
+            {
+                "label": "Net cash provided by investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 181353000
+            },
+            {
+                "label": "Net proceeds (repayments) of short-term borrowings",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 122524000
+            },
+            {
+                "label": "Proceeds from revolving loan facilities",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 44900000
+            },
+            {
+                "label": "Proceeds from long-term borrowings",
+                "concept": "ProceedsFromIssuanceOfOtherLongTermDebt",
+                "unit": "usd",
+                "value": 500000
+            },
+            {
+                "label": "Repayment of long-term borrowings",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 335000
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 6313000
+            },
+            {
+                "label": "Additional investment in consolidated affiliates",
+                "concept": "PaymentsForRepurchaseOfRedeemableNoncontrollingInterest",
+                "unit": "usd",
+                "value": 921000
+            },
+            {
+                "label": "Other, net",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 480000
+            },
+            {
+                "label": "Net cash provided (used) by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 159875000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 7333000
+            },
+            {
+                "label": "Decrease in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 24727000
+            },
+            {
+                "label": "Cash paid for income taxes, net",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 20549000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 121179000
+            },
+            {
+                "label": "Cash received from interest",
+                "concept": "ProceedsFromInterestReceived",
+                "unit": "usd",
+                "value": 4066000
+            },
+            {
+                "label": "Purchases of property, plant, and equipment included in accounts payable",
+                "concept": "NoncashOrPartNoncashAcquisitionFixedAssetsAcquired1",
+                "unit": "usd",
+                "value": 2087000
+            },
+            {
+                "label": "Sales of property, plant, and equipment included in notes receivable",
+                "concept": "NoncashOrPartNoncashDivestitureAmountOfConsiderationReceived1",
+                "unit": "usd",
+                "value": 334000
+            },
+            {
+                "label": "Beneficial interests obtained in exchange for transferring trade receivables in a securitization transaction",
+                "concept": "CashFlowsBetweenTransferorAndTransfereeBeneficialInterest",
+                "unit": "usd",
+                "value": 229751000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 270319000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 583000
+            },
+            {
+                "label": "Pension and other postretirement benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 405000
+            },
+            {
+                "label": "Cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 3145000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2157000
+            },
+            {
+                "label": "Total comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 268162000
+            },
+            {
+                "label": "Comprehensive loss attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5711000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Pyxus International, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 262451000
+            }
+        ]
+    }
+}

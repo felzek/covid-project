@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RETA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 610419000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 610419000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Collaboration revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 3073000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 36783000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 16600000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 284000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 53667000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 16990000
+            },
+            {
+                "label": "Loss before taxes on income",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 67584000
+            },
+            {
+                "label": "(Benefit from) provision for taxes on income",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 67581000
+            },
+            {
+                "label": "Net loss per share\u2014basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 2.03
+            },
+            {
+                "label": "Weighted-average number of common shares used in net loss per share basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 33265778
+            }
+        ]
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MLP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Accounts receivable\u2014related parties",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 93000000
+            },
+            {
+                "label": "Accounts receivable\u2014third parties",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Materials and supplies",
+                "concept": "InventoryRawMaterialsAndSupplies",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 128000000
+            },
+            {
+                "label": "Equity investments",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 3340000000
+            },
+            {
+                "label": "Net properties, plants and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 3500000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 185000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 50000000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 7203000000
+            },
+            {
+                "label": "Accounts payable\u2014related parties",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 18000000
+            },
+            {
+                "label": "Accounts payable\u2014third parties",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 88000000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 34000000
+            },
+            {
+                "label": "Deferred revenues",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 24000000
+            },
+            {
+                "label": "Short-term debt",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 265000000
+            },
+            {
+                "label": "Accrued property and other taxes",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 22000000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 455000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 3442000000
+            },
+            {
+                "label": "Obligation from equity interest transfer",
+                "concept": "LiabilitiesOfBusinessTransferredUnderContractualArrangementNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 93000000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3990000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Total unitholders\u2019 equity",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 2908000000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "PartnersCapitalAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 305000000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3213000000
+            },
+            {
+                "label": "Total Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 7203000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "mlp:NetIncomeLossAttributableToPartners",
+                "unit": "usd",
+                "value": 255000000
+            },
+            {
+                "label": "Distributions declared",
+                "concept": "mlp:AvailableCashDistributedOrToBeDistributed",
+                "unit": "usd",
+                "value": 209000000
+            },
+            {
+                "label": "Distributions less than net income",
+                "concept": "UndistributedEarningsLossAllocatedToParticipatingSecuritiesBasic",
+                "unit": "usd",
+                "value": 46000000
+            }
+        ]
+    }
+}

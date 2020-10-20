@@ -1,0 +1,248 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AREB",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 321890
+            },
+            {
+                "label": "Accounts Receivable",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 313063
+            },
+            {
+                "label": "Prepaid expense",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 190383
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 870562
+            },
+            {
+                "label": "Inventory deposits",
+                "concept": "InventoryWorkInProcess",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1695898
+            },
+            {
+                "label": "Property and Equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 35976
+            },
+            {
+                "label": "Lease Deposit",
+                "concept": "CostMethodInvestments",
+                "unit": "usd",
+                "value": 6841
+            },
+            {
+                "label": "Total Other Assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 6841
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1738715
+            },
+            {
+                "label": "Accounts payable and accrued expense",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 654509
+            },
+            {
+                "label": "Loan - Officer - Related party",
+                "concept": "OtherLoansPayableCurrent",
+                "unit": "usd",
+                "value": 4496
+            },
+            {
+                "label": "Loan - Working Capital, net of discounts of $568,665 and $147,823",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 3964880
+            },
+            {
+                "label": "Loans - Nonrelated parties",
+                "concept": "LoansPayableToBankCurrent",
+                "unit": "usd",
+                "value": 15649
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 5065679
+            },
+            {
+                "label": "Convertible Debenture -Related party, net of discounts of $92,110 and $137,110",
+                "concept": "DueToRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 252890
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5318569
+            },
+            {
+                "label": "Preferred Stock, Value",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common Stock, Value",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 61558
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 14531797
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -18173209
+            },
+            {
+                "label": "TOTAL STOCKHOLDERS' EQUITY (DEFICIT)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -3579854
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1738715
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 269662
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 196035
+            },
+            {
+                "label": "Gross margin",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 73627
+            },
+            {
+                "label": "Consulting - business development",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 116818
+            },
+            {
+                "label": "Product development costs",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 132692
+            },
+            {
+                "label": "Marketing and brand development costs",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 53281
+            },
+            {
+                "label": "Administrative and other",
+                "concept": "OtherGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 450440
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "DepreciationNonproduction",
+                "unit": "usd",
+                "value": 15507
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -695111
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 416287
+            },
+            {
+                "label": "Net income (loss) before income tax provision",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1111398
+            },
+            {
+                "label": "Provision for income tax",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1111398
+            },
+            {
+                "label": "Basic and diluted income (loss) per share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "Weighted average common shares outstanding - basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 61012000
+            }
+        ]
+    }
+}

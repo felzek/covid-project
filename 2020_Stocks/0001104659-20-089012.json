@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RES",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 145405000
+            },
+            {
+                "label": "Cash and Cash Equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 145405000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 25093000
+            },
+            {
+                "label": "Other Comprehensive (Income) Loss, Pension and Other Postretirement Benefit Plans, Adjustment, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 186000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net Of Tax, Portion Attributable To Parent, Total",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 314000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net Of Tax, Attributable To Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 24593000
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "COLM",
+    "data": {
+        "bs": [
+            {
+                "label": "Common Stock, Shares, Outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 66148000
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1652829000
+            },
+            {
+                "label": "Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1652829000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income attributable to Columbia Sportswear Company",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 50707000
+            },
+            {
+                "label": "Unrealized gains (losses) on derivative transactions (net of tax effects of $1,521, $827, $(2,624) and $432, respectively)",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 4862000
+            },
+            {
+                "label": "Foreign currency translation adjustments (net of tax effects of $(460), $224, $37 and $887 respectively)",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6976000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2114000
+            },
+            {
+                "label": "Comprehensive income attributable to Columbia Sportswear Company",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 48593000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 1521000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": 460000
+            }
+        ]
+    }
+}

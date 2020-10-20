@@ -1,0 +1,255 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "AGYS",
+    "data": {
+        "bs": [
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 71350000
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 71350000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 517000
+            },
+            {
+                "label": "Depreciation of fixed assets",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 723000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": 461000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 84000
+            },
+            {
+                "label": "Share-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1426000
+            },
+            {
+                "label": "Changes in operating assets and liabilties.",
+                "concept": "agys:IncreaseDecreaseInOperatingAssetsAndLiabilties",
+                "unit": "usd",
+                "value": 6938000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 4929000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 243000
+            },
+            {
+                "label": "Additional investments in corporate-owned life insurance policies",
+                "concept": "PaymentsForProceedsFromLifeInsurancePolicies",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 245000
+            },
+            {
+                "label": "Repurchase of common shares to satisfy employee tax withholding",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 934000
+            },
+            {
+                "label": "Series A convertible preferred stock issuance proceeds, net of issuance costs",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 34063000
+            },
+            {
+                "label": "Principal payments under long-term obligations",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 33123000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 27951000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Total net revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 29807000
+            },
+            {
+                "label": "Total cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 11257000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 18550000
+            },
+            {
+                "label": "Product development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 8266000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 2601000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5719000
+            },
+            {
+                "label": "Depreciation of fixed assets",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 723000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": 461000
+            },
+            {
+                "label": "Severance and other charges",
+                "concept": "SeveranceCosts1",
+                "unit": "usd",
+                "value": 1203000
+            },
+            {
+                "label": "Total operating expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 18973000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 423000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Other expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 106000
+            },
+            {
+                "label": "Loss before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 509000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 517000
+            },
+            {
+                "label": "Accretion of convertible preferred stock issuance costs.",
+                "concept": "agys:AccretionOfConvertiblePreferredStockIssuanceCosts",
+                "unit": "usd",
+                "value": 937000
+            },
+            {
+                "label": "Accretion of convertible preferred stock dividends.",
+                "concept": "agys:AccretionOfConvertiblePreferredStockDividends",
+                "unit": "usd",
+                "value": 199000
+            },
+            {
+                "label": "Net loss available to common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 1653000
+            },
+            {
+                "label": "Weighted average shares outstanding - basic and diluted",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 23405000
+            },
+            {
+                "label": "Net loss per share - basic and diluted:",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            }
+        ]
+    }
+}

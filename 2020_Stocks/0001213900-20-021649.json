@@ -1,0 +1,170 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RLMD",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of the period",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 13824258
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": 120263581
+            },
+            {
+                "label": "Lease payments receivable \u2013 short term",
+                "concept": "LeaseIncentiveReceivableCurrent",
+                "unit": "usd",
+                "value": 76208
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 240534
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 134404581
+            },
+            {
+                "label": "Fixed assets, net of accumulated depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2935
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Lease payments receivable \u2013 long term",
+                "concept": "LeaseIncentiveReceivableNoncurrent",
+                "unit": "usd",
+                "value": 126935
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 134559451
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 965169
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1360933
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2326102
+            },
+            {
+                "label": "Common stock, $0.001 par value, 50,000,000 shares authorized, 15,851,853 and 14,457,013 shares issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 15852
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 273868163
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -141650666
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 132233349
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 134559451
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 5323953
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 7433249
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 12757202
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -12757202
+            },
+            {
+                "label": "Interest/investment income, net",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 404004
+            },
+            {
+                "label": "Total other (expenses) income",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1638761
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -11118441
+            },
+            {
+                "label": "Loss per common share \u2013 basic and diluted (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.73
+            },
+            {
+                "label": "Weighted average number of common shares outstanding \u2013 basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 15323051
+            }
+        ]
+    }
+}

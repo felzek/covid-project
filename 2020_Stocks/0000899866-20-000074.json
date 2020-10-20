@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ALXN",
+    "data": {
+        "bs": [
+            {
+                "label": "Balances, common shares",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 239200000.0
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Balances, common shares",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 239200000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1068099999.9999999
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1500000.0
+            },
+            {
+                "label": "Unrealized gains on debt securities",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Unrealized losses on hedging activities, net of tax of $(3.3) $(12.1) $(11.5) and $(14.3), respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 11200000.0
+            },
+            {
+                "label": "Other comprehensive loss, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 9400000.0
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1077500000.0
+            }
+        ]
+    }
+}

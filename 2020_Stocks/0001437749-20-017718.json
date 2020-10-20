@@ -1,0 +1,236 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BCDA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 11086000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts of $2 and $2 at June 30, 2020 and December 31, 2019",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 214000
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "bcda:PrepaidExpenseAndOtherCurrentAssets",
+                "unit": "usd",
+                "value": 277000
+            },
+            {
+                "label": "Other receivable due from related party",
+                "concept": "DueFromOtherRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 519000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 12096000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 154000
+            },
+            {
+                "label": "Operating lease right-of-use asset, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 824000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 54000
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 13128000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1525000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "bcda:AccruedLiabilitiesAndOtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2230000
+            },
+            {
+                "label": "Current portion of note payable",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 226000
+            },
+            {
+                "label": "Operating lease liability - current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 570000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4551000
+            },
+            {
+                "label": "Operating lease liability - noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 316000
+            },
+            {
+                "label": "Note payable, net of current portion",
+                "concept": "LongTermNotesPayable",
+                "unit": "usd",
+                "value": 281000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "DeferredRevenueNoncurrent",
+                "unit": "usd",
+                "value": 689000
+            },
+            {
+                "label": "us-gaap_Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5837000
+            },
+            {
+                "label": "Preferred stock, $0.001 par value, 25,000,000 shares authorized as of June 30, 2020 and December 31, 2019; no shares issued and outstanding as of June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value, 100,000,000 shares authorized as of June 30, 2020 and December 31, 2019; 12,425,794 and 6,825,183 shares issued and outstanding as of June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 116516000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -109237000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 7291000
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 13128000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 27000
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 2224000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1377000
+            },
+            {
+                "label": "us-gaap_CostsAndExpenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 3601000
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -3574000
+            },
+            {
+                "label": "Interest income",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -1000
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -3573000
+            },
+            {
+                "label": "Net loss per share, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.46
+            },
+            {
+                "label": "Weighted-average shares used in computing net loss per share, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 7710577
+            }
+        ]
+    }
+}

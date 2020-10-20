@@ -1,0 +1,212 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AMP",
+    "data": {
+        "bs": [
+            {
+                "label": "Available-for-Sale: Fixed maturities, at fair value (amortized cost: 2020, $19,512; 2019, $19,111) (net of allowance for credit losses: 2020, $13)",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 21587000000
+            },
+            {
+                "label": "Mortgage loans, at amortized cost (net of allowance for loan losses: 2020, $27; 2019, $17)",
+                "concept": "MortgageLoansOnRealEstateCommercialAndConsumerNet",
+                "unit": "usd",
+                "value": 2665000000
+            },
+            {
+                "label": "Policy loans",
+                "concept": "LoansInsurancePolicy",
+                "unit": "usd",
+                "value": 855000000
+            },
+            {
+                "label": "Other Investments (net of allowance for credit losses: 2020, $7; 2019, $4)",
+                "concept": "OtherInvestments",
+                "unit": "usd",
+                "value": 696000000
+            },
+            {
+                "label": "Total investments",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 25803000000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4040000000
+            },
+            {
+                "label": "Reinsurance recoverables (net of allowance for credit losses: 2020, $7)",
+                "concept": "ReinsuranceRecoverables",
+                "unit": "usd",
+                "value": 3234000000
+            },
+            {
+                "label": "Other receivables",
+                "concept": "OtherReceivables",
+                "unit": "usd",
+                "value": 1661000000
+            },
+            {
+                "label": "Accrued investment income",
+                "concept": "AccruedInvestmentIncomeReceivable",
+                "unit": "usd",
+                "value": 164000000
+            },
+            {
+                "label": "Deferred acquisition costs",
+                "concept": "DeferredPolicyAcquisitionCosts",
+                "unit": "usd",
+                "value": 2477000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 7169000000
+            },
+            {
+                "label": "Separate account assets",
+                "concept": "SeparateAccountAssets",
+                "unit": "usd",
+                "value": 79059000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 123607000000
+            },
+            {
+                "label": "Policyholder account balances, future policy benefits and claims",
+                "concept": "amp:PolicyholderAccountBalancesFuturePolicyBenefitsandClaims",
+                "unit": "usd",
+                "value": 33305000000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 200000000
+            },
+            {
+                "label": "Line of credit with Ameriprise Financial, Inc.",
+                "concept": "amp:LineofCreditwithParentasLender",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 7082000000
+            },
+            {
+                "label": "Separate account liabilities",
+                "concept": "SeparateAccountsLiability",
+                "unit": "usd",
+                "value": 79059000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 119646000000
+            },
+            {
+                "label": "Common stock, par value (in dollars per share)",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, shares issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 100000
+            },
+            {
+                "label": "Common stock, shares authorized (in shares)",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, Value, Issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 2466000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 787000000
+            },
+            {
+                "label": "Accumulated other comprehensive income, net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 705000000
+            },
+            {
+                "label": "Total shareholder's equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3961000000
+            },
+            {
+                "label": "Total liabilities and shareholder's equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 123607000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 793000000
+            },
+            {
+                "label": "Net unrealized gains (losses) on securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 526000000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 526000000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 267000000
+            }
+        ]
+    }
+}

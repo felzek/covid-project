@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CADE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1899369000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1899369000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 56114000
+            },
+            {
+                "label": "Net unrealized gains, net of income taxes of $1,502, $5,617, $16,651, and $12,399",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 4832000
+            },
+            {
+                "label": "Less reclassification adjustments for gains realized in net income, net of income taxes of $542, $217, $1,252, and $214",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 1744000
+            },
+            {
+                "label": "Net change in unrealized gains on securities available-for-sale, net of tax",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 3088000
+            },
+            {
+                "label": "Net unrealized gains, net of income taxes of $959, $21,282, $41,879, and $32,393",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 3087000
+            },
+            {
+                "label": "Less reclassification adjustments for gains (losses) realized in net income, net of income taxes of $4,307, $(339), $6,232, and $(688)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 13388000
+            },
+            {
+                "label": "Net change in unrealized gains (losses) on derivative instruments, net of tax",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 10301000
+            },
+            {
+                "label": "Other comprehensive (loss) income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 7213000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 63327000
+            }
+        ]
+    }
+}

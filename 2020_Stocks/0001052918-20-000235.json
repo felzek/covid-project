@@ -1,0 +1,350 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "BHLL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 61973
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 78692
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 102714
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 243379
+            },
+            {
+                "label": "Equipment (note 5)",
+                "concept": "MachineryAndEquipmentGross",
+                "unit": "usd",
+                "value": 207810
+            },
+            {
+                "label": "Right-of-use assets (note 6)",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 212755
+            },
+            {
+                "label": "Long term deposit",
+                "concept": "DepositsAssetsNoncurrent",
+                "unit": "usd",
+                "value": 68939
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 732884
+            },
+            {
+                "label": "Accounts payable (notes 7 and 16)",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 3431699
+            },
+            {
+                "label": "Accrued liabilities (notes 7 and 14)",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 6149448
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "DSU liability (note 13)",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 549664
+            },
+            {
+                "label": "Interest payable (notes 8 and 9)",
+                "concept": "InterestAndDividendsPayableCurrent",
+                "unit": "usd",
+                "value": 403933
+            },
+            {
+                "label": "Convertible loan payable (note 8)",
+                "concept": "ConvertibleDebtCurrent",
+                "unit": "usd",
+                "value": 1600000
+            },
+            {
+                "label": "Promissory notes payable (note 9)",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 836592
+            },
+            {
+                "label": "Current portion of lease liability (note 10)",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 102027
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 13073363
+            },
+            {
+                "label": "Lease liability (note 10)",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 112712
+            },
+            {
+                "label": "Derivative warrant liability (notes 8, 9 and 11)",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 18763797
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 31949872
+            },
+            {
+                "label": "Preferred shares, $0.000001 par value, 10,000,000 preferred shares authorized; No preferred shares issued and outstanding (note 11)",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common shares, $0.000001 par value, 750,000,000 common shares authorized; 79,259,940 and 15,811,396 common shares issued and outstanding, respectively (note 11)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 79
+            },
+            {
+                "label": "Additional paid-in-capital (note 11)",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 30212754
+            },
+            {
+                "label": "Shares to be issued",
+                "concept": "CommonStockSharesSubscribedButUnissued",
+                "unit": "shares",
+                "value": 549363
+            },
+            {
+                "label": "Deficit accumulated during the exploration stage",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -61979184
+            },
+            {
+                "label": "Total shareholders' deficiency",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -31216988
+            },
+            {
+                "label": "Total shareholders' deficiency and liabilities",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 732884
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss and comprehensive loss for the year",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -30627783
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 123956
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "FairValueOptionChangesInFairValueGainLoss1",
+                "unit": "usd",
+                "value": 18843947
+            },
+            {
+                "label": "Accretion expense",
+                "concept": "AccretionExpense",
+                "unit": "usd",
+                "value": 359267
+            },
+            {
+                "label": "Financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Loss on sale of equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Loss on loan extinguishment (note 8)",
+                "concept": "GainLossOnDispositionOfOtherFinancialAssets",
+                "unit": "usd",
+                "value": -9407
+            },
+            {
+                "label": "Interest expense on lease liability",
+                "concept": "InterestExpenseLesseeAssetsUnderCapitalLease",
+                "unit": "usd",
+                "value": 27062
+            },
+            {
+                "label": "Loss on debt settlement (note 11)",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -1056296
+            },
+            {
+                "label": "Accounts receivable {1}",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -35828
+            },
+            {
+                "label": "Deposit",
+                "concept": "IncreaseDecreaseInDeposits",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Prepaid expenses {1}",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -67542
+            },
+            {
+                "label": "Long term deposit {1}",
+                "concept": "IncreaseDecreaseInOtherDeposits",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 1852650
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 3253423
+            },
+            {
+                "label": "Other liabilities {1}",
+                "concept": "IncreaseDecreaseInOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": -11117
+            },
+            {
+                "label": "Interest payable",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 202426
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -3947214
+            },
+            {
+                "label": "Purchase of machinery and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 219528
+            },
+            {
+                "label": "Proceeds on disposal of equipment",
+                "concept": "ProceedsFromSaleOfMachineryAndEquipment",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net cash (used in) provided by investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -219528
+            },
+            {
+                "label": "Proceeds from convertible loan payable",
+                "concept": "ProceedsFromLoans",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from issuance of common stock, net of issue costs",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 2428530
+            },
+            {
+                "label": "Proceeds from warrants exercised",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": 417006
+            },
+            {
+                "label": "Lease payments",
+                "concept": "OperatingLeasePayments",
+                "unit": "usd",
+                "value": 120690
+            },
+            {
+                "label": "Proceeds from promissory notes",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 1084536
+            },
+            {
+                "label": "Repayment of promissory note",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 158094
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 4200651
+            },
+            {
+                "label": "Net change in cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 33909
+            }
+        ],
+        "ic": []
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CAR",
+    "data": {
+        "bs": [
+            {
+                "label": "Shares, Issued",
+                "concept": "SharesIssued",
+                "unit": "shares",
+                "value": 137100000.0
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 760000000
+            },
+            {
+                "label": "Operating",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 622000000
+            },
+            {
+                "label": "Vehicle depreciation and lease charges, net",
+                "concept": "CostOfGoodsAndServicesSoldDepreciation",
+                "unit": "usd",
+                "value": 374000000
+            },
+            {
+                "label": "Selling, General and Administrative Expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 132000000
+            },
+            {
+                "label": "Vehicle interest, net",
+                "concept": "car:VehicleInterestNet",
+                "unit": "usd",
+                "value": 87000000
+            },
+            {
+                "label": "Non-vehicle related depreciation and amortization",
+                "concept": "car:NonVehicleRelatedDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 71000000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 51000000
+            },
+            {
+                "label": "Early extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Restructuring and other related charges",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 28000000
+            },
+            {
+                "label": "Transaction-related costs, net",
+                "concept": "car:Transactionrelatedcostsnet",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 1369000000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 609000000
+            },
+            {
+                "label": "Provision for (benefit from) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 128000000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 481000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 448000000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 6.91
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 6.91
+            }
+        ]
+    }
+}

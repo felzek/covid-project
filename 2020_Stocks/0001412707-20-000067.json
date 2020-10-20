@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LEVL",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 364112000
+            },
+            {
+                "label": "Beginning cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 364112000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Dividend income from bank subsidiary",
+                "concept": "DividendIncomeOperating",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Borrowed funds",
+                "concept": "levl:InterestExpenseDebtLongTermAndShortTermCombinedAmountExcludingSubordinatedDebt",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Subordinated notes",
+                "concept": "InterestExpenseSubordinatedNotesAndDebentures",
+                "unit": "usd",
+                "value": 635000
+            },
+            {
+                "label": "Other expenses",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 278000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 924000
+            },
+            {
+                "label": "Income (loss) before income taxes and equity in (overdistributed) undistributed net earnings of subsidiaries",
+                "concept": "levl:IncomeLossFromContinuingOperationsBeforeTaxBeforeIncomeLossFromSubsidiariesNetOfTax",
+                "unit": "usd",
+                "value": 924000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 28000
+            },
+            {
+                "label": "Equity in (overdistributed) undistributed earnings of subsidiaries",
+                "concept": "IncomeLossFromSubsidiariesNetOfTax",
+                "unit": "usd",
+                "value": 3617000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2721000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1891000
+            },
+            {
+                "label": "Total comprehensive income, net of tax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4612000
+            }
+        ]
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 566000000
+            },
+            {
+                "label": "Restricted cash (including $73 and $64 from VIEs, respectively)",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 341000000
+            },
+            {
+                "label": "Accounts receivable, net (including $14 and $13 from VIEs, respectively)",
+                "concept": "vac:AccountsReceivableIncludingVariableInterestEntitiesAfterAllowanceforCreditLoss",
+                "unit": "usd",
+                "value": 287000000
+            },
+            {
+                "label": "Vacation ownership notes receivable, net (including $1,797 and $1,750 from VIEs, respectively)",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 2014000000
+            },
+            {
+                "label": "Inventory",
+                "concept": "vac:InventoryTimeshare",
+                "unit": "usd",
+                "value": 771000000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 835000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 2817000000
+            },
+            {
+                "label": "Intangibles, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 977000000
+            },
+            {
+                "label": "Other (including $42 and $39 from VIEs, respectively)",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 509000000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 9117000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 151000000
+            },
+            {
+                "label": "Advance deposits",
+                "concept": "vac:ContractWithCustomerLiabilityAdvanceDeposits",
+                "unit": "usd",
+                "value": 153000000
+            },
+            {
+                "label": "Accrued liabilities (including $2 and $2 from VIEs, respectively)",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 317000000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "vac:ContractWithCustomerLiabilityDeferredRevenue",
+                "unit": "usd",
+                "value": 470000000
+            },
+            {
+                "label": "Payroll and benefits liability",
+                "concept": "EmployeeRelatedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 153000000
+            },
+            {
+                "label": "Deferred compensation liability",
+                "concept": "DeferredCompensationLiabilityCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 112000000
+            },
+            {
+                "label": "Securitized debt, net (including $1,886 and $1,871 from VIEs, respectively)",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 1887000000
+            },
+            {
+                "label": "Debt, net",
+                "concept": "vac:DebtAndFinanceLeaseObligationsNet",
+                "unit": "usd",
+                "value": 2680000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 185000000
+            },
+            {
+                "label": "Deferred taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 289000000
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 6397000000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock \u2014 $0.01 par value; 2,000,000 shares authorized; none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock \u2014 $0.01 par value; 100,000,000 shares authorized; 75,249,855 and 75,020,272 shares issued, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Treasury stock \u2014 at cost; 34,192,119 and 33,438,176 shares, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 1334000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3736000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 75000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 371000000
+            },
+            {
+                "label": "TOTAL MVW SHAREHOLDERS' EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2699000000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "TOTAL EQUITY",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2720000000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 9117000000
+            },
+            {
+                "label": "Preferred stock, outstanding (in shares)",
+                "concept": "PreferredStockSharesOutstanding",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, issued (in shares)",
+                "concept": "PreferredStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, shares authorized (in shares)",
+                "concept": "PreferredStockSharesAuthorized",
+                "unit": "shares",
+                "value": 2000000
+            },
+            {
+                "label": "Preferred stock, par value (in usd per share)",
+                "concept": "PreferredStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, Par or Stated Value Per Share",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Common stock, shares authorized (in shares)",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": 100000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET (LOSS) INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 62000000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Derivative instrument adjustment, net of tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "OTHER COMPREHENSIVE GAIN (LOSS), NET OF TAX",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Other comprehensive income attributable to noncontrolling interests",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "COMPREHENSIVE INCOME ATTRIBUTABLE TO NONCONTROLLING INTERESTS",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "COMPREHENSIVE (LOSS) INCOME ATTRIBUTABLE TO COMMON SHAREHOLDERS",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 68000000
+            }
+        ]
+    }
+}

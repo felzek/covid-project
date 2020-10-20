@@ -1,0 +1,44 @@
+{
+    "startDate": "2020-05-02",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "SCWX",
+    "data": {
+        "bs": [
+            {
+                "label": "Net intercompany payable (included in \"Accrued and other current liabilities\")",
+                "concept": "RelatedPartyTransactionDueFromToRelatedParty",
+                "unit": "usd",
+                "value": 6827000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 28134000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1227000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1736000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 509000
+            }
+        ]
+    }
+}

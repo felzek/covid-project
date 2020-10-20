@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SLV",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_CashAndCashEquivalentsAtCarryingValue",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_CashAndCashEquivalentsAtCarryingValue",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sponsor's fees",
+                "concept": "slv:SponsorsFees",
+                "unit": "usd",
+                "value": 8953394
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 8953394
+            },
+            {
+                "label": "Net investment loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 8953394
+            },
+            {
+                "label": "Silver bullion sold to pay expenses",
+                "concept": "GainLossOnSaleOfTrustAssetsToPayExpenses",
+                "unit": "usd",
+                "value": 583239
+            },
+            {
+                "label": "Silver bullion distributed for the redemption of Shares",
+                "concept": "slv:NetRealizedGainLossFromSilverDistributedForTheRedemptionOfShares",
+                "unit": "usd",
+                "value": 10559630
+            },
+            {
+                "label": "Ending balance, realized gain (loss)",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 11142869
+            },
+            {
+                "label": "Net change in unrealized appreciation/depreciation",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 1686694147
+            },
+            {
+                "label": "us-gaap_GainLossOnInvestments",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 1675551278
+            },
+            {
+                "label": "Net increase (decrease) in net assets resulting from operations",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1666597884
+            },
+            {
+                "label": "Net increase (decrease) in net assets per Share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 3.51
+            }
+        ]
+    }
+}

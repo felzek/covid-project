@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "USWS",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Stockholders' Equity (Deficit)",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 63826000
+            },
+            {
+                "label": "Total Stockholders' Equity (Deficit)",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 63826000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 39837000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 17358000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5220000
+            },
+            {
+                "label": "Loss on disposal of assets",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 853000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 12605000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 5661000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 18221000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 18234000
+            },
+            {
+                "label": "Net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 97000
+            },
+            {
+                "label": "Net loss attributable to U.S. Well Services, Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 18137000
+            },
+            {
+                "label": "Deemed and imputed dividend on preferred stock.",
+                "concept": "usws:DeemedAndImputedDividendOnPreferredStock",
+                "unit": "usd",
+                "value": 4504000
+            },
+            {
+                "label": "Net loss attributable to U.S. Well Services, Inc. common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 25152000
+            },
+            {
+                "label": "Basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.38
+            },
+            {
+                "label": "Basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 65011000
+            }
+        ]
+    }
+}

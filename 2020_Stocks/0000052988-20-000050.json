@@ -1,0 +1,104 @@
+{
+    "startDate": "2020-03-28",
+    "endDate": "2020-06-26",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "JEC",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning balance",
+                "concept": "jec:FiniteLivedIntangibleAssetsNetAcquiredAsPartOfBusinessCombination",
+                "unit": "usd",
+                "value": 630778000
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "jec:FiniteLivedIntangibleAssetsNetAcquiredAsPartOfBusinessCombination",
+                "unit": "usd",
+                "value": 630778000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Earnings of the Group",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 254050000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 76288000
+            },
+            {
+                "label": "(Loss) gain on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 20944000
+            },
+            {
+                "label": "Change in pension and retiree medical plan liabilities",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 3405000
+            },
+            {
+                "label": "Other comprehensive income before taxes",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 58749000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": 22062000
+            },
+            {
+                "label": "Cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationTax",
+                "unit": "usd",
+                "value": 6262000
+            },
+            {
+                "label": "Change in pension and retiree medical plan liabilities",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 8324000
+            },
+            {
+                "label": "Income Tax (Expense) Benefit:",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 24124000
+            },
+            {
+                "label": "Net other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 34625000
+            },
+            {
+                "label": "Net Comprehensive Income of the Group",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 288675000
+            },
+            {
+                "label": "Net (Earnings) Loss Attributable to Noncontrolling Interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9121000
+            },
+            {
+                "label": "Net Comprehensive Income Attributable to Jacobs",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 279554000
+            }
+        ]
+    }
+}

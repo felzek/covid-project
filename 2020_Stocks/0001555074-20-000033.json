@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AAMC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 15845000
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "OtherShortTermInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Front Yard common stock, at fair value",
+                "concept": "EquitySecuritiesFvNi",
+                "unit": "usd",
+                "value": 14133000
+            },
+            {
+                "label": "Receivable from Front Yard",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 3886000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 2328000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 36192000
+            },
+            {
+                "label": "Right-of-use lease assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 4070000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 1980000
+            },
+            {
+                "label": "Total non-current assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 6050000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 42242000
+            },
+            {
+                "label": "Accrued salaries and employee benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 5577000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1380000
+            },
+            {
+                "label": "Short-term lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 280000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 7237000
+            },
+            {
+                "label": "Long-term lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 3972000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 11209000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value, 250,000 shares issued and outstanding as of June\u00a030, 2020 and December\u00a031, 2019; redemption value $250,000",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 250000000
+            },
+            {
+                "label": "Common stock, $0.01 par value, 5,000,000 authorized shares; 2,942,597 and 1,632,117 shares issued and outstanding, respectively, as of June\u00a030, 2020 and 2,897,177 and 1,598,512 shares issued and outstanding, respectively, as of December\u00a031, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 29000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 45530000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 12028000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 126000
+            },
+            {
+                "label": "Treasury stock, at cost, 1,310,480 shares as of June\u00a030, 2020 and 1,298,665 shares as of December\u00a031, 2019",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 276428000
+            },
+            {
+                "label": "Total stockholders' deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 218967000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 42242000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7835000
+            },
+            {
+                "label": "Currency translation adjustments, net",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Total other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 7839000
+            }
+        ]
+    }
+}

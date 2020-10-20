@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OAS",
+    "data": {
+        "bs": [
+            {
+                "label": "Inventory",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationInventory1",
+                "unit": "usd",
+                "value": 580000
+            },
+            {
+                "label": "Other property and equipment",
+                "concept": "oas:DisposalGroupIncludingDiscontinuedOperationPropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 67617000
+            },
+            {
+                "label": "Less: Accumulated depreciation and impairment",
+                "concept": "oas:DisposalGroupIncludingDiscontinuedOperationPropertyPlantAndEquipmentAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 66817000
+            },
+            {
+                "label": "Total assets held for sale",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": 1400000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 166352000
+            },
+            {
+                "label": "Lease operating expenses",
+                "concept": "OperatingLeaseExpense",
+                "unit": "usd",
+                "value": 29608000
+            },
+            {
+                "label": "Marketing, transportation and gathering expenses",
+                "concept": "ResultsOfOperationsTransportationCosts",
+                "unit": "usd",
+                "value": 23765000
+            },
+            {
+                "label": "Production taxes",
+                "concept": "ProductionTaxExpense",
+                "unit": "usd",
+                "value": 6764000
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 33130000
+            },
+            {
+                "label": "Exploration expenses",
+                "concept": "ExplorationExpense",
+                "unit": "usd",
+                "value": 1430000
+            },
+            {
+                "label": "Impairment",
+                "concept": "ImpairmentOfOilAndGasProperties",
+                "unit": "usd",
+                "value": 2319000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 37443000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 176529000
+            },
+            {
+                "label": "Gain (loss) on sale of properties",
+                "concept": "GainLossOnSaleOfProperty",
+                "unit": "usd",
+                "value": 1047000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 11224000
+            },
+            {
+                "label": "Net gain (loss) on derivative instruments",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": 37187000
+            },
+            {
+                "label": "Interest expense, net of capitalized interest",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 44388000
+            },
+            {
+                "label": "Gain on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 837000
+            },
+            {
+                "label": "Total other income (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 80738000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 91962000
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 2613000
+            },
+            {
+                "label": "Net income (loss) including non-controlling interests",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 89349000
+            },
+            {
+                "label": "Less: Net income (loss) attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3594000
+            },
+            {
+                "label": "Net income (loss) attributable to Oasis",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 92943000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.29
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.29
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 317629000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 317629000
+            }
+        ]
+    }
+}

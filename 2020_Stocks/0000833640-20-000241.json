@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "POWI",
+    "data": {
+        "bs": [
+            {
+                "label": "2020 (remaining six months)",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseRemainderOfFiscalYear",
+                "unit": "usd",
+                "value": 2152000
+            },
+            {
+                "label": "2021",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo",
+                "unit": "usd",
+                "value": 3494000
+            },
+            {
+                "label": "2022",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseYearThree",
+                "unit": "usd",
+                "value": 2415000
+            },
+            {
+                "label": "2023",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseYearFour",
+                "unit": "usd",
+                "value": 2173000
+            },
+            {
+                "label": "2024",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseYearFive",
+                "unit": "usd",
+                "value": 1279000
+            },
+            {
+                "label": "Thereafter",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseAfterYearFive",
+                "unit": "usd",
+                "value": 1884000
+            },
+            {
+                "label": "Finite-Lived Intangible Assets, Net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 13397000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Foreign currency translation adjustments, tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized gain (loss) on marketable securities, tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of defined benefit pension items, tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 24000
+            }
+        ]
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HRI",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 84150000
+            },
+            {
+                "label": "Building and other improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 294231000
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "DevelopmentInProcess",
+                "unit": "usd",
+                "value": 528000
+            },
+            {
+                "label": "Total",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 378909000
+            },
+            {
+                "label": "Less accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 61643000
+            },
+            {
+                "label": "Net investment properties",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 317266000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 63974000
+            },
+            {
+                "label": "Restricted cash and escrows",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 2742000
+            },
+            {
+                "label": "Accounts and rents receivable (net of allowance of $1,297 and $1,178 as of June\u00a030, 2020 and December\u00a031, 2019, respectively)",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 3146000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 426000
+            },
+            {
+                "label": "Deferred costs and other assets, net",
+                "concept": "DeferredCostsAndOtherAssets",
+                "unit": "usd",
+                "value": 3417000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 390971000
+            },
+            {
+                "label": "Debt, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 92943000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 10938000
+            },
+            {
+                "label": "Intangible liabilities, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 786000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 2552000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 107219000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 1,000,000,000 shares authorized, 879,831,608 and 876,074,038 shares issued and outstanding as of June\u00a030, 2020 and December\u00a031, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 8798000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1410309000
+            },
+            {
+                "label": "Accumulated distributions in excess of net income",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 1134619000
+            },
+            {
+                "label": "Accumulated other comprehensive (loss) income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 670000
+            },
+            {
+                "label": "Total Highlands REIT, Inc. stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 283818000
+            },
+            {
+                "label": "Non-controlling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 66000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 283752000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 390971000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 5873000
+            },
+            {
+                "label": "Property operating expenses",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 1793000
+            },
+            {
+                "label": "Real estate taxes",
+                "concept": "RealEstateTaxExpense",
+                "unit": "usd",
+                "value": 1066000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "hri:DepreciationandAmortizationNetofLeaseInducements",
+                "unit": "usd",
+                "value": 3259000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2893000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 9011000
+            },
+            {
+                "label": "Gain on sale of investment properties, net",
+                "concept": "GainLossOnSaleOfPropertiesBeforeApplicableIncomeTaxes",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "(Loss) income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 3138000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1048000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4160000
+            },
+            {
+                "label": "Net loss attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Net (loss) income attributable to Highlands REIT, Inc. common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4148000
+            },
+            {
+                "label": "Net income per common share, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Weighted average number of common shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 879636248
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4160000
+            },
+            {
+                "label": "Unrealized loss on derivatives",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 57000
+            },
+            {
+                "label": "Total other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 57000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4217000
+            },
+            {
+                "label": "Comprehensive loss attributable to non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Highlands REIT, Inc. common stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4196000
+            }
+        ]
+    }
+}

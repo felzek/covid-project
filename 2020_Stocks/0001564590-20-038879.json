@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DZSI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 47344000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 47344000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 37971000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 9211000
+            },
+            {
+                "label": "Long-term restricted cash",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 162000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 47344000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue, Net, Excluding Related Party",
+                "concept": "dzsi:RevenueNetExcludingRelatedParty",
+                "unit": "usd",
+                "value": 69169000
+            },
+            {
+                "label": "Related parties",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 1363000
+            },
+            {
+                "label": "Total net revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 70532000
+            },
+            {
+                "label": "Cost of Revenue, Excluding Related Party",
+                "concept": "dzsi:CostOfRevenueExcludingRelatedParty",
+                "unit": "usd",
+                "value": 45197000
+            },
+            {
+                "label": "Products and services - related parties",
+                "concept": "RelatedPartiesAmountInCostOfSales",
+                "unit": "usd",
+                "value": 1172000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "CostOfGoodsAndServicesSoldAmortization",
+                "unit": "usd",
+                "value": 395000
+            },
+            {
+                "label": "Total cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 46764000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 23768000
+            },
+            {
+                "label": "Research and product development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 8362000
+            },
+            {
+                "label": "Selling, marketing, general and administrative",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 13303000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 371000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 22036000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 1732000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 14000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 414000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 650000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 682000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 838000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 156000
+            },
+            {
+                "label": "Net income (loss) attributable to DASAN Zhone Solutions, Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 156000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 804000
+            },
+            {
+                "label": "Actuarial gain (loss)",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1171000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 523000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to DASAN Zhone Solutions, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 523000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Weighted average shares outstanding used to compute basic net income (loss) per share",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 21529000
+            },
+            {
+                "label": "Weighted average shares outstanding used to compute diluted net income (loss) per share",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 21529000
+            }
+        ]
+    }
+}

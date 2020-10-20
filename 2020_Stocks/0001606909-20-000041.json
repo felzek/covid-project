@@ -1,0 +1,332 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PANL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 46993067
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Accounts receivable (net of allowance of $1,723,510 and $1,908,841 at June 30, 2020 and December 31, 2019, respectively)",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 18197943
+            },
+            {
+                "label": "Bunker inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 11648319
+            },
+            {
+                "label": "Advance hire, prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 15575442
+            },
+            {
+                "label": "Vessel held for sale",
+                "concept": "AssetsHeldForSaleNotPartOfDisposalGroupCurrent",
+                "unit": "usd",
+                "value": 4563000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 97977771
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 1500000
+            },
+            {
+                "label": "Fixed assets, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 278383059
+            },
+            {
+                "label": "Investment in newbuildings in-process",
+                "concept": "panl:InvestmentInNewbuildingsInProcess",
+                "unit": "usd",
+                "value": 15400000.0
+            },
+            {
+                "label": "Finance lease right of use assets, net",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 46259982
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 439511446
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other current liabilities",
+                "concept": "panl:AccountsPayableAccruedExpensesAndOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": 26528278
+            },
+            {
+                "label": "Related party debt",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 242852
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 5343392
+            },
+            {
+                "label": "Current portion of secured long-term debt",
+                "concept": "OtherLongTermDebtCurrent",
+                "unit": "usd",
+                "value": 21490674
+            },
+            {
+                "label": "Current portion of finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 6927362
+            },
+            {
+                "label": "Dividend payable",
+                "concept": "DividendsPayableCurrent",
+                "unit": "usd",
+                "value": 95500
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 60628058
+            },
+            {
+                "label": "Secured long-term debt, net",
+                "concept": "SecuredLongTermDebt",
+                "unit": "usd",
+                "value": 78779452
+            },
+            {
+                "label": "Finance lease liabilities, net",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 54028493
+            },
+            {
+                "label": "Long-term liabilities - other - Note 8",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 5108793
+            },
+            {
+                "label": "Commitments and contingencies - Note 7",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value, 1,000,000 shares authorized and no shares issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.0001 par value, 100,000,000 shares authorized; 45,065,662 shares issued and outstanding at June 30, 2020; 44,886,122 shares issued and outstanding at December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4507
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 158874237
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 8946381
+            },
+            {
+                "label": "Total Pangaea Logistics Solutions Ltd. equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 167825125
+            },
+            {
+                "label": "Non-controlling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 73141525
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 240966650
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 439511446
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 70396170
+            },
+            {
+                "label": "Voyage expense",
+                "concept": "panl:VoyageExpense",
+                "unit": "usd",
+                "value": 31757910
+            },
+            {
+                "label": "Charter hire expense",
+                "concept": "panl:CharterHireExpense",
+                "unit": "usd",
+                "value": 15203731
+            },
+            {
+                "label": "Vessel operating expense",
+                "concept": "panl:VesselOperatingExpense",
+                "unit": "usd",
+                "value": 9325060
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3872388
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 4345707
+            },
+            {
+                "label": "Loss on impairment of vessels",
+                "concept": "TangibleAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 1801039
+            },
+            {
+                "label": "Loss on sale of vessels",
+                "concept": "GainLossOnSaleOfProperties",
+                "unit": "usd",
+                "value": 297475
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 66603310
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 3792860
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 2000550
+            },
+            {
+                "label": "Interest expense on related party debt",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized gain (loss) on derivative instruments, net",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": 1404317
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 98635
+            },
+            {
+                "label": "Total other (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 497598
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 3295262
+            },
+            {
+                "label": "Income attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 290086
+            },
+            {
+                "label": "Net income (loss) attributable to Pangaea Logistics Solutions Ltd.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3005176
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 43445789
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 43445789
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CK91882",
+    "data": {
+        "bs": [
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4052000000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4052000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Operating Revenue",
+                "concept": "RegulatedOperatingRevenue",
+                "unit": "usd",
+                "value": 624000000
+            },
+            {
+                "label": "Fuel used in electric generation",
+                "concept": "UtilitiesOperatingExpenseFuelUsed",
+                "unit": "usd",
+                "value": 95000000
+            },
+            {
+                "label": "Purchased power",
+                "concept": "UtilitiesOperatingExpensePurchasedPower",
+                "unit": "usd",
+                "value": 25000000
+            },
+            {
+                "label": "Gas purchased for resale",
+                "concept": "UtilitiesOperatingExpenseGasAndPetroleumPurchased",
+                "unit": "usd",
+                "value": 34000000
+            },
+            {
+                "label": "Other operations and maintenance",
+                "concept": "UtilitiesOperatingExpenseMaintenanceAndOperations",
+                "unit": "usd",
+                "value": 93000000
+            },
+            {
+                "label": "Utilities Operating Expense, Maintenance and Operations, Affiliate",
+                "concept": "ck91882:UtilitiesOperatingExpenseMaintenanceAndOperationsAffiliate",
+                "unit": "usd",
+                "value": 50000000
+            },
+            {
+                "label": "Impairment of assets and other charges",
+                "concept": "UtilitiesOperatingExpenseImpairments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "UtilitiesOperatingExpenseDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 118000000
+            },
+            {
+                "label": "Other taxes",
+                "concept": "UtilitiesOperatingExpenseTaxes",
+                "unit": "usd",
+                "value": 65000000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "UtilitiesOperatingExpense",
+                "unit": "usd",
+                "value": 480000000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 144000000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Interest charges, net of allowance for borrowed funds used during construction of $1, $2, $3 and $2",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 58000000
+            },
+            {
+                "label": "Income (loss) before income tax expense (benefit)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 88000000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "Net Income (Loss) and Other Comprehensive Income (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 67000000
+            },
+            {
+                "label": "Comprehensive Income (Loss) Attributable to Noncontrolling Interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Comprehensive Income (Loss) Available (Attributable) to Common Shareholder",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 69000000
+            }
+        ]
+    }
+}

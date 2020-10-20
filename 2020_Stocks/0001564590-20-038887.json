@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "ESSA",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 170844000
+            },
+            {
+                "label": "CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 170844000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3777000
+            },
+            {
+                "label": "Unrealized holding gain",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 1091000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 228000
+            },
+            {
+                "label": "Net of tax amount",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 863000
+            },
+            {
+                "label": "Changes in unrealized holding losses on derivatives included in net income",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 2353000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 494000
+            },
+            {
+                "label": "Reclassification adjustment for losses (gains) on derivatives included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesBeforeTax",
+                "unit": "usd",
+                "value": 108000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesTax",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Net of tax amount",
+                "concept": "OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1774000
+            },
+            {
+                "label": "Total other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 911000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2866000
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TCFC",
+    "data": {
+        "bs": [
+            {
+                "label": "Available for sale securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 234982000
+            },
+            {
+                "label": "Equity securities carried at fair value\u00a0through income",
+                "concept": "tcfc:EquitySecuritiesCarriedAtFairValueThroughIncomeEstimatedFairValue",
+                "unit": "usd",
+                "value": 4831000
+            },
+            {
+                "label": "Non-marketable equity securities in other financial institutions",
+                "concept": "tcfc:NonMarketableEquitySecuritiesHeldInOtherFinancialInstitutionsEstimatedFairValue",
+                "unit": "usd",
+                "value": 209000
+            },
+            {
+                "label": "FHLB Stock",
+                "concept": "InvestmentInFederalHomeLoanBankStockFairValueDisclosure",
+                "unit": "usd",
+                "value": 4691000
+            },
+            {
+                "label": "Net loans receivable",
+                "concept": "LoansReceivableFairValueDisclosure",
+                "unit": "usd",
+                "value": 1568460000
+            },
+            {
+                "label": "Accrued Interest Receivable",
+                "concept": "AccruedInvestmentIncomeReceivable",
+                "unit": "usd",
+                "value": 6773000
+            },
+            {
+                "label": "Investment in BOLI",
+                "concept": "tcfc:BankOwnedLifeInsuranceFairValue",
+                "unit": "usd",
+                "value": 37619000
+            },
+            {
+                "label": "Savings, NOW and money market accounts",
+                "concept": "tcfc:DepositsMoneyMarketDepositsAndNegotiableOrderOfWithdrawalNOWFairValueDisclosure",
+                "unit": "usd",
+                "value": 1303873000
+            },
+            {
+                "label": "Time deposits",
+                "concept": "tcfc:TimeDepositsFairValueDisclosure",
+                "unit": "usd",
+                "value": 369171000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShorttermDebtFairValue",
+                "unit": "usd",
+                "value": 5020000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtFairValue",
+                "unit": "usd",
+                "value": 68806000
+            },
+            {
+                "label": "TRUPs",
+                "concept": "tcfc:JuniorSubordinatedNotesFairValue",
+                "unit": "usd",
+                "value": 8119000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3450000
+            },
+            {
+                "label": "Net unrealized holding gains arising during period, net of tax expense of $449 and $576, and $908 and $1,098, respectively.",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1275000
+            },
+            {
+                "label": "Reclassification adjustment for gains included in net income, net of tax expense of $29 and $0, and $115 and $0, respectively.",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 83000
+            },
+            {
+                "label": "Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4808000
+            }
+        ]
+    }
+}

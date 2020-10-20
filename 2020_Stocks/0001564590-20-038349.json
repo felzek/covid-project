@@ -1,0 +1,255 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "TMCC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents and restricted cash and cash equivalents at the beginning of the period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 20692000000
+            },
+            {
+                "label": "Cash and cash equivalents and restricted cash and cash equivalents at the beginning of the period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 20692000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 374000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 1710000000
+            },
+            {
+                "label": "The amount of previously reported deferred or unearned revenue that was recognized as revenue during the period. For cash flows, this element primarily pertains to amortization of deferred credits on long-term arrangements. As a noncash item, it is deducted from net income when calculating cash provided by or used in operations using the indirect method.",
+                "concept": "tmcc:RecognitionOfDeferredIncome",
+                "unit": "usd",
+                "value": 603000000
+            },
+            {
+                "label": "Provision for credit losses",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 183000000
+            },
+            {
+                "label": "Amortization of deferred costs",
+                "concept": "AmortizationOfDeferredCharges",
+                "unit": "usd",
+                "value": 175000000
+            },
+            {
+                "label": "Foreign currency and other adjustments to the carrying value of debt, net",
+                "concept": "ForeignCurrencyTransactionGainLossUnrealized",
+                "unit": "usd",
+                "value": 541000000
+            },
+            {
+                "label": "Net gains from investments in marketable securities",
+                "concept": "MarketableSecuritiesGainLoss",
+                "unit": "usd",
+                "value": 125000000
+            },
+            {
+                "label": "Derivative assets",
+                "concept": "IncreaseDecreaseInDerivativeAssets",
+                "unit": "usd",
+                "value": 18000000
+            },
+            {
+                "label": "Other assets and accrued interest",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 84000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 259000000
+            },
+            {
+                "label": "Derivative liabilities",
+                "concept": "IncreaseDecreaseInDerivativeLiabilities",
+                "unit": "usd",
+                "value": 42000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 97000000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 2117000000
+            },
+            {
+                "label": "Purchase of investments in marketable securities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 778000000
+            },
+            {
+                "label": "Proceeds from sales of investments in marketable securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 315000000
+            },
+            {
+                "label": "Proceeds from maturities of investments in marketable securities",
+                "concept": "ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 277000000
+            },
+            {
+                "label": "Acquisition of finance receivables",
+                "concept": "PaymentsToAcquireFinanceReceivables",
+                "unit": "usd",
+                "value": 8444000000
+            },
+            {
+                "label": "Collection of finance receivables",
+                "concept": "ProceedsFromCollectionOfFinanceReceivables",
+                "unit": "usd",
+                "value": 6140000000
+            },
+            {
+                "label": "The payment or receipt during the reporting period to wholesale and certain working capital receivables.",
+                "concept": "tmcc:PaymentsForReceiptsFromWholesaleAndCertainWorkingCapitalReceivables",
+                "unit": "usd",
+                "value": 4423000000
+            },
+            {
+                "label": "Acquisition of investments in operating leases",
+                "concept": "PaymentsToAcquireLeasesHeldForInvestment",
+                "unit": "usd",
+                "value": 2798000000
+            },
+            {
+                "label": "Disposals of investments in operating leases",
+                "concept": "ProceedsFromLeasesHeldForInvestment",
+                "unit": "usd",
+                "value": 2232000000
+            },
+            {
+                "label": "Payments on long term loans from affiliates",
+                "concept": "ProceedsFromCollectionOfLongtermLoansToRelatedParties",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Other, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Net cash provided by (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 1359000000
+            },
+            {
+                "label": "Proceeds from issuance of debt",
+                "concept": "ProceedsFromIssuanceOfDebt",
+                "unit": "usd",
+                "value": 16968000000
+            },
+            {
+                "label": "Payments on debt",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 6452000000
+            },
+            {
+                "label": "Net change in commercial paper",
+                "concept": "ProceedsFromRepaymentsOfCommercialPaper",
+                "unit": "usd",
+                "value": 1829000000
+            },
+            {
+                "label": "Net cash inflow (outflow) from an entity that is affiliated with the entity by means of direct or indirect ownership and distributions of earnings to an entity that is affiliated with the reporting entity by means of direct or indirect ownership. The amounts netted are of a short term nature.",
+                "concept": "tmcc:ProceedsFromContributionsFromAffiliatesAndPaymentsOfDistributionsToAffiliatesNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dividend paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 8687000000
+            },
+            {
+                "label": "Net increase in cash and cash equivalents and restricted cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 12163000000
+            },
+            {
+                "label": "Interest paid, net",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 692000000
+            },
+            {
+                "label": "Income taxes paid, net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 24000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 374000000
+            },
+            {
+                "label": "Net unrealized gains on available-for-sale marketable securities [net of tax provision of $5 and $3, respectively]",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 23000000
+            },
+            {
+                "label": "Reclassification adjustment for net gains on available-for-sale marketable securities included in investment and other income, net [net of tax provision of $3 and $0, respectively]",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 11000000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 12000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 386000000
+            }
+        ]
+    }
+}

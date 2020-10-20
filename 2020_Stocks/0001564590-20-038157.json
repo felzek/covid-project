@@ -1,0 +1,176 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "UFS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 124000000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 124000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 1012000000
+            },
+            {
+                "label": "Cost of sales, excluding depreciation and amortization",
+                "concept": "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 837000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 71000000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 93000000
+            },
+            {
+                "label": "Closure and restructuring costs (NOTE 12)",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Other operating (income) loss, net (NOTE 7)",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 998000000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Non-service components of net periodic benefit cost.",
+                "concept": "ufs:NonServiceComponentsOfNetPeriodicBenefitCost",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Earnings before income taxes and equity loss",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Income tax (benefit) expense (NOTE 8)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.34
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.34
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 55200000.0
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 55300000.0
+            },
+            {
+                "label": "Cash dividends per common share",
+                "concept": "CommonStockDividendsPerShareCashPaid",
+                "unit": "usd/shares",
+                "value": 0.46
+            },
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Net gains (losses) arising during the period, net of tax of $(9) and $7, respectively (2019 \u2013 $(1) and $(5), respectively)",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 29000000
+            },
+            {
+                "label": "Less: Reclassification adjustment for losses included in net earnings, net of tax of $(2) and $(4), respectively (2019 \u2013 $(1) and $(1), respectively)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 39000000
+            },
+            {
+                "label": "Change in unrecognized gains and prior service cost related to pension and post-retirement benefit plans, net of tax of nil and $(1), respectively (2019 \u2013 $(1) and $(2), respectively)",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 76000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 95000000
+            }
+        ]
+    }
+}

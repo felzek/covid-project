@@ -1,0 +1,309 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "CTLT",
+    "data": {
+        "bs": [
+            {
+                "label": "Finance Lease, Right-of-Use Asset, after Accumulated Amortization",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 89900000.0
+            },
+            {
+                "label": "Operating Lease, Right-of-Use Asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 101400000.0
+            },
+            {
+                "label": "Finance Lease, Liability, Current",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 13800000.0
+            },
+            {
+                "label": "Operating Lease, Liability, Current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 14600000.0
+            },
+            {
+                "label": "Finance Lease, Liability, Noncurrent",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 128400000.0
+            },
+            {
+                "label": "Operating Lease, Liability, Noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 88200000.0
+            }
+        ],
+        "cf": [
+            {
+                "label": "Dividends and Interest Paid",
+                "concept": "DividendsAndInterestPaid",
+                "unit": "usd",
+                "value": 36200000.0
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 607800000.0
+            },
+            {
+                "label": "Payments to Acquire Businesses, Net of Cash Acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 379700000.0
+            },
+            {
+                "label": "Net earnings",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 220700000.0
+            },
+            {
+                "label": "Depreciation and Amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 253700000.0
+            },
+            {
+                "label": "Foreign Currency Transaction Gain (Loss), before Tax",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 1800000.0
+            },
+            {
+                "label": "Amortization and write-off of debt financing costs",
+                "concept": "ctlt:AmortizationAndWriteOffOfFinancingCosts",
+                "unit": "usd",
+                "value": 12400000.0
+            },
+            {
+                "label": "Gain (Loss) on Sale of Assets and Asset Impairment Charges",
+                "concept": "GainLossOnSalesOfAssetsAndAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 5500000.0
+            },
+            {
+                "label": "Financing fees paid",
+                "concept": "DebtRelatedCommitmentFeesAndDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 10000000.0
+            },
+            {
+                "label": "Derivative, Gain (Loss) on Derivative, Net",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": 3200000.0
+            },
+            {
+                "label": "Equity compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 48100000.0
+            },
+            {
+                "label": "Provision/(benefit) for deferred income taxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 2400000.0
+            },
+            {
+                "label": "Provision for bad debts and inventory",
+                "concept": "ctlt:ProvisionForBadDebtsAndInventory",
+                "unit": "usd",
+                "value": 10200000.0
+            },
+            {
+                "label": "(Increase)/decrease in trade receivables",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 150900000.0
+            },
+            {
+                "label": "(Increase)/decrease in inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 76400000.0
+            },
+            {
+                "label": "Increase/(decrease) in accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 72200000.0
+            },
+            {
+                "label": "Other assets/accrued liabilities, net - current and non-current",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 33800000.0
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities, Total",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 440300000.0
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 465800000.0
+            },
+            {
+                "label": "Proceeds from sale of property and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from Divestiture of Interest in Consolidated Subsidiaries",
+                "concept": "ProceedsFromDivestitureOfInterestInConsolidatedSubsidiaries",
+                "unit": "usd",
+                "value": 20800000.0
+            },
+            {
+                "label": "Payments to Acquire Businesses, Net of Cash Acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 379700000.0
+            },
+            {
+                "label": "Payments to Acquire Investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 2800000.0
+            },
+            {
+                "label": "Net cash (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 827500000.0
+            },
+            {
+                "label": "Net change in other borrowings",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 49500000.0
+            },
+            {
+                "label": "Proceeds from borrowing, net",
+                "concept": "ProceedsFromIssuanceOfDebt",
+                "unit": "usd",
+                "value": 909100000.0
+            },
+            {
+                "label": "Repayments of Long-term Debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 811300000.0
+            },
+            {
+                "label": "Payments of Debt Issuance Costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 25100000.0
+            },
+            {
+                "label": "Dividends and Interest Paid",
+                "concept": "DividendsAndInterestPaid",
+                "unit": "usd",
+                "value": 36200000.0
+            },
+            {
+                "label": "Proceeds from Issuance of Common Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 1046500000.0
+            },
+            {
+                "label": "Proceeds from Issuance of Redeemable Preferred Stock",
+                "concept": "ProceedsFromIssuanceOfRedeemablePreferredStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments Related to Tax Withholding for Share-based Compensation",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 31800000.0
+            },
+            {
+                "label": "Net cash provided by/(used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1001700000.0
+            },
+            {
+                "label": "Effect of foreign currency on cash",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 6700000.0
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 98400000.0
+            },
+            {
+                "label": "Income taxes paid, net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 43400000.0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 220700000.0
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 31400000.0
+            },
+            {
+                "label": "Other Comprehensive (Income) Loss, Defined Benefit Plan, after Reclassification Adjustment, after Tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Securities, Available-for-sale, Adjustment, after Tax",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other Comprehensive Income Deferred Compensation Benefit, Net of Tax",
+                "concept": "ctlt:OtherComprehensiveIncomeDeferredCompensationBenefitNetOfTax",
+                "unit": "usd",
+                "value": 2600000.0
+            },
+            {
+                "label": "Other comprehensive income /(loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 32400000.0
+            },
+            {
+                "label": "Comprehensive income/(loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 188300000.0
+            }
+        ]
+    }
+}

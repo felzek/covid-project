@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CLIR",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 5672000
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 5672000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue from Contract with Customer, Including Assessed Tax",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cost of Goods Sold Warranty Adjustment",
+                "concept": "clir:CostOfGoodsSoldWarrantyAdjustment",
+                "unit": "usd",
+                "value": -153000
+            },
+            {
+                "label": "Gross Profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 153000
+            },
+            {
+                "label": "Research and Development Expense",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 418000
+            },
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1171000
+            },
+            {
+                "label": "Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1589000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1436000
+            },
+            {
+                "label": "Other Income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 44000
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1391000
+            },
+            {
+                "label": "Net loss attributed to non-controlling interest.",
+                "concept": "clir:NetLossAttributedToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1390000
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.05
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 26712294
+            }
+        ]
+    }
+}

@@ -1,0 +1,398 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RYN",
+    "data": {
+        "bs": [
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 94786000
+            },
+            {
+                "label": "Accounts receivable, less allowance for doubtful accounts of $25 and $24",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 36811000
+            },
+            {
+                "label": "Inventory (Note 21)",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 10365000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 18133000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1135000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 161230000
+            },
+            {
+                "label": "TIMBER AND TIMBERLANDS, NET OF DEPLETION AND AMORTIZATION",
+                "concept": "ryn:TimberAndTimberlandsNet",
+                "unit": "usd",
+                "value": 3332067000
+            },
+            {
+                "label": "HIGHER AND BETTER USE TIMBERLANDS AND REAL ESTATE DEVELOPMENT INVESTMENTS (NOTE 8)",
+                "concept": "InventoryRealEstateLandAndLandDevelopmentCosts",
+                "unit": "usd",
+                "value": 113920000
+            },
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 5566000
+            },
+            {
+                "label": "Buildings",
+                "concept": "BuildingsAndImprovementsGross",
+                "unit": "usd",
+                "value": 29153000
+            },
+            {
+                "label": "Machinery and equipment",
+                "concept": "MachineryAndEquipmentGross",
+                "unit": "usd",
+                "value": 4753000
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 382000
+            },
+            {
+                "label": "Total property, plant and equipment, gross",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 39854000
+            },
+            {
+                "label": "Less \u2014 accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 10444000
+            },
+            {
+                "label": "Total property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 29410000
+            },
+            {
+                "label": "RESTRICTED CASH (NOTE 22)",
+                "concept": "RestrictedCashAndInvestmentsNoncurrent",
+                "unit": "usd",
+                "value": 475000
+            },
+            {
+                "label": "RIGHT-OF-USE ASSETS (NOTE 4)",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 96710000
+            },
+            {
+                "label": "OTHER ASSETS",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 35455000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3769267000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 21836000
+            },
+            {
+                "label": "Accrued taxes",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 6444000
+            },
+            {
+                "label": "Accrued payroll and benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 6628000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 6500000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 18434000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 24405000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 109289000
+            },
+            {
+                "label": "LONG-TERM DEBT, NET OF DEFERRED FINANCING COSTS",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 1346123000
+            },
+            {
+                "label": "PENSION AND OTHER POSTRETIREMENT BENEFITS (NOTE 17)",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 23767000
+            },
+            {
+                "label": "LONG-TERM LEASE LIABILITY (NOTE 4)",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 87774000
+            },
+            {
+                "label": "OTHER NON-CURRENT LIABILITIES",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 178136000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (NOTES 9 and 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "NONCONTROLLING INTERESTS IN THE OPERATING PARTNERSHIP/REDEEMABLE OPERATING PARTNERSHIP UNITS (NOTE 5) 4,446,153 and 0 Common Units outstanding, respectively",
+                "concept": "TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests",
+                "unit": "usd",
+                "value": 110220000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1063489000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 531681000
+            },
+            {
+                "label": "Accumulated other comprehensive loss (Note 23)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 137929000
+            },
+            {
+                "label": "TOTAL RAYONIER INC. SHAREHOLDERS\u2019 EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1457241000
+            },
+            {
+                "label": "Noncontrolling interests in consolidated affiliates (Note 5)",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 456717000
+            },
+            {
+                "label": "TOTAL SHAREHOLDERS\u2019 EQUITY",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1913958000
+            },
+            {
+                "label": "Accumulated other comprehensive loss (Note 23)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 137929000
+            },
+            {
+                "label": "TOTAL LIABILITIES, NONCONTROLLING INTERESTS IN THE OPERATING PARTNERSHIP AND SHAREHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3769267000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "SALES",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 195630000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 154891000
+            },
+            {
+                "label": "Selling and general expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 12570000
+            },
+            {
+                "label": "Other operating expense, net (Note 19)",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 16483000
+            },
+            {
+                "label": "Costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 183944000
+            },
+            {
+                "label": "OPERATING (LOSS) INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 11686000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 9820000
+            },
+            {
+                "label": "Interest and other miscellaneous income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1579000
+            },
+            {
+                "label": "INCOME BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3445000
+            },
+            {
+                "label": "Income tax expense (Note 10)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 2990000
+            },
+            {
+                "label": "NET INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 455000
+            },
+            {
+                "label": "Less: Net income attributable to noncontrolling interest in the Operating Partnership",
+                "concept": "ryn:NetIncomeLossAttributableToNoncontrollingInterestInOperatingPartnership",
+                "unit": "usd",
+                "value": 219000
+            },
+            {
+                "label": "Less: Net loss (income) attributable to noncontrolling interests in consolidated affiliates",
+                "concept": "ryn:NetIncomeLossAttributableToNoncontrollingInterestInConsolidatedAffiliates",
+                "unit": "usd",
+                "value": 1499000
+            },
+            {
+                "label": "NET INCOME ATTRIBUTABLE TO RAYONIER INC / COMMON UNITHOLDERS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1735000
+            },
+            {
+                "label": "Foreign currency translation adjustment, net of income tax effect of $0, $0, $0, and $0",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 23258000
+            },
+            {
+                "label": "Cash flow hedges, net of income tax effect of $1,741, $91, $116 and $244",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 7276000
+            },
+            {
+                "label": "Amortization of pension and postretirement plans, net of income tax expense of $0, $0, $0 and $0",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 217000
+            },
+            {
+                "label": "Total other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 16199000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME (LOSS)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 16654000
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interests in the Operating Partnership",
+                "concept": "ryn:ComprehensiveIncomeLossAttributableToNoncontrollingInterestsInOperatingPartnership",
+                "unit": "usd",
+                "value": 676000
+            },
+            {
+                "label": "Less: Comprehensive (income) loss attributable to noncontrolling interests in consolidated affiliates",
+                "concept": "ryn:ComprehensiveIncomeLossAttributableToNoncontrollingInterestsInConsolidatedAffiliates",
+                "unit": "usd",
+                "value": 4917000
+            },
+            {
+                "label": "Comprehensive INCOME (LOSS) ATTRIBUTABLE TO RAYONIER INC / COMMON UNITHLDERS",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 11061000
+            },
+            {
+                "label": "Basic earnings per share attributable to Rayonier Inc (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Diluted earnings per share attributable to Rayonier Inc (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.01
+            }
+        ]
+    }
+}

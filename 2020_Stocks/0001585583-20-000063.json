@@ -1,0 +1,374 @@
+{
+    "startDate": "2020-03-25",
+    "endDate": "2020-06-16",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TACO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 10749000
+            },
+            {
+                "label": "Accounts and other receivables, net",
+                "concept": "AccountsAndOtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 5301000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 2471000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1776000
+            },
+            {
+                "label": "Assets held for sale",
+                "concept": "AssetsHeldForSaleNotPartOfDisposalGroupCurrent",
+                "unit": "usd",
+                "value": 1495000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 21792000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 150245000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 253180000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 108979000
+            },
+            {
+                "label": "Trademarks",
+                "concept": "IndefiniteLivedIntangibleAssetsExcludingGoodwill",
+                "unit": "usd",
+                "value": 208400000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 10543000
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 4705000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 757844000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 17818000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 41700000
+            },
+            {
+                "label": "Current portion of finance lease obligations and other debt",
+                "concept": "taco:LongTermDebtAndCapitalLeaseObligationsAndDeemedLandlordFinancingLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 198000
+            },
+            {
+                "label": "Current portion of operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 20667000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 80383000
+            },
+            {
+                "label": "Long-term debt, finance lease obligations and other debt, excluding current portion, net",
+                "concept": "taco:LongTermDebtAndCapitalLeaseObligationsAndDeemedLandlordFinancingLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 144368000
+            },
+            {
+                "label": "Operating lease liabilities, excluding current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 256277000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilities",
+                "unit": "usd",
+                "value": 59148000
+            },
+            {
+                "label": "Other non-current liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 16020000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 556196000
+            },
+            {
+                "label": "Commitments and contingencies (Note 15)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.0001 par value; 400,000,000 shares authorized; 37,122,976 shares issued and outstanding at June\u00a016, 2020; 37,059,202 shares issued and outstanding at December\u00a031, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 335912000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 134268000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 201648000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 757844000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 104570000
+            },
+            {
+                "label": "Labor and related expenses",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 31609000
+            },
+            {
+                "label": "Occupancy and other operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 22389000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 9432000
+            },
+            {
+                "label": "Franchise advertising expenses",
+                "concept": "taco:FranchiseAdvertisingExpense",
+                "unit": "usd",
+                "value": 2783000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 6285000
+            },
+            {
+                "label": "Occupancy and other - franchise subleases and other",
+                "concept": "CostOfOtherPropertyOperatingExpense",
+                "unit": "usd",
+                "value": 1727000
+            },
+            {
+                "label": "Pre-opening costs",
+                "concept": "PreOpeningCosts",
+                "unit": "usd",
+                "value": 63000
+            },
+            {
+                "label": "Impairment of goodwill",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Impairment of trademarks",
+                "concept": "ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Impairment of long-lived assets",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Restaurant closure charges, net",
+                "concept": "taco:RestaurantClosureChargesNet",
+                "unit": "usd",
+                "value": 499000
+            },
+            {
+                "label": "Loss on disposal of assets and adjustments to assets held for sale, net",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 435000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 100864000
+            },
+            {
+                "label": "Income (loss) from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 3706000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1281000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total other expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1281000
+            },
+            {
+                "label": "Income (loss) from operations before provision (benefit) for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2425000
+            },
+            {
+                "label": "Provision (benefit) for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 3001000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 576000
+            },
+            {
+                "label": "Change in fair value of interest rate cap, net of tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification of interest rate cap amortization included in net income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 569000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 37086962
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 37086962
+            }
+        ]
+    }
+}

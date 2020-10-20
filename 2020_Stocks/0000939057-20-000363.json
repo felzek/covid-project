@@ -1,0 +1,261 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "PROV",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash Equivalents, at Carrying Value",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 116034000
+            },
+            {
+                "label": "Cash Equivalents, at Carrying Value",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 116034000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7689000
+            },
+            {
+                "label": "Depreciation, Amortization and Accretion, Net",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 3391000
+            },
+            {
+                "label": "Represents (Recovery) provision for loan losses.",
+                "concept": "prov:RecoveryProvisionForLoanLosses",
+                "unit": "usd",
+                "value": -1119000
+            },
+            {
+                "label": "Gain (Loss) on Sales of Loans, Net",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": -132000
+            },
+            {
+                "label": "Share-based Compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 954000
+            },
+            {
+                "label": "Increase (Decrease) in Deferred Income Taxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": -552000
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable and Other Operating Liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -3086000
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense and Other Assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 2797000
+            },
+            {
+                "label": "Payments for Origination and Purchases of Loans Held-for-sale",
+                "concept": "PaymentsForOriginationAndPurchasesOfLoansHeldForSale",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from Sale and Collection of Loans Held-for-sale",
+                "concept": "ProceedsFromSaleAndCollectionOfLoansHeldforsale",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 7954000
+            },
+            {
+                "label": "Payments to Acquire Held-to-maturity Securities",
+                "concept": "PaymentsToAcquireHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 56262000
+            },
+            {
+                "label": "Proceeds from Maturities, Prepayments and Calls of Held-to-maturity Securities",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Proceeds from Sale of Held-to-maturity Securities",
+                "concept": "ProceedsFromSaleOfHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 30890000
+            },
+            {
+                "label": "Proceeds from Sale of Debt Securities, Available-for-sale",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 1173000
+            },
+            {
+                "label": "Payments for (Proceeds from) Federal Home Loan Bank Stock",
+                "concept": "PaymentsForProceedsFromFederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": -229000
+            },
+            {
+                "label": "Proceeds from Sale of Other Real Estate",
+                "concept": "ProceedsFromSaleOfOtherRealEstate",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Payments to Acquire Property, Plant, and Equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 229000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -48907000
+            },
+            {
+                "label": "Increase (Decrease) in Deposits",
+                "concept": "IncreaseDecreaseInDeposits",
+                "unit": "usd",
+                "value": 51698000
+            },
+            {
+                "label": "Proceeds from long-term borrowings",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 30007000
+            },
+            {
+                "label": "Repayments of Long-term Debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 67000
+            },
+            {
+                "label": "Proceeds from (Repayments of) Short-term Debt",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Payments for Repurchase of Common Stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 1283000
+            },
+            {
+                "label": "Proceeds from Stock Options Exercised",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 215000
+            },
+            {
+                "label": "Payments Related to Tax Withholding for Share-based Compensation",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 32000
+            },
+            {
+                "label": "Payments of Dividends",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 4183000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 86355000
+            },
+            {
+                "label": "Cash and Cash Equivalents, Period Increase (Decrease)",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 45402000
+            },
+            {
+                "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 6056000
+            },
+            {
+                "label": "Income Taxes Paid",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 775000
+            },
+            {
+                "label": "Transfer of Loans Held-for-sale to Portfolio Loans",
+                "concept": "TransferOfLoansHeldForSaleToPortfolioLoans1",
+                "unit": "usd",
+                "value": 1085000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7689000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Securities, Available-for-sale, Adjustment, before Tax",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": -81000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, before Tax",
+                "concept": "ReclassificationFromAccumulatedOtherComprehensiveIncomeCurrentPeriodBeforeTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), before Tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": -81000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Tax",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": -24000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -57000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 7632000
+            }
+        ]
+    }
+}

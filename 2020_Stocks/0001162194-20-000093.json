@@ -1,0 +1,104 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FLDM",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning balance",
+                "concept": "ProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 1532000
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "ProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 1532000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 26058000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 8448000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 20616000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 39784000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 13726000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 897000
+            },
+            {
+                "label": "Loss from extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 463000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 14160000
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1145000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 13015000
+            },
+            {
+                "label": "Net loss per share, basic and diluted (usd per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.18
+            },
+            {
+                "label": "Shares used in computing net loss per share, basic and diluted (shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 70916000
+            }
+        ]
+    }
+}

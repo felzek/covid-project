@@ -1,0 +1,224 @@
+{
+    "startDate": "2020-03-01",
+    "endDate": "2020-05-31",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "PQEFF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, beginning of the period",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 39096
+            },
+            {
+                "label": "Trade and other receivables",
+                "concept": "AccountsAndOtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 16831
+            },
+            {
+                "label": "Ore inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 141792
+            },
+            {
+                "label": "Other inventory",
+                "concept": "OtherInventory",
+                "unit": "usd",
+                "value": 39085
+            },
+            {
+                "label": "Current portion of notes receivable",
+                "concept": "NotesAndLoansReceivableNetCurrent",
+                "unit": "usd",
+                "value": 88202
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 2848709
+            },
+            {
+                "label": "Notes receivable",
+                "concept": "NotesReceivableRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 631531
+            },
+            {
+                "label": "Mineral leases",
+                "concept": "MineralPropertiesNet",
+                "unit": "usd",
+                "value": 34911143
+            },
+            {
+                "label": "Investments",
+                "concept": "LongTermInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Property, plant and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 35668062
+            },
+            {
+                "label": "Total Non-Current Assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 72156741
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 75005450
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 2507573
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2808632
+            },
+            {
+                "label": "Promissory notes",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 353114
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "OtherLongTermDebtCurrent",
+                "unit": "usd",
+                "value": 1089237
+            },
+            {
+                "label": "Current portion of convertible debentures",
+                "concept": "ConvertibleDebtCurrent",
+                "unit": "usd",
+                "value": 7351238
+            },
+            {
+                "label": "Derivative liability",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 445385
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15515605
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermLineOfCredit",
+                "unit": "usd",
+                "value": 126020
+            },
+            {
+                "label": "Convertible debentures",
+                "concept": "ConvertibleDebtNoncurrent",
+                "unit": "usd",
+                "value": 560853
+            },
+            {
+                "label": "Total Non-Current Liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 3657370
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Share capital",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 141540694
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 55832475
+            },
+            {
+                "label": "Total Liabilities and Shareholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 75005450
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Gross Loss",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": -147646
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 11523
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 894715
+            },
+            {
+                "label": "Total expenses, net",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 848513
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 10311
+            },
+            {
+                "label": "Net loss before income tax and equity loss",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -1113978
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Equity loss from investment of Accord GR Energy, net of tax",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Basic and Diluted Loss per Share (in Dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.01
+            }
+        ]
+    }
+}

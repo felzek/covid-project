@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HGBL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 2233000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 2233000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 6117000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3666000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 90000
+            },
+            {
+                "label": "Total operating costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 5274000
+            },
+            {
+                "label": "Earnings of equity method investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 181000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 1024000
+            },
+            {
+                "label": "Interest and other expense net.",
+                "concept": "hgbl:InterestAndOtherExpenseNet",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Income before income tax (benefit) expense",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1016000
+            },
+            {
+                "label": "Income tax (benefit) expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -1023000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2039000
+            },
+            {
+                "label": "Weighted average common shares outstanding \u2013 basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 28751689
+            },
+            {
+                "label": "Weighted average common shares outstanding \u2013 diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 30961261
+            },
+            {
+                "label": "Net income per share \u2013 basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Net income per share \u2013 diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            }
+        ]
+    }
+}

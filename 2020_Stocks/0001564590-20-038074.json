@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GNTY",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 190994000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 190994000
+            },
+            {
+                "label": "Cash dividends accrued",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2092000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1075000
+            },
+            {
+                "label": "Unrealized holding gains arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 11382000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2390000
+            },
+            {
+                "label": "Unrealized gains on securities, net of tax",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 8992000
+            },
+            {
+                "label": "Unrealized holding losses arising during the period on interest rate swaps",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsAndTaxParent",
+                "unit": "usd",
+                "value": 243000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 8749000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 9824000
+            }
+        ]
+    }
+}

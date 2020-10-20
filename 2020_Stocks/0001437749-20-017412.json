@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PMHG",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 3116499
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 57032000
+            },
+            {
+                "label": "Common stock, shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 3116499
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 57032000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Average recorded investment",
+                "concept": "ImpairedFinancingReceivableAverageRecordedInvestment",
+                "unit": "usd",
+                "value": 2758000
+            },
+            {
+                "label": "Interest income recognized",
+                "concept": "ImpairedFinancingReceivableInterestIncomeAccrualMethod",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Interest income received",
+                "concept": "ImpairedFinancingReceivableInterestIncomeCashBasisMethod",
+                "unit": "usd",
+                "value": 7000
+            }
+        ]
+    }
+}

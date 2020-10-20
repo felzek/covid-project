@@ -1,0 +1,152 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DAN",
+    "data": {
+        "bs": [
+            {
+                "label": "Redeemable noncontrolling interests",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonCarryingAmount",
+                "unit": "usd",
+                "value": 159000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 490000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Segment EBITDA",
+                "concept": "dan:SegmentEbitda",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "dan_CorporateExpenseAndOtherItems",
+                "concept": "dan:CorporateExpenseAndOtherItems",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 84000000
+            },
+            {
+                "label": "us-gaap_AdjustmentForAmortization",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "us-gaap_NetPeriodicDefinedBenefitsExpenseReversalOfExpenseExcludingServiceCostComponent",
+                "concept": "NetPeriodicDefinedBenefitsExpenseReversalOfExpenseExcludingServiceCostComponent",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Restructuring charges, net",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 16000000
+            },
+            {
+                "label": "Stock compensation credit",
+                "concept": "dan:StockCompensationCredit",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "dan_StrategicTransactionExpenses",
+                "concept": "dan:StrategicTransactionExpenses",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Impairment of goodwill",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "dan_SegmentReportingInformationAcquisitionRelatedInventoryAdjustmentsNotAllocated",
+                "concept": "dan:SegmentReportingInformationAcquisitionRelatedInventoryAdjustmentsNotAllocated",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Non-income tax legal judgment",
+                "concept": "GainLossRelatedToLitigationSettlement",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Pension settlement charge",
+                "concept": "DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 112000000
+            },
+            {
+                "label": "Write-off of deferred financing costs",
+                "concept": "WriteOffOfDeferredDebtIssuanceCost",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 32000000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 147000000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 34000000
+            },
+            {
+                "label": "Equity in earnings of affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 173000000
+            }
+        ]
+    }
+}

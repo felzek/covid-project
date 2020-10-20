@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SPAQ",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalent at beginning of period",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 323563
+            },
+            {
+                "label": "Advances to related party",
+                "concept": "RelatedPartyTransactionDueFromToRelatedParty",
+                "unit": "usd",
+                "value": 11801
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 395820
+            },
+            {
+                "label": "Investment held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 569592365
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 569988185
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 949047
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1784625
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 21104625
+            },
+            {
+                "label": "Class A common stock subject to possible redemption; 54,388,355 and 54,133,917 shares at June 30, 2020 and December 31, 2019, respectively (at approximately $10.00 per share)",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 543883550
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value per share; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 894951
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 4103598
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000010
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 569988185
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "REVENUE",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Administrative fee \u2013 related party",
+                "concept": "AdministrativeFeesExpense",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 970702
+            },
+            {
+                "label": "TOTAL EXPENSES",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1000702
+            },
+            {
+                "label": "Investment income from Trust Account",
+                "concept": "InterestIncomeOther",
+                "unit": "usd",
+                "value": 120094
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 397
+            },
+            {
+                "label": "TOTAL OTHER INCOME",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 120491
+            },
+            {
+                "label": "INCOME (LOSS) BEFORE INCOME TAX PROVISION",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 880211
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 14749
+            },
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 894960
+            }
+        ]
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HBP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1800000.0
+            },
+            {
+                "label": "Cash and equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1800000.0
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Restucturing charges",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 1500000.0
+            },
+            {
+                "label": "Trade accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 1200000.0
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 38800000.0
+            },
+            {
+                "label": "Trade accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 22600000.0
+            },
+            {
+                "label": "Other",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 2500000.0
+            },
+            {
+                "label": "Cash provided by (used in) continuing operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 24700000.0
+            },
+            {
+                "label": "Total cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 24700000.0
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Total cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Borrowings (repayments) of debt, net",
+                "concept": "ProceedsFromRepaymentsOfDebt",
+                "unit": "usd",
+                "value": 22900000.0
+            },
+            {
+                "label": "Total cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 22900000.0
+            },
+            {
+                "label": "Net increase (decrease) in cash and equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Income taxes paid",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Assets acquired with debt obligations.",
+                "concept": "hbp:AssetsAcquiredWithDebtObligations",
+                "unit": "usd",
+                "value": 200000.0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 192000000.0
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 153300000.0
+            },
+            {
+                "label": "Gross margin",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 38700000.0
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 34700000.0
+            },
+            {
+                "label": "Restucturing charges",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 1500000.0
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 2500000.0
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Income (loss) from operations before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Income (loss) from continuing operations",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Earnings (loss) from continuing operations per share- basic",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.06
+            },
+            {
+                "label": "Net earnings (loss) per share - basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.06
+            },
+            {
+                "label": "Earnings (loss) from continuing operations per share- diluted",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.06
+            },
+            {
+                "label": "Net income (loss) per share- diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.06
+            },
+            {
+                "label": "Basic shares outstanding",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 26000000.0
+            },
+            {
+                "label": "Diluted shares outstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 26200000.0
+            }
+        ]
+    }
+}

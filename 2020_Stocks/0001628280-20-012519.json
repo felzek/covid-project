@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NUVEEN",
+    "data": {
+        "bs": [
+            {
+                "label": "Investments in real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 367730000
+            },
+            {
+                "label": "Investments in international affiliated funds",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 44340000
+            },
+            {
+                "label": "Investments in real estate-related securities, at fair value",
+                "concept": "TradingSecurities",
+                "unit": "usd",
+                "value": 34514000
+            },
+            {
+                "label": "Investment in commercial mortgage loan, at fair value",
+                "concept": "nuveen:CommercialMortgageLoanInvestmentProperty",
+                "unit": "usd",
+                "value": 13337000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 26894000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 12012000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 6944000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 5925000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 511696000
+            },
+            {
+                "label": "Credit facility",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 80277000
+            },
+            {
+                "label": "Mortgage payable, net",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 47538000
+            },
+            {
+                "label": "Intangible liabilities, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 8525000
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 8290000
+            },
+            {
+                "label": "Subscriptions received in advance",
+                "concept": "nuveen:SubscriptionsReceivedInAdvance",
+                "unit": "usd",
+                "value": 6944000
+            },
+            {
+                "label": "Accounts payable, accrued expenses, and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 6151000
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1897000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 159622000
+            },
+            {
+                "label": "Series A Preferred Stock",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 125000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 387137000
+            },
+            {
+                "label": "Accumulated deficit and cumulative distributions",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 35266000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 308000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 352074000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 511696000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2574000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 534000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "nuveen:OtherComprehensiveIncomeLossNetOfTaxIncludingSeriesAPreferredStock",
+                "unit": "usd",
+                "value": 3108000
+            },
+            {
+                "label": "Comprehensive income attributable to Series A preferred stock",
+                "concept": "nuveen:OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToSeriesAPreferredStock",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to common stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3105000
+            }
+        ]
+    }
+}

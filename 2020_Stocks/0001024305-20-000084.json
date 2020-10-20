@@ -1,0 +1,429 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "COTY",
+    "data": {
+        "bs": [
+            {
+                "label": "Noncurrent assets",
+                "concept": "DefinedBenefitPlanAssetsForPlanBenefitsNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansCurrentLiabilities",
+                "unit": "usd",
+                "value": 1300000.0
+            },
+            {
+                "label": "Pension and other post-employment benefits",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 17200000.0
+            },
+            {
+                "label": "Funded status",
+                "concept": "DefinedBenefitPlanFundedStatusOfPlan",
+                "unit": "usd",
+                "value": 18500000.0
+            },
+            {
+                "label": "AOC(L)/I",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPensionAndOtherPostretirementPlansNetOfTax",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Net amount recognized",
+                "concept": "DefinedBenefitPlanAmountsRecognizedInBalanceSheet",
+                "unit": "usd",
+                "value": 19200000.0
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1002700000.0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 716500000.0
+            },
+            {
+                "label": "Non-cash lease expense",
+                "concept": "coty:OperatingLeaseRightOfUseAssetAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 104500000.0
+            },
+            {
+                "label": "Asset impairment charges",
+                "concept": "GoodwillAndIntangibleAssetImpairment",
+                "unit": "usd",
+                "value": 434000000.0
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 342700000.0
+            },
+            {
+                "label": "Provision for bad debts",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 55400000.0
+            },
+            {
+                "label": "Provision for pension and other post-employment benefits",
+                "concept": "PensionAndOtherPostretirementBenefitExpense",
+                "unit": "usd",
+                "value": 15900000.0
+            },
+            {
+                "label": "Share-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 29800000.0
+            },
+            {
+                "label": "(Gain) loss on divestiture and sale of brand assets",
+                "concept": "GainLossOnDispositionOfIntangibleAssets",
+                "unit": "usd",
+                "value": 111500000.0
+            },
+            {
+                "label": "Loss on impairment of long-lived assets",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": 24600000.0
+            },
+            {
+                "label": "Loss on early extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Foreign exchange effects",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 30500000.0
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 39600000.0
+            },
+            {
+                "label": "Trade receivables",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 424500000.0
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 124400000.0
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 25900000.0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 373500000.0
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 36300000.0
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "coty:IncreaseDecreaseOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 106600000.0
+            },
+            {
+                "label": "Income and other taxes payable",
+                "concept": "IncreaseDecreaseInAccruedTaxesPayable",
+                "unit": "usd",
+                "value": 46100000.0
+            },
+            {
+                "label": "Other noncurrent assets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": 800000.0
+            },
+            {
+                "label": "Other noncurrent liabilities",
+                "concept": "IncreaseDecreaseInOtherNoncurrentLiabilities",
+                "unit": "usd",
+                "value": 57900000.0
+            },
+            {
+                "label": "Net cash (used in) provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 50900000.0
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 267399999.99999997
+            },
+            {
+                "label": "Payment for business combinations and asset acquisitions, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 592200000.0
+            },
+            {
+                "label": "Proceeds from sale of business, net of cash disposed",
+                "concept": "ProceedsFromDivestitureOfBusinessesNetOfCashDivested",
+                "unit": "usd",
+                "value": 25600000.0
+            },
+            {
+                "label": "Proceeds from sale of long term assets, including assets under restructuring programs",
+                "concept": "ProceedsFromSaleOfProductiveAssets",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 833400000.0
+            },
+            {
+                "label": "Net (repayments of) proceeds from short-term debt, original maturity less than three months",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebtMaturingInThreeMonthsOrLess",
+                "unit": "usd",
+                "value": 4300000.0
+            },
+            {
+                "label": "Proceeds from revolving loan facilities",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 4681300000.0
+            },
+            {
+                "label": "Repayments of revolving loan facilities",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 4044400000.0
+            },
+            {
+                "label": "Proceeds from Senior Unsecured Notes",
+                "concept": "ProceedsFromIssuanceOfSeniorLongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Repayments of term loans and other long term debt",
+                "concept": "RepaymentsOfSeniorDebt",
+                "unit": "usd",
+                "value": 186400000.0
+            },
+            {
+                "label": "Dividend payments",
+                "concept": "PaymentsOfOrdinaryDividends",
+                "unit": "usd",
+                "value": 196900000.0
+            },
+            {
+                "label": "Net proceeds from issuance of Class A Common Stock and Series A Preferred Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 2700000.0
+            },
+            {
+                "label": "Payments for purchases of Class A Common Stock held as Treasury Stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 4500000.0
+            },
+            {
+                "label": "Proceeds from issuance of Convertible Series B Preferred Stock",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 724500000.0
+            },
+            {
+                "label": "Net proceeds (payments) for foreign currency contracts",
+                "concept": "PaymentsForProceedsFromDerivativeInstrumentFinancingActivities",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Distributions to mandatorily redeemable financial interests, redeemable noncontrolling interests and noncontrolling interests",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 24500000.0
+            },
+            {
+                "label": "Purchase of remaining mandatorily redeemable financial interest",
+                "concept": "coty:PaymentsToAcquireAdditionalInterestInSubsidiariesFinancingActivities",
+                "unit": "usd",
+                "value": 45000000.0
+            },
+            {
+                "label": "Payment of debt issuance costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 14200000.0
+            },
+            {
+                "label": "All other",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 11200000.0
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 877300000.0
+            },
+            {
+                "label": "EFFECT OF EXCHANGE RATES ON CASH, CASH EQUIVALENTS AND RESTRICTED CASH",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 21400000.0
+            },
+            {
+                "label": "NET (DECREASE) INCREASE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 28400000.0
+            },
+            {
+                "label": "Cash paid during the year for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 280600000.0
+            },
+            {
+                "label": "Cash received during the period for settlement of interest rate swaps",
+                "concept": "coty:SwapContractSettlements",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash paid during the year for income taxes, net of refunds received",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 123200000.0
+            },
+            {
+                "label": "Accrued capital expenditure additions",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 76700000.0
+            },
+            {
+                "label": "Non-cash contingent consideration for business combination",
+                "concept": "LiabilitiesAssumed1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dividends settled in Shares of Class A Common Stock",
+                "concept": "StockIssuedDuringPeriodValueStockDividend",
+                "unit": "usd",
+                "value": 89100000.0
+            },
+            {
+                "label": "Accrued fees related to the issuance of Convertible Series B Preferred Stock",
+                "concept": "coty:StockIssuanceCostsAccruedDuringNoncashOrPartialNoncashTransaction",
+                "unit": "usd",
+                "value": 15200000.0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1002700000.0
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 379200000.0
+            },
+            {
+                "label": "Net unrealized derivative gain (loss) on cash flow hedges, net of taxes of $9.1, $14.0 and $(2.2), respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 29700000.0
+            },
+            {
+                "label": "Pension and other post-employment benefits, net of tax of $(7.3), $17.3 and $1.5, respectively",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 11600000.0
+            },
+            {
+                "label": "Total other comprehensive (loss) income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 397300000.0
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1400000000.0
+            },
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNonredeemableNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4700000.0
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Total comprehensive income attributable to noncontrolling interests",
+                "concept": "coty:ComprehensiveIncomeNetOfTaxAttributableToNonredeemableNoncontrollingInterests",
+                "unit": "usd",
+                "value": 4800000.0
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "coty:ComprehensiveIncomeLossNetOfTaxAttributableToRedeemableNoncontrollingInterest",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Comprehensive loss attributable to Coty Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1404100000.0
+            }
+        ]
+    }
+}

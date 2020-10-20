@@ -1,0 +1,104 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OUNZ",
+    "data": {
+        "bs": [
+            {
+                "label": "Investments in gold bullion (cost $273,809,621 and $159,340,051, respectively)",
+                "concept": "InvestmentOwnedAtFairValue",
+                "unit": "usd",
+                "value": 369590557
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 369590557
+            },
+            {
+                "label": "Sponsor\u2019s fee payable",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1
+            },
+            {
+                "label": "Net assets",
+                "concept": "AssetsNet",
+                "unit": "usd",
+                "value": 369590556
+            },
+            {
+                "label": "Paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 275382336
+            },
+            {
+                "label": "Accumulated earnings",
+                "concept": "InvestmentCompanyDistributableEarnings",
+                "unit": "usd",
+                "value": 94208220
+            },
+            {
+                "label": "Net assets",
+                "concept": "AssetsNet",
+                "unit": "usd",
+                "value": 369590556
+            },
+            {
+                "label": "Shares issued and outstanding (no par value) (in Shares)",
+                "concept": "TemporaryEquitySharesOutstanding",
+                "unit": "shares",
+                "value": 19280650
+            },
+            {
+                "label": "Net asset value per share, beginning of period",
+                "concept": "TemporaryEquityRedemptionPricePerShare",
+                "unit": "usd/shares",
+                "value": 19.17
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sponsor\u2019s fees",
+                "concept": "SponsorFees",
+                "unit": "usd",
+                "value": 278138
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 278138
+            },
+            {
+                "label": "Net investment loss",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 278138
+            },
+            {
+                "label": "Net realized and unrealized gain from operations",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 44758523
+            },
+            {
+                "label": "Net increase in net assets resulting from operations",
+                "concept": "IncreaseDecreaseInOperatingAssets",
+                "unit": "usd",
+                "value": 44480385
+            }
+        ]
+    }
+}

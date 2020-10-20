@@ -1,0 +1,31 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SRC",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income attributable to common stockholders/after preferred distributions",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 3001000
+            },
+            {
+                "label": "Net reclassification of amounts (to) from accumulated other comprehensive loss.",
+                "concept": "src:NetReclassificationOfAmountsToFromAccumulatedOtherComprehensiveLoss",
+                "unit": "usd",
+                "value": 702000
+            },
+            {
+                "label": "Total comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2299000
+            }
+        ]
+    }
+}

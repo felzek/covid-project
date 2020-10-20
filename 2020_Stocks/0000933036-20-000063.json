@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RCII",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares, outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 111711000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1101000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 38493000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax of $5 and $(57), $(1,034) and $81 for the three and six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 17000
+            },
+            {
+                "label": "foreign currency translation tax adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 17000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 38510000
+            }
+        ]
+    }
+}

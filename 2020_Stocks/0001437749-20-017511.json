@@ -1,0 +1,272 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "CYAN",
+    "data": {
+        "bs": [],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 138000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 467000
+            },
+            {
+                "label": "Amortization of debt issue costs and other assets",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 31000
+            },
+            {
+                "label": "Amortization of operating leases right-of-use assets",
+                "concept": "cyan:OperatingLeaseRightofuseAssetAmortization",
+                "unit": "usd",
+                "value": 77000
+            },
+            {
+                "label": "us-gaap_ShareBasedCompensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -141000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 441000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -33000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -504000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccruedLiabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 198000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerLiability",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -204000
+            },
+            {
+                "label": "Operating lease obligations",
+                "concept": "cyan:IncreaseDecreaseInOperatingLeaseLiability",
+                "unit": "usd",
+                "value": -77000
+            },
+            {
+                "label": "Deferred rent and other liabilities",
+                "concept": "IncreaseDecreaseInDeferredLiabilities",
+                "unit": "usd",
+                "value": -15000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -146000
+            },
+            {
+                "label": "us-gaap_PaymentsForCapitalImprovements",
+                "concept": "PaymentsForCapitalImprovements",
+                "unit": "usd",
+                "value": 131000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -131000
+            },
+            {
+                "label": "cyan_RepaymentsOfShortTermContractualObligation",
+                "concept": "cyan:RepaymentsOfShortTermContractualObligation",
+                "unit": "usd",
+                "value": 19000
+            },
+            {
+                "label": "Proceeds from long-term debt \u2013 related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from long-term debt \u2013 PPP loan",
+                "concept": "ProceedsFromIssuanceOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 1381000
+            },
+            {
+                "label": "us-gaap_RepaymentsOfLongTermDebt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 163000
+            },
+            {
+                "label": "us-gaap_RepaymentsOfLongTermCapitalLeaseObligations",
+                "concept": "RepaymentsOfLongTermCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Proceeds from exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1185000
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 908000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 117000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 7352000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 4377000
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 2975000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1328000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 1244000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 135000
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2707000
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 268000
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 131000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 137000
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -1000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 138000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 6029000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 6036000
+            }
+        ]
+    }
+}

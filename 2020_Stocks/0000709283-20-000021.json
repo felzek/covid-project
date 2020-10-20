@@ -1,0 +1,495 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "QTM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 23307000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 805000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts of $1,348 and $1,247 as of June 30, 2020 and March 31, 2020, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 49339000
+            },
+            {
+                "label": "Manufacturing inventories",
+                "concept": "qtm:ManufacturingInventoriesNet",
+                "unit": "usd",
+                "value": 29981000
+            },
+            {
+                "label": "Service parts inventories",
+                "concept": "qtm:ServicePartsInventories",
+                "unit": "usd",
+                "value": 21111000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 8766000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 133309000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 9980000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsNoncurrent",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Right-of-use assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 12325000
+            },
+            {
+                "label": "Other long-term assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 4329000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 164943000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 26957000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 76003000
+            },
+            {
+                "label": "Accrued restructuring charges",
+                "concept": "RestructuringReserveCurrent",
+                "unit": "usd",
+                "value": 458000
+            },
+            {
+                "label": "Long-term debt, current portion",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 925000
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 14092000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15773000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 134208000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 34743000
+            },
+            {
+                "label": "Long-term debt, net of current portion",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 169705000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 10402000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 11386000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 360444000
+            },
+            {
+                "label": "Commitments and contingencies (Note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, 20,000 shares authorized; no shares issued as of June 30, 2020 and March 31, 2020, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value; 125,000 shares authorized; 39,905 shares issued and outstanding as of June 30, 2020 and March 31, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 399000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 519235000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 713900000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1235000
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 195501000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 164943000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10736000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1286000
+            },
+            {
+                "label": "Amortization of debt issuance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 1124000
+            },
+            {
+                "label": "Long-term debt related costs",
+                "concept": "qtm:LongTermDebtRestatementCosts",
+                "unit": "usd",
+                "value": 167000
+            },
+            {
+                "label": "Provision for product and service inventories",
+                "concept": "qtm:ServicePartsInventoryWriteDown",
+                "unit": "usd",
+                "value": 1629000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1958000
+            },
+            {
+                "label": "Bad debt expense",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 39000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Unrealized foreign exchange loss",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 482000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 20993000
+            },
+            {
+                "label": "Manufacturing inventories",
+                "concept": "qtm:IncreaseDecreaseInManufacturingInventoriesNet",
+                "unit": "usd",
+                "value": 1784000
+            },
+            {
+                "label": "Service parts inventories",
+                "concept": "qtm:IncreaseDecreaseInServicePartsInventoriesNet",
+                "unit": "usd",
+                "value": 1399000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 9967000
+            },
+            {
+                "label": "Accrued restructuring charges",
+                "concept": "IncreaseDecreaseInRestructuringReserve",
+                "unit": "usd",
+                "value": 458000
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 864000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 8188000
+            },
+            {
+                "label": "Other assets and liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 4198000
+            },
+            {
+                "label": "Net cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 8987000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 484000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 484000
+            },
+            {
+                "label": "Senior Secured Term Loan borrowings, net of debt issuance costs",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 19400000
+            },
+            {
+                "label": "PNC Credit Facility borrowings",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 78582000
+            },
+            {
+                "label": "PNC Credit Facility repayments",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 81653000
+            },
+            {
+                "label": "Paycheck Protection Program borrowing",
+                "concept": "ProceedsFromOtherShortTermDebt",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 26329000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash, cash equivalents and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Net change in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 16842000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 8445000
+            },
+            {
+                "label": "Cash paid (received) for income taxes, net of refunds",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 1964000
+            },
+            {
+                "label": "Transfer of inventory to property and equipment",
+                "concept": "ContributionOfProperty",
+                "unit": "usd",
+                "value": 159000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 73305000
+            },
+            {
+                "label": "Cost of revenue",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 42453000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 30852000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 10162000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 11570000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11563000
+            },
+            {
+                "label": "Restructuring charges",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 1052000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 34347000
+            },
+            {
+                "label": "Income (loss) from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 3495000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 10317000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10736000
+            },
+            {
+                "label": "Net loss per share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.27
+            },
+            {
+                "label": "Weighted average shares - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 39905000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 287000
+            },
+            {
+                "label": "Total comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 10449000
+            }
+        ]
+    }
+}

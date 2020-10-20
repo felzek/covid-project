@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WBHC",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 360711000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 360711000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Numerator \u2013 Earnings available to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 9027000
+            },
+            {
+                "label": "Unrealized gains on available-for-sale securities arising during period, net of taxes of $953, $1,620, $2,446, and $2,422, respectively",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeReclassificationAdjustmentsNetOfTax",
+                "unit": "usd",
+                "value": 2693000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 197000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2496000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 11523000
+            }
+        ]
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CRIS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 23621000
+            },
+            {
+                "label": "Restricted cash, short-term",
+                "concept": "MarketableSecuritiesCurrent",
+                "unit": "usd",
+                "value": 153000
+            },
+            {
+                "label": "Investments",
+                "concept": "RestrictedInvestmentsCurrent",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 2486000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1003000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 27264000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 737000
+            },
+            {
+                "label": "Restricted cash, long-term",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 816000
+            },
+            {
+                "label": "Operating lease right-of-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 7149000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 8982000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 44950000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 4957000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2097000
+            },
+            {
+                "label": "Current portion of operating lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1852000
+            },
+            {
+                "label": "Current portion long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 445000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 9351000
+            },
+            {
+                "label": "Long-term operating lease liability",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 5345000
+            },
+            {
+                "label": "Liability related to the sale of future royalties, net",
+                "concept": "cris:RoyaltyGuaranteesCommitmentsAmountNoncurrent",
+                "unit": "usd",
+                "value": 60189000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 445000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 75330000
+            },
+            {
+                "label": "Common stock, $0.01 par value\u2014151,875,000 shares authorized; 50,639,048 shares issued and outstanding at June 30, 2020; 101,250,000 shares authorized 33,241,793 shares issued and outstanding at December\u00a031, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 506000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1002512000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1033398000
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 30380000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 44950000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues, net",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 2360000
+            },
+            {
+                "label": "Cost of royalties",
+                "concept": "RoyaltyExpense",
+                "unit": "usd",
+                "value": 122000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+                "unit": "usd",
+                "value": 5282000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2386000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 7790000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 5430000
+            },
+            {
+                "label": "Loss on debt extinguishment",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Imputed interest expense related to the sale of future royalties",
+                "concept": "cris:NonCashImputedInterestExpense",
+                "unit": "usd",
+                "value": 1284000
+            },
+            {
+                "label": "Interest expense, debt",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Total other expense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1278000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 6708000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6708000
+            },
+            {
+                "label": "Net loss per common share (basic and diluted) (USD per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.17
+            },
+            {
+                "label": "Weighted average common shares (basic and diluted) (shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 39517045
+            }
+        ]
+    }
+}

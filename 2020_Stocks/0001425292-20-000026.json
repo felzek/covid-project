@@ -1,0 +1,146 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CVI",
+    "data": {
+        "bs": [
+            {
+                "label": "ROU asset, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 2769000
+            },
+            {
+                "label": "Lease liability",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 504000
+            },
+            {
+                "label": "ROU asset, net",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 151000
+            },
+            {
+                "label": "Lease liability",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 155000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 105091000
+            },
+            {
+                "label": "Cost of materials and other",
+                "concept": "CostDirectMaterial",
+                "unit": "usd",
+                "value": 21948000
+            },
+            {
+                "label": "Direct operating expenses (exclusive of depreciation and amortization)",
+                "concept": "DirectOperatingCosts",
+                "unit": "usd",
+                "value": 40008000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 23371000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 85327000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4451000
+            },
+            {
+                "label": "Loss (gain) on asset disposals",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 94000
+            },
+            {
+                "label": "Goodwill impairment",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": 40969000
+            },
+            {
+                "label": "Operating (loss) income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 25750000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 15890000
+            },
+            {
+                "label": "Other income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 38000
+            },
+            {
+                "label": "(Loss) income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 41602000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 41612000
+            },
+            {
+                "label": "Basic and diluted (loss) earnings per common unit (in dollars per unit)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.37
+            },
+            {
+                "label": "Distributions declared per common unit (in dollars per unit)",
+                "concept": "DistributionMadeToLimitedPartnerDistributionsDeclaredPerUnit",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Distributions paid per common unit (in dollars per share)",
+                "concept": "DistributionMadeToLimitedPartnerDistributionsPaidPerUnit",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Basic and Diluted (in units)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 113170000
+            }
+        ]
+    }
+}

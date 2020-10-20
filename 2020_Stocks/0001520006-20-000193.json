@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MTDR",
+    "data": {
+        "bs": [
+            {
+                "label": "Intercompany receivable",
+                "concept": "mtdr:ReceivablesIntercompany",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 227283000
+            },
+            {
+                "label": "Net property and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 3662927000
+            },
+            {
+                "label": "Investment in subsidiaries",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Long-term assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 110923000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4001133000
+            },
+            {
+                "label": "Intercompany payable",
+                "concept": "mtdr:PayablesIntercompany",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "OtherSundryLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 344769000
+            },
+            {
+                "label": "Senior unsecured notes payable",
+                "concept": "UnsecuredLongTermDebt",
+                "unit": "usd",
+                "value": 1040207000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherSundryLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 797656000
+            },
+            {
+                "label": "Total Matador Resources Company shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1643832000
+            },
+            {
+                "label": "Non-controlling interest in subsidiaries",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 174669000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 4001133000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 62920000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 498230000
+            },
+            {
+                "label": "Operating (loss) income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 435310000
+            },
+            {
+                "label": "Net loss on asset sales and impairment",
+                "concept": "GainLossOnSalesOfAssetsAndAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 2632000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 18297000
+            },
+            {
+                "label": "Other (expense) income",
+                "concept": "mtdr:OtherIncomeExpense",
+                "unit": "usd",
+                "value": 473000
+            },
+            {
+                "label": "Earnings in subsidiaries",
+                "concept": "IncomeLossFromSubsidiariesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "(Loss) income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 455766000
+            },
+            {
+                "label": "Total income tax (benefit) provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 109823000
+            },
+            {
+                "label": "Net income attributable to non-controlling interest in subsidiaries",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 7473000
+            },
+            {
+                "label": "Net (loss) income attributable to Matador Resources Company shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 353416000
+            }
+        ]
+    }
+}

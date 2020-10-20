@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RYAM",
+    "data": {
+        "bs": [
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 20011000
+            },
+            {
+                "label": "Lease liabilities, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 5699000
+            },
+            {
+                "label": "Lease liabilities, non-current",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 14769000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to the Company",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12863000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 5888000
+            },
+            {
+                "label": "Unrealized gain (loss) on derivative instruments",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsAndTaxParent",
+                "unit": "usd",
+                "value": 10129000
+            },
+            {
+                "label": "Net gain from pension and postretirement plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2741000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 18758000
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 5895000
+            }
+        ]
+    }
+}

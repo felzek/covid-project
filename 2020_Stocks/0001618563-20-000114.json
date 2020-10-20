@@ -1,0 +1,212 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NSA",
+    "data": {
+        "bs": [
+            {
+                "label": "Self storage properties",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 3354454000
+            },
+            {
+                "label": "Less accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 389828000
+            },
+            {
+                "label": "Self storage properties, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 2964626000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 17271000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 5635000
+            },
+            {
+                "label": "Debt issuance costs, net",
+                "concept": "DeferredFinanceCostsNet",
+                "unit": "usd",
+                "value": 2900000
+            },
+            {
+                "label": "Investment in unconsolidated real estate ventures",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 210114000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 60927000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 23577000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3285050000
+            },
+            {
+                "label": "Debt financing",
+                "concept": "DebtLongtermAndShorttermCombinedAmount",
+                "unit": "usd",
+                "value": 1741544000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 42641000
+            },
+            {
+                "label": "Interest rate swap liabilities",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 91175000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 25095000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "DeferredRevenue",
+                "unit": "usd",
+                "value": 15850000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1916305000
+            },
+            {
+                "label": "Commitments and contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred shares of beneficial interest, par value $0.01 per share. 50,000,000 authorized, 8,732,719 and 8,727,119 issued and outstanding at June\u00a030, 2020 and December\u00a031, 2019, at liquidation preference",
+                "concept": "PreferredStockValueOutstanding",
+                "unit": "usd",
+                "value": 218318000
+            },
+            {
+                "label": "Common shares of beneficial interest, par value $0.01 per share. 250,000,000 authorized, 68,703,733 and 59,659,108 shares issued and outstanding at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValueOutstanding",
+                "unit": "usd",
+                "value": 687000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 984950000
+            },
+            {
+                "label": "Distributions in excess of earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 228924000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 57462000
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 917569000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 451176000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1368745000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3285050000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 17787000
+            },
+            {
+                "label": "Unrealized loss on derivative contracts",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 10423000
+            },
+            {
+                "label": "Reclassification of other comprehensive loss (income) to interest expense",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 3934000
+            },
+            {
+                "label": "Other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 6489000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 11298000
+            },
+            {
+                "label": "Comprehensive (income) loss attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5172000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to National Storage Affiliates Trust",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 6126000
+            }
+        ]
+    }
+}

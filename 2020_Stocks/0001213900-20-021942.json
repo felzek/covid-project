@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ADTX",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH AT BEGINNING OF PERIOD",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 49925
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 25083
+            },
+            {
+                "label": "TOTAL CURRENT ASSETS",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 75008
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 617589
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2268581
+            },
+            {
+                "label": "Accrued compensation to related parties",
+                "concept": "AccountsPayableAndOtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1220629
+            },
+            {
+                "label": "Notes payable - related party",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Notes payable, net of discount",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 830600
+            },
+            {
+                "label": "TOTAL CURRENT LIABILITIES",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4329810
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4329810
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.001 par value, 3,000,000 shares authorized, 0 shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value, 27,000,000 shares authorized, 4,069,125 and 3,915,900 shares issued and 3,968,323 and 3,821,088 shares outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4069
+            },
+            {
+                "label": "Treasury stock, 100,803 and 94,813 shares, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 201605
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 9938946
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -13453631
+            },
+            {
+                "label": "TOTAL STOCKHOLDERS' DEFICIT",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -3712221
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 617589
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "General and administrative expenses, includes $160,329, $2,098,759, $689,766 and $2,822,367 in stock-based compensation",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 367338
+            },
+            {
+                "label": "Research and development, includes $0, $0, $0 and $0 in stock-based compensation",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 28294
+            },
+            {
+                "label": "Sales and marketing, includes $0, $0, $0 and $0 in stock-based compensation",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2848
+            },
+            {
+                "label": "Total Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 398480
+            },
+            {
+                "label": "NET LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -398480
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseOther",
+                "unit": "usd",
+                "value": 448
+            },
+            {
+                "label": "Gain on forgiveness of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 135389
+            },
+            {
+                "label": "Total Other Income (Expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -135837
+            },
+            {
+                "label": "Net loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -534317
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "NET LOSS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -534317
+            },
+            {
+                "label": "Net loss per share - basic and diluted (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.14
+            },
+            {
+                "label": "Weighted average number of shares outstanding during the period - basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 3929205
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ARCH",
+    "data": {
+        "bs": [
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 547782000
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 547782000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 49324000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, before Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTaxParent",
+                "unit": "usd",
+                "value": 363000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 363000
+            },
+            {
+                "label": "Other Comprehensive (Income) Loss, Defined Benefit Plan, before Tax, after Reclassification Adjustment, Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2336000
+            },
+            {
+                "label": "Other Comprehensive (Income) Loss, Defined Benefit Plan, after Tax and Reclassification Adjustment, Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2336000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, before Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 533000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 533000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1440000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 50764000
+            }
+        ]
+    }
+}

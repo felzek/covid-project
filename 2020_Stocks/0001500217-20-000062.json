@@ -1,0 +1,338 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AAT",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating real estate",
+                "concept": "RentalProperties",
+                "unit": "usd",
+                "value": 3128089000
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 94232000
+            },
+            {
+                "label": "Held for development",
+                "concept": "LandAvailableForDevelopment",
+                "unit": "usd",
+                "value": 547000
+            },
+            {
+                "label": "Total Real estate, at cost",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 3222868000
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 710795000
+            },
+            {
+                "label": "Net real estate",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 2512073000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 146131000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 3957000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 13544000
+            },
+            {
+                "label": "Deferred rent receivables, net",
+                "concept": "DeferredRentReceivablesNet",
+                "unit": "usd",
+                "value": 63214000
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 107363000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2846282000
+            },
+            {
+                "label": "Secured notes payable, net",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 110902000
+            },
+            {
+                "label": "Unsecured notes payable, net",
+                "concept": "UnsecuredDebt",
+                "unit": "usd",
+                "value": 1196291000
+            },
+            {
+                "label": "Unsecured line of credit, net",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 98948000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 65780000
+            },
+            {
+                "label": "Security deposits payable",
+                "concept": "SecurityDepositLiability",
+                "unit": "usd",
+                "value": 7685000
+            },
+            {
+                "label": "Other liabilities and deferred credits, net",
+                "concept": "DeferredCreditsAndOtherLiabilities",
+                "unit": "usd",
+                "value": 90188000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1569794000
+            },
+            {
+                "label": "Commitments and contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 490,000,000 shares authorized, 60,073,918 and 60,068,228 shares issued and outstanding at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 601000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1454516000
+            },
+            {
+                "label": "Accumulated dividends in excess of net income",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 154516000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 352000
+            },
+            {
+                "label": "Total American Assets Trust, Inc. stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1300953000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 24465000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1276488000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2846282000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental income",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 79230000
+            },
+            {
+                "label": "Other property income",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 2879000
+            },
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 82109000
+            },
+            {
+                "label": "Total rental expenses",
+                "concept": "DirectCostsOfLeasedAndRentedPropertyOrEquipment",
+                "unit": "usd",
+                "value": 16981000
+            },
+            {
+                "label": "Real estate taxes",
+                "concept": "RealEstateTaxExpense",
+                "unit": "usd",
+                "value": 8961000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6679000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 26493000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 59114000
+            },
+            {
+                "label": "OPERATING INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 22995000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 13331000
+            },
+            {
+                "label": "Gain on sale of real estate",
+                "concept": "GainLossOnSaleOfProperties",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 162000
+            },
+            {
+                "label": "NET INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 9826000
+            },
+            {
+                "label": "Net income attributable to restricted shares",
+                "concept": "aat:NetIncomeAttributableToRestrictedShare",
+                "unit": "usd",
+                "value": 69000
+            },
+            {
+                "label": "Net income attributable to unitholders in the Operating Partnership",
+                "concept": "NoncontrollingInterestInNetIncomeLossOperatingPartnershipsRedeemable",
+                "unit": "usd",
+                "value": 2101000
+            },
+            {
+                "label": "NET INCOME ATTRIBUTABLE TO AMERICAN ASSETS TRUST, INC. STOCKHOLDERS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7656000
+            },
+            {
+                "label": "Earnings per common share, basic (in USD per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.13
+            },
+            {
+                "label": "Weighted average shares of common stock outstanding-basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 59724139
+            },
+            {
+                "label": "Earnings per common share, diluted (in USD per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.13
+            },
+            {
+                "label": "Weighted average shares of common stock outstanding-diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 76114687
+            },
+            {
+                "label": "Dividends declared per common share (in USD per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.2
+            },
+            {
+                "label": "NET INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 9826000
+            },
+            {
+                "label": "Reclassification of amortization of forward-starting swap included in interest expense",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 332000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9508000
+            },
+            {
+                "label": "Comprehensive income attributable to non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2033000
+            },
+            {
+                "label": "Comprehensive income attributable to American Assets Trust, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 7475000
+            }
+        ]
+    }
+}

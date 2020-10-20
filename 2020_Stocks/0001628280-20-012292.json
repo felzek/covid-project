@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WMC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 19363000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 26430000
+            },
+            {
+                "label": "Securitized commercial loans, at fair value",
+                "concept": "wmc:SecuritizedCommercialLoanAtFairValue",
+                "unit": "usd",
+                "value": 465694000
+            },
+            {
+                "label": "Commercial Loans, at fair value",
+                "concept": "PledgedAssetsSeparatelyReportedLoansPledgedAsCollateralAtFairValue",
+                "unit": "usd",
+                "value": 323474000
+            },
+            {
+                "label": "Interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 11595000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2280023000
+            },
+            {
+                "label": "Interest payable (includes $49 and $647 on securitized debt held by affiliates, respectively)",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 7710000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 4082000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 47856000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2091309000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 31494000
+            },
+            {
+                "label": "Interest expense (includes $392, $1,106, $2,556 and $3,444 on securitized debt held by affiliates, respectively)",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 22959000
+            },
+            {
+                "label": "Net Interest Income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 8535000
+            },
+            {
+                "label": "Realized gain (loss) on investments, net",
+                "concept": "DebtSecuritiesAvailableForSaleRealizedGainLoss",
+                "unit": "usd",
+                "value": 6960000
+            },
+            {
+                "label": "Other than temporary impairment",
+                "concept": "OtherThanTemporaryImpairmentLossDebtSecuritiesPortionRecognizedInEarnings",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized gain (loss), net",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 16040000
+            },
+            {
+                "label": "Gain (loss) on derivative instruments, net",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 8143000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Other Income (Loss)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 892000
+            },
+            {
+                "label": "Management fee to affiliate",
+                "concept": "wmc:ManagementFeeRelatedParty",
+                "unit": "usd",
+                "value": 464000
+            },
+            {
+                "label": "Financing fee",
+                "concept": "wmc:FinancingFee",
+                "unit": "usd",
+                "value": 20540000
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 796000
+            },
+            {
+                "label": "Compensation expense",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 692000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 1541000
+            },
+            {
+                "label": "Other general and administrative expenses",
+                "concept": "OtherGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 772000
+            },
+            {
+                "label": "Total general and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3005000
+            },
+            {
+                "label": "Total Expenses",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 24805000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 15378000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 255000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 15633000
+            },
+            {
+                "label": "Net income attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 15635000
+            },
+            {
+                "label": "Net income (loss) per Common Share \u2014 Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.29
+            },
+            {
+                "label": "Net income (loss) per Common Share \u2014 Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.29
+            }
+        ]
+    }
+}

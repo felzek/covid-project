@@ -1,0 +1,67 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "C471",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 376269
+            },
+            {
+                "label": "Administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 91829
+            },
+            {
+                "label": "Custody fees",
+                "concept": "CustodyFees",
+                "unit": "usd",
+                "value": 6434
+            },
+            {
+                "label": "Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 858223
+            },
+            {
+                "label": "Foreign Currency Transaction Gain Loss Realized",
+                "concept": "ForeignCurrencyTransactionGainLossRealized",
+                "unit": "usd",
+                "value": -508
+            },
+            {
+                "label": "Futures and forward currency contracts",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": -3264545
+            },
+            {
+                "label": "Foreign exchange translation",
+                "concept": "ForeignCurrencyTransactionGainLossUnrealized",
+                "unit": "usd",
+                "value": 33936
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "IncomeLossAttributableToParent",
+                "unit": "usd",
+                "value": 2692077
+            },
+            {
+                "label": "Net Income Loss Allocated To Limited Partners",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": 2692077
+            }
+        ]
+    }
+}

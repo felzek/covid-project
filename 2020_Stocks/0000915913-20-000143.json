@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ALB",
+    "data": {
+        "bs": [
+            {
+                "label": "Other assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 136210000
+            },
+            {
+                "label": "Current operating lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 21808000
+            },
+            {
+                "label": "Other noncurrent liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 116249000
+            },
+            {
+                "label": "Total operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 138057000
+            },
+            {
+                "label": "Net property, plant and equipment",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 58972000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 592000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 58620000
+            },
+            {
+                "label": "Total finance lease liabilities",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 59212000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 103758000
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 62847000
+            },
+            {
+                "label": "Pension and postretirement benefits",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Net investment hedge",
+                "concept": "TranslationAdjustmentForNetInvestmentHedgeIncreaseDecreaseNetOfTax",
+                "unit": "usd",
+                "value": 5756000
+            },
+            {
+                "label": "Cash flow hedge",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 37645000
+            },
+            {
+                "label": "Interest rate swap",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 648000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 95392000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 199150000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 18168000
+            },
+            {
+                "label": "Comprehensive income attributable to Albemarle Corporation",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 180982000
+            }
+        ]
+    }
+}

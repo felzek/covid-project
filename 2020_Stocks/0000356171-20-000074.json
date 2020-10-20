@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TCBK",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 78666000
+            },
+            {
+                "label": "Cash at Federal Reserve and other banks",
+                "concept": "tcbk:CashAtFederalReserveAndOtherBanks",
+                "unit": "usd",
+                "value": 627186000
+            },
+            {
+                "label": "Held to maturity debt securities, net of allowance for credit losses of $\u2014",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 337165000
+            },
+            {
+                "label": "Other borrowings",
+                "concept": "OtherBorrowings",
+                "unit": "usd",
+                "value": 38544000
+            },
+            {
+                "label": "Junior subordinated debt",
+                "concept": "JuniorSubordinatedNotes",
+                "unit": "usd",
+                "value": 57422000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7430000
+            },
+            {
+                "label": "Unrealized gains on available for sale securities arising during the period",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 24625000
+            },
+            {
+                "label": "Change in minimum pension liability",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1126000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 25751000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 33181000
+            }
+        ]
+    }
+}

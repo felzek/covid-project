@@ -1,0 +1,597 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "MBUU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 33787000
+            },
+            {
+                "label": "Trade receivables, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 13767000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 72946000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 3954000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 124454000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 94310000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 51273000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 139892000
+            },
+            {
+                "label": "Deferred tax assets",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 52935000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 14482000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 477346000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 15846000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 50485000
+            },
+            {
+                "label": "Income tax and distribution payable",
+                "concept": "mbuu:IncomeTaxandDistributionsPayableCurrent",
+                "unit": "usd",
+                "value": 243000
+            },
+            {
+                "label": "Payable pursuant to tax receivable agreement, current portion",
+                "concept": "mbuu:PayablePursuantToTaxReceivableAgreementCurrent",
+                "unit": "usd",
+                "value": 3589000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 70163000
+            },
+            {
+                "label": "Deferred tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 14000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 16727000
+            },
+            {
+                "label": "Payable pursuant to tax receivable agreement, less current portion",
+                "concept": "mbuu:PayablePursuantToTaxReceivableAgreementNoncurrent",
+                "unit": "usd",
+                "value": 46076000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 82839000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 215819000
+            },
+            {
+                "label": "Commitments and contingencies (See Note 18)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, par value $0.01 per share; 25,000,000 shares authorized; no shares issued and outstanding as of June\u00a030, 2020; no shares issued and outstanding as of June\u00a030, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 103797000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossBeforeTax1",
+                "unit": "usd",
+                "value": 3132000
+            },
+            {
+                "label": "Accumulated earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 153711000
+            },
+            {
+                "label": "Total stockholders' equity attributable to Malibu Boats,\u00a0Inc.",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 254580000
+            },
+            {
+                "label": "Non-controlling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 6947000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 261527000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 477346000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 64656000
+            },
+            {
+                "label": "Non-cash compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 3042000
+            },
+            {
+                "label": "Non-cash compensation to directors",
+                "concept": "mbuu:ShareBasedCompensationDirectors",
+                "unit": "usd",
+                "value": 829000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 12249000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": 6131000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 8715000
+            },
+            {
+                "label": "Adjustment to tax receivable agreement liability",
+                "concept": "mbuu:AdjustmentForChangeInEstimatedTaxRateImpactToTaxReceivableAgreementIncreaseDecrease",
+                "unit": "usd",
+                "value": 1672000
+            },
+            {
+                "label": "Other items, net",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 2211000
+            },
+            {
+                "label": "Trade receivables",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 14193000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 5263000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 551000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 5812000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 239000
+            },
+            {
+                "label": "Income taxes receivable and payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 1164000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 828000
+            },
+            {
+                "label": "Payment pursuant to tax receivable agreement",
+                "concept": "mbuu:PaymentsUnderTaxReceivableAgreement",
+                "unit": "usd",
+                "value": 3458000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 94141000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 41291000
+            },
+            {
+                "label": "Proceeds from sale of property and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 897000
+            },
+            {
+                "label": "Payment for acquisition, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 40394000
+            },
+            {
+                "label": "Principal payments on long-term borrowings",
+                "concept": "RepaymentsOfOtherLongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from long-term borrowings",
+                "concept": "ProceedsFromIssuanceOfOtherLongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payment of deferred financing costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from revolving credit facility",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 103800000
+            },
+            {
+                "label": "Payments on revolving credit facility",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 135000000
+            },
+            {
+                "label": "Proceeds from issuance of Class A Common Stock in offerings, net of underwriting discounts",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payment of costs directly associated with offerings",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Repurchase and retirement of Class A Common Stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 13833000
+            },
+            {
+                "label": "Distributions to non-controlling LLC Unit holders",
+                "concept": "PaymentsOfCapitalDistribution",
+                "unit": "usd",
+                "value": 1836000
+            },
+            {
+                "label": "Proceeds received from exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 377000
+            },
+            {
+                "label": "Net cash provided by (used in) by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 47323000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 29000
+            },
+            {
+                "label": "Changes in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 6395000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 3810000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 10529000
+            },
+            {
+                "label": "Establishment of deferred tax assets from step-up in tax basis",
+                "concept": "mbuu:InitialEstablishmentofDeferredTaxAssets",
+                "unit": "usd",
+                "value": 1364000
+            },
+            {
+                "label": "Establishment of amounts payable under tax receivable agreements",
+                "concept": "mbuu:EstablishmentOfAmountsPayableUnderTaxReceivableAgreements",
+                "unit": "usd",
+                "value": 1041000
+            },
+            {
+                "label": "Equity issued as consideration for acquisition",
+                "concept": "mbuu:NoncashorPartNoncashAcquisitionNoncashFinancialorEquityInstrumentConsiderationSharesIssuedValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Exchange of LLC Units for Class A Common Stock",
+                "concept": "ConversionOfStockAmountConverted1",
+                "unit": "usd",
+                "value": 879000
+            },
+            {
+                "label": "Tax distributions payable to non-controlling LLC Unit holders",
+                "concept": "mbuu:DistributionMadetoLimitedLiabilityCompanyLLCMemberTaxDistributionsPayable",
+                "unit": "usd",
+                "value": 104000
+            },
+            {
+                "label": "Capital expenditures in accounts payable",
+                "concept": "mbuu:NoncashCapitalExpenditure",
+                "unit": "usd",
+                "value": 1129000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 653163000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 503893000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 149270000
+            },
+            {
+                "label": "Selling and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 17917000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 39912000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 6131000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 85310000
+            },
+            {
+                "label": "Other income, net",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 2310000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 3888000
+            },
+            {
+                "label": "Other (income) expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1578000
+            },
+            {
+                "label": "Net income before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 83732000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 19076000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 64656000
+            },
+            {
+                "label": "Net income attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3094000
+            },
+            {
+                "label": "Net income attributable to Malibu Boats, Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 61562000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 64656000
+            },
+            {
+                "label": "Change in cumulative translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 304000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 304000
+            },
+            {
+                "label": "Comprehensive income, net of tax",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 64352000
+            },
+            {
+                "label": "Less: comprehensive income attributable to non-controlling interest, net of tax",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3083000
+            },
+            {
+                "label": "Comprehensive income attributable to Malibu Boats, Inc., net of tax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 61269000
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 20662750
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 20852361
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 2.98
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 2.95
+            }
+        ]
+    }
+}

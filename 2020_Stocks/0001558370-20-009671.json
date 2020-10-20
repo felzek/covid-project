@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CLNE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 83171000
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 83171000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 7037000
+            },
+            {
+                "label": "Amount after tax and reclassification adjustments of gain (loss) on foreign currency translation adjustments, and foreign currency transactions designated and effective as economic hedges of a net investment in a foreign entity.",
+                "concept": "clne:OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentExcludingIntraEntityInvestmentsNetOfTax",
+                "unit": "usd",
+                "value": 1007000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Securities, Available-for-sale, Adjustment, after Tax",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1006000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 6031000
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "INTT",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 10459150
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 44179000
+            },
+            {
+                "label": "Common stock, shares issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 10459150
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 44179000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 170000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 205000
+            }
+        ]
+    }
+}

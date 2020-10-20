@@ -1,0 +1,296 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "UMPQ",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks (restricted cash of $106,730 and $86,507)",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 410769000
+            },
+            {
+                "label": "Interest bearing cash and temporary investments (restricted cash of $3,514 and $590)",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 1853505000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2264274000
+            },
+            {
+                "label": "Equity and other, at fair value",
+                "concept": "umpq:EquityandOtherInvestmentSecurities",
+                "unit": "usd",
+                "value": 81958000
+            },
+            {
+                "label": "Available for sale, at fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 2865690000
+            },
+            {
+                "label": "Held to maturity, at amortized cost",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 3143000
+            },
+            {
+                "label": "Loans held for sale, at fair value",
+                "concept": "LoansReceivableHeldForSaleNetNotPartOfDisposalGroup",
+                "unit": "usd",
+                "value": 605399000
+            },
+            {
+                "label": "Loans and leases",
+                "concept": "LoansAndLeasesReceivableNetOfDeferredIncome",
+                "unit": "usd",
+                "value": 22671455000
+            },
+            {
+                "label": "Allowance for credit losses on loans and leases",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 356745000
+            },
+            {
+                "label": "Net loans and leases",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 22314710000
+            },
+            {
+                "label": "Restricted equity securities",
+                "concept": "FederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 54062000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 192041000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 111487000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 2715000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 15853000
+            },
+            {
+                "label": "Residential mortgage servicing rights, at fair value",
+                "concept": "ServicingAssetAtFairValueAmount",
+                "unit": "usd",
+                "value": 96356000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 324873000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 712687000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 29645248000
+            },
+            {
+                "label": "Noninterest bearing",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 9172210000
+            },
+            {
+                "label": "Interest bearing",
+                "concept": "InterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 15672168000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 24844378000
+            },
+            {
+                "label": "Securities sold under agreements to repurchase",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 398414000
+            },
+            {
+                "label": "Borrowings",
+                "concept": "OtherBorrowings",
+                "unit": "usd",
+                "value": 1096559000
+            },
+            {
+                "label": "Junior subordinated debentures, at fair value",
+                "concept": "JuniorSubordinatedDebentureOwedToUnconsolidatedSubsidiaryTrust",
+                "unit": "usd",
+                "value": 232936000
+            },
+            {
+                "label": "Junior subordinated debentures, at amortized cost",
+                "concept": "umpq:JuniorSubordinatedDebenturesAtAmortizedCost",
+                "unit": "usd",
+                "value": 88382000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 119885000
+            },
+            {
+                "label": "Deferred tax liability, net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 21439000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 304916000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 27106909000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (NOTE 6)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, no par value, shares authorized: 400,000,000 in 2020 and 2019; issued and outstanding: 220,219,107 in 2020 and 220,229,282 in 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3510145000
+            },
+            {
+                "label": "(Accumulated deficit) retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1115414000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 143608000
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2538339000
+            },
+            {
+                "label": "Total liabilities and shareholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 29645248000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 52926000
+            },
+            {
+                "label": "Unrealized gains arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 4570000
+            },
+            {
+                "label": "Income tax expense related to unrealized gains",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 1175000
+            },
+            {
+                "label": "Reclassification adjustment for net realized (gains) losses in earnings",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 323000
+            },
+            {
+                "label": "Income tax expense (benefit) related to realized losses",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax",
+                "unit": "usd",
+                "value": 83000
+            },
+            {
+                "label": "Net change in unrealized gains for available for sale securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 3155000
+            },
+            {
+                "label": "Unrealized (losses) gains arising during the period",
+                "concept": "OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionUnrealizedGainLossArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 37450000
+            },
+            {
+                "label": "Income tax benefit (expense) related to unrealized gains",
+                "concept": "OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionUnrealizedGainLossArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 9632000
+            },
+            {
+                "label": "Net change in unrealized (losses) gains for junior subordinated debentures, at fair value",
+                "concept": "OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionUnrealizedGainLossArisingDuringPeriodAfterTax",
+                "unit": "usd",
+                "value": 27818000
+            },
+            {
+                "label": "Other comprehensive (loss) income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 24663000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 28263000
+            }
+        ]
+    }
+}

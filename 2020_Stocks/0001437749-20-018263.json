@@ -1,0 +1,163 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OEG",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues from external customers",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 7775000
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 6731000
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 1044000
+            },
+            {
+                "label": "Selling, general and administrative expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6787000
+            },
+            {
+                "label": "us-gaap_DepreciationAndAmortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 1424000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 28000
+            },
+            {
+                "label": "Provision for bad debt",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Other operating (income) expense",
+                "concept": "oeg:OtherGeneralExpenseIncome",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 8241000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -7197000
+            },
+            {
+                "label": "Other income (expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 234000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 125000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -7088000
+            },
+            {
+                "label": "Company share of adjusted net loss at 20.58% reduced to 18.28% as of June 30, 2020",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -4360000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -11448000
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -1550000
+            },
+            {
+                "label": "Loss from continuing operations, net of taxes",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -9898000
+            },
+            {
+                "label": "Income from operations of discontinued power and electromechanical components businesses",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax",
+                "unit": "usd",
+                "value": 595000
+            },
+            {
+                "label": "Income tax (benefit) expense",
+                "concept": "DiscontinuedOperationTaxEffectOfDiscontinuedOperation",
+                "unit": "usd",
+                "value": 22000
+            },
+            {
+                "label": "Income from discontinued operations, net of income taxes",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": 573000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -9325000
+            },
+            {
+                "label": "Basic and diluted weighted average number of shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 30424896
+            },
+            {
+                "label": "Loss from continuing operations per common share - basic and diluted (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.33
+            },
+            {
+                "label": "Income from discontinued operations - basic and diluted (in dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "us-gaap_EarningsPerShareBasicAndDiluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.31
+            }
+        ]
+    }
+}

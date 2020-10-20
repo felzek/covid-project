@@ -1,0 +1,326 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TECTP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 4870000
+            },
+            {
+                "label": "Interest-bearing deposits",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 74968000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashCashEquivalentsAndFederalFundsSold",
+                "unit": "usd",
+                "value": 80195000
+            },
+            {
+                "label": "Securities available for sale",
+                "concept": "AvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 13030000
+            },
+            {
+                "label": "Total, Held to Maturity Amortized Cost",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 5827000
+            },
+            {
+                "label": "Securities, restricted at cost",
+                "concept": "TradingSecuritiesRestricted",
+                "unit": "usd",
+                "value": 2429000
+            },
+            {
+                "label": "Securities, not readily marketable",
+                "concept": "MarketableSecuritiesCurrent",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Loans held for sale",
+                "concept": "LoansReceivableHeldForSaleAmount",
+                "unit": "usd",
+                "value": 11625000
+            },
+            {
+                "label": "Net loans",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 392221000
+            },
+            {
+                "label": "Bank premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 4987000
+            },
+            {
+                "label": "Core deposit intangible, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 1079000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 10729000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 529875000
+            },
+            {
+                "label": "Non-interest-bearing",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 73964000
+            },
+            {
+                "label": "Interest-bearing",
+                "concept": "InterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 123820000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 422774000
+            },
+            {
+                "label": "Borrowed funds",
+                "concept": "DebtLongtermAndShorttermCombinedAmount",
+                "unit": "usd",
+                "value": 33886000
+            },
+            {
+                "label": "Subordinated notes",
+                "concept": "SubordinatedDebt",
+                "unit": "usd",
+                "value": 12000000
+            },
+            {
+                "label": "Deferred tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 351000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 475545000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 39095000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 15027000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 125000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 54330000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 529875000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Loan, including fees",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 4493000
+            },
+            {
+                "label": "Securities",
+                "concept": "InterestAndDividendIncomeSecurities",
+                "unit": "usd",
+                "value": 210000
+            },
+            {
+                "label": "Federal funds sold",
+                "concept": "InterestIncomeFederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total interest income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 4722000
+            },
+            {
+                "label": "Deposits",
+                "concept": "InterestExpenseDeposits",
+                "unit": "usd",
+                "value": 1213000
+            },
+            {
+                "label": "Total interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1459000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 3263000
+            },
+            {
+                "label": "Net interest income after provision for loan losses",
+                "concept": "InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "unit": "usd",
+                "value": 2788000
+            },
+            {
+                "label": "Trust income",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 1196000
+            },
+            {
+                "label": "Gain on sale of loans",
+                "concept": "GainLossOnSaleOfLoansAndLeases",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Advisory income",
+                "concept": "InvestmentBankingAdvisoryBrokerageAndUnderwritingFeesAndCommissions",
+                "unit": "usd",
+                "value": 2311000
+            },
+            {
+                "label": "Brokerage income",
+                "concept": "BrokerageCommissionsRevenue",
+                "unit": "usd",
+                "value": 1790000
+            },
+            {
+                "label": "Total non-interest income",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 6576000
+            },
+            {
+                "label": "Salaries and employee benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 4049000
+            },
+            {
+                "label": "Occupancy and equipment",
+                "concept": "OccupancyNet",
+                "unit": "usd",
+                "value": 585000
+            },
+            {
+                "label": "Trust expenses",
+                "concept": "TrusteeFees",
+                "unit": "usd",
+                "value": 372000
+            },
+            {
+                "label": "Brokerage and advisory direct costs",
+                "concept": "NoninterestExpenseInvestmentAdvisoryFees",
+                "unit": "usd",
+                "value": 560000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 284000
+            },
+            {
+                "label": "Data processing",
+                "concept": "InformationTechnologyAndDataProcessing",
+                "unit": "usd",
+                "value": 202000
+            },
+            {
+                "label": "Total non-interest expense",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 6663000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 587000
+            },
+            {
+                "label": "Preferred stock dividends",
+                "concept": "DividendsPreferredStock",
+                "unit": "usd",
+                "value": 388000
+            },
+            {
+                "label": "Net income available to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 1726000
+            },
+            {
+                "label": "Basic (in Dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.26
+            },
+            {
+                "label": "Diluted (in Dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.26
+            },
+            {
+                "label": "Weighted average common shares outstanding (in Shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 6568750
+            },
+            {
+                "label": "Average diluted shares outstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 6568750
+            }
+        ]
+    }
+}

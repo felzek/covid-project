@@ -1,0 +1,201 @@
+{
+    "startDate": "2020-06-18",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DMYD",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Assets, Current",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Deferred offering costs associated with initial public offering",
+                "concept": "dmyd:DeferredOfferingCostsAssociatedWithInitialPublicOffering",
+                "unit": "usd",
+                "value": 138074
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 163074
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 32720
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 46000
+            },
+            {
+                "label": "Sales and Excise Tax Payable, Current",
+                "concept": "SalesAndExciseTaxPayableCurrent",
+                "unit": "usd",
+                "value": 6625
+            },
+            {
+                "label": "Notes Payable, Related Parties, Current",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 60461
+            },
+            {
+                "label": "Liabilities, Current",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 145806
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 24310
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -7732
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 17268
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 163074
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -7732
+            },
+            {
+                "label": "General And Administrative Expenses Paid In Kind",
+                "concept": "dmyd:GeneralAndAdministrativeExpensesPaidInKind",
+                "unit": "usd",
+                "value": 107
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Increase Decrease in Franchise tax payable",
+                "concept": "dmyd:IncreasedecreaseInFranchiseTaxPayable",
+                "unit": "usd",
+                "value": 6625
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from Issuance of Common Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Deferred Offering Costs Included in Note Payable",
+                "concept": "dmyd:DeferredOfferingCostsIncludedInNotePayable",
+                "unit": "usd",
+                "value": 32720
+            },
+            {
+                "label": "Deferred Offering Costs Included In Accrued Expenses",
+                "concept": "dmyd:DeferredOfferingCostsIncludedInAccruedExpenses",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Deferred Offering Costs Included In Note Payable To Related Party",
+                "concept": "dmyd:DeferredOfferingCostsIncludedInNotePayableToRelatedParty",
+                "unit": "usd",
+                "value": 60354
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1107
+            },
+            {
+                "label": "Franchisor Costs",
+                "concept": "FranchisorCosts",
+                "unit": "usd",
+                "value": 6625
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -7732
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 66900000
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            }
+        ]
+    }
+}

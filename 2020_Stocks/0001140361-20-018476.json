@@ -1,0 +1,152 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SMMC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1401047
+            },
+            {
+                "label": "Prepaid income taxes",
+                "concept": "PrepaidTaxes",
+                "unit": "usd",
+                "value": 105257
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "OtherPrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 145783
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1652087
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 252360923
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 254013010
+            },
+            {
+                "label": "Current liability - Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 451763
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 8422138
+            },
+            {
+                "label": "Commitments (see Note 6)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock subject to possible redemption, 23,827,156 and 23,861,949 shares at redemption value at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 240590864
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3284806
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1714460
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000008
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 254013010
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Operating and formation costs",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 243841
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -243841
+            },
+            {
+                "label": "Interest income on marketable securities held in Trust Account",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 96195
+            },
+            {
+                "label": "(Loss) income before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -147646
+            },
+            {
+                "label": "Benefit (provision) for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -31005
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -116641
+            },
+            {
+                "label": "Weighted average shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 7398328
+            },
+            {
+                "label": "Basic and diluted net loss per common share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.03
+            }
+        ]
+    }
+}

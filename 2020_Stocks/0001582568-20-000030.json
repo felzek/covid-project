@@ -1,0 +1,230 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PBF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 21568000
+            },
+            {
+                "label": "Accounts receivable - affiliates",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 55133000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 6109000
+            },
+            {
+                "label": "Prepaids and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 4805000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 87615000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 841475000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 6332000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 15121000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 950543000
+            },
+            {
+                "label": "Accounts payable - affiliates",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 7268000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 3857000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 22865000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "DeferredRevenueCurrent",
+                "unit": "usd",
+                "value": 2462000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 36452000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 768085000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "LiabilitiesOtherThanLongtermDebtNoncurrent",
+                "unit": "usd",
+                "value": 18760000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 823297000
+            },
+            {
+                "label": "Commitments and contingencies (Note 10)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total PBF Logistics LP equity",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 127246000
+            },
+            {
+                "label": "Total equity",
+                "concept": "PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 127246000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 950543000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Affiliate",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 72422000
+            },
+            {
+                "label": "Third-party",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 16707000
+            },
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 89129000
+            },
+            {
+                "label": "Operating and maintenance expenses",
+                "concept": "DirectOperatingCosts",
+                "unit": "usd",
+                "value": 23154000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4299000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 11234000
+            },
+            {
+                "label": "Change in contingent consideration",
+                "concept": "BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1",
+                "unit": "usd",
+                "value": 324000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 39011000
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 50118000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 11536000
+            },
+            {
+                "label": "Amortization of loan fees and debt premium",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 542000
+            },
+            {
+                "label": "Accretion on discounted liabilities",
+                "concept": "AccretionExpense",
+                "unit": "usd",
+                "value": 580000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 37460000
+            },
+            {
+                "label": "Less: Net income attributable to noncontrolling interest",
+                "concept": "IncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income attributable to PBF Logistics LP unitholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 37460000
+            }
+        ]
+    }
+}

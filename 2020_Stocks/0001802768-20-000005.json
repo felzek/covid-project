@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RPRX",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, par value (in dollars/pounds per share)",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 0.0001
+            },
+            {
+                "label": "Common stock, issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 365899000
+            },
+            {
+                "label": "Common stock, outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 365899000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 510932000
+            },
+            {
+                "label": "Research and development funding expense",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 5776000
+            },
+            {
+                "label": "Provision for changes in expected cash flows from financial royalty assets",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 47278000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 5733000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 42799000
+            },
+            {
+                "label": "Total operating expenses, net",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 101586000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 409346000
+            },
+            {
+                "label": "Equity in (earnings)/loss of non-consolidated affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 29292000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 34189000
+            },
+            {
+                "label": "Unrealized (gain)/loss on derivative contracts",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 647000
+            },
+            {
+                "label": "Unrealized gain on equity securities",
+                "concept": "EquitySecuritiesFvNiUnrealizedGainLoss",
+                "unit": "usd",
+                "value": 193895000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 2724000
+            },
+            {
+                "label": "Other non-operating (income)/expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 261000
+            },
+            {
+                "label": "Total other (income)/expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 192630000
+            },
+            {
+                "label": "Consolidated net income before tax",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 601976000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Consolidated net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 601976000
+            },
+            {
+                "label": "Less: Net income attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 159902000
+            },
+            {
+                "label": "Net income attributable to controlling interest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 442074000
+            },
+            {
+                "label": "Reclassification of loss on interest rate swaps included in net income",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsAndTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Change in unrealized movement on available for sale debt securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6949000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 6949000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 449023000
+            },
+            {
+                "label": "Less: Other comprehensive income attributable to non-controlling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1624000
+            },
+            {
+                "label": "Comprehensive income attributable to controlling interest",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 447399000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.09
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.09
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 353979000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 353980000
+            }
+        ]
+    }
+}

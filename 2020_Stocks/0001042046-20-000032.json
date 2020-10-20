@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AFG",
+    "data": {
+        "bs": [
+            {
+                "label": "Pretax",
+                "concept": "afg:AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentPretax",
+                "unit": "usd",
+                "value": 2031000000
+            },
+            {
+                "label": "Deferred\u00a0Tax",
+                "concept": "afg:AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentDeferredTaxAndNonControllingInterest",
+                "unit": "usd",
+                "value": 427000000
+            },
+            {
+                "label": "Net",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1604000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings (loss),\u00a0including\u00a0noncontrolling\u00a0interests",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 167000000
+            },
+            {
+                "label": "Unrealized holding gains on securities arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1021000000
+            },
+            {
+                "label": "Reclassification adjustment for realized (gains) losses included in net earnings",
+                "concept": "afg:OtherComprehensiveIncomeLossReclassificationAdjustmentForRealizedGainsLossesIncludedInNetIncomeNetOfTax",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Total net unrealized gains on securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1014000000
+            },
+            {
+                "label": "Net unrealized gains on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1021000000
+            },
+            {
+                "label": "Total comprehensive income, net of tax",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1188000000
+            },
+            {
+                "label": "Less: Comprehensive income (loss) attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Comprehensive income attributable to shareholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1198000000
+            }
+        ]
+    }
+}

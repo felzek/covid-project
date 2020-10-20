@@ -1,0 +1,170 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SILK",
+    "data": {
+        "bs": [
+            {
+                "label": "Accrued payroll and related expenses",
+                "concept": "AccruedSalariesCurrent",
+                "unit": "usd",
+                "value": 5352000
+            },
+            {
+                "label": "Provision for sales returns",
+                "concept": "silk:ProvisionsForSalesReturns",
+                "unit": "usd",
+                "value": 920000
+            },
+            {
+                "label": "Accrued professional services",
+                "concept": "AccruedProfessionalFeesCurrent",
+                "unit": "usd",
+                "value": 593000
+            },
+            {
+                "label": "Operating lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 809000
+            },
+            {
+                "label": "Accrued royalty expense",
+                "concept": "AccruedRoyaltiesCurrent",
+                "unit": "usd",
+                "value": 333000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 335000
+            },
+            {
+                "label": "Accrued travel expenses",
+                "concept": "silk:AccruedTravelExpensesCurrent",
+                "unit": "usd",
+                "value": 273000
+            },
+            {
+                "label": "Accrued clinical expenses",
+                "concept": "silk:AccruedClinicalExpensesCurrent",
+                "unit": "usd",
+                "value": 181000
+            },
+            {
+                "label": "Accrued other expenses",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 346000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 9142000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 15094000
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 5336000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 9758000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 3393000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 15758000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 19151000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 9393000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 299000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1203000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 56000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10353000
+            },
+            {
+                "label": "Unrealized gain (loss) on investments, net",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 126000
+            },
+            {
+                "label": "Net change in other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 126000
+            },
+            {
+                "label": "Net loss and comprehensive loss",
+                "concept": "silk:NetIncomeLossAndComprehensiveIncomeLossNetOfTaxAttributableToParent",
+                "unit": "usd",
+                "value": 10479000
+            },
+            {
+                "label": "Net loss per share, basic and diluted (in USD per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.32
+            },
+            {
+                "label": "Weighted average common shares used to compute net loss per share, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 32682360
+            }
+        ]
+    }
+}

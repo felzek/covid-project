@@ -1,0 +1,79 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LH",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net restructuring and other special charges",
+                "concept": "lh:NetRestructuringAndOtherSpecialCharges",
+                "unit": "usd",
+                "value": 6400000.0
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 65400000.00000001
+            },
+            {
+                "label": "Net earnings",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 231600000.0
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 66900000.00000001
+            },
+            {
+                "label": "Other Comprehensive (Income) Loss, Defined Benefit Plan, after Reclassification Adjustment, before Tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 2700000.0
+            },
+            {
+                "label": "Other comprehensive earnings (loss) before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 69600000.0
+            },
+            {
+                "label": "Tax effect of adjustments",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Other comprehensive earnings (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 68900000.0
+            },
+            {
+                "label": "Comprehensive earnings",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 300500000.0
+            },
+            {
+                "label": "Less: Net earnings attributable to the noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive earnings attributable to Laboratory Corporation of America Holdings",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 300500000.0
+            }
+        ]
+    }
+}

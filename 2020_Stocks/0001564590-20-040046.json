@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-05",
+    "endDate": "2020-07-04",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ULH",
+    "data": {
+        "bs": [
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 216550000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 216550000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6168000
+            },
+            {
+                "label": "Other comprehensive income loss unrealized changes in fair value of Interest Rate Swaps, net of Income taxes.",
+                "concept": "ulh:OtherComprehensiveIncomeLossUnrealizedChangesInFairValueOfInterestRateSwapsNetOfIncomeTaxes",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1824000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1800000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 7968000
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BNGO",
+    "data": {
+        "bs": [
+            {
+                "label": "Materials and supplies",
+                "concept": "InventoryRawMaterialsAndSuppliesNetOfReserves",
+                "unit": "usd",
+                "value": 2180000
+            },
+            {
+                "label": "Finished goods",
+                "concept": "InventoryFinishedGoodsNetOfReserves",
+                "unit": "usd",
+                "value": 1110000
+            },
+            {
+                "label": "Inventory, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 3290000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 1182000
+            },
+            {
+                "label": "Total cost of revenue",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 603000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 2401000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5613000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 8014000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 7435000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 561000
+            },
+            {
+                "label": "Loss on debt extinguishment",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other expenses",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 73000
+            },
+            {
+                "label": "Total other expenses",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 634000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 8069000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 8074000
+            },
+            {
+                "label": "Net loss per share, basic and diluted (USD per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.09
+            },
+            {
+                "label": "Weighted-average common shares outstanding basic and diluted (shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 90907000
+            }
+        ]
+    }
+}

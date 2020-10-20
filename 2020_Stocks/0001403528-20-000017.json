@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OAK",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash-equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 245105000
+            },
+            {
+                "label": "U.S. Treasury and other securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 67003000
+            },
+            {
+                "label": "Corporate investments (includes $36,009 and $34,934 measured at fair value as of June 30, 2020 and December\u00a031, 2019, respectively)",
+                "concept": "oak:EquityMethodandOtherInvestments",
+                "unit": "usd",
+                "value": 850085000
+            },
+            {
+                "label": "Due from affiliates",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 59955000
+            },
+            {
+                "label": "Deferred tax assets",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 2990000
+            },
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 37824000
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 42258000
+            },
+            {
+                "label": "Investments, at fair value",
+                "concept": "InvestmentsFairValueDisclosure",
+                "unit": "usd",
+                "value": 36009000
+            },
+            {
+                "label": "Accrued compensation expense",
+                "concept": "EmployeeRelatedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 98965000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 12693000
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 62581000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 43609000
+            },
+            {
+                "label": "Debt obligations of CLOs",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss) attributable to OCG Class A unitholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 101390000
+            },
+            {
+                "label": "Weighted average Oaktree Operating Group units outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 98677000
+            },
+            {
+                "label": "Net income per Class\u00a0A unit (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 1.03
+            }
+        ]
+    }
+}

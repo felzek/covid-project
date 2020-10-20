@@ -1,0 +1,242 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ZYME",
+    "data": {
+        "bs": [
+            {
+                "label": "Current portion of operating lease liability (note 11)",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1895000
+            },
+            {
+                "label": "Long-term portion of operating lease liability (note 11)",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 6591000
+            },
+            {
+                "label": "Operating Lease, Liability, Total",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 8486000
+            },
+            {
+                "label": "Current portion of finance lease liability (note 11)",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 29000
+            },
+            {
+                "label": "Finance lease liability (note 11)",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 64000
+            },
+            {
+                "label": "Total finance lease liabilities",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 93000
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "zyme:LeaseLiability",
+                "unit": "usd",
+                "value": 8579000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss and comprehensive loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 70097000
+            },
+            {
+                "label": "Depreciation and amortization of property and equipment",
+                "concept": "zyme:DepreciationAndAmortizationOnPropertyAndEquipment",
+                "unit": "usd",
+                "value": 1539000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 1971000
+            },
+            {
+                "label": "Impairment on acquired IPR&D",
+                "concept": "ImpairmentOfIntangibleAssetsExcludingGoodwill",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 4257000
+            },
+            {
+                "label": "Amortization and impairment of operating lease right-of-use assets",
+                "concept": "zyme:OperatingLeaseRightOfUseAssetAmortizationAndImpairment",
+                "unit": "usd",
+                "value": 1572000
+            },
+            {
+                "label": "Deferred income tax expense",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 191000
+            },
+            {
+                "label": "Non-cash consideration from licensing agreement",
+                "concept": "zyme:LicensingAgreementNoncashConsideration",
+                "unit": "usd",
+                "value": 218000
+            },
+            {
+                "label": "Change in fair value of contingent consideration",
+                "concept": "zyme:ContingentConsiderationFairValueAdjustments",
+                "unit": "usd",
+                "value": 68000
+            },
+            {
+                "label": "Unrealized foreign exchange (gain) loss",
+                "concept": "ForeignCurrencyTransactionGainLossUnrealized",
+                "unit": "usd",
+                "value": 2866000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 12640000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 9284000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 1766000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "zyme:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 170000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "IncreaseDecreaseInIncomeTaxes",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 87443000
+            },
+            {
+                "label": "Proceeds from public offering, net of issuance costs (note 8a)",
+                "concept": "zyme:ProceedsFromIssuanceOfCommonStockPublicOffering",
+                "unit": "usd",
+                "value": 300910000
+            },
+            {
+                "label": "Issuance of common shares on exercise of stock options (note 8e)",
+                "concept": "ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                "unit": "usd",
+                "value": 1795000
+            },
+            {
+                "label": "Issuance of common shares through employee stock purchase plan",
+                "concept": "zyme:ProceedsFromIssuanceOfSharesUnderEmployeeSharePurchasePlan",
+                "unit": "usd",
+                "value": 419000
+            },
+            {
+                "label": "Deferred financing fees",
+                "concept": "zyme:PaymentsOfDeferredFinancingFees",
+                "unit": "usd",
+                "value": 80000
+            },
+            {
+                "label": "Finance lease payments",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 303037000
+            },
+            {
+                "label": "Net (purchases) redemptions of short-term and long-term investments",
+                "concept": "PaymentsForProceedsFromInvestments",
+                "unit": "usd",
+                "value": 121822000
+            },
+            {
+                "label": "Acquisition of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 2185000
+            },
+            {
+                "label": "Acquisition of intangible assets",
+                "concept": "PaymentsToAcquireIntangibleAssets",
+                "unit": "usd",
+                "value": 419000
+            },
+            {
+                "label": "Net cash (used in) provided by investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 124426000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Net change in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 91118000
+            },
+            {
+                "label": "Leased assets obtained in exchange for operating lease liabilities",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 1817000
+            },
+            {
+                "label": "Acquisition of property and equipment in accounts payable and accrued liabilities",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 706000
+            }
+        ],
+        "ic": []
+    }
+}

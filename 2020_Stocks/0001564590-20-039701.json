@@ -1,0 +1,213 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "TYME",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents \u2013 beginning",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 21311268
+            },
+            {
+                "label": "Cash and cash equivalents \u2013 beginning",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 21311268
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -8825815
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1295
+            },
+            {
+                "label": "Amortization of employees, directors and consultants stock options",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1068696
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 3263271
+            },
+            {
+                "label": "Gain loss on warrant exchange.",
+                "concept": "tyme:GainLossOnWarrantExchange",
+                "unit": "usd",
+                "value": 2228697
+            },
+            {
+                "label": "Increase (decrease) in prepaid clinical costs.",
+                "concept": "tyme:IncreaseDecreaseInPrepaidClinicalCosts",
+                "unit": "usd",
+                "value": 188555
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -248632
+            },
+            {
+                "label": "Increase (decrease) in operating lease right-of-use asset.",
+                "concept": "tyme:IncreaseDecreaseInOperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": -69506
+            },
+            {
+                "label": "Accounts payable and other current liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 1641320
+            },
+            {
+                "label": "Increase (Decrease) in severance payable.",
+                "concept": "tyme:IncreaseDecreaseInSeverancePayable",
+                "unit": "usd",
+                "value": -91902
+            },
+            {
+                "label": "Accrued bonuses",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": -1333199
+            },
+            {
+                "label": "Increase (decrease) in operating lease liabilities.",
+                "concept": "tyme:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": -14612
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -6390060
+            },
+            {
+                "label": "Its represents value of insurance note payments.",
+                "concept": "tyme:InsuranceNotePayments",
+                "unit": "usd",
+                "value": 170674
+            },
+            {
+                "label": "Proceeds from issuance of common stock and warrants.",
+                "concept": "tyme:ProceedsFromIssuanceOfCommonStockAndWarrants",
+                "unit": "usd",
+                "value": 1171586
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1000912
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -5389148
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 29376
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 4715295
+            },
+            {
+                "label": "General and administrative (including $203,000 and $152,000 of related party legal expenses, respectively)",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3057072
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 7772367
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -7772367
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 3263271
+            },
+            {
+                "label": "Gain loss on warrant exchange.",
+                "concept": "tyme:GainLossOnWarrantExchange",
+                "unit": "usd",
+                "value": 2228697
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 10502
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 29376
+            },
+            {
+                "label": "Total other income (expenses)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -1053448
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -8825815
+            },
+            {
+                "label": "Basic and diluted loss per common share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.07
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 124582014
+            }
+        ]
+    }
+}

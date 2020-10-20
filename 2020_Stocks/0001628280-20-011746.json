@@ -1,0 +1,200 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TCP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 215000000
+            },
+            {
+                "label": "Accounts receivable and other (Note 14)",
+                "concept": "tcp:AccountsReceivableAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 34000000
+            },
+            {
+                "label": "Distribution receivable from Iroquois",
+                "concept": "DividendsReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 262000000
+            },
+            {
+                "label": "Equity investments (Note 5)",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 1082000000
+            },
+            {
+                "label": "Property, plant and equipment (Net of $1,218 accumulated depreciation; 2019 - $1,187)",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1598000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 71000000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3013000000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 49000000
+            },
+            {
+                "label": "Accounts payable to affiliates (Note 12)",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Current portion of long-term debt (Note 7)",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 350000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 415000000
+            },
+            {
+                "label": "Long-term debt, net (Note 7)",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 1762000000
+            },
+            {
+                "label": "Deferred state income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 43000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2226000000
+            },
+            {
+                "label": "General partner",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss) (AOCI)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 18000000
+            },
+            {
+                "label": "Controlling interests",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 685000000
+            },
+            {
+                "label": "Non-controlling interests",
+                "concept": "PartnersCapitalAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 102000000
+            },
+            {
+                "label": "Total partners' equity",
+                "concept": "PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 787000000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND PARTNERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3013000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 61000000
+            },
+            {
+                "label": "Change in fair value of cash flow hedges (Note 13)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Reclassification to net income of (gains) and losses on cash flow hedges (Note 13)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 61000000
+            },
+            {
+                "label": "Comprehensive income attributable to non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Comprehensive income attributable to controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 57000000
+            }
+        ]
+    }
+}

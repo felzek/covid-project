@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "MATW",
+    "data": {
+        "bs": [
+            {
+                "label": "Assets derivatives",
+                "concept": "DerivativeFairValueOfDerivativeAsset",
+                "unit": "usd",
+                "value": 249000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss) attributable to Matthews shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2269000
+            },
+            {
+                "label": "Net losses attributable to\u00a0noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 420000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1849000
+            },
+            {
+                "label": "Net change in other comprehensive income (loss), net of tax, attributable to Matthews shareholders",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 12804000
+            },
+            {
+                "label": "Net change in other comprehensive income (loss), net of tax, attributable to noncontrolling interest",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "OCI, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 12804000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Matthews shareholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 15073000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 420000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 14653000
+            }
+        ]
+    }
+}

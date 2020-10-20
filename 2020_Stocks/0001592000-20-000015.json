@@ -1,0 +1,332 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ENLC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 52000000.0
+            },
+            {
+                "label": "Trade, net of allowance for bad debt of $0.5 and $0.5, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 82000000.0
+            },
+            {
+                "label": "Accrued revenue and other",
+                "concept": "UnbilledContractsReceivable",
+                "unit": "usd",
+                "value": 304700000.0
+            },
+            {
+                "label": "Fair value of derivative assets",
+                "concept": "DerivativeAssetsCurrent",
+                "unit": "usd",
+                "value": 9900000.0
+            },
+            {
+                "label": "Other current assets",
+                "concept": "enlc:DepositPrepaidExpensesAndInventory",
+                "unit": "usd",
+                "value": 58600000.0
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 507200000.0
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation of $3,654.7 and $3,418.6, respectively",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 6828700000.0
+            },
+            {
+                "label": "Intangible assets, net of accumulated amortization of $607.1 and $545.9, respectively",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 1187100000.0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investment in unconsolidated affiliates",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 42100000.0
+            },
+            {
+                "label": "Fair value of derivative assets",
+                "concept": "DerivativeAssetsNoncurrent",
+                "unit": "usd",
+                "value": 5800000.0
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 147900000.0
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8718800000.0
+            },
+            {
+                "label": "Accounts payable and drafts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 49400000.0
+            },
+            {
+                "label": "Accounts payable to related party",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Accrued gas, NGLs, condensate, and crude oil purchases",
+                "concept": "enlc:AccruedPurchasesGasCondensateAndCrudeOil",
+                "unit": "usd",
+                "value": 188800000.0
+            },
+            {
+                "label": "Fair value of derivative liabilities",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 31300000.0
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 160200000.0
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 430100000.0
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 4749000000.0
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 15900000.0
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 84800000.0
+            },
+            {
+                "label": "Fair value of derivative liabilities",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 9400000.0
+            },
+            {
+                "label": "Redeemable non-controlling interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonFairValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Members\u2019 equity (489,463,987 and 487,791,612 units issued and outstanding, respectively)",
+                "concept": "MembersCapital",
+                "unit": "usd",
+                "value": 1728500000.0
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 22600000.0
+            },
+            {
+                "label": "Non-controlling interest",
+                "concept": "MembersEquityAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1723700000.0
+            },
+            {
+                "label": "Total members\u2019 equity",
+                "concept": "LimitedLiabilityCompanyLlcMembersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3429600000.0
+            },
+            {
+                "label": "Total liabilities and members\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 8718800000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue from contracts with customers",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 767300000.0
+            },
+            {
+                "label": "Gain (loss) on derivative activity",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 22400000.0
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 744900000.0
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 397700000.0
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 88100000.0
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 23500000.0
+            },
+            {
+                "label": "Loss on disposition of assets",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 5200000.0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 158200000.0
+            },
+            {
+                "label": "Impairments",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 1500000.0
+            },
+            {
+                "label": "Loss on secured term loan receivable",
+                "concept": "enlc:GainLossOnWriteOffOfFinanceReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total operating costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 674200000.0
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 70700000.0
+            },
+            {
+                "label": "Interest expense, net of interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 55200000.0
+            },
+            {
+                "label": "Gain on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 26700000.0
+            },
+            {
+                "label": "Income (loss) from unconsolidated affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total other expense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 29200000.0
+            },
+            {
+                "label": "Income (loss) before non-controlling interest and income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 41500000.0
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 11700000.0
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 29800000.0
+            },
+            {
+                "label": "Net income attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 25700000.0
+            },
+            {
+                "label": "Net income (loss) attributable to ENLC",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4099999.9999999995
+            },
+            {
+                "label": "Basic common unit (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Diluted common unit (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.01
+            }
+        ]
+    }
+}

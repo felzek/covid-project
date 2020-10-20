@@ -1,0 +1,104 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WWR",
+    "data": {
+        "bs": [
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 17629000
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 17629000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Exploration Expense",
+                "concept": "ExplorationExpense",
+                "unit": "usd",
+                "value": 576000
+            },
+            {
+                "label": "The amount of product development expense incurred during the period.",
+                "concept": "wwr:ProductDevelopmentExpense",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1659000
+            },
+            {
+                "label": "Legal Fees",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 28000
+            },
+            {
+                "label": "Accretion of asset retirement obligations",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 32000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 17000
+            },
+            {
+                "label": "Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2487000
+            },
+            {
+                "label": "Other Nonoperating Income (Expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Nonoperating Income (Expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2467000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -2467000
+            },
+            {
+                "label": "BASIC AND DILUTED LOSS PER SHARE",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.43
+            },
+            {
+                "label": "WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 5786117
+            }
+        ]
+    }
+}

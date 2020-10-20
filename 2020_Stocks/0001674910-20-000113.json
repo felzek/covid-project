@@ -1,0 +1,194 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "VVV",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 261000000
+            },
+            {
+                "label": "Finance lease assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 66000000
+            },
+            {
+                "label": "Amortization of finance lease assets",
+                "concept": "FinanceLeaseRightOfUseAssetAccumulatedAmortization",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Total leased assets",
+                "concept": "vvv:TotalOperatingAndFinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 319000000
+            },
+            {
+                "label": "Operating lease liabilities, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 32000000
+            },
+            {
+                "label": "Finance lease liabilities, current",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Operating lease liabilities, noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 231000000
+            },
+            {
+                "label": "Finance lease liabilities, noncurrent",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 60000000
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "vvv:TotalOperatingAndFinanceLeaseLiability",
+                "unit": "usd",
+                "value": 326000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 516000000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 329000000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 187000000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 106000000
+            },
+            {
+                "label": "Net legacy and separation-related expenses",
+                "concept": "vvv:LegacyAndSeparationRelatedExpensesNet",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Equity and other income, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 88000000
+            },
+            {
+                "label": "Net pension and other postretirement plan income",
+                "concept": "NetPeriodicDefinedBenefitsExpenseReversalOfExpenseExcludingServiceCostComponent",
+                "unit": "usd",
+                "value": 9000000
+            },
+            {
+                "label": "Net interest and other financing expenses",
+                "concept": "InterestAndDebtExpense",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 78000000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 59000000
+            },
+            {
+                "label": "Basic (usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.32
+            },
+            {
+                "label": "Diluted (usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.32
+            },
+            {
+                "label": "Basic (shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 186000000
+            },
+            {
+                "label": "Diluted (shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 186000000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 59000000
+            },
+            {
+                "label": "Currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Amortization of pension and other postretirement plan prior service credit",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 66000000
+            }
+        ]
+    }
+}

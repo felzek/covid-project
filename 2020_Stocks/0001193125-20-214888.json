@@ -1,0 +1,254 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CVBF",
+    "data": {
+        "bs": [
+            {
+                "label": "Derivative Liability, Fair Value, Amount Not Offset Against Collateral",
+                "concept": "DerivativeFairValueOfDerivativeLiabilityAmountNotOffsetAgainstCollateral",
+                "unit": "usd",
+                "value": 506782000
+            },
+            {
+                "label": "Derivative Liability, Collateral, Right to Reclaim Cash, Offset",
+                "concept": "DerivativeLiabilityCollateralRightToReclaimCashOffset",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Derivative Liability",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 506782000
+            },
+            {
+                "label": "Derivative, Collateral, Right to Reclaim Securities",
+                "concept": "DerivativeCollateralRightToReclaimSecurities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Derivative, Collateral, Right to Reclaim Cash",
+                "concept": "DerivativeCollateralRightToReclaimCash",
+                "unit": "usd",
+                "value": 544308000
+            },
+            {
+                "label": "Derivative Liability, Fair Value, Amount Offset Against Collateral",
+                "concept": "DerivativeFairValueOfDerivativeLiabilityAmountOffsetAgainstCollateral",
+                "unit": "usd",
+                "value": 37526000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest and Fee Income, Loans and Leases Held-in-portfolio",
+                "concept": "InterestAndFeeIncomeLoansAndLeasesHeldInPortfolio",
+                "unit": "usd",
+                "value": 95352000
+            },
+            {
+                "label": "Interest and Dividend Income, Securities, Operating, Available-for-sale",
+                "concept": "InterestAndDividendIncomeSecuritiesAvailableForSale",
+                "unit": "usd",
+                "value": 8449000
+            },
+            {
+                "label": "Interest Income, Debt Securities, Held-to-maturity",
+                "concept": "InterestAndDividendIncomeSecuritiesHeldToMaturity",
+                "unit": "usd",
+                "value": 3660000
+            },
+            {
+                "label": "Interest Income, Debt Securities, Operating",
+                "concept": "InterestIncomeDebtSecuritiesOperating",
+                "unit": "usd",
+                "value": 12109000
+            },
+            {
+                "label": "Dividend Income, Operating",
+                "concept": "DividendIncomeOperating",
+                "unit": "usd",
+                "value": 214000
+            },
+            {
+                "label": "Interest Earning Deposits With Other Institutions And Federal Funds Sold",
+                "concept": "cvbf:InterestEarningDepositsWithOtherInstitutionsAndFederalFundsSold",
+                "unit": "usd",
+                "value": 283000
+            },
+            {
+                "label": "Interest and Dividend Income, Operating",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 107958000
+            },
+            {
+                "label": "Interest Expense, Deposits",
+                "concept": "InterestExpenseDeposits",
+                "unit": "usd",
+                "value": 2995000
+            },
+            {
+                "label": "Interest Expense Borrowings And Customer Repurchase Agreements",
+                "concept": "cvbf:InterestExpenseBorrowingsAndCustomerRepurchaseAgreements",
+                "unit": "usd",
+                "value": 261000
+            },
+            {
+                "label": "Interest Expense, Subordinated Notes and Debentures",
+                "concept": "InterestExpenseSubordinatedNotesAndDebentures",
+                "unit": "usd",
+                "value": 133000
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 3389000
+            },
+            {
+                "label": "Interest Income (Expense), Net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 104569000
+            },
+            {
+                "label": "Provision for Loan and Lease Losses",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 11500000
+            },
+            {
+                "label": "Interest Income (Expense), after Provision for Loan Loss",
+                "concept": "InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "unit": "usd",
+                "value": 93069000
+            },
+            {
+                "label": "Bank Owned Life Insurance Income",
+                "concept": "BankOwnedLifeInsuranceIncome",
+                "unit": "usd",
+                "value": 1683000
+            },
+            {
+                "label": "Noninterest Income, Other",
+                "concept": "NoninterestIncomeOther",
+                "unit": "usd",
+                "value": 3778000
+            },
+            {
+                "label": "Noninterest Income",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 12152000
+            },
+            {
+                "label": "Labor and Related Expense",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 28706000
+            },
+            {
+                "label": "Occupancy, Net",
+                "concept": "OccupancyNet",
+                "unit": "usd",
+                "value": 5031000
+            },
+            {
+                "label": "Professional Fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 2368000
+            },
+            {
+                "label": "Computer Software Expense",
+                "concept": "cvbf:ComputerSoftwareExpense",
+                "unit": "usd",
+                "value": 2754000
+            },
+            {
+                "label": "Marketing Expense",
+                "concept": "MarketingExpense",
+                "unit": "usd",
+                "value": 1255000
+            },
+            {
+                "label": "Amortization of Intangible Assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 2445000
+            },
+            {
+                "label": "Other Noninterest Expense",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 3839000
+            },
+            {
+                "label": "Noninterest Expense",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 46398000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 58823000
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 17192000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 41631000
+            },
+            {
+                "label": "Other Comprehensive Income Unrealized Holding Gain Loss On Securities Transferred From Available For Sale To Held To Maturity Before Tax",
+                "concept": "cvbf:OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesTransferredFromAvailableForSaleToHeldToMaturityBeforeTax",
+                "unit": "usd",
+                "value": 1280000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossTaxPortionAttributableToParent1",
+                "unit": "usd",
+                "value": 378000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Securities, Available-for-sale, Adjustment, after Tax",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 902000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 40729000
+            },
+            {
+                "label": "Earnings Per Share, Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.31
+            },
+            {
+                "label": "Earnings Per Share, Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.31
+            }
+        ]
+    }
+}

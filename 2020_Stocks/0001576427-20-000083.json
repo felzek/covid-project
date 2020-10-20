@@ -1,0 +1,471 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CRTO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 578181000
+            },
+            {
+                "label": "Trade receivables, net of allowances of $16.1 million and $33.3 million at December 31, 2019 and June 30, 2020, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 329979000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "crto:PrepaidIncomeTaxes",
+                "unit": "usd",
+                "value": 19932000
+            },
+            {
+                "label": "Other taxes",
+                "concept": "crto:PrepaidOtherTaxesandOtherTaxesReceivable",
+                "unit": "usd",
+                "value": 54008000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 17306000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 999406000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 195736000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 78185000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 316575000
+            },
+            {
+                "label": "Right of use assets - operating lease",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 137808000
+            },
+            {
+                "label": "Marketable securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 22396000
+            },
+            {
+                "label": "Non-current financial assets",
+                "concept": "NontradeReceivablesNoncurrent",
+                "unit": "usd",
+                "value": 19809000
+            },
+            {
+                "label": "Deferred tax assets",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 34487000
+            },
+            {
+                "label": "Total non-current assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 804996000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1804402000
+            },
+            {
+                "label": "Trade payables",
+                "concept": "AccountsPayableTradeCurrent",
+                "unit": "usd",
+                "value": 280626000
+            },
+            {
+                "label": "Contingencies",
+                "concept": "LossContingencyAccrualAtCarryingValue",
+                "unit": "usd",
+                "value": 4126000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 2440000
+            },
+            {
+                "label": "Financial liabilities - current portion",
+                "concept": "crto:FinancialLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 159381000
+            },
+            {
+                "label": "Operating lease liabilities - current portion",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 51414000
+            },
+            {
+                "label": "Other taxes",
+                "concept": "AccrualForTaxesOtherThanIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 44085000
+            },
+            {
+                "label": "Employee - related payables",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 61963000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 38982000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 643017000
+            },
+            {
+                "label": "Deferred tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 8079000
+            },
+            {
+                "label": "Retirement benefit obligation",
+                "concept": "DefinedBenefitPensionPlanLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 9215000
+            },
+            {
+                "label": "Financial liabilities - non-current portion",
+                "concept": "crto:FinancialLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 44000
+            },
+            {
+                "label": "Operating lease liabilities - non-current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 105794000
+            },
+            {
+                "label": "Other non-current liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 3256000
+            },
+            {
+                "label": "Total non-current liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 126388000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 769405000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares, \u20ac0.025 par value, 66,197,181 and 66,204,881 shares authorized, issued and outstanding at December 31, 2019 and June 30, 2020, respectively.",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2158000
+            },
+            {
+                "label": "Treasury stock, 3,903,673 and 5,589,408 shares at cost as of December 31, 2019 and June 30, 2020, respectively.",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 90714000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 683288000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 44297000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 452247000
+            },
+            {
+                "label": "Equity-attributable to shareholders of Criteo S.A.",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1002682000
+            },
+            {
+                "label": "Non-controlling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 32315000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1034997000
+            },
+            {
+                "label": "Total equity and liabilities",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1804402000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 6150000
+            },
+            {
+                "label": "- Amortization and provisions",
+                "concept": "crto:DepreciationDepletionandAmortizationandProvisionsforVarious",
+                "unit": "usd",
+                "value": 27907000
+            },
+            {
+                "label": "- Net gain or loss on disposal of non-current assets",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 123000
+            },
+            {
+                "label": "- Equity awards compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 7160000
+            },
+            {
+                "label": "- Change in deferred taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 4939000
+            },
+            {
+                "label": "- Change in income taxes",
+                "concept": "IncreaseDecreaseInIncomeTaxes",
+                "unit": "usd",
+                "value": 3056000
+            },
+            {
+                "label": "- Other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 22000
+            },
+            {
+                "label": "- Decrease in trade receivables",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 27318000
+            },
+            {
+                "label": "- (Decrease) in trade payables",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 22118000
+            },
+            {
+                "label": "- Decrease in other current assets",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": 15448000
+            },
+            {
+                "label": "- Increase/(Decrease) in other current liabilities",
+                "concept": "IncreaseDecreaseInOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": 25503000
+            },
+            {
+                "label": "- Change in operating lease liabilities and right of use assets",
+                "concept": "crto:IncreaseDecreaseInOperatingLeaseLiabilitiesAssets",
+                "unit": "usd",
+                "value": 1001000
+            },
+            {
+                "label": "Cash from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 33377000
+            },
+            {
+                "label": "Acquisition of intangible assets, property, plant and equipment",
+                "concept": "crto:PaymentsToAcquireIntangibleAssetsPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 29471000
+            },
+            {
+                "label": "Change in accounts payable related to intangible assets, property, plant and equipment",
+                "concept": "crto:IncreaseDecreaseinAccountsPayableRelatedtoIntangibleAssetsPropertyPlantandEquipment",
+                "unit": "usd",
+                "value": 10939000
+            },
+            {
+                "label": "(Payment for) Disposal of a business, net of cash acquired (disposed)",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Change in other non-current financial assets",
+                "concept": "crto:PaymentsforProceedsfromChangeinOtherFinancialNoncurrentAssets",
+                "unit": "usd",
+                "value": 21238000
+            },
+            {
+                "label": "Cash used for investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 39770000
+            },
+            {
+                "label": "Proceeds from borrowings under line-of-credit agreement",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 154310000
+            },
+            {
+                "label": "Repayment of borrowings",
+                "concept": "ProceedsFromRepaymentsOfOtherDebt",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Proceeds from capital increase",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Repurchase of treasury stocks",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 14860000
+            },
+            {
+                "label": "Change in other financial liabilities",
+                "concept": "crto:ProceedsFromPaymentsForChangeInOtherFinancialLiabilities",
+                "unit": "usd",
+                "value": 573000
+            },
+            {
+                "label": "Cash (used for) from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 138858000
+            },
+            {
+                "label": "Effect of exchange rates changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 9210000
+            },
+            {
+                "label": "Net increase in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 141675000
+            },
+            {
+                "label": "Cash paid for taxes, net of refunds",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 4519000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 317000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 6150000
+            },
+            {
+                "label": "Foreign currency translation differences, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 11584000
+            },
+            {
+                "label": "Actuarial (losses) gains on employee benefits, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1357000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 10227000
+            },
+            {
+                "label": "Total comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 16377000
+            },
+            {
+                "label": "Attributable to shareholders of Criteo S.A.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 15702000
+            },
+            {
+                "label": "Attributable to non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 675000
+            }
+        ]
+    }
+}

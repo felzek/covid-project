@@ -1,0 +1,260 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NDAQ",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 711000000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 30000000
+            },
+            {
+                "label": "Financial investments",
+                "concept": "TradingSecuritiesDebt",
+                "unit": "usd",
+                "value": 206000000
+            },
+            {
+                "label": "Receivables, net",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 523000000
+            },
+            {
+                "label": "Default funds and margin deposits",
+                "concept": "ndaq:DefaultFundsAndMarginDepositsAssets",
+                "unit": "usd",
+                "value": 3098000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 148000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 4716000000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 396000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 6488000000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 2215000000
+            },
+            {
+                "label": "Operating lease assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 405000000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 339000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 14559000000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 129000000
+            },
+            {
+                "label": "Section 31 fees payable to SEC",
+                "concept": "ndaq:SectionThirtyOneFeesPayable",
+                "unit": "usd",
+                "value": 318000000
+            },
+            {
+                "label": "Accrued personnel costs",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 149000000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 351000000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 204000000
+            },
+            {
+                "label": "Default funds and margin deposits",
+                "concept": "ndaq:DefaultFundsAndMarginDepositsLiabilities",
+                "unit": "usd",
+                "value": 3098000000
+            },
+            {
+                "label": "Short-term debt",
+                "concept": "DebtCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4249000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 3482000000
+            },
+            {
+                "label": "Deferred tax liabilities, net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 506000000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 403000000
+            },
+            {
+                "label": "Other non-current liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 162000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 8802000000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 300,000,000 shares authorized, shares issued: 170,521,938 at June 30, 2020 and 171,075,011 at December 31, 2019; shares outstanding: 164,248,600 at June 30, 2020 and 165,094,440 at December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2533000000
+            },
+            {
+                "label": "Common stock in treasury, at cost: 6,273,338 shares at June 30, 2020 and 5,980,571 shares at December 31, 2019",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 367000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1715000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 5301000000
+            },
+            {
+                "label": "Total Nasdaq stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5754000000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5757000000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 14559000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income attributable to Nasdaq",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 241000000
+            },
+            {
+                "label": "Foreign currency translation gains (losses)",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 184000000
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTranslationAdjustmentTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Foreign currency translation, net",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 194000000
+            },
+            {
+                "label": "Comprehensive income attributable to Nasdaq",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 435000000
+            }
+        ]
+    }
+}

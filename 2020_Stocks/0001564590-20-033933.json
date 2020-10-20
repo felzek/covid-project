@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MNOV",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 60440450
+            },
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 60440450
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research, development and patents expense.",
+                "concept": "mnov:ResearchDevelopmentAndPatentsExpense",
+                "unit": "usd",
+                "value": 2199036
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2311330
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 4510366
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 4510366
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOther",
+                "unit": "usd",
+                "value": 63691
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 4554
+            },
+            {
+                "label": "Net loss applicable to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4451229
+            },
+            {
+                "label": "Basic and diluted net loss per common share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.1
+            },
+            {
+                "label": "Shares used to compute basic and diluted net loss per common share",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 44091568
+            },
+            {
+                "label": "Net loss applicable to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4451229
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 5
+            },
+            {
+                "label": "Comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4451224
+            }
+        ]
+    }
+}

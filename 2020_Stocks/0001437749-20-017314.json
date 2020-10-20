@@ -1,0 +1,266 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FCBC",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 415830000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 415830000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 16110000
+            },
+            {
+                "label": "Provision for loan losses",
+                "concept": "ProvisionForLoanLeaseAndOtherLosses",
+                "unit": "usd",
+                "value": 7331000
+            },
+            {
+                "label": "Depreciation and amortization of premises and equipment",
+                "concept": "DepreciationNonproduction",
+                "unit": "usd",
+                "value": 2209000
+            },
+            {
+                "label": "us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": 1304000
+            },
+            {
+                "label": "Amortization of FDIC indemnification asset, net",
+                "concept": "fcbc:FDICIndemnificationAssetAccretionAmortization",
+                "unit": "usd",
+                "value": 969000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 721000
+            },
+            {
+                "label": "fcbc_AccretionOnAcquiredLoans",
+                "concept": "fcbc:AccretionOnAcquiredLoans",
+                "unit": "usd",
+                "value": 3456000
+            },
+            {
+                "label": "us-gaap_ShareBasedCompensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1105000
+            },
+            {
+                "label": "fcbc_IssuanceOfCommonStockTo401kPlan",
+                "concept": "fcbc:IssuanceOfCommonStockTo401kPlan",
+                "unit": "usd",
+                "value": 288000
+            },
+            {
+                "label": "us-gaap_GainLossOnSaleOfPropertyPlantEquipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "us-gaap_GainLossOnSaleOfOtherAssets",
+                "concept": "GainLossOnSaleOfOtherAssets",
+                "unit": "usd",
+                "value": 330000
+            },
+            {
+                "label": "us-gaap_DebtAndEquitySecuritiesRealizedGainLoss",
+                "concept": "DebtAndEquitySecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": 385000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": 1703000
+            },
+            {
+                "label": "Increase in other operating activities",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 6608000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 18214000
+            },
+            {
+                "label": "Proceeds from sale of securities available for sale",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 51027000
+            },
+            {
+                "label": "Proceeds from maturities, prepayments, and calls of securities available for sale",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 20018000
+            },
+            {
+                "label": "Proceeds from maturities and calls of securities held to maturity",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsForProceedsFromLoansAndLeases",
+                "concept": "PaymentsForProceedsFromLoansAndLeases",
+                "unit": "usd",
+                "value": 20992000
+            },
+            {
+                "label": "us-gaap_PaymentsForProceedsFromFederalHomeLoanBankStock",
+                "concept": "PaymentsForProceedsFromFederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "fcbc_PaymentsToTheFederalDepositInsuranceCorporation",
+                "concept": "fcbc:PaymentsToTheFederalDepositInsuranceCorporation",
+                "unit": "usd",
+                "value": 29000
+            },
+            {
+                "label": "Proceeds from sale of premises and equipment",
+                "concept": "ProceedsFromSaleOfProductiveAssets",
+                "unit": "usd",
+                "value": 65000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireProductiveAssets",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 2125000
+            },
+            {
+                "label": "Proceeds from sale of other real estate owned",
+                "concept": "ProceedsFromSaleOfOtherRealEstate",
+                "unit": "usd",
+                "value": 1814000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 49766000
+            },
+            {
+                "label": "Increase in noninterest-bearing deposits, net",
+                "concept": "NetChangeNoninterestBearingDepositsDomestic",
+                "unit": "usd",
+                "value": 125031000
+            },
+            {
+                "label": "Increase (decrease) in interest-bearing deposits, net",
+                "concept": "NetChangeInterestBearingDepositsDomestic",
+                "unit": "usd",
+                "value": 42903000
+            },
+            {
+                "label": "Repayments of securities sold under agreements to repurchase, net",
+                "concept": "ProceedsFromPaymentsForInSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 501000
+            },
+            {
+                "label": "Repayments of FHLB and other borrowings, net",
+                "concept": "ProceedsFromRepaymentsOfLongTermDebtAndCapitalSecurities",
+                "unit": "usd",
+                "value": 40000
+            },
+            {
+                "label": "Proceeds from stock options exercised",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsForRepurchaseOfCommonStock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 21872000
+            },
+            {
+                "label": "us-gaap_PaymentsOfDividendsCommonStock",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 9018000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 136503000
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 204483000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 2960000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 4547000
+            },
+            {
+                "label": "Transfer of loans to other real estate owned",
+                "concept": "TransferToOtherRealEstate",
+                "unit": "usd",
+                "value": 621000
+            },
+            {
+                "label": "Loans originated to finance other real estate owned",
+                "concept": "fcbc:LoansOriginatedToFinanceOtherRealEstateOwned",
+                "unit": "usd",
+                "value": 265000
+            },
+            {
+                "label": "fcbc_IncreaseDecreaseInAccumulatedOtherComprehensiveIncome",
+                "concept": "fcbc:IncreaseDecreaseInAccumulatedOtherComprehensiveIncome",
+                "unit": "usd",
+                "value": 398000
+            }
+        ],
+        "ic": []
+    }
+}

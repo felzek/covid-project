@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-03-30",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PAE",
+    "data": {
+        "bs": [
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1411032000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1265699000
+            },
+            {
+                "label": "Total PAE Incorporated stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 110903000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1411032000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 643303000
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 496678000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 105451000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 610176000
+            },
+            {
+                "label": "Program profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 33127000
+            },
+            {
+                "label": "Other income, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 1168000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 16021000
+            }
+        ]
+    }
+}

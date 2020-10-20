@@ -1,0 +1,285 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "CMCO",
+    "data": {
+        "bs": [
+            {
+                "label": "Common Stock, Par or Stated Value Per Share",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Voting common stock; 50,000,000 shares authorized; 23,851,225 and 23,771,620 shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 239000
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 288583000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 287472000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 109692000
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 466602000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 2969000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 7081000
+            },
+            {
+                "label": "Deferred income taxes and related valuation allowance",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1500000
+            },
+            {
+                "label": "Net loss (gain) on sale of real estate, investments and other",
+                "concept": "GainLossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": 494000
+            },
+            {
+                "label": "Stock based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 665000
+            },
+            {
+                "label": "Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other Operating Activities, Cash Flow Statement",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 1876000
+            },
+            {
+                "label": "Trade accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 27955000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 3924000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 2766000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOperatingAssets",
+                "unit": "usd",
+                "value": 39000
+            },
+            {
+                "label": "Trade accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 18248000
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 7926000
+            },
+            {
+                "label": "Non-current liabilities",
+                "concept": "IncreaseDecreaseInOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 2836000
+            },
+            {
+                "label": "Net cash provided by (used for) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 9516000
+            },
+            {
+                "label": "Proceeds from sales of marketable securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 1034000
+            },
+            {
+                "label": "Purchases of marketable securities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 880000
+            },
+            {
+                "label": "Payments for (Proceeds from) Businesses and Interest in Affiliates",
+                "concept": "PaymentsForProceedsFromBusinessesAndInterestInAffiliates",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash provided by (used for) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 5429000
+            },
+            {
+                "label": "Proceeds from the issuance of common stock",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 185000
+            },
+            {
+                "label": "Repayment of debt",
+                "concept": "RepaymentsOfLongTermDebtAndCapitalSecurities",
+                "unit": "usd",
+                "value": 1112000
+            },
+            {
+                "label": "Payments of Dividends",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 1427000
+            },
+            {
+                "label": "Other",
+                "concept": "cmco:IncreaseDecreaseInEmployeeStockOptionsGuarantee",
+                "unit": "usd",
+                "value": 927000
+            },
+            {
+                "label": "Net cash provided by (used for) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 21719000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 1122000
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 37786000
+            },
+            {
+                "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 2339000
+            },
+            {
+                "label": "Income taxes paid (refunded), net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 762000
+            },
+            {
+                "label": "Pension Expense (Reversal of Expense), Noncash",
+                "concept": "PensionExpenseReversalOfExpenseNoncash",
+                "unit": "usd",
+                "value": 2722000
+            },
+            {
+                "label": "Proceeds from (Repayments of) Debt, Maturing in More than Three Months",
+                "concept": "ProceedsFromRepaymentsOfDebtMaturingInMoreThanThreeMonths",
+                "unit": "usd",
+                "value": 25000000
+            },
+            {
+                "label": "Proceeds from Sale of Property, Plant, and Equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments to Acquire Property, Plant, and Equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1088000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 2969000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2802000
+            },
+            {
+                "label": "Change in derivatives qualifying as hedges, net of taxes of $4, $252",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Change in pension liability and postretirement obligation, net of taxes of $(537), $33",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1869000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 4658000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1689000
+            }
+        ]
+    }
+}

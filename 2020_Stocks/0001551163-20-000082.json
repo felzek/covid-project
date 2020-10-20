@@ -1,0 +1,447 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "SGBI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 15282
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 13361
+            },
+            {
+                "label": "Tax refunds receivable",
+                "concept": "AccountsAndOtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 3317
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 9858
+            },
+            {
+                "label": "Note receivable, related party",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 6878
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 48696
+            },
+            {
+                "label": "Property and Equipment, Net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1922
+            },
+            {
+                "label": "Operating lease right-of-use asset",
+                "concept": "LeaseholdImprovementsGross",
+                "unit": "usd",
+                "value": 74710
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 125328
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndOtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 119246
+            },
+            {
+                "label": "Accrued interest - related party",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 42359
+            },
+            {
+                "label": "Notes payable - related party",
+                "concept": "DebtCurrent",
+                "unit": "usd",
+                "value": 618568
+            },
+            {
+                "label": "Current portion of operating lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 11312
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 791485
+            },
+            {
+                "label": "Operating lease liability, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 63721
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 855206
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Preferred stock, no par value; 10,000,000 shares authorized, -0- shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock, no par value; 250,000,000 shares authorized 203,355,598 and 199,295,503 shares issued and 203,301,842 and 199,241,747 shares outstanding respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 33027676
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 4513328
+            },
+            {
+                "label": "Treasury stock, at cost",
+                "concept": "TreasuryStockCommonValue",
+                "unit": "usd",
+                "value": 19387
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 91907
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -37696425
+            },
+            {
+                "label": "Total Sangui Biotech International, Inc's stockholders' defict",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -82901
+            },
+            {
+                "label": "Non-controlling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": -646977
+            },
+            {
+                "label": "Total Stockholders' Deficit",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -729878
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 125328
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET LOSS BEFORE NON-CONTROLLING INTEREST",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -198526
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 1209
+            },
+            {
+                "label": "Common stock issued for services {1}",
+                "concept": "IssuanceOfStockAndWarrantsForServicesOrClaims",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Foreign currency exchange transactions",
+                "concept": "ForeignCurrencyTransactionGainLossUnrealized",
+                "unit": "usd",
+                "value": 3680
+            },
+            {
+                "label": "Trade accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -19432
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 275
+            },
+            {
+                "label": "Tax refunds receivable {1}",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": 238
+            },
+            {
+                "label": "Accounts payable and accrued expenses {1}",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": -6775
+            },
+            {
+                "label": "Related party advances",
+                "concept": "IncreaseDecreaseInDueToOtherRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": -1710
+            },
+            {
+                "label": "Related party accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": 15146
+            },
+            {
+                "label": "Operationg lease liability",
+                "concept": "IncreaseDecreaseInLeaseAcquisitionCosts",
+                "unit": "usd",
+                "value": -12222
+            },
+            {
+                "label": "Net Cash Used in Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -168386
+            },
+            {
+                "label": "Purchase of equipment",
+                "concept": "PaymentsToAcquireMachineryAndEquipment",
+                "unit": "usd",
+                "value": 3098
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -3098
+            },
+            {
+                "label": "Proceeds from related party note payable",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 143766
+            },
+            {
+                "label": "Repayment of related party note payable",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from common stock issued for cash",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 15415
+            },
+            {
+                "label": "Repayment of notes payable",
+                "concept": "RepaymentsOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net Cash Provided by Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 159181
+            },
+            {
+                "label": "EFFECTS OF EXCHANGE RATES ON CASH",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 132
+            },
+            {
+                "label": "NET CHANGES IN CASH",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -12171
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Income Taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Right of use operating lease assets obtained in exchange for lease liabilities",
+                "concept": "CapitalLeaseObligationsIncurred",
+                "unit": "usd",
+                "value": 85696
+            },
+            {
+                "label": "Stock issued in settlement of liability",
+                "concept": "StockIssued1",
+                "unit": "usd",
+                "value": 44762
+            }
+        ],
+        "ic": [
+            {
+                "label": "License revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 28915
+            },
+            {
+                "label": "GROSS MARGIN",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 28915
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 8311
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 161036
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 39753
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 1209
+            },
+            {
+                "label": "Total Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 210309
+            },
+            {
+                "label": "OPERATING LOSS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -181394
+            },
+            {
+                "label": "Gain on foreign exchange",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 3680
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 14098
+            },
+            {
+                "label": "Total other income (expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -17132
+            },
+            {
+                "label": "LOSS BEFORE INCOME TAXES AND NON-CONTROLLING INTEREST",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+                "unit": "usd",
+                "value": -198526
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "NET LOSS BEFORE NON-CONTROLLING INTEREST",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -198526
+            },
+            {
+                "label": "Less: Net loss attributable to non-controlling interest",
+                "concept": "IncomeLossFromContinuingOperationsAttributableToNoncontrollingEntity",
+                "unit": "usd",
+                "value": 5785
+            },
+            {
+                "label": "NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -192741
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 460
+            },
+            {
+                "label": "COMPREHENSIVE LOSS",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": -198066
+            },
+            {
+                "label": "BASIC AND DILUTED LOSS PER SHARE",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "NUMBER OF SHARES OUTSTANDING",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 201746752
+            }
+        ]
+    }
+}

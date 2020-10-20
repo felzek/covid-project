@@ -1,0 +1,392 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "PXD",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 180000000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 69000000
+            },
+            {
+                "label": "Trade, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 566000000
+            },
+            {
+                "label": "Due from affiliates",
+                "concept": "DueFromAffiliateCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 170000000
+            },
+            {
+                "label": "Derivatives",
+                "concept": "DerivativeAssetsCurrent",
+                "unit": "usd",
+                "value": 72000000
+            },
+            {
+                "label": "Investment in affiliate",
+                "concept": "pxd:InvestmentsInAffiliates",
+                "unit": "usd",
+                "value": 85000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 32000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1195000000
+            },
+            {
+                "label": "Proved properties",
+                "concept": "ProvedOilAndGasPropertySuccessfulEffortMethod",
+                "unit": "usd",
+                "value": 23217000000
+            },
+            {
+                "label": "Unproved properties",
+                "concept": "UnprovedOilAndGasPropertySuccessfulEffortMethod",
+                "unit": "usd",
+                "value": 577000000
+            },
+            {
+                "label": "Accumulated depletion, depreciation and amortization",
+                "concept": "OilAndGasPropertySuccessfulEffortMethodAccumulatedDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 9349000000
+            },
+            {
+                "label": "Total oil and gas properties, net",
+                "concept": "OilAndGasPropertySuccessfulEffortMethodNet",
+                "unit": "usd",
+                "value": 14445000000
+            },
+            {
+                "label": "Other property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1622000000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 216000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 261000000
+            },
+            {
+                "label": "Derivatives",
+                "concept": "DerivativeAssetsNoncurrent",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 164000000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 17906000000
+            },
+            {
+                "label": "Trade",
+                "concept": "AccountsPayableTradeCurrent",
+                "unit": "usd",
+                "value": 787000000
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToAffiliateCurrent",
+                "unit": "usd",
+                "value": 65000000
+            },
+            {
+                "label": "Interest payable",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 26000000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Less current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 139000000
+            },
+            {
+                "label": "Derivatives",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 88000000
+            },
+            {
+                "label": "Operating leases",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 110000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 365000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1584000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 2054000000
+            },
+            {
+                "label": "Derivatives",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 27000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 1403000000
+            },
+            {
+                "label": "Operating leases",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 124000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 974000000
+            },
+            {
+                "label": "Common stock, $0.01 par value; 500,000,000 shares authorized; 175,378,954 and 175,057,889 shares issued as of June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 9285000000
+            },
+            {
+                "label": "Treasury stock at cost: 11,102,784 and 9,511,248 shares as of June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 1240000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3693000000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 11740000000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 17906000000
+            },
+            {
+                "label": "Common stock, par value (usd per share)",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, shares authorized",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 1141000000
+            },
+            {
+                "label": "Interest and other income (loss), net",
+                "concept": "pxd:InterestandOtherIncomeLoss",
+                "unit": "usd",
+                "value": 48000000
+            },
+            {
+                "label": "Derivative gain (loss), net",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 336000000
+            },
+            {
+                "label": "Gain (loss) on disposition of assets, net",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Total revenues and other income",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 859000000
+            },
+            {
+                "label": "Production and ad valorem taxes",
+                "concept": "ExciseAndSalesTaxes",
+                "unit": "usd",
+                "value": 47000000
+            },
+            {
+                "label": "Depletion, depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 416000000
+            },
+            {
+                "label": "Exploration and abandonments",
+                "concept": "ExplorationAbandonmentAndImpairmentExpense",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 60000000
+            },
+            {
+                "label": "Accretion of discount on asset retirement obligations",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 33000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNonoperatingExpense",
+                "unit": "usd",
+                "value": 90000000
+            },
+            {
+                "label": "Costs and Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 1397000000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 538000000
+            },
+            {
+                "label": "Income tax benefit (provision)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 99000000
+            },
+            {
+                "label": "Net income (loss) attributable to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 439000000
+            },
+            {
+                "label": "Basic and diluted net income (loss) per share attributable to common stockholders",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 2.66
+            },
+            {
+                "label": "Basic weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 165000000
+            },
+            {
+                "label": "Diluted weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 165000000
+            },
+            {
+                "label": "Dividends declared per share",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.55
+            }
+        ]
+    }
+}

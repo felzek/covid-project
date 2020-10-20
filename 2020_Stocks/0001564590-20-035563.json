@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RRC",
+    "data": {
+        "bs": [
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2335816000
+            },
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 256080133
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2335816000
+            },
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 256080133
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 146569000
+            },
+            {
+                "label": "Amortization of prior service costs",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditBeforeTax",
+                "unit": "usd",
+                "value": 93000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansBenefitPlanImprovementTaxEffect",
+                "unit": "usd",
+                "value": 22000
+            },
+            {
+                "label": "Total comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 146498000
+            }
+        ]
+    }
+}

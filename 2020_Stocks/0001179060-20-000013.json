@@ -1,0 +1,230 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ENLC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 52000000.0
+            },
+            {
+                "label": "Trade, net of allowance for bad debt of $0.5 and $0.5, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 82000000.0
+            },
+            {
+                "label": "Accrued revenue and other",
+                "concept": "UnbilledContractsReceivable",
+                "unit": "usd",
+                "value": 304700000.0
+            },
+            {
+                "label": "Related party",
+                "concept": "AccountsReceivableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 22100000.0
+            },
+            {
+                "label": "Fair value of derivative assets",
+                "concept": "DerivativeAssetsCurrent",
+                "unit": "usd",
+                "value": 9900000.0
+            },
+            {
+                "label": "Other current assets",
+                "concept": "enlc:DepositPrepaidExpensesAndInventory",
+                "unit": "usd",
+                "value": 58400000.0
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 529100000.0
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation of $3,654.7 and $3,418.6, respectively",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 6828700000.0
+            },
+            {
+                "label": "Intangible assets, net of accumulated amortization of $607.1 and $545.9, respectively",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 1187100000.0
+            },
+            {
+                "label": "Investment in unconsolidated affiliates",
+                "concept": "enlc:EquityMethodInvestmentsNoncurrent",
+                "unit": "usd",
+                "value": 42100000.0
+            },
+            {
+                "label": "Fair value of derivative assets",
+                "concept": "DerivativeAssetsNoncurrent",
+                "unit": "usd",
+                "value": 5800000.0
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 88300000.0
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8681100000.0
+            },
+            {
+                "label": "Accounts payable and drafts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 49400000.0
+            },
+            {
+                "label": "Accounts payable to related party",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Accrued gas, NGLs, condensate, and crude oil purchases",
+                "concept": "enlc:AccruedPurchasesGasCondensateAndCrudeOil",
+                "unit": "usd",
+                "value": 188800000.0
+            },
+            {
+                "label": "Fair value of derivative liabilities",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 31300000.0
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 156700000.0
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 426600000.0
+            },
+            {
+                "label": "Long-term debt, including $1,748.7 and $1,700.0 from related parties, respectively",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 4749000000.0
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 15900000.0
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 84800000.0
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 45300000.0
+            },
+            {
+                "label": "Fair value of derivative liabilities",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 9400000.0
+            },
+            {
+                "label": "Redeemable non-controlling interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonFairValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common unitholders (144,358,720 units issued and outstanding)",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 1440600000.0
+            },
+            {
+                "label": "General partner interest (1,594,974 equivalent units outstanding)",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 215400000.0
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 29600000.0
+            },
+            {
+                "label": "Non-controlling interest",
+                "concept": "PartnersCapitalAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 432900000.0
+            },
+            {
+                "label": "Total partners\u2019 equity",
+                "concept": "PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3350100000.0
+            },
+            {
+                "label": "Total liabilities and partners\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 8681100000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 40600000.0
+            },
+            {
+                "label": "Gain (loss) on designated cash flow hedge",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 2000000.0
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 42600000.0
+            },
+            {
+                "label": "Comprehensive income attributable to non-controlling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2500000.0
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to ENLK",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 40100000.0
+            }
+        ]
+    }
+}

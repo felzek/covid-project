@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ECOR",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents \u2013 beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 14863128
+            },
+            {
+                "label": "Cash and cash equivalents \u2013 beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 14863128
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 752955
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 272986
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 479969
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1030530
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5273329
+            },
+            {
+                "label": "Restructuring and other severance related charges.",
+                "concept": "ecor:RestructuringAndOtherSeveranceRelatedCharges",
+                "unit": "usd",
+                "value": 99606
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 6403465
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -5923496
+            },
+            {
+                "label": "Interest and other income, net",
+                "concept": "InterestAndOtherIncome",
+                "unit": "usd",
+                "value": 11765
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherNonoperatingExpense",
+                "unit": "usd",
+                "value": 687
+            },
+            {
+                "label": "Total other (income)/expense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 11078
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -5912418
+            },
+            {
+                "label": "Benefit from income taxes (see Note 15)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -1170890
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -4741528
+            },
+            {
+                "label": "Net loss per share of common stock - Basic and Diluted (see Note 14)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.13
+            },
+            {
+                "label": "Weighted average common shares outstanding - Basic and Diluted (see Note 14)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 36658797
+            }
+        ]
+    }
+}

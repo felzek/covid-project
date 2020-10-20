@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AJG",
+    "data": {
+        "bs": [
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5534500000.0
+            },
+            {
+                "label": "Common stock - issued shares",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5534500000.0
+            },
+            {
+                "label": "Common stock - issued shares",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 161800000.0
+            },
+            {
+                "label": "Foreign currency translation, net of taxes",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 250700000.0
+            },
+            {
+                "label": "Change in fair value of derivative investments, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 1800000.0
+            },
+            {
+                "label": "Comprehensive earnings",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 410700000.0
+            },
+            {
+                "label": "Comprehensive earnings attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 7300000.0
+            },
+            {
+                "label": "Comprehensive earnings attributable to controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 403400000.0
+            }
+        ]
+    }
+}

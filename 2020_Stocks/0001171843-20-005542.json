@@ -1,0 +1,44 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WABC",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 808076000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 808076000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "us-gaap_InterestIncomeSecuritiesTaxable",
+                "concept": "InterestIncomeSecuritiesTaxable",
+                "unit": "usd",
+                "value": 22920000
+            },
+            {
+                "label": "us-gaap_InterestIncomeSecuritiesTaxExempt",
+                "concept": "InterestIncomeSecuritiesTaxExempt",
+                "unit": "usd",
+                "value": 3228000
+            },
+            {
+                "label": "us-gaap_InterestAndDividendIncomeSecurities",
+                "concept": "InterestAndDividendIncomeSecurities",
+                "unit": "usd",
+                "value": 26148000
+            }
+        ]
+    }
+}

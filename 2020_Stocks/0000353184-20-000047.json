@@ -1,0 +1,279 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "AIRT",
+    "data": {
+        "bs": [
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 7851000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 8433000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net (Loss) Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 956000
+            },
+            {
+                "label": "Income from Discontinued Operations, net of tax",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net (Loss) Income from Continuing Operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 956000
+            },
+            {
+                "label": "Depreciation and \u00a0amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 609000
+            },
+            {
+                "label": "Impairment of investment",
+                "concept": "EquityMethodInvestmentOtherThanTemporaryImpairment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gain on settlement of bankruptcy",
+                "concept": "airt:GainOnSettlementOfBankruptcy",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Bargain purchase acquisition gain",
+                "concept": "airt:BusinessCombinationBargainPurchaseGainRecognizedAmountNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 369000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 2570000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 663000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 3141000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 971000
+            },
+            {
+                "label": "Other",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 3094000
+            },
+            {
+                "label": "Net cash (used in) provided by operating activities - continuing operations",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 3335000
+            },
+            {
+                "label": "Net cash provided by operating activities - discontinued operations",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash (used in) provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 3335000
+            },
+            {
+                "label": "Purchases of marketable securities",
+                "concept": "PaymentsToAcquireMarketableSecurities",
+                "unit": "usd",
+                "value": 482000
+            },
+            {
+                "label": "Sale of marketable securities",
+                "concept": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+                "unit": "usd",
+                "value": 658000
+            },
+            {
+                "label": "Acquisition of businesses, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Capital expenditures related to property & equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 586000
+            },
+            {
+                "label": "Capital expenditures related to assets on lease or held for lease",
+                "concept": "airt:PaymentsRelatedToAssetsOnLease",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "Other",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 78000
+            },
+            {
+                "label": "Net cash used in investing activities - continuing operations",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 548000
+            },
+            {
+                "label": "Net cash used in investing activities - discontinued operations",
+                "concept": "CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 548000
+            },
+            {
+                "label": "Proceeds from lines of credit",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 8006000
+            },
+            {
+                "label": "Payments on lines of credit",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 18205000
+            },
+            {
+                "label": "Proceeds from term loan",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 9478000
+            },
+            {
+                "label": "Proceeds from Payroll Protection Program loan (\"PPP loan\")",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 8215000
+            },
+            {
+                "label": "Payments on term loan",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 2437000
+            },
+            {
+                "label": "Proceeds received from issuance of TruPs",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 17000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 5040000
+            },
+            {
+                "label": "Effect of foreign currency exchange rates on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 72000
+            },
+            {
+                "label": "NET INCREASE/ (DECREASE) IN CASH AND CASH EQUIVALENTS AND RESTRICTED CASH",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1085000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net (Loss) Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 956000
+            },
+            {
+                "label": "Foreign currency translation loss",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 67000
+            },
+            {
+                "label": "Unrealized loss on interest rate swaps, net of tax of $7 and $52 respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Total Other Comprehensive Loss",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 93000
+            },
+            {
+                "label": "Total Comprehensive (Loss) Income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1049000
+            },
+            {
+                "label": "Comprehensive Loss (Income) Attributable to Non-controlling Interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 115000
+            },
+            {
+                "label": "Comprehensive (Loss) Income Attributable to Air T, Inc. Stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 934000
+            }
+        ]
+    }
+}

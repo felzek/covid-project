@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "DLHC",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "dlhc:OperatingLeaseRightofUseAssetNoncurrent",
+                "unit": "usd",
+                "value": 22276000
+            },
+            {
+                "label": "Operating lease liabilities - current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1768000
+            },
+            {
+                "label": "Operating lease liabilities - long-term",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 21686000
+            },
+            {
+                "label": "Operating lease liability",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 23454000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 51459000
+            },
+            {
+                "label": "Contract costs",
+                "concept": "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 39615000
+            },
+            {
+                "label": "General and administrative costs",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6323000
+            },
+            {
+                "label": "Acquisition costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 1721000
+            },
+            {
+                "label": "Operating Costs and Expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 47659000
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 3800000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 813000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2987000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 863000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 2124000
+            },
+            {
+                "label": "Net income per share - basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.17
+            },
+            {
+                "label": "Net income per share - diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.16
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 12354000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 13228000
+            }
+        ]
+    }
+}

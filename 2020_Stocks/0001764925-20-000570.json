@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "WORK",
+    "data": {
+        "bs": [
+            {
+                "label": "2021 (6 months remaining)",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseRemainderOfFiscalYear",
+                "unit": "usd",
+                "value": 3308000
+            },
+            {
+                "label": "2022",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths",
+                "unit": "usd",
+                "value": 5452000
+            },
+            {
+                "label": "2023",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo",
+                "unit": "usd",
+                "value": 4133000
+            },
+            {
+                "label": "2024",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseYearThree",
+                "unit": "usd",
+                "value": 2772000
+            },
+            {
+                "label": "2025",
+                "concept": "FiniteLivedIntangibleAssetsAmortizationExpenseYearFour",
+                "unit": "usd",
+                "value": 1758000
+            },
+            {
+                "label": "Thereafter",
+                "concept": "work:FiniteLivedIntangibleAssetAmortizationExpenseAfterYearFour",
+                "unit": "usd",
+                "value": 596000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 18019000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 215864000
+            },
+            {
+                "label": "Cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 28387000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 187477000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 94201000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 109122000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 52788000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 256111000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 68634000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 11552000
+            },
+            {
+                "label": "Interest income and other income, net",
+                "concept": "InterestAndOtherIncome",
+                "unit": "usd",
+                "value": 6952000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 73234000
+            },
+            {
+                "label": "Provision (benefit) for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 81000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 73153000
+            },
+            {
+                "label": "Net income (loss) attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1695000
+            },
+            {
+                "label": "Net loss attributable to Slack",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 74848000
+            },
+            {
+                "label": "Net loss per share attributable to Slack common stockholders, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.13
+            },
+            {
+                "label": "Weighted-average shares used in computing net loss per share attributable to Slack common stockholders, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 564351000
+            }
+        ]
+    }
+}

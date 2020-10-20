@@ -1,0 +1,212 @@
+{
+    "startDate": "2019-12-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HLM",
+    "data": {
+        "bs": [
+            {
+                "label": "Finance lease, right of use assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1967000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 791000
+            },
+            {
+                "label": "Long-term debt, less current portion",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 1321000
+            },
+            {
+                "label": "Capital & finance leases",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 2112000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 13980000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 64460000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 10632000
+            },
+            {
+                "label": "Deferred financing and original issue discount amortization",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 1879000
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2669000
+            },
+            {
+                "label": "Asset impairment",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 210000
+            },
+            {
+                "label": "Gain on disposal of property and equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 337000
+            },
+            {
+                "label": "Change in fair value of contingent consideration",
+                "concept": "BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1",
+                "unit": "usd",
+                "value": 1300000
+            },
+            {
+                "label": "Other non-cash interest and change in value of interest rate swap",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 1942000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 61318000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 592000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 1307000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 4475000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "IncreaseDecreaseInOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 12306000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "hlm:IncreaseDecreaseInAccruedInterest",
+                "unit": "usd",
+                "value": 9384000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 11657000
+            },
+            {
+                "label": "Payments to Acquire Businesses, Net of Cash Acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 800000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 22196000
+            },
+            {
+                "label": "Proceeds from sale of property and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 22996000
+            },
+            {
+                "label": "Repayments of senior term loans",
+                "concept": "RepaymentsOfSeniorDebt",
+                "unit": "usd",
+                "value": 5304000
+            },
+            {
+                "label": "Borrowings on revolving credit loans",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 66000000
+            },
+            {
+                "label": "Repayments of revolving credit loans",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 50000000
+            },
+            {
+                "label": "Principal payments under finance and capitalized lease obligations",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 411000
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 10285000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 315000
+            },
+            {
+                "label": "Net decrease in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1369000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 33922000
+            },
+            {
+                "label": "Income Taxes Paid, Net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 100000
+            }
+        ],
+        "ic": []
+    }
+}

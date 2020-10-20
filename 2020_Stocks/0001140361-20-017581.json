@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FNRN",
+    "data": {
+        "bs": [
+            {
+                "label": "Off-balance sheet credit risks",
+                "concept": "FairValueDisclosureOffbalanceSheetRisksAmountLiability",
+                "unit": "usd",
+                "value": 205735000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2705000
+            },
+            {
+                "label": "Unrealized holding gains arising during the period, net of tax effect of $501 and $1,339 for the three months ended June 30, 2020 and June 30, 2019, respectively, and $2,556 and $1,934 for the six months ended June 30, 2020 and June 30, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1242000
+            },
+            {
+                "label": "Less: reclassification adjustment due to (gains) losses realized on sales of securities, net of tax effect of $(1) and $2 for the three months ended June 30, 2020 and June 30, 2019, respectively, and $(12) and $2 for the six months ended June 30, 2020 and June 30, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1239000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3944000
+            }
+        ]
+    }
+}

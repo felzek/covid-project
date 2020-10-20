@@ -1,0 +1,404 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PNM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Restricted Cash, and Equivalents at Beginning of Period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2823000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for credit losses",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 96209000
+            },
+            {
+                "label": "Unbilled revenues",
+                "concept": "UnbilledReceivablesCurrent",
+                "unit": "usd",
+                "value": 70480000
+            },
+            {
+                "label": "Other receivables",
+                "concept": "OtherReceivables",
+                "unit": "usd",
+                "value": 10349000
+            },
+            {
+                "label": "Materials, supplies, and fuel stock",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 69676000
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsCurrent",
+                "unit": "usd",
+                "value": 21574000
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 4494000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 51279000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 326884000
+            },
+            {
+                "label": "Investment securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 389452000
+            },
+            {
+                "label": "Equity investment in NMRD",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 84037000
+            },
+            {
+                "label": "Other investments",
+                "concept": "OtherLongTermInvestments",
+                "unit": "usd",
+                "value": 336000
+            },
+            {
+                "label": "Non-utility property, net",
+                "concept": "PropertyPlantAndEquipmentOtherNet",
+                "unit": "usd",
+                "value": 19679000
+            },
+            {
+                "label": "Total other property and investments",
+                "concept": "pnm:TotalOtherPropertyAndInvestments",
+                "unit": "usd",
+                "value": 493504000
+            },
+            {
+                "label": "Plant in service, held for future use, and to be abandoned",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentPlantInService",
+                "unit": "usd",
+                "value": 8030505000
+            },
+            {
+                "label": "Less accumulated depreciation and amortization",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 2773434000
+            },
+            {
+                "label": "Net plant in service and plant held for future use",
+                "concept": "pnm:PublicUtilitiesPropertyPlantAndEquipmentInServiceNet",
+                "unit": "usd",
+                "value": 5257071000
+            },
+            {
+                "label": "Construction work in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 309513000
+            },
+            {
+                "label": "Nuclear fuel, net of accumulated amortization",
+                "concept": "NuclearFuelNetOfAmortization",
+                "unit": "usd",
+                "value": 101994000
+            },
+            {
+                "label": "Net utility plant",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 5668578000
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsNoncurrent",
+                "unit": "usd",
+                "value": 582586000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 278297000
+            },
+            {
+                "label": "Operating lease right-of-use assets, net of accumulated amortization",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 118140000
+            },
+            {
+                "label": "Other deferred charges",
+                "concept": "pnm:OtherDeferredCostsNetIncludingDeferredFinanceCosts",
+                "unit": "usd",
+                "value": 106478000
+            },
+            {
+                "label": "Total deferred charges and other assets",
+                "concept": "pnm:TotalDeferredChargesAndOtherAssets",
+                "unit": "usd",
+                "value": 1085501000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 7574467000
+            },
+            {
+                "label": "Short-term debt",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 252549000
+            },
+            {
+                "label": "Current installments of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 779372000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 75933000
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 10004000
+            },
+            {
+                "label": "Accrued interest and taxes",
+                "concept": "pnm:AccruedInterestAndTaxesPayable",
+                "unit": "usd",
+                "value": 60807000
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityCurrent",
+                "unit": "usd",
+                "value": 3659000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 26744000
+            },
+            {
+                "label": "Dividends declared",
+                "concept": "DividendsPayableCurrent",
+                "unit": "usd",
+                "value": 132000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 56574000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1265774000
+            },
+            {
+                "label": "Long-term Debt, net of Unamortized Premiums, Discounts, and Debt Issuance Costs",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 2437246000
+            },
+            {
+                "label": "Accumulated deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 647883000
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 867953000
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 181805000
+            },
+            {
+                "label": "Accrued pension liability and postretirement benefit cost",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 87248000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 91320000
+            },
+            {
+                "label": "Other deferred credits",
+                "concept": "DeferredCreditsAndOtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 227282000
+            },
+            {
+                "label": "Total deferred credits and other liabilities",
+                "concept": "LiabilitiesOtherThanLongtermDebtNoncurrent",
+                "unit": "usd",
+                "value": 2103491000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5806511000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cumulative Preferred Stock of Subsidiary without mandatory redemption requirements ($100 stated value; 10,000,000 shares authorized; issued and outstanding 115,293 shares)",
+                "concept": "pnm:CumulativePreferredStockOfSubsidiaryWithoutMandatoryRedemptionRequirements",
+                "unit": "usd",
+                "value": 11529000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1143822000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss), net of income taxes",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 92581000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 645259000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1696500000
+            },
+            {
+                "label": "Non-controlling interest in Valencia",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 59927000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1756427000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 7574467000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Earnings (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 61561000
+            },
+            {
+                "label": "Unrealized holding gains arising during the period, net of income tax (expense)",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 10444000
+            },
+            {
+                "label": "Reclassification adjustment for (gains) included in net earnings, net of income tax expense",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 1398000
+            },
+            {
+                "label": "Reclassification adjustment for amortization of experience (gains) losses recognized as net periodic benefit cost, net of income tax expense (benefit)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 1548000
+            },
+            {
+                "label": "Change in fair market value, net of income tax (expense) benefit of $(203), $494, $304, $805",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 597000
+            },
+            {
+                "label": "Reclassification adjustment for (gains) losses included in net earnings, net of income tax expense (benefit) of $117, $(65), $127, and $(133)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 345000
+            },
+            {
+                "label": "Total Other Comprehensive Income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 10846000
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 72407000
+            },
+            {
+                "label": "Comprehensive (Income) Attributable to Valencia Non-controlling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3940000
+            },
+            {
+                "label": "Preferred Stock Dividend Requirements of Subsidiary",
+                "concept": "pnm:PreferredStockDividendRequirementsOfSubsidiary",
+                "unit": "usd",
+                "value": 132000
+            },
+            {
+                "label": "Comprehensive Income (Loss) Attributable to PNMR",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 68335000
+            }
+        ]
+    }
+}

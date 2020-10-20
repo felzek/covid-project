@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "WRK",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 291500000.0
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 291500000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Consolidated net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 180000000.0
+            },
+            {
+                "label": "Foreign currency translation gain (loss)",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 21600000.0
+            },
+            {
+                "label": "Deferred loss on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Reclassification adjustment of net loss on cash flow hedges included in earnings",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Amortization and settlement recognition of net actuarial loss, included in pension cost",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 9000000.0
+            },
+            {
+                "label": "Amortization and settlement recognition of prior service cost, included in pension cost",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 31900000.0
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 211900000.0
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1800000.0
+            },
+            {
+                "label": "Comprehensive income attributable to common stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 210100000.0
+            }
+        ]
+    }
+}

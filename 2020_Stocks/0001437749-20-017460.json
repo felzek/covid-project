@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EMCF",
+    "data": {
+        "bs": [
+            {
+                "label": "Debt securities, fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 91387000
+            },
+            {
+                "label": "Securities - equities",
+                "concept": "EquitySecuritiesFvNi",
+                "unit": "usd",
+                "value": 14000
+            },
+            {
+                "label": "Federal bank stock",
+                "concept": "FederalHomeLoanBankStockAndFederalReserveBankStock",
+                "unit": "usd",
+                "value": 6181000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Noninterest income (in-scope of Topic 606)",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 659000
+            },
+            {
+                "label": "Noninterest income (out-of-scope of Topic 606) (2)",
+                "concept": "RevenueNotFromContractWithCustomer",
+                "unit": "usd",
+                "value": 719000
+            },
+            {
+                "label": "Total noninterest income",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 1378000
+            }
+        ]
+    }
+}

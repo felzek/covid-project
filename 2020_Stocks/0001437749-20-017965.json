@@ -1,0 +1,146 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BLBX",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Stockholders' Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -2718949
+            },
+            {
+                "label": "Total Stockholders' Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -2718949
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 808848
+            },
+            {
+                "label": "Cost of operations",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 297605
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 511243
+            },
+            {
+                "label": "Software development costs",
+                "concept": "ResearchAndDevelopmentExpenseSoftwareExcludingAcquiredInProcessCost",
+                "unit": "usd",
+                "value": 57914
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 403275
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 3337
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 464526
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 46717
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebtExcludingAmortization",
+                "unit": "usd",
+                "value": 61265
+            },
+            {
+                "label": "Convertible note financing",
+                "concept": "blbx:ConvertibleNoteFinancingExpense",
+                "unit": "usd",
+                "value": 282693
+            },
+            {
+                "label": "us-gaap_GainLossOnDerivativeInstrumentsNetPretax",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 554315
+            },
+            {
+                "label": "Default expense",
+                "concept": "blbx:ConvertibleNoteDefaultExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 63246
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 193828
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 193828
+            },
+            {
+                "label": "Weighted average number of common shares outstanding - basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 7958231
+            },
+            {
+                "label": "Weighted average number of common shares outstanding - fully diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 13450090
+            },
+            {
+                "label": "Net income (loss) per share - basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Net income per share - fully diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0
+            }
+        ]
+    }
+}

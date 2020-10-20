@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CENB",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -27816555
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -27816555
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Consulting fees",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 162000
+            },
+            {
+                "label": "Consulting fees \u2013 related parties",
+                "concept": "cenb:ConsultingFeesRelatedParty",
+                "unit": "usd",
+                "value": 31200
+            },
+            {
+                "label": "Stock based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 196650
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 300597
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 690447
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -690447
+            },
+            {
+                "label": "us-gaap_InterestExpenseDebt",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 800465
+            },
+            {
+                "label": "us-gaap_InterestExpenseRelatedParty",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 106059
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOther",
+                "unit": "usd",
+                "value": 1853
+            },
+            {
+                "label": "Foreign exchange (loss) gain",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": -64763
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -969434
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1659881
+            },
+            {
+                "label": "Basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.06
+            },
+            {
+                "label": "Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 27207044
+            }
+        ]
+    }
+}

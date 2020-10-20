@@ -1,0 +1,266 @@
+{
+    "startDate": "2019-08-01",
+    "endDate": "2020-07-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "BRC",
+    "data": {
+        "bs": [],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 112369000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 23437000
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 8843000
+            },
+            {
+                "label": "Gain on sale of business, net",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "brc:Deferredincometaxbenefitexpensetotalcompany",
+                "unit": "usd",
+                "value": 764000
+            },
+            {
+                "label": "Income (Loss) from Equity Method Investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 246000
+            },
+            {
+                "label": "Other Noncash Income (Expense)",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 2611000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 13902000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 13917000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 4477000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "brc:IncreaseDecreaseInAccountsPayableAndOtherLiabilities",
+                "unit": "usd",
+                "value": 26128000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 2080000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 140977000
+            },
+            {
+                "label": "Purchases of property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 27277000
+            },
+            {
+                "label": "Payments to Acquire Equity Method Investments",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Sale of business, net of cash transferred with business",
+                "concept": "ProceedsFromDivestitureOfBusinessesNetOfCashDivested",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 2842000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 36119000
+            },
+            {
+                "label": "Payment of dividends",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 45756000
+            },
+            {
+                "label": "Proceeds from exercise of stock options",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 5511000
+            },
+            {
+                "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 9065000
+            },
+            {
+                "label": "Purchase of treasury stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 64514000
+            },
+            {
+                "label": "Proceeds from borrowing on credit facilities",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 20697000
+            },
+            {
+                "label": "Repayment of borrowing on credit facilities",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 21855000
+            },
+            {
+                "label": "Principal payments on debt",
+                "concept": "RepaymentsOfLongTermDebtAndCapitalSecurities",
+                "unit": "usd",
+                "value": 48672000
+            },
+            {
+                "label": "Other",
+                "concept": "ExcessTaxBenefitFromShareBasedCompensationFinancingActivities",
+                "unit": "usd",
+                "value": 134000
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 163520000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2767000
+            },
+            {
+                "label": "Net (decrease) increase in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 61429000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 2401000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 29600000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 112369000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 6640000
+            },
+            {
+                "label": "Reclassification adjustment for (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesBeforeTax",
+                "unit": "usd",
+                "value": 614000
+            },
+            {
+                "label": "Total cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesBeforeTax",
+                "unit": "usd",
+                "value": 1190000
+            },
+            {
+                "label": "Net (loss) gain recognized in other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax",
+                "unit": "usd",
+                "value": 468000
+            },
+            {
+                "label": "Net actuarial gain amortization",
+                "concept": "brc:OtherComprehensiveIncomeAmortizationOfDefinedBenefitPlanActuarialLossRecognizedInNetPeriodicBenefitCostBeforeTax",
+                "unit": "usd",
+                "value": 380000
+            },
+            {
+                "label": "Total pension and other post-retirement benefits",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 848000
+            },
+            {
+                "label": "Other comprehensive income (loss), before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 4602000
+            },
+            {
+                "label": "Income tax benefit (expense) related to items of other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 4777000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 117146000
+            }
+        ]
+    }
+}

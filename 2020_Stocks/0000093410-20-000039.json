@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CVX",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 8516000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 49972000000
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 14884000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 11392000000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 32212000000
+            },
+            {
+                "label": "Memo: Total debt",
+                "concept": "ContractualObligation",
+                "unit": "usd",
+                "value": 3219000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sales and other operating revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 15926000000
+            },
+            {
+                "label": "Total Costs and Other Deductions",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 24091000000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Chevron Corporation",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 8270000000
+            }
+        ]
+    }
+}

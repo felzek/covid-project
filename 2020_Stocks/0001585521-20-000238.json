@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "ZM",
+    "data": {
+        "bs": [
+            {
+                "label": "Property and equipment, gross",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 127983000
+            },
+            {
+                "label": "Less: accumulated depreciation and amortization",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 36692000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 91291000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 185989000
+            },
+            {
+                "label": "Unrealized gain (loss) on available-for-sale marketable securities, net of tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 885000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 186874000
+            }
+        ]
+    }
+}

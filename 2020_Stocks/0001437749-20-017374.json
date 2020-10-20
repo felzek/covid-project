@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OVLY",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 119907000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 119907000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2581000
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfSharesOutstandingBasic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 8124000
+            },
+            {
+                "label": "us-gaap_EarningsPerShareBasic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.32
+            },
+            {
+                "label": "ovly_IncrementalCommonSharesAttributableToNonvestedRestrictedShares",
+                "concept": "ovly:IncrementalCommonSharesAttributableToNonvestedRestrictedShares",
+                "unit": "shares",
+                "value": 6000
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 8130000
+            },
+            {
+                "label": "Net income per diluted share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.32
+            }
+        ]
+    }
+}

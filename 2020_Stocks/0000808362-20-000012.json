@@ -1,0 +1,260 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LLC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 4125000000
+            },
+            {
+                "label": "Current receivables, net",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 5710000000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 4616000000
+            },
+            {
+                "label": "All other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1117000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 15568000000
+            },
+            {
+                "label": "Property, plant and equipment (net of accumulated depreciation of $4,550 and $4,384)",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 5710000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 5629000000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 4416000000
+            },
+            {
+                "label": "Contract and other deferred assets",
+                "concept": "UnbilledContractsReceivable",
+                "unit": "usd",
+                "value": 1875000000
+            },
+            {
+                "label": "All other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 3067000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 1174000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 37439000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 3626000000
+            },
+            {
+                "label": "Short-term debt and current portion of long-term debt",
+                "concept": "DebtCurrent",
+                "unit": "usd",
+                "value": 934000000
+            },
+            {
+                "label": "Progress collections and deferred income",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 3507000000
+            },
+            {
+                "label": "All other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2541000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10608000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 6766000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 125000000
+            },
+            {
+                "label": "Liabilities for pensions and other postretirement benefits",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1059000000
+            },
+            {
+                "label": "All other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1388000000
+            },
+            {
+                "label": "Members' capital (common units 1,033 and 1,027 issued and outstanding as of June 30, 2020 and December 31, 2019, respectively)",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 36762000000
+            },
+            {
+                "label": "Retained loss",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 16604000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2791000000
+            },
+            {
+                "label": "Baker Hughes Holdings LLC equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 17367000000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 126000000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 37439000000
+            },
+            {
+                "label": "Common Unit, Outstanding",
+                "concept": "CommonUnitOutstanding",
+                "unit": "shares",
+                "value": 1033000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 431000000
+            },
+            {
+                "label": "Less: Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Net income (loss) attributable to Baker Hughes Holdings LLC",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 437000000
+            },
+            {
+                "label": "Investment securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 52000000
+            },
+            {
+                "label": "Cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 60000000
+            },
+            {
+                "label": "Less: Other comprehensive loss attributable to noncontrolling interests",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Other comprehensive income (loss) attributable to Baker Hughes Holdings LLC",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 62000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 371000000
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Baker Hughes Holdings LLC",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 375000000
+            }
+        ]
+    }
+}

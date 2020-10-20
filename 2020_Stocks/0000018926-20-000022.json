@@ -1,0 +1,254 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CTL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1763000000
+            },
+            {
+                "label": "Accounts receivable, less allowance of $124 and $106",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 2182000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 913000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 4858000000
+            },
+            {
+                "label": "Property, plant and equipment, net of accumulated depreciation of $30,332 and $29,346",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 26079000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 21469000000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "OtherIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 8903000000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2862000000
+            },
+            {
+                "label": "Total goodwill and other assets",
+                "concept": "ctl:IntangibleAssetsNetIncludingGoodwillAndOtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 33234000000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 64171000000
+            },
+            {
+                "label": "Current maturities of long-term debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+                "unit": "usd",
+                "value": 2885000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1448000000
+            },
+            {
+                "label": "Salaries and benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 917000000
+            },
+            {
+                "label": "Income and other taxes",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 337000000
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 474000000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 303000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 349000000
+            },
+            {
+                "label": "Current portion of deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 759000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 7472000000
+            },
+            {
+                "label": "LONG-TERM DEBT",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 31414000000
+            },
+            {
+                "label": "Deferred income taxes, net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 3094000000
+            },
+            {
+                "label": "Benefit plan obligations, net",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 4428000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 4301000000
+            },
+            {
+                "label": "Total deferred credits and other liabilities",
+                "concept": "DeferredCreditsAndOtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 11823000000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (Note 12)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, Value, Issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1097000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 21376000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2902000000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 6109000000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 13462000000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 64171000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 377000000
+            },
+            {
+                "label": "Change in net actuarial loss, net of $(13), $(14), $(25) and $(28) tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 39000000
+            },
+            {
+                "label": "Change in net prior service credit, net of $(1), $\u2014, $(1) and $(1) tax",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Reclassification of realized loss on interest rate swaps to net income, net of $(5), $\u2014, $(5) and $\u2014 tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 11000000
+            },
+            {
+                "label": "Unrealized holding loss on interest rate swaps, net of $2, $8, $28 and $14 tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Foreign currency translation adjustment and other net of $(4), $3, $19 and $2 tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 9000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 53000000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME (LOSS)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 430000000
+            }
+        ]
+    }
+}

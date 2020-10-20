@@ -1,0 +1,483 @@
+{
+    "startDate": "2019-06-29",
+    "endDate": "2020-07-03",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "WDC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 3048000000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 2379000000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 3070000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 551000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 9048000000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2854000000
+            },
+            {
+                "label": "Notes receivable and investments in Flash Ventures",
+                "concept": "wdc:NotesReceivableAndInvestmentsInRelatedParties",
+                "unit": "usd",
+                "value": 1875000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 10067000000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 941000000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 877000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 25662000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1945000000
+            },
+            {
+                "label": "Accounts payable to related parties",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 407000000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1296000000
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 472000000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 286000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4406000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 9289000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 2416000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 16111000000
+            },
+            {
+                "label": "Commitments and contingencies (Notes 8, 9, 13 and 16)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value; authorized \u2014 5 shares; issued and outstanding \u2014 none",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value; authorized \u2014 450 shares; issued \u2014 312 shares in 2020 and 2019; outstanding \u2014 302 shares in 2020 and 295 shares in 2019",
+                "concept": "wdc:CommonStockValues",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3717000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 157000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 6725000000
+            },
+            {
+                "label": "Treasury stock \u2014 common shares at cost; 10 shares in 2020 and 17 shares in 2019",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 737000000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 9551000000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 25662000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 250000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 1566000000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 308000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 82000000
+            },
+            {
+                "label": "Loss (gain) on disposal of assets",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Non-cash portion of employee termination, asset impairment and other charges",
+                "concept": "wdc:NonCashPortionOfEmployeeTerminationBenefitsAndOtherCharges",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of debt discounts",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 40000000
+            },
+            {
+                "label": "Cash premium on extinguishment of debt",
+                "concept": "wdc:CashPremiumOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other non-cash operating activities, net",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 1175000000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 200000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 192000000
+            },
+            {
+                "label": "Accounts payable to related parties",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": 75000000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 184000000
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 124000000
+            },
+            {
+                "label": "Other assets and liabilities, net",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 357000000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 824000000
+            },
+            {
+                "label": "Purchases of property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 647000000
+            },
+            {
+                "label": "Proceeds from the sale of property, plant and equipment",
+                "concept": "ProceedsFromSaleOfMachineryAndEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Acquisitions, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 22000000
+            },
+            {
+                "label": "Purchases of investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from sale of investments",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from maturities of investments",
+                "concept": "ProceedsFromSaleOfHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Notes receivable issuances to Flash Ventures",
+                "concept": "wdc:PaymentsForLongTermLoansForRelatedParties",
+                "unit": "usd",
+                "value": 353000000
+            },
+            {
+                "label": "Notes receivable proceeds from Flash Ventures",
+                "concept": "wdc:ProceedsFromLongTermLoansForRelatedParties",
+                "unit": "usd",
+                "value": 1284000000
+            },
+            {
+                "label": "Strategic investments and other, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 16000000
+            },
+            {
+                "label": "Net cash provided by (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 278000000
+            },
+            {
+                "label": "Issuance of stock under employee stock plans",
+                "concept": "ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlans",
+                "unit": "usd",
+                "value": 141000000
+            },
+            {
+                "label": "Taxes paid on vested stock awards under employee stock plans",
+                "concept": "wdc:TaxesPaidOnVestedStockAwardsUnderEmployeeStockPlans",
+                "unit": "usd",
+                "value": 72000000
+            },
+            {
+                "label": "Repurchases of common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dividends paid to shareholders",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 595000000
+            },
+            {
+                "label": "Settlement of debt hedge contracts",
+                "concept": "PaymentsForProceedsFromHedgeFinancingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Repayment of debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 982000000
+            },
+            {
+                "label": "Proceeds from debt",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Borrowings from (repayment of) revolving credit facility",
+                "concept": "ProceedsFromRepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1508000000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Net decrease in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 407000000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 341000000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 372000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 250000000
+            },
+            {
+                "label": "Actuarial pension loss",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Net unrealized gain (loss) on derivative contracts and available-for-sale securities",
+                "concept": "wdc:OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodAndAvailableForSaleSecuritiesAdjustmentBeforeReclassificationAdjustmentsAndTax",
+                "unit": "usd",
+                "value": 93000000
+            },
+            {
+                "label": "Total other comprehensive income (loss), before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 101000000
+            },
+            {
+                "label": "Income tax benefit (expense) related to items of other comprehensive income (loss), before tax",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 12000000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 89000000
+            },
+            {
+                "label": "Total comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 339000000
+            }
+        ]
+    }
+}

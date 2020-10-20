@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AMK",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents, and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 102084000
+            },
+            {
+                "label": "Cash, cash equivalents, and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 102084000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 99131000
+            },
+            {
+                "label": "Asset-based expenses are costs incurred by the Company directly related to the generation of asset-based revenue. Fees paid to third-party strategists, investment managers, proprietary fund sub-advisers, investment advisers and third-party custodians are calculated based on a percentage of the customers\u2019 assets under management or administration.",
+                "concept": "amk:AssetBasedExpenses",
+                "unit": "usd",
+                "value": 30084000
+            },
+            {
+                "label": "The Company recognizes spread-based expenses when costs are incurred. Spread-based expenses relate to expenses paid to AssetMark Trust\u2019s third-party administrator for administering the custodian\u2019s insured cash deposit program.",
+                "concept": "amk:SpreadBasedExpenses",
+                "unit": "usd",
+                "value": 433000
+            },
+            {
+                "label": "Employee compensation",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 45364000
+            },
+            {
+                "label": "General and operating expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 13383000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 3160000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 8747000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 101171000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 1474000
+            },
+            {
+                "label": "Other (income) expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 39000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -3475000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 5805000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -9280000
+            },
+            {
+                "label": "Net comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -9280000
+            },
+            {
+                "label": "Net income (loss) per share, basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.14
+            },
+            {
+                "label": "Weighted average number of common shares outstanding, basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 67208746
+            },
+            {
+                "label": "Weighted average number of common shares outstanding, diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 67208746
+            }
+        ]
+    }
+}

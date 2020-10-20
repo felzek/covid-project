@@ -1,0 +1,248 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DYAI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 11781549
+            },
+            {
+                "label": "Short-term investment securities",
+                "concept": "HeldToMaturitySecuritiesCurrent",
+                "unit": "usd",
+                "value": 20053019
+            },
+            {
+                "label": "Interest receivable",
+                "concept": "InterestReceivableCurrent",
+                "unit": "usd",
+                "value": 226135
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 564672
+            },
+            {
+                "label": "Income tax receivable",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 500616
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 599514
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 33725505
+            },
+            {
+                "label": "Long-term investment securities",
+                "concept": "HeldToMaturitySecuritiesNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Long-term income tax receivable",
+                "concept": "IncomeTaxesReceivableNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 6116
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 33731621
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1143961
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 378124
+            },
+            {
+                "label": "Provision for contract losses",
+                "concept": "ProvisionForLossOnContracts",
+                "unit": "usd",
+                "value": 74955
+            },
+            {
+                "label": "Deferred research and development obligations",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 41376
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1638416
+            },
+            {
+                "label": "Commitments and contingencies (Note 4)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 39736
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 97200023
+            },
+            {
+                "label": "Treasury stock, shares held at cost",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 18929915
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 46216639
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 32093205
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 33731621
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 524271
+            },
+            {
+                "label": "Costs of research and development revenue",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 624240
+            },
+            {
+                "label": "Provision for contract losses",
+                "concept": "dyai:ProvisionForContractLosses",
+                "unit": "usd",
+                "value": 74955
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1116163
+            },
+            {
+                "label": "Research and development - related party",
+                "concept": "dyai:ResearchandDevelopmentExpenseRelatedParty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1475232
+            },
+            {
+                "label": "Foreign currency exchange loss (gain), net",
+                "concept": "ForeignCurrencyTransactionGainLossRealized",
+                "unit": "usd",
+                "value": 31690
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 3322280
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 2798009
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 146587
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossAttributableToParent",
+                "unit": "usd",
+                "value": 2651422
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2651422
+            },
+            {
+                "label": "Basic and diluted net loss per common share (USD per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.1
+            },
+            {
+                "label": "Basic and diluted weighted-average common shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 27467366
+            }
+        ]
+    }
+}

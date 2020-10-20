@@ -1,0 +1,296 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ISRG",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2035600000.0
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "MarketableSecuritiesCurrent",
+                "unit": "usd",
+                "value": 2452700000.0
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 508800000.0
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 645500000.0
+            },
+            {
+                "label": "Prepaids and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 256399999.99999997
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 5899000000.0
+            },
+            {
+                "label": "Property, plant, and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1450300000.0
+            },
+            {
+                "label": "Long-term investments",
+                "concept": "MarketableSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 1586500000.0
+            },
+            {
+                "label": "Deferred tax assets",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 365500000.0
+            },
+            {
+                "label": "Intangible and other assets, net",
+                "concept": "isrg:IntangibleAndOtherAssets",
+                "unit": "usd",
+                "value": 465500000.0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 336800000.0
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 10103600000.0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 108900000.0
+            },
+            {
+                "label": "Accrued compensation and employee benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 168700000.0
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "DeferredRevenueCurrent",
+                "unit": "usd",
+                "value": 343100000.0
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 304100000.0
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 924800000.0
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "LiabilitiesOtherThanLongtermDebtNoncurrent",
+                "unit": "usd",
+                "value": 412400000.0
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1337200000.0
+            },
+            {
+                "label": "Contingencies (Note 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, 2.5 shares authorized, $0.001 par value, issuable in series; no shares issued and outstanding as of June 30, 2020, and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, 300.0 shares authorized, $0.001 par value, 117.0 shares and 116.0 shares issued and outstanding as of June 30, 2020, and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 6085100000.0
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2633000000.0
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 22300000.0
+            },
+            {
+                "label": "Total Intuitive Surgical, Inc. stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 8740500000.0
+            },
+            {
+                "label": "Noncontrolling interest in joint venture",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 25900000.0
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 8766400000.0
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 10103600000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 852100000.0
+            },
+            {
+                "label": "Total cost of revenue",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 349200000.0
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 502900000.0
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 279100000.0
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 143200000.0
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 422300000.0
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 80600000.0
+            },
+            {
+                "label": "Interest and other income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 26600000.0
+            },
+            {
+                "label": "Income before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 107200000.0
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 37000000.0
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 70200000.0
+            },
+            {
+                "label": "Less: net loss attributable to noncontrolling interest in joint venture",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2200000.0
+            },
+            {
+                "label": "Net income attributable to Intuitive Surgical, Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 68000000.0
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.58
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.57
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 116800000.0
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 119700000.0
+            },
+            {
+                "label": "Total comprehensive income attributable to Intuitive Surgical, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 81400000.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "UFCS",
+    "data": {
+        "bs": [
+            {
+                "label": "Available-for-sale, at fair value (amortized cost $1,595,817 in 2020 and $1,659,760 in 2019; allowance for credit losses $10 in 2020 and $\u2014 in 2019)",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 1696166000
+            },
+            {
+                "label": "Trading securities, at fair value (amortized cost $8,916 in 2020 and $11,941 in 2019)",
+                "concept": "TradingSecuritiesDebt",
+                "unit": "usd",
+                "value": 11223000
+            },
+            {
+                "label": "Equity securities at fair value (cost $63,615 in 2020 and $67,529 in 2019)",
+                "concept": "EquitySecuritiesFvNi",
+                "unit": "usd",
+                "value": 207626000
+            },
+            {
+                "label": "Mortgage loans",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 47685000
+            },
+            {
+                "label": "Less: allowance for mortgage loan losses",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 76000
+            },
+            {
+                "label": "Mortgage loans, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 47609000
+            },
+            {
+                "label": "Other long-term investments",
+                "concept": "OtherLongTermInvestments",
+                "unit": "usd",
+                "value": 68941000
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "OtherShortTermInvestments",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Total investments",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 2031740000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 146262000
+            },
+            {
+                "label": "Accrued investment income",
+                "concept": "AccruedInvestmentIncomeReceivable",
+                "unit": "usd",
+                "value": 14485000
+            },
+            {
+                "label": "Premiums receivable (net of allowance for doubtful accounts of $947 in 2020 and $1,239 in 2019)",
+                "concept": "PremiumsReceivableAtCarryingValue",
+                "unit": "usd",
+                "value": 376808000
+            },
+            {
+                "label": "Deferred policy acquisition costs",
+                "concept": "DeferredPolicyAcquisitionCostsAndValueOfBusinessAcquired",
+                "unit": "usd",
+                "value": 97566000
+            },
+            {
+                "label": "Property and equipment (primarily land and buildings, at cost, less accumulated depreciation of $52,630 in 2020 and $50,183 in 2019)",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 126036000
+            },
+            {
+                "label": "Reinsurance receivables and recoverables (net of allowance for credit losses of $41 in 2020 and $\u2014 in 2019)",
+                "concept": "ReinsuranceRecoverablesOnPaidAndUnpaidLosses",
+                "unit": "usd",
+                "value": 127881000
+            },
+            {
+                "label": "Prepaid reinsurance premiums",
+                "concept": "PrepaidReinsurancePremiums",
+                "unit": "usd",
+                "value": 14506000
+            },
+            {
+                "label": "Goodwill and intangible assets",
+                "concept": "ufcs:GoodwillAndIntangibleAssets",
+                "unit": "usd",
+                "value": 22188000
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": 38374000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 39067000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3034913000
+            },
+            {
+                "label": "Future policy benefits and losses, claims and loss settlement expenses",
+                "concept": "LiabilityForFuturePolicyBenefitsAndUnpaidClaimsAndClaimsAdjustmentExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Losses and loss settlement expenses",
+                "concept": "LiabilityForClaimsAndClaimsAdjustmentExpensePropertyCasualtyLiability",
+                "unit": "usd",
+                "value": 1477689000
+            },
+            {
+                "label": "Unearned premiums",
+                "concept": "UnearnedPremiums",
+                "unit": "usd",
+                "value": 530801000
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "ufcs:AccruedExpensesAndOtherLiabilities",
+                "unit": "usd",
+                "value": 151257000
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 14499000
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2174246000
+            },
+            {
+                "label": "Common stock, $0.001 par value; authorized 75,000,000 shares; 25,031,234 and 25,015,963 shares issued and outstanding in 2020 and 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 199796000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 613996000
+            },
+            {
+                "label": "Accumulated other comprehensive income, net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 46850000
+            },
+            {
+                "label": "TOTAL STOCKHOLDERS\u2019 EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 860667000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3034913000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net premiums earned",
+                "concept": "PremiumsEarnedNet",
+                "unit": "usd",
+                "value": 263609000
+            },
+            {
+                "label": "Investment income, net of investment expenses",
+                "concept": "NetInvestmentIncome",
+                "unit": "usd",
+                "value": 12696000
+            },
+            {
+                "label": "Net realized investment gains (losses) (includes reclassifications for net unrealized investment gains/(losses) on available-for-sale securities of $80 and $(41) in 2020 and $37 and $127 in 2019; previously included in accumulated other comprehensive income)",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 15779000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 5719000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 297803000
+            },
+            {
+                "label": "Losses and loss settlement expenses",
+                "concept": "PolicyholderBenefitsAndClaimsIncurredNet",
+                "unit": "usd",
+                "value": 204973000
+            },
+            {
+                "label": "Amortization of deferred policy acquisition costs",
+                "concept": "ufcs:DeferredPolicyAcquisitionCostAmortizationExpenseAndAmortizationOfValueOfBusinessAcquiredVoba",
+                "unit": "usd",
+                "value": 51893000
+            },
+            {
+                "label": "Other underwriting expenses (includes reclassifications for employee benefit costs of $1,072 and $2,144 in 2020 and $1,124 and $2,248 in 2019; previously included in accumulated other comprehensive income)",
+                "concept": "OtherUnderwritingExpense",
+                "unit": "usd",
+                "value": 36701000
+            },
+            {
+                "label": "Total benefits, losses and expenses",
+                "concept": "BenefitsLossesAndExpenses",
+                "unit": "usd",
+                "value": 293567000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 4236000
+            },
+            {
+                "label": "Federal income tax expense (benefit) (includes reclassifications of $207 and $458 in 2020 and $229 and $445 in 2019; previously included in accumulated other comprehensive income)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1724000
+            },
+            {
+                "label": "Net Income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 5960000
+            },
+            {
+                "label": "Change in net unrealized appreciation on investments",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 33037000
+            },
+            {
+                "label": "Change in net unrealized appreciation on investments for which an allowance for a credit loss has been recorded",
+                "concept": "ufcs:OtherComprehensiveIncomeLossSecuritiesAvailableForSaleNetOfAllowanceForCreditLossUnrealizedHoldingGainLossArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 1858000
+            },
+            {
+                "label": "Change in liability for underfunded employee benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsAndTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income, before tax and reclassification adjustments",
+                "concept": "OtherComprehensiveIncomeLossBeforeReclassificationsBeforeTax",
+                "unit": "usd",
+                "value": 34895000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossBeforeReclassificationsTax",
+                "unit": "usd",
+                "value": 7329000
+            },
+            {
+                "label": "Other comprehensive income, after tax, before reclassification adjustments",
+                "concept": "OtherComprehensiveIncomeLossBeforeReclassificationsNetOfTax",
+                "unit": "usd",
+                "value": 27566000
+            },
+            {
+                "label": "Reclassification adjustment for net realized investment (gains) losses included in income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 80000
+            },
+            {
+                "label": "Reclassification adjustment for employee benefit costs included in expense",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansBeforeTax",
+                "unit": "usd",
+                "value": 1072000
+            },
+            {
+                "label": "Total reclassification adjustments, before tax",
+                "concept": "ReclassificationFromAccumulatedOtherComprehensiveIncomeCurrentPeriodBeforeTax",
+                "unit": "usd",
+                "value": 992000
+            },
+            {
+                "label": "Reclassifications for federal income tax benefit",
+                "concept": "ReclassificationFromAociCurrentPeriodTax",
+                "unit": "usd",
+                "value": 207000
+            },
+            {
+                "label": "Total reclassification adjustments, after tax",
+                "concept": "ReclassificationFromAccumulatedOtherComprehensiveIncomeCurrentPeriodNetOfTax",
+                "unit": "usd",
+                "value": 785000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 34311000
+            },
+            {
+                "label": "Diluted weighted average common shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 25255604
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.24
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.24
+            }
+        ]
+    }
+}

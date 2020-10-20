@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GRPN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 784688000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 54583000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 52088000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 891359000
+            },
+            {
+                "label": "Property, equipment and software, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 90331000
+            },
+            {
+                "label": "Right-of-use assets - operating leases, net",
+                "concept": "grpn:OperatingLeaseRightofUseAssetNet",
+                "unit": "usd",
+                "value": 78057000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 211718000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 31977000
+            },
+            {
+                "label": "Investments",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 34403000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 31474000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1369319000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 200000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued merchant and supplier payables",
+                "concept": "grpn:Accruedmerchantandsupplierpayable",
+                "unit": "usd",
+                "value": 394835000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesAndOtherLiabilities",
+                "unit": "usd",
+                "value": 246925000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 886903000
+            },
+            {
+                "label": "Convertible senior notes, net",
+                "concept": "ConvertibleDebtNoncurrent",
+                "unit": "usd",
+                "value": 221992000
+            },
+            {
+                "label": "Operating lease obligations",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 95192000
+            },
+            {
+                "label": "Total other non-current liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 47748000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1251835000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2329599000
+            },
+            {
+                "label": "Treasury stock",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 922666000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1318594000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 29488000
+            },
+            {
+                "label": "Total Groupon,\u00a0Inc. Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 117831000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 347000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 117484000
+            },
+            {
+                "label": "Total Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1369319000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Long-lived asset impairment",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Restructuring Costs",
+                "concept": "RestructuringCosts",
+                "unit": "usd",
+                "value": 13903000
+            },
+            {
+                "label": "Total impairment",
+                "concept": "RestructuringCostsAndAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 13903000
+            }
+        ]
+    }
+}

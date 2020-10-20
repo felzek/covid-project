@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CFT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 19992620
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 2661905
+            },
+            {
+                "label": "Fixed income securities (cost $44,868,922 and $53,635,500, respectively)",
+                "concept": "USGovernmentSecuritiesAtCarryingValue",
+                "unit": "usd",
+                "value": 44869299
+            },
+            {
+                "label": "Short term investments (cost $4,109,849 and $4,780, respectively)",
+                "concept": "MoneyMarketFundsAtCarryingValue",
+                "unit": "usd",
+                "value": 4109849
+            },
+            {
+                "label": "Interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 407644
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 305779330
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableTradeCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 236701
+            },
+            {
+                "label": "Management fee payable",
+                "concept": "ManagementFeePayable",
+                "unit": "usd",
+                "value": 501727
+            },
+            {
+                "label": "Accrued commissions and other trading fees on open contracts",
+                "concept": "CommissionsPayableToBrokerDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 78742
+            },
+            {
+                "label": "Sales commission payable",
+                "concept": "AccruedSalesCommissionCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 441754
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 6767307
+            },
+            {
+                "label": "Balances at beginning of period",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 299012023
+            },
+            {
+                "label": "Total liabilities and unitholders' capital (Net Asset Value)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 305779330
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Trading gains / (losses)",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -17568915
+            }
+        ]
+    }
+}

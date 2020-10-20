@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MGHL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4963036
+            },
+            {
+                "label": "Receivables from brokers and clearing organizations",
+                "concept": "ReceivablesFromBrokersDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 701272
+            },
+            {
+                "label": "Receivables from affiliates",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 133633
+            },
+            {
+                "label": "Deposits with clearing organizations",
+                "concept": "DepositsWithClearingOrganizationsAndOthersSecurities",
+                "unit": "usd",
+                "value": 200000
+            },
+            {
+                "label": "Income taxes receivable (including deferred tax asset of $7,891 and $2,930, respectively)",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": 358935
+            },
+            {
+                "label": "Fixed assets, net of accumulated depreciation of $34,511 and $28,435, respectively",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 38380
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 183560
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 6578816
+            },
+            {
+                "label": "Compensation payable",
+                "concept": "DeferredCompensationLiabilityCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 401193
+            },
+            {
+                "label": "Payable to affiliates",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 106505
+            },
+            {
+                "label": "Income tax payable",
+                "concept": "AccruedIncomeTaxes",
+                "unit": "usd",
+                "value": 52046
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 574583
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1134327
+            },
+            {
+                "label": "Commitments and contingencies (Note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value; 100,000,000 shares authorized and 600,090 shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 6001
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 53886180
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -48447692
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5444489
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 6578816
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Commissions",
+                "concept": "BrokerageCommissionsRevenue",
+                "unit": "usd",
+                "value": 1100225
+            },
+            {
+                "label": "Dividends and interest",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 11833
+            },
+            {
+                "label": "Underwriting fees",
+                "concept": "UnderwritingIncomeLoss",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other revenues",
+                "concept": "RevenueNotFromContractWithCustomerOther",
+                "unit": "usd",
+                "value": 151
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 1110149
+            },
+            {
+                "label": "Compensation and related costs",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 836541
+            },
+            {
+                "label": "Clearing charges",
+                "concept": "ClearanceFees",
+                "unit": "usd",
+                "value": 315191
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 346964
+            },
+            {
+                "label": "Occupancy and equipment",
+                "concept": "OccupancyNet",
+                "unit": "usd",
+                "value": 52800
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1551496
+            },
+            {
+                "label": "Loss before income tax benefit",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -441347
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -130949
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -310398
+            },
+            {
+                "label": "Basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.52
+            },
+            {
+                "label": "Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 600090
+            }
+        ]
+    }
+}

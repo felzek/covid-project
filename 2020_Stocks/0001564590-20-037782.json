@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RCUS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 285388000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 285388000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Collaboration and license revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 1750000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 35693000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11432000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 47125000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 45375000
+            },
+            {
+                "label": "Interest and other income (expense) nonoperating net.",
+                "concept": "rcus:InterestAndOtherIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 301000
+            },
+            {
+                "label": "Gain on deemed sale from equity method investee",
+                "concept": "GainLossOnSaleOfEquityInvestments",
+                "unit": "usd",
+                "value": 131000
+            },
+            {
+                "label": "Share of loss from equity method investee",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 131000
+            },
+            {
+                "label": "Total non-operating income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 301000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 45074000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 144000
+            },
+            {
+                "label": "Comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 45218000
+            },
+            {
+                "label": "Net loss per share, basic and diluted",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.93
+            },
+            {
+                "label": "Weighted-average number of shares used to compute basic and diluted net loss per share",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 48556843
+            }
+        ]
+    }
+}

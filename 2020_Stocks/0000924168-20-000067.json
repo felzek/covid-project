@@ -1,0 +1,338 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EFOI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2727000
+            },
+            {
+                "label": "Trade accounts receivable, less allowances of $7 and $28, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 2518000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 5900000
+            },
+            {
+                "label": "Prepaid and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 677000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 11822000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 415000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1051000
+            },
+            {
+                "label": "Restructured lease right-of-use assets",
+                "concept": "efoi:RestructuredOperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 214000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 405000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 13907000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 2617000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 57000
+            },
+            {
+                "label": "Accrued legal and professional fees",
+                "concept": "AccruedProfessionalFeesCurrent",
+                "unit": "usd",
+                "value": 307000
+            },
+            {
+                "label": "Accrued payroll and related benefits",
+                "concept": "AccruedEmployeeBenefitsCurrent",
+                "unit": "usd",
+                "value": 585000
+            },
+            {
+                "label": "Accrued sales commissions",
+                "concept": "AccruedSalesCommissionCurrent",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Accrued restructuring",
+                "concept": "RestructuringReserveCurrent",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Accrued warranty reserve",
+                "concept": "StandardProductWarrantyAccrualCurrent",
+                "unit": "usd",
+                "value": 215000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "DeferredRevenueCurrent",
+                "unit": "usd",
+                "value": 61000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 577000
+            },
+            {
+                "label": "Restructured lease liabilities",
+                "concept": "efoi:RestructuredOperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 331000
+            },
+            {
+                "label": "Finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Warrant liability",
+                "concept": "OtherDeferredCompensationArrangementsLiabilityCurrent",
+                "unit": "usd",
+                "value": 4011000
+            },
+            {
+                "label": "Convertible notes",
+                "concept": "ConvertibleNotesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "PPP loan",
+                "concept": "efoi:PaymentProtectionProgramCurrent",
+                "unit": "usd",
+                "value": 263000
+            },
+            {
+                "label": "Iliad note, net of discount and loan origination fees",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 603000
+            },
+            {
+                "label": "Credit line borrowings, net of loan origination fees",
+                "concept": "LinesOfCreditCurrent",
+                "unit": "usd",
+                "value": 1331000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 11036000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating lease liabilities, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 623000
+            },
+            {
+                "label": "Restructured lease liabilities, net of current portion",
+                "concept": "efoi:RestructuredOperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Finance lease liabilities, net of current portion",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "PPP loan, net of current maturities",
+                "concept": "efoi:PaymentProtectionProgramNoncurrent",
+                "unit": "usd",
+                "value": 532000
+            },
+            {
+                "label": "Iliad note, net of current maturities",
+                "concept": "LongTermNotesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 12193000
+            },
+            {
+                "label": "Issued and outstanding: 2,597,470 at June\u00a030, 2020 and no shares outstanding at December\u00a031, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Issued and outstanding: 3,216,345 at June\u00a030, 2020 and 2,485,684 at December\u00a031, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 131472000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 129755000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1714000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 13907000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 3335000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 1992000
+            },
+            {
+                "label": "Gross profit (loss)",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 1343000
+            },
+            {
+                "label": "Product development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 313000
+            },
+            {
+                "label": "Selling, general, and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1973000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2272000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 929000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 87000
+            },
+            {
+                "label": "Loss from change in fair value of warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 3300000
+            },
+            {
+                "label": "Other expenses",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4340000
+            },
+            {
+                "label": "Net loss (in usd per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 1.36
+            },
+            {
+                "label": "Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 3192000
+            }
+        ]
+    }
+}

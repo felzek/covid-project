@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BXMT",
+    "data": {
+        "bs": [
+            {
+                "label": "Debt Issuance Costs, Net",
+                "concept": "DeferredFinanceCostsNet",
+                "unit": "usd",
+                "value": 26911000
+            },
+            {
+                "label": "Secured Debt",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 1045163000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 18505000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, before Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 21342000
+            },
+            {
+                "label": "Other Comprehensive Income Realized And Unrealized Gain Loss On Derivatives Arising During Period Before Tax",
+                "concept": "bxmt:OtherComprehensiveIncomeRealizedAndUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 30665000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 9323000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9182000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 961000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 8221000
+            }
+        ]
+    }
+}

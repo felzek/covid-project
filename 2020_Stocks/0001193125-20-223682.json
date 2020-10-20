@@ -1,0 +1,44 @@
+{
+    "startDate": "2019-06-29",
+    "endDate": "2020-06-26",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "FN",
+    "data": {
+        "bs": [
+            {
+                "label": "Assets for Plan Benefits, Defined Benefit Plan",
+                "concept": "DefinedBenefitPlanAssetsForPlanBenefitsNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Liability, Defined Benefit Pension Plan, Noncurrent",
+                "concept": "DefinedBenefitPensionPlanLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 17379000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Severance Costs",
+                "concept": "SeveranceCosts1",
+                "unit": "usd",
+                "value": 2802000
+            },
+            {
+                "label": "Increase (Decrease) in Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 16174000
+            },
+            {
+                "label": "Increase (Decrease) in Other Operating Assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 182000
+            }
+        ],
+        "ic": []
+    }
+}

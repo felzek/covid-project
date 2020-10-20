@@ -1,0 +1,170 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NSPW",
+    "data": {
+        "bs": [
+            {
+                "label": "Property, Plant and Equipment, Gross",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 3769900000.0
+            },
+            {
+                "label": "Less accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1353100000.0
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2416800000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Electric, non-affiliates",
+                "concept": "nspw:RegulatedOperatingRevenueElectricNonaffiliate",
+                "unit": "usd",
+                "value": 157800000.0
+            },
+            {
+                "label": "Electric, affiliates",
+                "concept": "nspw:RegulatedOperatingRevenueElectricAffiliate",
+                "unit": "usd",
+                "value": 41500000.0
+            },
+            {
+                "label": "Natural gas",
+                "concept": "RegulatedOperatingRevenueGas",
+                "unit": "usd",
+                "value": 19000000.0
+            },
+            {
+                "label": "Other",
+                "concept": "UnregulatedOperatingRevenue",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Total operating revenues",
+                "concept": "RegulatedAndUnregulatedOperatingRevenue",
+                "unit": "usd",
+                "value": 218500000.0
+            },
+            {
+                "label": "Electric fuel and purchased power, non-affiliates",
+                "concept": "nspw:ElectricFuelandPurchasedPowerNonAffiliate",
+                "unit": "usd",
+                "value": 3400000.0
+            },
+            {
+                "label": "Purchased power, affiliates",
+                "concept": "nspw:RelatedPartyTransactionUtilitiesOperatingExpensePurchasedPower",
+                "unit": "usd",
+                "value": 91300000.0
+            },
+            {
+                "label": "Cost of natural sold and transported",
+                "concept": "nspw:CostofnaturalGasSoldandTransported",
+                "unit": "usd",
+                "value": 6600000.0
+            },
+            {
+                "label": "Operating and maintenance expenses",
+                "concept": "UtilitiesOperatingExpenseMaintenanceOperationsAndOtherCostsAndExpenses",
+                "unit": "usd",
+                "value": 44900000.0
+            },
+            {
+                "label": "Conservation program expenses",
+                "concept": "nspw:ConservationandDemandSideManagementProgramExpenses",
+                "unit": "usd",
+                "value": 3200000.0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "UtilitiesOperatingExpenseDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 38800000.0
+            },
+            {
+                "label": "Taxes (other than income taxes)",
+                "concept": "TaxesExcludingIncomeAndExciseTaxes",
+                "unit": "usd",
+                "value": 7100000.0
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 195300000.0
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 23200000.0
+            },
+            {
+                "label": "Other expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1800000.0
+            },
+            {
+                "label": "Allowance for funds used during construction \u2014 equity",
+                "concept": "PublicUtilitiesAllowanceForFundsUsedDuringConstructionCapitalizedCostOfEquity",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Interest charges \u2014 includes other financing costs of $0.4, $0.3, $0.7 and $0.7, respectively",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 9900000.0
+            },
+            {
+                "label": "Other financing costs",
+                "concept": "DebtRelatedCommitmentFeesAndDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Allowance for funds used during construction \u2014 debt",
+                "concept": "nspw:PublicUtilitiesAllowanceForFundsUsedDuringConstructionCapitalizedCostOfDebt",
+                "unit": "usd",
+                "value": 500000.0
+            },
+            {
+                "label": "Total interest charges and financing costs",
+                "concept": "InterestAndDebtExpense",
+                "unit": "usd",
+                "value": 9400000.0
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 13400000.0
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1300000.0
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12100000.0
+            }
+        ]
+    }
+}

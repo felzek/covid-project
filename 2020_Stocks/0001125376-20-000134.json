@@ -1,0 +1,332 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ENSG",
+    "data": {
+        "bs": [
+            {
+                "label": "Number of operating subsidiaries",
+                "concept": "ensg:NumberOfOperatingSubsidiaries",
+                "unit": "facility",
+                "value": 19
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 114983000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 81890000
+            },
+            {
+                "label": "Net income from discontinued operations, net of tax",
+                "concept": "ensg:ProfitLossFromContinuingOperationsAvailableToShareholdersFromDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 27325000
+            },
+            {
+                "label": "Amortization of deferred financing fees",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 420000
+            },
+            {
+                "label": "Non-cash leasing arrangement (Note 18)",
+                "concept": "ensg:NonCashLeaseExpense",
+                "unit": "usd",
+                "value": 236000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1003000
+            },
+            {
+                "label": "Provision for doubtful accounts",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 1559000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 6763000
+            },
+            {
+                "label": "Cash received from insurance proceeds related to replacement properties and business interruptions",
+                "concept": "ProceedsFromInsuranceSettlementOperatingActivities",
+                "unit": "usd",
+                "value": 108000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 5365000
+            },
+            {
+                "label": "Prepaid income taxes",
+                "concept": "IncreaseDecreaseInPrepaidTaxes",
+                "unit": "usd",
+                "value": 739000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 7745000
+            },
+            {
+                "label": "Operating lease obligations",
+                "concept": "ensg:IncreaseDecreaseInOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 378000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 680000
+            },
+            {
+                "label": "Accrued wages and related liabilities",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 7092000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 22459000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 3175000
+            },
+            {
+                "label": "Accrued self-insurance liabilities",
+                "concept": "IncreaseDecreaseInSelfInsuranceReserve",
+                "unit": "usd",
+                "value": 4208000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "IncreaseDecreaseInOtherDeferredLiability",
+                "unit": "usd",
+                "value": 20599000
+            },
+            {
+                "label": "Net cash provided by continuing operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 174138000
+            },
+            {
+                "label": "Net cash provided by discontinued operating activities (Note 4)",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 174138000
+            },
+            {
+                "label": "Purchase of property and equipment",
+                "concept": "ensg:PaymentsToAcquirePropertyAndEquipment",
+                "unit": "usd",
+                "value": 27070000
+            },
+            {
+                "label": "Cash payments for business acquisitions (Note 9)",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash payments for asset acquisitions (Note 9)",
+                "concept": "ensg:PaymentsToAcquireAssetAcquisitions",
+                "unit": "usd",
+                "value": 14054000
+            },
+            {
+                "label": "Escrow deposits",
+                "concept": "PaymentsForDepositsOnRealEstateAcquisitions",
+                "unit": "usd",
+                "value": 364000
+            },
+            {
+                "label": "Escrow deposits used to fund acquisitions",
+                "concept": "ProceedsFromDepositsOnRealEstateSales",
+                "unit": "usd",
+                "value": 14050000
+            },
+            {
+                "label": "Cash proceeds from the sale of assets and insurance proceeds",
+                "concept": "ProceedsFromSalesOfAssetsInvestingActivities",
+                "unit": "usd",
+                "value": 239000
+            },
+            {
+                "label": "Purchases of investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 5984000
+            },
+            {
+                "label": "Maturities of investments",
+                "concept": "ProceedsFromSaleMaturityAndCollectionsOfInvestments",
+                "unit": "usd",
+                "value": 5452000
+            },
+            {
+                "label": "Other restricted assets",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 595000
+            },
+            {
+                "label": "Net cash used in continuing investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 28326000
+            },
+            {
+                "label": "Net cash used in discontinued investing activities (Note 4)",
+                "concept": "CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 28326000
+            },
+            {
+                "label": "Proceeds from revolving credit facility and other debt (Note 16)",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 380600000
+            },
+            {
+                "label": "Payments on revolving credit facility and other debt (Note 16)",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 561398000
+            },
+            {
+                "label": "Issuance of common stock upon exercise of options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 2008000
+            },
+            {
+                "label": "Repurchase of shares of common stock to satisfy tax withholding obligations",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 753000
+            },
+            {
+                "label": "Repurchase of shares of common stock (Note 20)",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 25000000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 5388000
+            },
+            {
+                "label": "Non-controlling interest distribution",
+                "concept": "ProceedsFromPaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 960000
+            },
+            {
+                "label": "CARES Act Provider Relief Funds",
+                "concept": "ensg:IncreaseDecreaseInCARESActProviderReliefFunds",
+                "unit": "usd",
+                "value": 108756000
+            },
+            {
+                "label": "Proceeds from Medicare Advance Payment Program (Note 3)",
+                "concept": "ProceedsFromIssuanceOfDebt",
+                "unit": "usd",
+                "value": 98886000
+            },
+            {
+                "label": "Net cash (used in)/provided by continuing financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 3249000
+            },
+            {
+                "label": "Net cash (used in)/provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 3249000
+            },
+            {
+                "label": "Net increase in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 142563000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 6917000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 1935000
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "OperatingLeasePayments",
+                "unit": "usd",
+                "value": 65109000
+            },
+            {
+                "label": "Accrued capital expenditures",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 2500000
+            },
+            {
+                "label": "Right-of-use assets obtained in exchange for new operating lease obligations",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 8370000
+            }
+        ],
+        "ic": []
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PNFP",
+    "data": {
+        "bs": [
+            {
+                "label": "Fair value, beginning of period",
+                "concept": "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetValue",
+                "unit": "usd",
+                "value": 15295000
+            },
+            {
+                "label": "Fair value, beginning of period",
+                "concept": "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetValue",
+                "unit": "usd",
+                "value": 15295000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 62444000
+            },
+            {
+                "label": "Change in fair value on available-for-sale securities, net of tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 36007000
+            },
+            {
+                "label": "Change in fair value of cash flow hedges, net of tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 4555000
+            },
+            {
+                "label": "Amortization (accretion) of net unrealized losses (gains) on securities transferred from available-for-sale to held-to-maturity, net of tax",
+                "concept": "pnfp:OtherComprehensiveIncomeLossTransfersfromAvailableforsaletoHeldtomaturitysecuritiesnetoftax",
+                "unit": "usd",
+                "value": 1514000
+            },
+            {
+                "label": "Net loss (gain) on cash flow hedges reclassified from other comprehensive income into net income, net of tax",
+                "concept": "InterestRateCashFlowHedgeGainLossReclassifiedToEarningsNet",
+                "unit": "usd",
+                "value": 123000
+            },
+            {
+                "label": "Net loss (gain) on sale of investment securities reclassified from other comprehensive income into net income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 95000
+            },
+            {
+                "label": "Total other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 39020000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 101464000
+            }
+        ]
+    }
+}

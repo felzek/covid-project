@@ -1,0 +1,362 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PFIE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 8022237
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "MarketableSecuritiesCurrent",
+                "unit": "usd",
+                "value": 2290667
+            },
+            {
+                "label": "Short-term investments - other",
+                "concept": "OtherShortTermInvestments",
+                "unit": "usd",
+                "value": 1600000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 2439296
+            },
+            {
+                "label": "Inventories, net (note 3)",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 8996223
+            },
+            {
+                "label": "Prepaid expenses and other current assets (note 4)",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 2144150
+            },
+            {
+                "label": "Income tax receivable",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 25492573
+            },
+            {
+                "label": "Long-term investments",
+                "concept": "MarketableSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 6192261
+            },
+            {
+                "label": "Financing right-of-use asset",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 72914
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 11571961
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 1883236
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 2579381
+            },
+            {
+                "label": "Total Long-Term Assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 22299753
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 47792326
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 685617
+            },
+            {
+                "label": "Accrued liabilities (note 5)",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1122242
+            },
+            {
+                "label": "Current financing lease liability (note 6)",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 45411
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 99481
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1952751
+            },
+            {
+                "label": "Net deferred income tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 543441
+            },
+            {
+                "label": "Long-term financing lease liability (note 6)",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 30238
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2526430
+            },
+            {
+                "label": "Preferred stock: $0.001 par value, 10,000,000 shares authorized: no shares issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock: $0.001 par value, 100,000,000 shares authorized: 51,325,493 issued and 47,913,115 outstanding at June 30, 2020, and 50,824,355 issued and 47,411,977 outstanding at December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 51325
+            },
+            {
+                "label": "Treasury stock, at cost",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 5353019
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 30106383
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3070095
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 23531302
+            },
+            {
+                "label": "TOTAL STOCKHOLDERS' EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 45265896
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 47792326
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1173767
+            },
+            {
+                "label": "Depreciation and amortization expense",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 566791
+            },
+            {
+                "label": "Gain on sale of fixed assets",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 153973
+            },
+            {
+                "label": "Bad debt expense",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 236005
+            },
+            {
+                "label": "Stock awards issued for services",
+                "concept": "IssuanceOfStockAndWarrantsForServicesOrClaims",
+                "unit": "usd",
+                "value": 250198
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 3248693
+            },
+            {
+                "label": "Income taxes receivable/payable",
+                "concept": "IncreaseDecreaseInIncomeTaxesPayableNetOfIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 1761
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 445634
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 168718
+            },
+            {
+                "label": "Deferred tax asset/liability",
+                "concept": "IncomeTaxExpenseBenefitContinuingOperationsAdjustmentOfDeferredTaxAssetLiability",
+                "unit": "usd",
+                "value": 104166
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 2843685
+            },
+            {
+                "label": "Net Cash Provided by Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 847019
+            },
+            {
+                "label": "Proceeds from sale of equipment",
+                "concept": "ProceedsFromSaleOfMachineryAndEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Sale of investments",
+                "concept": "PaymentsForProceedsFromInvestments",
+                "unit": "usd",
+                "value": 1057404
+            },
+            {
+                "label": "Purchase of fixed assets",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 994410
+            },
+            {
+                "label": "Payments for acquisitions, net of cash acquired",
+                "concept": "PaymentsToAcquireIntangibleAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 62994
+            },
+            {
+                "label": "Value of equity awards surrendered by employees for tax liability",
+                "concept": "pfie:ValueOfEquityAwardsSurrenderedByEmployeesForTaxLiability",
+                "unit": "usd",
+                "value": 148879
+            },
+            {
+                "label": "Cash received in exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 2020
+            },
+            {
+                "label": "Purchase of treasury stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Principal paid towards lease liability",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 34267
+            },
+            {
+                "label": "Net Cash Used in Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 181126
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 65506
+            },
+            {
+                "label": "NET INCREASE IN CASH",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 663381
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 4247
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock issued in settlement of accrued bonuses",
+                "concept": "NoncashOrPartNoncashAcquisitionOtherAssetsAcquired1",
+                "unit": "usd",
+                "value": 419373
+            }
+        ],
+        "ic": []
+    }
+}

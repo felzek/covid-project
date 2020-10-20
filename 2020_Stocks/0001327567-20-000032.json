@@ -1,0 +1,56 @@
+{
+    "startDate": "2019-08-01",
+    "endDate": "2020-07-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "PANW",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2958000000.0
+            },
+            {
+                "label": "Cash, cash equivalents, and restricted cash\u2014beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2961700000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 267000000.0
+            },
+            {
+                "label": "Change in unrealized gains (losses) on investments",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Change in unrealized gains (losses) on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 13200000.0
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 14200000.0
+            },
+            {
+                "label": "Comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 252800000.0
+            }
+        ]
+    }
+}

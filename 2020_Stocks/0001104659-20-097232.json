@@ -1,0 +1,111 @@
+{
+    "startDate": "2020-04-15",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TXAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 64690
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 64690
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -19369
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 1363
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -18006
+            },
+            {
+                "label": "Proceeds from Issuance of Common Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 217304
+            },
+            {
+                "label": "Proceeds from Related Party Debt",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 275000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 82696
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Excluding Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 64690
+            },
+            {
+                "label": "The amount of offering costs included in accrued offering costs that were incurred during a non-cash or partial non-cash transaction.",
+                "concept": "txac:DeferredOfferingCostsIncludedInAccruedOfferingCostsIncurredDuringNonCashOrPartialNonCashTransaction",
+                "unit": "usd",
+                "value": 227403
+            },
+            {
+                "label": "The amount of offering costs included in accounts payable that were incurred during a noncash or partial noncash transaction.",
+                "concept": "txac:OfferingCostsIncludedInAccountsPayableIncurredDuringNoncashOrPartialNoncashTransaction",
+                "unit": "usd",
+                "value": 4745
+            }
+        ],
+        "ic": [
+            {
+                "label": "Amount of formation and operating costs incurred during the period.",
+                "concept": "txac:FormationAndOperatingCosts",
+                "unit": "usd",
+                "value": 19369
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -19369
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 3392500
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            }
+        ]
+    }
+}

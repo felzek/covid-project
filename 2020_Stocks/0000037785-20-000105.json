@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FMC",
+    "data": {
+        "bs": [
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2850900000.0
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2850900000.0
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2850900000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 185000000.0
+            },
+            {
+                "label": "Foreign currency translation gain (loss) arising during the period",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 21500000.0
+            },
+            {
+                "label": "Total foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 21500000.0
+            },
+            {
+                "label": "Unrealized hedging gains (losses) and other, net of tax of $(5.1) and $6.9 for the three and six months ended June 30, 2020 and $(8.9) and $(8.9) for the three and six months ended June 30, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 2100000.0
+            },
+            {
+                "label": "Reclassification of deferred hedging (gains) losses and other, included in net income, net of tax of $(1.1) and $(3.9) for the three and six months ended June 30, 2020 and $(0.7) and $(1.7) for the three and six months ended June 30, 2019, respectively (2)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 8400000.0
+            },
+            {
+                "label": "Total derivative instruments, net of tax of $(6.2) and $3.0 for the three and six months ended June 30, 2020 and $(9.6) and $(10.6) for the three and six months ended June 30, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 10500000.0
+            },
+            {
+                "label": "Unrealized actuarial gains (losses) and prior service (costs) credits, net of tax of $0.1 and $0.1 for the three and six months ended June 30, 2020 and zero and zero for the three and six months ended June 30, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsNetOfTax",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Reclassification of net actuarial and other (gain) loss and amortization of prior service costs, included in net income, net of tax of $0.4 and $0.9 for the three and six months ended June 30, 2020 and $0.9 and $1.8 for the three and six months ended June 30, 2019, respectively (2)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Total pension and other postretirement benefits, net of tax of $0.5 and $1.0 for the three and six months ended June 30, 2020 and $0.9 and $1.8 for the three and six months ended June 30, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 12400000.0
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 197400000.0
+            },
+            {
+                "label": "Less: Comprehensive income (loss) attributable to the noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to FMC stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 196000000.0
+            }
+        ]
+    }
+}

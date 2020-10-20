@@ -1,0 +1,115 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "ONEW",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 408273000
+            },
+            {
+                "label": "Total cost of sales",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 313588000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 43152000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 824000
+            },
+            {
+                "label": "Transaction costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": 31000
+            },
+            {
+                "label": "Gain on settlement of contingent consideration",
+                "concept": "BusinessCombinationConsiderationTransferred1",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 50678000
+            },
+            {
+                "label": "Interest expense - other",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 3082000
+            },
+            {
+                "label": "Change in fair value of long-term warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other (income) expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 61000
+            },
+            {
+                "label": "Total other expense (income), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -5319000
+            },
+            {
+                "label": "Income before income tax expense",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 45359000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 4737000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 40622000
+            },
+            {
+                "label": "Less: Net income attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net income attributable to OneWater Inc",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 14367000
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 6088000
+            }
+        ]
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GNMK",
+    "data": {
+        "bs": [
+            {
+                "label": "Shares, Outstanding",
+                "concept": "SharesIssued",
+                "unit": "shares",
+                "value": 70693000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 7000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 11692000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 3479000
+            },
+            {
+                "label": "Net amortization (accretion) of premiums/discounts on investments",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": 34000
+            },
+            {
+                "label": "Amortization of deferred debt issuance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 1145000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 8048000
+            },
+            {
+                "label": "Provision for bad debt",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 766000
+            },
+            {
+                "label": "Non-cash inventory adjustments",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 850000
+            },
+            {
+                "label": "Other non-cash adjustments",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 49000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 1866000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 4960000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 382000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 3598000
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 624000
+            },
+            {
+                "label": "Other current and non-current liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 790000
+            },
+            {
+                "label": "Net cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 385000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1703000
+            },
+            {
+                "label": "Purchases of marketable securities",
+                "concept": "PaymentsToAcquireMarketableSecurities",
+                "unit": "usd",
+                "value": 52123000
+            },
+            {
+                "label": "Maturities of marketable securities",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 9655000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 42978000
+            },
+            {
+                "label": "Proceeds from issuance of common stock, net of offering costs",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 78078000
+            },
+            {
+                "label": "Principal repayment of borrowings",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Proceeds from borrowings",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments associated with debt issuance",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Proceeds from stock option exercises",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 3575000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 81520000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 22000
+            },
+            {
+                "label": "Net increase (decrease) in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 38949000
+            },
+            {
+                "label": "Transfer of systems to property and equipment from inventory",
+                "concept": "gnmk:TransferofSystemsFromToPropertyandEquipmentintoInventory",
+                "unit": "usd",
+                "value": 483000
+            },
+            {
+                "label": "Property and equipment included in accounts payable",
+                "concept": "gnmk:PropertyAndEquipmentCostsIncurredButNotPaidIncludedInOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": 807000
+            },
+            {
+                "label": "Cash paid for income taxes, net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 48000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 3080000
+            },
+            {
+                "label": "Proceeds from Sale of Available-for-sale Securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 1193000
+            }
+        ],
+        "ic": []
+    }
+}

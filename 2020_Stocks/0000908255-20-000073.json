@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BWA",
+    "data": {
+        "bs": [
+            {
+                "label": "Derivative assets",
+                "concept": "DerivativeFairValueOfDerivativeAsset",
+                "unit": "usd",
+                "value": 1000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 1426000000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 1252000000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 184000000
+            },
+            {
+                "label": "Total other comprehensive income (loss) attributable to BorgWarner Inc.",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Gain (loss) recognized in other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 1000000
+            }
+        ]
+    }
+}

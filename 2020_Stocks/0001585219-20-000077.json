@@ -1,0 +1,350 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SFAR",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 344242749
+            },
+            {
+                "label": "Building and improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 2885651638
+            },
+            {
+                "label": "Tenant origination and absorption costs",
+                "concept": "TenantImprovements",
+                "unit": "usd",
+                "value": 41078737
+            },
+            {
+                "label": "Total real estate held for investment, cost",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 3270973124
+            },
+            {
+                "label": "Less accumulated depreciation and amortization",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 358922535
+            },
+            {
+                "label": "Total real estate held for investment, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 2912050589
+            },
+            {
+                "label": "Real estate held for development",
+                "concept": "sfar:RealEstateInvestmentPropertyNetHeldForDevelopment",
+                "unit": "usd",
+                "value": 29745781
+            },
+            {
+                "label": "Real estate held for sale, net",
+                "concept": "sfar:RealEstateInvestmentPropertyNetHeldForSale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total real estate, net",
+                "concept": "RealEstateHeldForDevelopmentAndSaleNet",
+                "unit": "usd",
+                "value": 2941796370
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 330674998
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 36667410
+            },
+            {
+                "label": "Investment in unconsolidated joint venture",
+                "concept": "RealEstateInvestmentsUnconsolidatedRealEstateAndOtherJointVentures",
+                "unit": "usd",
+                "value": 18984491
+            },
+            {
+                "label": "Rents and other receivables",
+                "concept": "sfar:RentsandOtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 5943396
+            },
+            {
+                "label": "Assets related to real estate held for sale",
+                "concept": "sfar:RealEstateInvestmentsOtherAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other assets",
+                "concept": "sfar:DeferredFinancingCostsAndOtherAssetsNet",
+                "unit": "usd",
+                "value": 4209681
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3338276346
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 61749415
+            },
+            {
+                "label": "Mortgage notes payable, net",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 1432621678
+            },
+            {
+                "label": "Credit facilities, net",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 744430795
+            },
+            {
+                "label": "Total notes payable, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 2177052473
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 8232272
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 5994733
+            },
+            {
+                "label": "Liabilities related to real estate held for sale",
+                "concept": "RealEstateLiabilitiesAssociatedWithAssetsHeldForDevelopmentAndSale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2253028893
+            },
+            {
+                "label": "Commitments and contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable common stock",
+                "concept": "TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value per share; 100,000,000 shares authorized, no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1596591653
+            },
+            {
+                "label": "Cumulative distributions and net losses",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 526888587
+            },
+            {
+                "label": "Total Steadfast Apartment REIT, Inc. (\u201cSTAR\u201d) stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1070797453
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 14450000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1085247453
+            },
+            {
+                "label": "Liabilities and equity:",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3338276346
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental income",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 79612668
+            },
+            {
+                "label": "Other income",
+                "concept": "sfar:TenantReimbursementsAndOther",
+                "unit": "usd",
+                "value": 682926
+            },
+            {
+                "label": "Total revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 80295594
+            },
+            {
+                "label": "Operating, maintenance and management",
+                "concept": "sfar:OperatingMaintenanceAndManagement",
+                "unit": "usd",
+                "value": 19719766
+            },
+            {
+                "label": "Real estate taxes and insurance",
+                "concept": "RealEstateTaxesAndInsurance",
+                "unit": "usd",
+                "value": 13667771
+            },
+            {
+                "label": "Fees to affiliates",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 13709333
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 53455666
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 19715318
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5272855
+            },
+            {
+                "label": "Impairment of real estate",
+                "concept": "ImpairmentOfRealEstate",
+                "unit": "usd",
+                "value": 5039937
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 130580646
+            },
+            {
+                "label": "Loss before other (loss) income",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 50285052
+            },
+            {
+                "label": "Gain on sale of real estate, net",
+                "concept": "GainsLossesOnSalesOfInvestmentRealEstate",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOther",
+                "unit": "usd",
+                "value": 134262
+            },
+            {
+                "label": "Insurance proceeds in excess of losses incurred",
+                "concept": "GainOnBusinessInterruptionInsuranceRecovery",
+                "unit": "usd",
+                "value": 57689
+            },
+            {
+                "label": "Equity in loss from unconsolidated joint venture",
+                "concept": "NoncontrollingInterestInNetIncomeLossJointVenturePartnersRedeemable",
+                "unit": "usd",
+                "value": 2968207
+            },
+            {
+                "label": "Loss on debt extinguishment",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total other (loss) income",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 2776256
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 53061308
+            },
+            {
+                "label": "Income allocated to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 163314
+            },
+            {
+                "label": "Net loss attributable to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 53224622
+            },
+            {
+                "label": "Loss per common share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.49
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 109139963
+            }
+        ]
+    }
+}

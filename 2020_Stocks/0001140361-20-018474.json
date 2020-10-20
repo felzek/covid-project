@@ -1,0 +1,260 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "USNU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1989000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 233000
+            },
+            {
+                "label": "Investment in sales-type sublease - current",
+                "concept": "NetInvestmentInLeaseCurrent",
+                "unit": "usd",
+                "value": 984000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 98000
+            },
+            {
+                "label": "Current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 3304000
+            },
+            {
+                "label": "Note receivable",
+                "concept": "NotesAndLoansReceivableNetNoncurrent",
+                "unit": "usd",
+                "value": 38000
+            },
+            {
+                "label": "Due from related parties",
+                "concept": "AccountsReceivableRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 1150000
+            },
+            {
+                "label": "Investment in sales-type sublease - net of current portion",
+                "concept": "NetInvestmentInLeaseNoncurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Investments in unconsolidated entities",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 250000
+            },
+            {
+                "label": "Deferred tax asset",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 203000
+            },
+            {
+                "label": "Total other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 1641000
+            },
+            {
+                "label": "Operating lease right-of-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Total property and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 5057000
+            },
+            {
+                "label": "Obligations under finance lease - current portion",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 323000
+            },
+            {
+                "label": "Operating lease right-of-use liability - current portion",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 38000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 236000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 554000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 435000
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1586000
+            },
+            {
+                "label": "Obligations under finance lease - net of current portion",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Operating lease right-of-use liability - net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 87000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1684000
+            },
+            {
+                "label": "Common stock - par value $.01; 25,000,000 shares authorized; 7,792,185 shares issued and outstanding at June 30, 2020 and December 31, 2019.",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 78000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3100000
+            },
+            {
+                "label": "Retained earnings (accumulated deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 195000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3373000
+            },
+            {
+                "label": "Total liabilities and equity (deficit)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 5057000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 596000
+            },
+            {
+                "label": "Patient expenses",
+                "concept": "HealthCareOrganizationExpensesNet",
+                "unit": "usd",
+                "value": 116000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 342000
+            },
+            {
+                "label": "Total",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 458000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 138000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Interest income - sales-type sublease",
+                "concept": "SalesTypeLeaseInterestIncome",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Loss from investments in unconsolidated entities, net",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -91000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "Tax charge",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Basic and diluted net income (loss) per share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Weighted average common shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 7792185
+            }
+        ]
+    }
+}

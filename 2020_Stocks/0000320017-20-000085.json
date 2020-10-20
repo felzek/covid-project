@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CLBS",
+    "data": {
+        "bs": [
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 731000
+            },
+            {
+                "label": "Operating lease liabilities -- current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 349000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 794000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1818000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2474000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 4292000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 4292000
+            },
+            {
+                "label": "Investment income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 22000
+            },
+            {
+                "label": "Total other income",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 22000
+            },
+            {
+                "label": "Loss before benefit from income taxes and noncontrolling interests",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 4270000
+            },
+            {
+                "label": "Benefit from income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 10872000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 6602000
+            },
+            {
+                "label": "Less - net income attributable to noncontrolling interests",
+                "concept": "IncomeLossFromContinuingOperationsAttributableToNoncontrollingEntity",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Net (loss) income attributable to Caladrius Biosciences, Inc. common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6598000
+            },
+            {
+                "label": "Caladrius Biosciences, Inc. common stockholders (in usd per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.5
+            },
+            {
+                "label": "Basic and diluted shares",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 13151000
+            }
+        ]
+    }
+}

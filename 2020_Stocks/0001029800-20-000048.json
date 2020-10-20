@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "UBA",
+    "data": {
+        "bs": [
+            {
+                "label": "Real Estate - at cost",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 1151635000
+            },
+            {
+                "label": "Less: Accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 255937000
+            },
+            {
+                "label": "Investment property, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 895698000
+            },
+            {
+                "label": "Investments in and advances to unconsolidated joint ventures",
+                "concept": "RealEstateInvestmentsUnconsolidatedRealEstateAndOtherJointVentures",
+                "unit": "usd",
+                "value": 28305000
+            },
+            {
+                "label": "Total real estate investments",
+                "concept": "RealEstateInvestments",
+                "unit": "usd",
+                "value": 924003000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 42271000
+            },
+            {
+                "label": "Tenant receivables",
+                "concept": "AccountsAndNotesReceivableNet",
+                "unit": "usd",
+                "value": 25677000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 20444000
+            },
+            {
+                "label": "Deferred charges, net of accumulated amortization",
+                "concept": "DeferredCostsLeasingNet",
+                "unit": "usd",
+                "value": 8810000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1021205000
+            },
+            {
+                "label": "Revolving credit line",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 35000000
+            },
+            {
+                "label": "Mortgage notes payable and other loans",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 301597000
+            },
+            {
+                "label": "Preferred stock called for redemption",
+                "concept": "PreferredStockRedemptionAmount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 23787000
+            },
+            {
+                "label": "Deferred compensation - officers",
+                "concept": "DeferredCompensationLiabilityCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 25076000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 385483000
+            },
+            {
+                "label": "Redeemable Noncontrolling Interests",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 62942000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 524974000
+            },
+            {
+                "label": "Cumulative distributions in excess of net income",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 159151000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 18445000
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 572780000
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1021205000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 28799000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 3475000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 7304000
+            },
+            {
+                "label": "Net Income",
+                "concept": "IncomeLossFromContinuingOperationsBeforeInterestExpenseInterestIncomeIncomeTaxesExtraordinaryItemsNoncontrollingInterestsNet",
+                "unit": "usd",
+                "value": 5923000
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DHX",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 52935000
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 149265000
+            },
+            {
+                "label": "Treasury Stock, Shares",
+                "concept": "TreasuryStockShares",
+                "unit": "shares",
+                "value": 18144000
+            },
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 52935000
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 149265000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1862000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 205000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax, Total",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 205000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1657000
+            }
+        ]
+    }
+}

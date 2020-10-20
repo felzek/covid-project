@@ -1,0 +1,363 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "AXON",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 55482000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 3998000
+            },
+            {
+                "label": "Income tax receivable",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 1717000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 61197000
+            },
+            {
+                "label": "Long-term investment",
+                "concept": "EquitySecuritiesWithoutReadilyDeterminableFairValueAmount",
+                "unit": "usd",
+                "value": 8055000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 46000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1105000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 633000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 71036000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 2970000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8949000
+            },
+            {
+                "label": "Current portion of operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 465000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 12384000
+            },
+            {
+                "label": "Operating lease liabilities, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 71000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 12455000
+            },
+            {
+                "label": "Commitments and contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares, par value $0.00001 per share, 1,000,000,000 shares authorized, 40,973,380 and 39,526,299 issued and outstanding at June\u00a030, 2020 and March\u00a031, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 825830000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 767238000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 58581000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 71036000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 8594000
+            },
+            {
+                "label": "Unrealized foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 44000
+            },
+            {
+                "label": "Amortization of operating lease right-of-use assets",
+                "concept": "axon:OperatingLeaseRightofUseAssetAmortization",
+                "unit": "usd",
+                "value": 427000
+            },
+            {
+                "label": "Share-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1590000
+            },
+            {
+                "label": "Depreciation and non-cash amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 492000
+            },
+            {
+                "label": "Non-cash gain on long-term investment",
+                "concept": "NonmonetaryTransactionGainLossRecognizedOnTransfer",
+                "unit": "usd",
+                "value": 2184000
+            },
+            {
+                "label": "Change in operating lease liabilities",
+                "concept": "axon:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 432000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 1027000
+            },
+            {
+                "label": "Income tax receivable",
+                "concept": "IncreaseDecreaseInIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 1442000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 2370000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 13503000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquireMachineryAndEquipment",
+                "unit": "usd",
+                "value": 19000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 19000
+            },
+            {
+                "label": "Payments on long-term debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 15731000
+            },
+            {
+                "label": "Capital contribution received from Roivant Sciences, Inc.",
+                "concept": "ProceedsFromContributedCapital",
+                "unit": "usd",
+                "value": 53000
+            },
+            {
+                "label": "Cash proceeds from stock option exercises",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash proceeds from issuance of common shares, net of issuance costs",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 3930000
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 11748000
+            },
+            {
+                "label": "Net change in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 25270000
+            },
+            {
+                "label": "Operating lease right-of-use assets recognized upon and since the adoption of ASC 842, Leases, on April 1, 2019",
+                "concept": "axon:RightofUseAssetsRecognizedAdoptionofASC842",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating lease liabilities recognized upon and since the adoption of ASC 842, Leases, on April 1, 2019",
+                "concept": "axon:LeaseLiabilitiesRecognizedAdoptionOfASC842",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amounts reclassified from other non-current assets to operating lease right-of-use assets upon the adoption of ASC 842, Leases, on April 1, 2019",
+                "concept": "axon:AmountsReclassifiedOtherNonCurrentAssetsToLeaseRightOfUseAssets",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Research and development expenses",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 5194000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4640000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 9834000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 796000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 2066000
+            },
+            {
+                "label": "Loss before income tax expense",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 8564000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 8594000
+            },
+            {
+                "label": "Net loss per common share \u2014 basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.2
+            },
+            {
+                "label": "Weighted-average common shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 43287222
+            }
+        ]
+    }
+}

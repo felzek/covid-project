@@ -1,0 +1,134 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SCPE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 457617
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 53308
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 510925
+            },
+            {
+                "label": "Investments held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 174526070
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 175036995
+            },
+            {
+                "label": "Account payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 13606
+            },
+            {
+                "label": "Accrued offering costs",
+                "concept": "AccountsPayableUnderwritersPromotersAndEmployeesOtherThanSalariesAndWagesCurrent",
+                "unit": "usd",
+                "value": 167
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 13773
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 6051273
+            },
+            {
+                "label": "Commitments and Contingencies (Note 5)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Ordinary shares subject to possible redemption, 16,398,572 and 16,370,619 shares at $10.00 per share as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 163985720
+            },
+            {
+                "label": "Preference shares, $0.0001 par value; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3764343
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1235129
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000002
+            },
+            {
+                "label": "TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 175036995
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Operating costs",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 136354
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -136354
+            },
+            {
+                "label": "Interest earned on investments held in Trust Account",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 70520
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -65834
+            }
+        ]
+    }
+}

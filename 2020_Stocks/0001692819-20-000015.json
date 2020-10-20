@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VISTRA",
+    "data": {
+        "bs": [
+            {
+                "label": "Gross carrying amount",
+                "concept": "FiniteLivedIntangibleAssetsGross",
+                "unit": "usd",
+                "value": 2087000000
+            },
+            {
+                "label": "Accumulated amortization",
+                "concept": "FiniteLivedIntangibleAssetsAccumulatedAmortization",
+                "unit": "usd",
+                "value": 1302000000
+            },
+            {
+                "label": "Total identifiable intangible assets subject to amortization, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 785000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 164000000
+            },
+            {
+                "label": "Effects related to pension and other retirement benefit obligations (net of tax benefit of $\u2014, $\u2014, $7 and $\u2014)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 165000000
+            },
+            {
+                "label": "Comprehensive loss attributable to noncontrolling interest",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Comprehensive income attributable to Vistra",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 167000000
+            }
+        ]
+    }
+}

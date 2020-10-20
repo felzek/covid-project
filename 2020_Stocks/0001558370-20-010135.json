@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TMB",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 24554000
+            },
+            {
+                "label": "Restricted Cash and Cash Equivalents, Current",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 17300000
+            },
+            {
+                "label": "Cash And Cash Equivalents and Restricted Cash, At Carrying Value",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 41854000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest, Total",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 3508000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, before Tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 467000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, before Tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Tax",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 128000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax, Portion Attributable to Parent, Total",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 110000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Parent, Total",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 229000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest, Total",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3279000
+            }
+        ]
+    }
+}

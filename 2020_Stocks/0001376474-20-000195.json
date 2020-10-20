@@ -1,0 +1,176 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FFC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 56795213
+            },
+            {
+                "label": "Restricted Cash {1}",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 5293015
+            },
+            {
+                "label": "Direct Cash Loans",
+                "concept": "LoansReceivableWithFixedRatesOfInterest1",
+                "unit": "usd",
+                "value": 683492926
+            },
+            {
+                "label": "Real Estate Loans",
+                "concept": "LoansReceivableWithVariableRatesOfInterest1",
+                "unit": "usd",
+                "value": 38980274
+            },
+            {
+                "label": "Loans, Total",
+                "concept": "LoansAndLeasesReceivableGrossCarryingAmount",
+                "unit": "usd",
+                "value": 828922712
+            },
+            {
+                "label": "Allowance for Loan Losses",
+                "concept": "LoansAndLeasesReceivableAllowance",
+                "unit": "usd",
+                "value": 58766403
+            },
+            {
+                "label": "Net Loans",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 601654454
+            },
+            {
+                "label": "Available for Sale, at fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 212040438
+            },
+            {
+                "label": "Held to Maturity, at amortized cost",
+                "concept": "HeldToMaturitySecuritiesAmortizedCostBeforeOtherThanTemporaryImpairment",
+                "unit": "usd",
+                "value": 379788
+            },
+            {
+                "label": "Other Investments and Securities, at Cost",
+                "concept": "OtherInvestmentsAndSecuritiesAtCost",
+                "unit": "usd",
+                "value": 212420226
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 60459781
+            },
+            {
+                "label": "ASSETS, Total",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 936622689
+            },
+            {
+                "label": "Senior Debt",
+                "concept": "SeniorNotes",
+                "unit": "usd",
+                "value": 582182571
+            },
+            {
+                "label": "Accrued Expenses and Other Liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 57369941
+            },
+            {
+                "label": "Subordinated Debt",
+                "concept": "SubordinatedDebt",
+                "unit": "usd",
+                "value": 28760887
+            },
+            {
+                "label": "LIABILITIES, Total",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 668313399
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accumulated Other Comprehensive Income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 11931234
+            },
+            {
+                "label": "Retained Earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 256208056
+            },
+            {
+                "label": "Stockholders' Equity, Total",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 268309290
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY, TOTAL",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 936622689
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4865426
+            },
+            {
+                "label": "Unrealized gains (losses) during period",
+                "concept": "UnrealizedGainLossOnSecurities",
+                "unit": "usd",
+                "value": 2334174
+            },
+            {
+                "label": "Net unrealized (losses) gains",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -1848975
+            },
+            {
+                "label": "Other Comprehensive Income (Loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1839110
+            },
+            {
+                "label": "Total Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 6704536
+            }
+        ]
+    }
+}

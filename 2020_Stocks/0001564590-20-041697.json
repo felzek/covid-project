@@ -1,0 +1,273 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "QNST",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 107523000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 107523000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 107509000
+            },
+            {
+                "label": "Restricted cash included in other assets, noncurrent",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 14000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 107523000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 18102000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 11476000
+            },
+            {
+                "label": "Provision for (recoveries from) sales returns and doubtful accounts receivable.",
+                "concept": "qnst:ProvisionForRecoveriesFromSalesReturnsAndDoubtfulAccountsReceivable",
+                "unit": "usd",
+                "value": 625000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 16717000
+            },
+            {
+                "label": "Non-cash lease expense.",
+                "concept": "qnst:NonCashLeaseExpense",
+                "unit": "usd",
+                "value": 259000
+            },
+            {
+                "label": "Deferred income taxes.",
+                "concept": "qnst:DeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 3546000
+            },
+            {
+                "label": "Gain on divestitures of businesses, net",
+                "concept": "GainLossOnSaleOfBusiness",
+                "unit": "usd",
+                "value": 13578000
+            },
+            {
+                "label": "Other adjustments, net",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 315000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 11354000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 8136000
+            },
+            {
+                "label": "Other assets, noncurrent",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 5508000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 103000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 1173000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 178000
+            },
+            {
+                "label": "Other liabilities, noncurrent",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 34000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 47608000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1962000
+            },
+            {
+                "label": "The cash outflow associated with the acquisition of a business, net of non-cash net assets acquired from the purchase.",
+                "concept": "qnst:PaymentsToAcquireBusinessesNetOfNetAssetsAcquired",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Internal software development costs",
+                "concept": "PaymentsToDevelopSoftware",
+                "unit": "usd",
+                "value": 2291000
+            },
+            {
+                "label": "Proceeds from divestitures of businesses, net of cash divested",
+                "concept": "ProceedsFromDivestitureOfBusinessesNetOfCashDivested",
+                "unit": "usd",
+                "value": 15096000
+            },
+            {
+                "label": "Other investing activities",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Net cash provided by (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 8868000
+            },
+            {
+                "label": "Proceeds from exercise of common stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 4092000
+            },
+            {
+                "label": "Payment of withholding taxes related to release of restricted stock, net of share settlement",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 6376000
+            },
+            {
+                "label": "Post-closing payments and contingent consideration related to acquisitions",
+                "concept": "PaymentsOfMergerRelatedCostsFinancingActivities",
+                "unit": "usd",
+                "value": 9348000
+            },
+            {
+                "label": "Repurchases of common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash (used in) provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 11632000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash, cash equivalents and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 143000
+            },
+            {
+                "label": "Net increase (decrease) in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 44987000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 373000
+            },
+            {
+                "label": "Post closing payments for acquisitions unpaid.",
+                "concept": "qnst:PostClosingPaymentsForAcquisitionUnpaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Contingent consideration unpaid at acquisition date (See Note 6)",
+                "concept": "NoncashOrPartNoncashAcquisitionValueOfLiabilitiesAssumed1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Purchases of property and equipment included in accrued liabilities",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 72000
+            },
+            {
+                "label": "Retirement of treasury stock",
+                "concept": "TreasuryStockRetiredCostMethodAmount",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 18102000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 129000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 129000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 18231000
+            }
+        ]
+    }
+}

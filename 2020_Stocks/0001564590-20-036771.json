@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SUP",
+    "data": {
+        "bs": [
+            {
+                "label": "Total shareholders\u2019 equity (deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 53176000
+            },
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 25591930
+            },
+            {
+                "label": "Total shareholders\u2019 equity (deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 53176000
+            },
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 25591930
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET (LOSS) INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 43218000
+            },
+            {
+                "label": "Other comprehensive income foreign currency translation gain loss arising during period net of taxes.",
+                "concept": "sup:OtherComprehensiveIncomeForeignCurrencyTranslationGainLossArisingDuringPeriodNetOfTaxes",
+                "unit": "usd",
+                "value": 9443000
+            },
+            {
+                "label": "Change in fair value of derivatives",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 19673000
+            },
+            {
+                "label": "Tax (provision) benefit",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTax",
+                "unit": "usd",
+                "value": 4375000
+            },
+            {
+                "label": "Change in unrecognized gains (losses) on derivative instruments, net of tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 15298000
+            },
+            {
+                "label": "Amortization of actuarial losses on pension obligations",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansNetUnamortizedGainLossArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 72000
+            },
+            {
+                "label": "Tax (provision)",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Pension changes, net of tax",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 59000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 24800000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 18418000
+            }
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "UMBF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2148598000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2148598000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 60529000
+            },
+            {
+                "label": "Change in unrealized holding gains and losses, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 84885000
+            },
+            {
+                "label": "Less: Reclassification adjustment for (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 4006000
+            },
+            {
+                "label": "Change in unrealized holding gains, net of the reclassification adjustment for gains included in net income.",
+                "concept": "umbf:ChangeInUnrealizedHoldingGainsNetOfRealizedNetHoldingGains",
+                "unit": "usd",
+                "value": 80879000
+            },
+            {
+                "label": "Change in unrealized gains and losses on derivative hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 4612000
+            },
+            {
+                "label": "Less: Reclassification adjustment for (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 514000
+            },
+            {
+                "label": "Change in unrealized gains and losses on derivative hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 4098000
+            },
+            {
+                "label": "Other comprehensive income, before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 84977000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 20105000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 64872000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 125401000
+            }
+        ]
+    }
+}

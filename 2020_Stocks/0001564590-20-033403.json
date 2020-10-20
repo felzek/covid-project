@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AIMC",
+    "data": {
+        "bs": [
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1808500000.0
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1808500000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income/(loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 21700000.0
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 27200000.0
+            },
+            {
+                "label": "Other comprehensive income loss non-cash amortization of interest rate swap expense, net of tax.",
+                "concept": "aimc:OtherComprehensiveIncomeLossNonCashAmortizationOfInterestRateSwapExpenseNetOfTax",
+                "unit": "usd",
+                "value": 1700000.0
+            },
+            {
+                "label": "Change in fair value of derivative financial instruments, net of tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Total other comprehensive income/(loss):",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 28700000.0
+            },
+            {
+                "label": "Comprehensive income/(loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 50400000.0
+            }
+        ]
+    }
+}

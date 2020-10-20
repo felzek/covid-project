@@ -1,0 +1,129 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CRTG",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 739807
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 739807
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss for the period",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -819939
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 126
+            },
+            {
+                "label": "Amortization - intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 40115
+            },
+            {
+                "label": "Amortization - debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 241776
+            },
+            {
+                "label": "crtg_IssuanceOfCommonStockForServices",
+                "concept": "crtg:IssuanceOfCommonStockForServices",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidExpense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -55479
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -137632
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -620075
+            },
+            {
+                "label": "us-gaap_RepaymentsOfNotesPayable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 33546
+            },
+            {
+                "label": "Proceeds from debt and warrants issued",
+                "concept": "crtg:ProceedsFromDebtAndWarrantsIssued",
+                "unit": "usd",
+                "value": 703249
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 669703
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 49628
+            },
+            {
+                "label": "Cash paid during the period for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 36280
+            },
+            {
+                "label": "Notes payable converted to common stock",
+                "concept": "crtg:StockOptionsIssuedForAccountsPayable",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "Common stock issued to satisfy liabilities",
+                "concept": "crtg:StockIssuedToSettleLiabilitiesFromServicesReceived",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Recognition of beneficial conversion feature",
+                "concept": "crtg:RecognitionOfBeneficialConversionFeature",
+                "unit": "usd",
+                "value": 502142
+            }
+        ],
+        "ic": [
+            {
+                "label": "Total potentially dilutive shares (in shares)",
+                "concept": "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount",
+                "unit": "shares",
+                "value": 49122797
+            }
+        ]
+    }
+}

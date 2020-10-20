@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FR",
+    "data": {
+        "bs": [
+            {
+                "label": "Net Investment in Real Estate",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 243003000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 44589000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 287592000
+            },
+            {
+                "label": "Mortgage Loans Payable, Net",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 6374000
+            },
+            {
+                "label": "Other Liabilities, Net",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 20953000
+            },
+            {
+                "label": "Total First Industrial L.P.'s Partners' Capital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 260265000
+            },
+            {
+                "label": "Total Liabilities and Equity/Partners' Capital",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 287592000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 36426000
+            },
+            {
+                "label": "Payments to Settle Derivative Instruments",
+                "concept": "fr:PaymentsToSettleDerivativeInstruments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Mark-to-Market Loss on Derivative Instruments",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1385000
+            },
+            {
+                "label": "Amortization of Derivative Instruments",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 103000
+            },
+            {
+                "label": "Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 35144000
+            },
+            {
+                "label": "Comprehensive Income Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 735000
+            },
+            {
+                "label": "Comprehensive Income Attributable to Common Stockholders / Unitholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 34409000
+            }
+        ]
+    }
+}

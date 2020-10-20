@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CERN",
+    "data": {
+        "bs": [
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4018016000
+            },
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 371186776
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4018016000
+            },
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 371186776
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Amounts charged against earnings, before income tax benefit",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 38200000
+            },
+            {
+                "label": "Amount of related income tax benefit recognized in earnings",
+                "concept": "EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense",
+                "unit": "usd",
+                "value": 8191000
+            }
+        ]
+    }
+}

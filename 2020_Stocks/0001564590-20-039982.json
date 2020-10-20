@@ -1,0 +1,134 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RGPT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 33403408
+            },
+            {
+                "label": "Cash and cash equivalents, at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 33403408
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental revenues",
+                "concept": "OperatingLeasesIncomeStatementLeaseRevenue",
+                "unit": "usd",
+                "value": 3069548
+            },
+            {
+                "label": "Income from preferred equity investment that is recognized when earned and accrued based on the outstanding investment balance.",
+                "concept": "rgpt:PreferredReturnIncome",
+                "unit": "usd",
+                "value": 234545
+            },
+            {
+                "label": "Income from mezzanine loan investment",
+                "concept": "NetInvestmentIncome",
+                "unit": "usd",
+                "value": 250241
+            },
+            {
+                "label": "Tenant reimbursement income.",
+                "concept": "rgpt:TenantReimbursementIncome",
+                "unit": "usd",
+                "value": 456666
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 4011000
+            },
+            {
+                "label": "General and administrative expense (reversal).",
+                "concept": "rgpt:GeneralAndAdministrativeExpenseReversal",
+                "unit": "usd",
+                "value": 33439
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 1629666
+            },
+            {
+                "label": "Management fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 443370
+            },
+            {
+                "label": "Property operating expenses.",
+                "concept": "rgpt:PropertyOperatingExpenses",
+                "unit": "usd",
+                "value": 545230
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2651705
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 6268
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 979354
+            },
+            {
+                "label": "Total other income (expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -973086
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 386209
+            },
+            {
+                "label": "Net income (loss) attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -17978
+            },
+            {
+                "label": "Net income (loss) attributable to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 404187
+            },
+            {
+                "label": "Weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 5938547
+            },
+            {
+                "label": "Net income (loss) per common share - basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            }
+        ]
+    }
+}

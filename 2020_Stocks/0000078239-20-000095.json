@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-05-04",
+    "endDate": "2020-08-02",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PVH",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4583500000.0
+            },
+            {
+                "label": "Common stock, shares issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 86207159
+            },
+            {
+                "label": "Redeemable Non-Controlling Interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonCarryingAmount",
+                "unit": "usd",
+                "value": 2700000.0
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4583500000.0
+            },
+            {
+                "label": "Common stock, shares issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 86207159
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3601100000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 51700000.0
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 243400000.0
+            },
+            {
+                "label": "Net unrealized and realized (loss) gain related to effective cash flow hedges, net of tax",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 50800000.0
+            },
+            {
+                "label": "Net (loss) gain on net investment hedges, net of tax",
+                "concept": "TranslationAdjustmentForNetInvestmentHedgeIncreaseDecreaseNetOfTax",
+                "unit": "usd",
+                "value": 81800000.0
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 110800000.0
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 59100000.0
+            },
+            {
+                "label": "Less: Comprehensive loss attributable to redeemable non-controlling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to PVH Corp.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 59400000.0
+            },
+            {
+                "label": "Net unrealized and realized (loss) gain related to effective cash flow hedges, tax benefit",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 5700000.0
+            },
+            {
+                "label": "Net (loss) gain on net investment hedges, tax (benefit) expense",
+                "concept": "DerivativesUsedInNetInvestmentHedgeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 26300000.0
+            }
+        ]
+    }
+}

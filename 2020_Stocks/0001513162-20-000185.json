@@ -1,0 +1,296 @@
+{
+    "startDate": "2019-06-01",
+    "endDate": "2020-05-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "BMRA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 8641027
+            },
+            {
+                "label": "Accounts receivable, less allowance for doubtful accounts of $70,981 and $73,110, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 1765871
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 2850836
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1509083
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 14766817
+            },
+            {
+                "label": "Total property and equipment",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 2147022
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1867643
+            },
+            {
+                "label": "Net property and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 279379
+            },
+            {
+                "label": "INTANGIBLE ASSETS, net of accumulated amortization",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 168655
+            },
+            {
+                "label": "RIGHT OF USE ASSETS, net of accumulated amortization",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1711510
+            },
+            {
+                "label": "INVESTMENTS",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 165324
+            },
+            {
+                "label": "OTHER ASSETS",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 168193
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 17259878
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 986711
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 278627
+            },
+            {
+                "label": "Lease liability, current portion",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 211809
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1477147
+            },
+            {
+                "label": "Lease liability, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 1569678
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3046825
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (NOTE 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, Series A 5%, convertible, $0.08 par value, 571,429 shares authorized, 321,429 issued and outstanding at May 31, 2020 and no shares authorized, issued and outstanding at May 31, 2019 and Preferred stock, undesignated, no par value, authorized 4,428,571 and 5,000,000 shares, at May 31, 2020 and May 31, 2019, respectively and none issued and outstanding at May 31, 2020 and May 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 25714
+            },
+            {
+                "label": "Common stock, $.08 par value; 25,000,000 shares authorized; 11,740,089 and 9,677,188 shares issued and outstanding at May 31, 2020 and 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 939205
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 35213707
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -39841
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -21925732
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 14213053
+            },
+            {
+                "label": "TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 17259878
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 6692711
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 4910935
+            },
+            {
+                "label": "GROSS PROFIT",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 1781776
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2274415
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1910209
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 4184624
+            },
+            {
+                "label": "LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -2402848
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 9
+            },
+            {
+                "label": "Interest and dividend income",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 71193
+            },
+            {
+                "label": "Total other income",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 71184
+            },
+            {
+                "label": "LOSS BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -2331664
+            },
+            {
+                "label": "INCOME TAX EXPENSE",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 7390
+            },
+            {
+                "label": "NET LOSS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2339054
+            },
+            {
+                "label": "BASIC NET LOSS PER COMMON SHARE (in Dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.23
+            },
+            {
+                "label": "DILUTED NET LOSS PER COMMON SHARE (in Dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.23
+            },
+            {
+                "label": "Basic (in Shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 10166296
+            },
+            {
+                "label": "Diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 10166296
+            },
+            {
+                "label": "NET LOSS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2339054
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -3310
+            },
+            {
+                "label": "COMPREHENSIVE LOSS",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -2342364
+            }
+        ]
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TDFF",
+    "data": {
+        "bs": [
+            {
+                "label": "Investment Owned, at Fair Value",
+                "concept": "InvestmentOwnedAtFairValue",
+                "unit": "usd",
+                "value": 28494267
+            },
+            {
+                "label": "Receivables from Brokers-Dealers and Clearing Organizations",
+                "concept": "ReceivablesFromBrokersDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 813558
+            },
+            {
+                "label": "Cash Segregated under Commodity Exchange Act Regulation",
+                "concept": "CashSegregatedUnderCommodityExchangeActRegulation",
+                "unit": "usd",
+                "value": 48944342
+            },
+            {
+                "label": "Restricted Cash and Cash Equivalents",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 7095775
+            },
+            {
+                "label": "Derivative Asset",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 997639
+            },
+            {
+                "label": "Trading Securities, Equity",
+                "concept": "TradingSecuritiesEquity",
+                "unit": "usd",
+                "value": 57037756
+            },
+            {
+                "label": "Interest Receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 5426
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 86351007
+            },
+            {
+                "label": "Derivative Liability",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 151676
+            },
+            {
+                "label": "Commissions Payable to Broker-Dealers and Clearing Organizations",
+                "concept": "CommissionsPayableToBrokerDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 135924
+            },
+            {
+                "label": "Management Fees Payable",
+                "concept": "tdff:ManagementFeesPayable",
+                "unit": "usd",
+                "value": 64273
+            },
+            {
+                "label": "Incentive Fee Payable",
+                "concept": "tdff:IncentiveFeePayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "General Partner Fees Payable",
+                "concept": "tdff:GeneralPartnerFeesPayable",
+                "unit": "usd",
+                "value": 71558
+            },
+            {
+                "label": "Accrued Professional Fees",
+                "concept": "AccruedProfessionalFeesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 193450
+            },
+            {
+                "label": "Redemptions Payable To Limited Partner",
+                "concept": "tdff:RedemptionsPayableToLimitedPartner",
+                "unit": "usd",
+                "value": 2103510
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2720391
+            },
+            {
+                "label": "Partners' Capital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 83630616
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 86351007
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest Income, Operating",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 14249
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 7507
+            },
+            {
+                "label": "Interest and Dividend Income, Operating",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 21756
+            },
+            {
+                "label": "Allocated Expense",
+                "concept": "tdff:AllocatedExpense",
+                "unit": "usd",
+                "value": 98166
+            },
+            {
+                "label": "Clearance Fees",
+                "concept": "ClearanceFees",
+                "unit": "usd",
+                "value": 27838
+            },
+            {
+                "label": "Sales Commissions and Fees",
+                "concept": "SalesCommissionsAndFees",
+                "unit": "usd",
+                "value": 429155
+            },
+            {
+                "label": "General Partner Fees",
+                "concept": "tdff:GeneralPartnerFees",
+                "unit": "usd",
+                "value": 225489
+            },
+            {
+                "label": "Management Fee Expense",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 203763
+            },
+            {
+                "label": "Incentive Fee Expense",
+                "concept": "IncentiveFeeExpense",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Professional Fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 106850
+            },
+            {
+                "label": "Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1091261
+            },
+            {
+                "label": "Investment Income, Net",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": -1069505
+            },
+            {
+                "label": "Gain (Loss) on Sale of Commodity Contracts",
+                "concept": "GainLossOnSaleOfCommodityContracts",
+                "unit": "usd",
+                "value": 951578
+            },
+            {
+                "label": "Realized Investment Gains (Losses)",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": -237567
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Commodity Contracts",
+                "concept": "UnrealizedGainLossOnCommodityContracts",
+                "unit": "usd",
+                "value": -1624907
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Investments",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": -2559362
+            },
+            {
+                "label": "Trading Gain (Loss)",
+                "concept": "TradingGainsLosses",
+                "unit": "usd",
+                "value": -3470258
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -4539763
+            }
+        ]
+    }
+}

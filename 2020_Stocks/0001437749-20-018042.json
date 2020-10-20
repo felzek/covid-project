@@ -1,0 +1,134 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CRGS",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Stockholders' Deficiency",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -13708000
+            },
+            {
+                "label": "Total Stockholders' Deficiency",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -13708000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Loss on revenue",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": -10000
+            },
+            {
+                "label": "Recovery on inventory reserve",
+                "concept": "crgs:InventoryRecoveryWriteDown",
+                "unit": "usd",
+                "value": -17000
+            },
+            {
+                "label": "Engineering and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 65000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 313000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 371000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -381000
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 341000
+            },
+            {
+                "label": "Other (expense) income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -99000
+            },
+            {
+                "label": "Non-operating expense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -440000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -821000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -821000
+            },
+            {
+                "label": "Preferred stock dividends",
+                "concept": "DividendsPreferredStock",
+                "unit": "usd",
+                "value": 55000
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -876000
+            },
+            {
+                "label": "Basic and Diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "Basic and Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 51379000
+            }
+        ]
+    }
+}

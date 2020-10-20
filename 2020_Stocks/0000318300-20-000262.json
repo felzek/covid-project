@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PEBO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsFairValueDisclosure",
+                "unit": "usd",
+                "value": 219274000
+            },
+            {
+                "label": "Held-to-maturity investment securities, at amortized cost (fair value of $39,338 at June\u00a030, 2020 and $32,541 at December\u00a031, 2019) (a)(b)",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 37367000
+            },
+            {
+                "label": "Federal Home Loan Bank (\"FHLB\") stock",
+                "concept": "InvestmentInFederalHomeLoanBankStockFairValueDisclosure",
+                "unit": "usd",
+                "value": 27095000
+            },
+            {
+                "label": "Federal Reserve Bank (\"FRB\") stock",
+                "concept": "FederalReserveBankStock",
+                "unit": "usd",
+                "value": 13311000
+            },
+            {
+                "label": "Other investment securities",
+                "concept": "OtherInvestments",
+                "unit": "usd",
+                "value": 42351000
+            },
+            {
+                "label": "Net loans",
+                "concept": "pebo:LoansReceivableAndLoansHeldForSaleFairValueDisclosure",
+                "unit": "usd",
+                "value": 3306657000
+            },
+            {
+                "label": "Servicing Asset",
+                "concept": "ServicingAsset",
+                "unit": "usd",
+                "value": 2482000
+            },
+            {
+                "label": "Deposits, Fair Value Disclosure",
+                "concept": "DepositsFairValueDisclosure",
+                "unit": "usd",
+                "value": 4024884000
+            },
+            {
+                "label": "Short-term Debt, Fair Value",
+                "concept": "ShorttermDebtFairValue",
+                "unit": "usd",
+                "value": 177912000
+            },
+            {
+                "label": "Long-term Debt, Fair Value",
+                "concept": "LongTermDebtFairValue",
+                "unit": "usd",
+                "value": 112536000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4749000
+            },
+            {
+                "label": "Gross unrealized holding (loss) gain arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 3814000
+            },
+            {
+                "label": "Related tax benefit (expense)",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 801000
+            },
+            {
+                "label": "Reclassification adjustment for net (gain) loss included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 62000
+            },
+            {
+                "label": "Related tax expense (benefit)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Net effect on other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 3062000
+            },
+            {
+                "label": "Net (loss) gain arising during the period",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansNetUnamortizedGainLossArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 156000
+            },
+            {
+                "label": "Related tax benefit",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Amortization of unrecognized loss and service cost on benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsAndTax",
+                "unit": "usd",
+                "value": 36000
+            },
+            {
+                "label": "Related tax expense",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansBeforeReclassificationAdjustmentsTax",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Recognition of loss due to settlement and curtailment",
+                "concept": "OtherComprehensiveIncomeLossFinalizationOfPensionAndNonPensionPostretirementPlanValuationBeforeTax",
+                "unit": "usd",
+                "value": 151000
+            },
+            {
+                "label": "Related tax expense",
+                "concept": "OtherComprehensiveIncomeFinalizationOfPensionAndNonPensionPostretirementPlanValuationTax",
+                "unit": "usd",
+                "value": 32000
+            },
+            {
+                "label": "Net effect on other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "Net loss arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 734000
+            },
+            {
+                "label": "Related tax benefit",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 154000
+            },
+            {
+                "label": "Net effect on other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 580000
+            },
+            {
+                "label": "Total other comprehensive (loss) income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3618000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1131000
+            }
+        ]
+    }
+}

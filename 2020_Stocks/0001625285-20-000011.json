@@ -1,0 +1,73 @@
+{
+    "startDate": "2019-07-31",
+    "endDate": "2019-07-31",
+    "year": "2019",
+    "quarter": "Q3",
+    "symbol": "ARMA",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 20
+            },
+            {
+                "label": "Accounts Payable {1}",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Director loan",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 13143
+            },
+            {
+                "label": "Accrued Expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1650
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 21793
+            },
+            {
+                "label": "Common Stock, Value",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 6240
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 20160
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -48173
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -21773
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 20
+            }
+        ],
+        "cf": [],
+        "ic": []
+    }
+}

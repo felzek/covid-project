@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "COHN",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 40379000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 40379000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Asset management",
+                "concept": "cohn:RelatedPartyTransactionsAssetManagementFees",
+                "unit": "usd",
+                "value": 188000
+            },
+            {
+                "label": "Principal transactions and other income",
+                "concept": "cohn:PrincipalTransactionsAndOtherIncomeRelatedParty",
+                "unit": "usd",
+                "value": 257000
+            },
+            {
+                "label": "Income (loss) from equity method affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -1233000
+            },
+            {
+                "label": "Operating expense (income)",
+                "concept": "cohn:OperatingExpenseIncomeRelatedPartyTransactions",
+                "unit": "usd",
+                "value": 320000
+            },
+            {
+                "label": "Interest expense (income)",
+                "concept": "cohn:InterestIncomeExpenseRelatedParty",
+                "unit": "usd",
+                "value": 1931000
+            }
+        ]
+    }
+}

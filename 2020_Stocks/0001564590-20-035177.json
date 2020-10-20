@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-03-30",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NTGR",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 252633000
+            },
+            {
+                "label": "Cash and cash equivalents, at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 252633000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 5983000
+            },
+            {
+                "label": "Change in unrealized gains and losses on derivatives",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 418000
+            },
+            {
+                "label": "Change in unrealized gains and losses on available-for-sale investments",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income (loss), before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 418000
+            },
+            {
+                "label": "Tax benefit (provision) related to derivatives",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTax",
+                "unit": "usd",
+                "value": 54000
+            },
+            {
+                "label": "Tax provision related to available-for-sale investments",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 364000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5619000
+            }
+        ]
+    }
+}

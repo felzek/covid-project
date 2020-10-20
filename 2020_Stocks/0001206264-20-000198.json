@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TPX",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 281600000.0
+            },
+            {
+                "label": "Finance lease assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 61300000.0
+            },
+            {
+                "label": "Total leased assets",
+                "concept": "tpx:LeaseRightofUseAsset",
+                "unit": "usd",
+                "value": 342900000.0
+            },
+            {
+                "label": "Operating lease obligations",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 58300000.0
+            },
+            {
+                "label": "Finance lease obligations",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 9900000.0
+            },
+            {
+                "label": "Long-term operating lease obligations",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 239300000.0
+            },
+            {
+                "label": "Finance lease obligations",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 61300000.0
+            },
+            {
+                "label": "Present value of lease obligations",
+                "concept": "tpx:OperatingandFinanceLeaseLiability",
+                "unit": "usd",
+                "value": 368800000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income before non-controlling interests",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 23200000.0
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 10700000.0
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 10700000.0
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 33900000.0
+            },
+            {
+                "label": "Less: Net income (loss) attributable to non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Comprehensive income attributable to Tempur Sealy International, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 33700000.0
+            }
+        ]
+    }
+}

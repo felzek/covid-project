@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NYSEDEI",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 1152684000
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 9329652000
+            },
+            {
+                "label": "Property under development",
+                "concept": "DevelopmentInProcess",
+                "unit": "usd",
+                "value": 158949000
+            },
+            {
+                "label": "Investment in real estate, gross",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 11564194000
+            },
+            {
+                "label": "Less: accumulated depreciation and amortization",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 2679255000
+            },
+            {
+                "label": "Investment in real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 8884939000
+            },
+            {
+                "label": "Ground lease right-of-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 7475000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 176393000
+            },
+            {
+                "label": "Tenant receivables",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 16996000
+            },
+            {
+                "label": "Deferred rent receivables",
+                "concept": "DeferredRentReceivablesNet",
+                "unit": "usd",
+                "value": 118210000
+            },
+            {
+                "label": "Acquired lease intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 5736000
+            },
+            {
+                "label": "Interest rate contract assets",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investment in unconsolidated Fund",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 47742000
+            },
+            {
+                "label": "Other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 13886000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 9271377000
+            },
+            {
+                "label": "Secured notes payable and revolving credit facility, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 4666603000
+            },
+            {
+                "label": "Ground lease liability",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 10877000
+            },
+            {
+                "label": "Interest payable, accounts payable and deferred revenue",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 139607000
+            },
+            {
+                "label": "Security deposits",
+                "concept": "SecurityDepositLiability",
+                "unit": "usd",
+                "value": 58419000
+            },
+            {
+                "label": "Acquired lease intangible liabilities, net",
+                "concept": "OffMarketLeaseUnfavorable",
+                "unit": "usd",
+                "value": 43126000
+            },
+            {
+                "label": "Interest rate contract liabilities",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 259293000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 49113000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5227038000
+            },
+            {
+                "label": "Common Stock, $0.01 par value, 750,000,000 authorized, 175,374,886 and 175,369,746 outstanding at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1754000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3486442000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 179471000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 827748000
+            },
+            {
+                "label": "Total Douglas Emmett, Inc. stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2480977000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1563362000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4044339000
+            },
+            {
+                "label": "Total Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 9271377000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net accretion of acquired lease intangibles",
+                "concept": "AmortizationOfAboveAndBelowMarketLeases",
+                "unit": "usd",
+                "value": 4320000
+            }
+        ]
+    }
+}

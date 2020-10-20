@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CFR",
+    "data": {
+        "bs": [
+            {
+                "label": "Gross Amount Recognized, Repurchase agreements, Financial liabilities",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchaseGross",
+                "unit": "usd",
+                "value": 1553109000
+            },
+            {
+                "label": "Gross Amounts Not Offset Financial Instruments, Repurchase Agreements, Financial Liabilities",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchaseCollateralRightToReclaimSecurities",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 93072000
+            },
+            {
+                "label": "Change in net unrealized gain/loss on securities available for sale during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 156509000
+            },
+            {
+                "label": "Change in net unrealized gain on securities transferred to held to maturity",
+                "concept": "cfr:OtherComprehensiveIncomeLossTransfersfromAvailableforsaletoHeldtomaturitySecuritiesbeforeTax",
+                "unit": "usd",
+                "value": 308000
+            },
+            {
+                "label": "Reclassification adjustment for net (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total securities available for sale and transferred securities, before tax amount",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 156201000
+            },
+            {
+                "label": "Reclassification adjustment for net amortization of actuarial gain/loss included in net income as a component of net periodic cost (benefit)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax",
+                "unit": "usd",
+                "value": 1329000
+            },
+            {
+                "label": "Total defined-benefit post-retirement benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 1329000
+            },
+            {
+                "label": "Other comprehensive income (loss), before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 157530000
+            },
+            {
+                "label": "Deferred tax expense (benefit)",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 33081000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 124449000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 217521000
+            }
+        ]
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-03-30",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "SPB",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 92400000.0
+            },
+            {
+                "label": "Finance",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 138000000.0
+            },
+            {
+                "label": "Total leased assets",
+                "concept": "spb:TotalLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 230400000.0
+            },
+            {
+                "label": "Operating",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 20800000.0
+            },
+            {
+                "label": "Finance",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 10300000.0
+            },
+            {
+                "label": "Long-term operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 78700000.0
+            },
+            {
+                "label": "Finance",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 150800000.0
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "spb:TotalLeaseLiability",
+                "unit": "usd",
+                "value": 260600000.00000003
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 145600000.0
+            },
+            {
+                "label": "Foreign currency translation gain (loss)",
+                "concept": "spb:OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeDeferredTaxEffectAndDeferredTaxValuationAllowanceNetOfTax",
+                "unit": "usd",
+                "value": 7500000.0
+            },
+            {
+                "label": "Deferred tax effect",
+                "concept": "spb:OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentDeferredTaxEffectNetOfTax",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Net unrealized gain (loss) on foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 7400000.0
+            },
+            {
+                "label": "Unrealized (loss) gain on hedging activity before reclassification",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 2100000.0
+            },
+            {
+                "label": "Net reclassification for gain to income from continuing operations",
+                "concept": "spb:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAociOnDerivativesNetOfTaxContinuingOperations",
+                "unit": "usd",
+                "value": 2000000.0
+            },
+            {
+                "label": "Net reclassification for loss to income from discontinued operations",
+                "concept": "spb:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAociOnDerivativesNetOfTaxDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized loss on hedging instruments after reclassification",
+                "concept": "spb:OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesBeforeDeferredTaxEffectNetOfTax",
+                "unit": "usd",
+                "value": 4099999.9999999995
+            },
+            {
+                "label": "Deferred tax effect",
+                "concept": "spb:OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesDeferredTaxNetOfTax",
+                "unit": "usd",
+                "value": 1700000.0
+            },
+            {
+                "label": "Net unrealized loss on hedging derivative instruments",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2400000.0
+            },
+            {
+                "label": "Defined benefit pension (loss) gain before reclassification",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsNetOfTax",
+                "unit": "usd",
+                "value": 800000.0
+            },
+            {
+                "label": "Net reclassification for loss to income from continuing operations",
+                "concept": "spb:OtherComprehensiveIncomeLossDefinedBenefitPlanReclassificationAdjustmentFromAociAfterTaxContinuingOperations",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Net reclassification for loss to income from discontinued operations",
+                "concept": "spb:OtherComprehensiveIncomeLossDefinedBenefitPlanReclassificationAdjustmentFromAociAfterTaxDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Defined benefit pension gain after reclassification",
+                "concept": "spb:OtherComprehensiveIncomeLossDefinedBenefitPlanAfterReclassificationAdjustmentBeforeDeferredTaxEffectAfterTax",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Deferred tax effect",
+                "concept": "spb:OtherComprehensiveIncomeLossDefinedBenefitPlanAfterReclassificationAdjustmentDeferredTaxEffectAfterTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net defined benefit pension gain",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Deconsolidation of discontinued operations and assets held for sale",
+                "concept": "spb:OtherComprehensiveIncomeLossDeconsolidationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net change to derive comprehensive income (loss) for the periods",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 5200000.0
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 150800000.0
+            },
+            {
+                "label": "Comprehensive loss attributable to non-controlling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to controlling interest",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 150800000.0
+            }
+        ]
+    }
+}

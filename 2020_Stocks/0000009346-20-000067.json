@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PTVC",
+    "data": {
+        "bs": [
+            {
+                "label": "Limited partnerships",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 7393000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss (income)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 11367000
+            },
+            {
+                "label": "Change in unrealized gain (loss) on investments, net of tax",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 19851000
+            },
+            {
+                "label": "Foreign currency translation adjustment, net of tax",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 221000
+            },
+            {
+                "label": "Net current-period other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 20072000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 31439000
+            }
+        ]
+    }
+}

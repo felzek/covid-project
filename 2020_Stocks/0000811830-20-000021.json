@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SOV",
+    "data": {
+        "bs": [
+            {
+                "label": "Total serviced for other portfolio",
+                "concept": "sov:GrossRetailInstallmentContractsValueTransferred",
+                "unit": "usd",
+                "value": 2300000000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET (LOSS)/INCOME INCLUDING NCI",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1895804000
+            },
+            {
+                "label": "Net unrealized gains on cash flow hedge derivative financial instruments, net of tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 7348000
+            },
+            {
+                "label": "Net unrealized (losses) / gains on AFS and HTM investment securities, net of tax",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 15203000
+            },
+            {
+                "label": "Pension and post-retirement actuarial gains, net of tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 560000
+            },
+            {
+                "label": "TOTAL OTHER COMPREHENSIVE (LOSS) / GAIN, NET OF TAX",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 7295000
+            },
+            {
+                "label": "COMPREHENSIVE (LOSS) / INCOME",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1903099000
+            },
+            {
+                "label": "LESS: NET (LOSS)/INCOME ATTRIBUTABLE TO NCI",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 23377000
+            },
+            {
+                "label": "COMPREHENSIVE (LOSS) / INCOME ATTRIBUTABLE TO SHUSA",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1879722000
+            }
+        ]
+    }
+}

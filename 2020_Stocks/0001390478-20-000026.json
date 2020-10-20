@@ -1,0 +1,85 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GALE",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 2280000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1987000
+            },
+            {
+                "label": "Total operating expenses and operating loss",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 4267000
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Change in fair value of contingent consideration",
+                "concept": "gale:ChangeInFairValueOfContingentPurchasePriceConsideration",
+                "unit": "usd",
+                "value": 143000
+            },
+            {
+                "label": "Interest income, net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Total non-operating (expense) income, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 158000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4425000
+            },
+            {
+                "label": "Deemed dividend arising from warrant modifications",
+                "concept": "gale:DividendArisingFromWarrantModifications",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss attributable to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 4425000
+            },
+            {
+                "label": "Net loss per common share attributable to common stockholders, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.66
+            },
+            {
+                "label": "Weighted-average common shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 6717900
+            }
+        ]
+    }
+}

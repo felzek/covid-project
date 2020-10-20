@@ -1,0 +1,164 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CVI",
+    "data": {
+        "bs": [
+            {
+                "label": "ROU assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 17000000
+            },
+            {
+                "label": "Lease liability",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "ROU assets, net",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 28000000
+            },
+            {
+                "label": "Lease liability",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 39000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 675000000
+            },
+            {
+                "label": "Cost of materials and other",
+                "concept": "CostDirectMaterial",
+                "unit": "usd",
+                "value": 444000000
+            },
+            {
+                "label": "Direct operating expenses (exclusive of depreciation and amortization)",
+                "concept": "DirectOperatingCosts",
+                "unit": "usd",
+                "value": 119000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "CostOfGoodsAndServicesSoldDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 71000000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 634000000
+            },
+            {
+                "label": "Selling, general and administrative expenses (exclusive of depreciation and amortization)",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 22000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Loss (gain) on asset disposals",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Goodwill impairment",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": 41000000
+            },
+            {
+                "label": "Operating (loss) income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 26000000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 31000000
+            },
+            {
+                "label": "Investment income from marketable securities",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "Other (expense) income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "(Loss) income before income tax expense",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 37000000
+            },
+            {
+                "label": "Income tax (benefit) expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 32000000
+            },
+            {
+                "label": "Less: Net (loss) income attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 27000000
+            },
+            {
+                "label": "Net (loss) income attributable to CVR Energy stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Basic and diluted (loss) earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.05
+            },
+            {
+                "label": "Dividends declared per share (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareCashPaid",
+                "unit": "usd/shares",
+                "value": 0.4
+            },
+            {
+                "label": "Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 100500000.0
+            }
+        ]
+    }
+}

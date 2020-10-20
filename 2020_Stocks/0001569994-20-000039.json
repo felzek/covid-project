@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WSBF",
+    "data": {
+        "bs": [
+            {
+                "label": "Securities available-for-sale",
+                "concept": "AvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 164112000
+            },
+            {
+                "label": "Loans held for sale",
+                "concept": "LoansHeldForSaleFairValueDisclosure",
+                "unit": "usd",
+                "value": 383389000
+            },
+            {
+                "label": "Advance payments by borrowers for taxes",
+                "concept": "AdvancePaymentsByBorrowersForTaxesAndInsurance",
+                "unit": "usd",
+                "value": 20828000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 20948000
+            },
+            {
+                "label": "Net unrealized holding (loss) gain arising during the period, net of tax benefit (expense) of $2, $239, ($1,125), $1,254, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1267000
+            },
+            {
+                "label": "Total other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1267000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 22215000
+            }
+        ]
+    }
+}

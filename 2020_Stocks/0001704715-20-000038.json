@@ -1,0 +1,428 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CTRA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 238438000
+            },
+            {
+                "label": "Trade accounts receivable, net of allowance for doubtful accounts of $793 and $0 as of June\u00a030, 2020 and December\u00a031, 2019",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 183820000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 143198000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 122354000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 687810000
+            },
+            {
+                "label": "Property, plant, and equipment, net of accumulated depreciation and amortization of $351,561 and $314,276 as of June\u00a030, 2020 and December\u00a031, 2019",
+                "concept": "PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 423367000
+            },
+            {
+                "label": "Owned and leased mineral rights, net of accumulated depletion and amortization of $34,961 and $27,877 as of June\u00a030, 2020 and December\u00a031, 2019",
+                "concept": "MineralRights",
+                "unit": "usd",
+                "value": 495303000
+            },
+            {
+                "label": "Other acquired intangibles, net of accumulated amortization of $35,717 and $32,686 as of June\u00a030, 2020 and December\u00a031, 2019",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 103439000
+            },
+            {
+                "label": "Long-term restricted cash",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 109930000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 220389000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2040238000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+                "unit": "usd",
+                "value": 30390000
+            },
+            {
+                "label": "Trade accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 70027000
+            },
+            {
+                "label": "Acquisition-related obligations \u2013 current",
+                "concept": "ctra:AcquisitionRelatedObligationsCarryingAmountCurrent",
+                "unit": "usd",
+                "value": 30019000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 161453000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 291889000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 597706000
+            },
+            {
+                "label": "Acquisition-related obligations - long-term",
+                "concept": "ctra:AcquisitionRelatedObligationsCarryingAmountNoncurrent",
+                "unit": "usd",
+                "value": 18283000
+            },
+            {
+                "label": "Workers\u2019 compensation and black lung obligations",
+                "concept": "ctra:LiabilityDefinedBenefitPlanPostretirementBlackLungHealthCoverageandWorkersCompensationNoncurrent",
+                "unit": "usd",
+                "value": 266390000
+            },
+            {
+                "label": "Pension obligations",
+                "concept": "DefinedBenefitPensionPlanLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 198582000
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 207001000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 389000
+            },
+            {
+                "label": "Other non-current liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 50583000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1630823000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 17)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock - par value $0.01, 5.0 million shares authorized, none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock - par value $0.01, 50.0 million shares authorized, 20.6 million issued and 18.3 million outstanding at June\u00a030, 2020 and 20.5 million issued and 18.2 million outstanding at December\u00a031, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 206000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 777650000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 69747000
+            },
+            {
+                "label": "Treasury stock, at cost: 2.3 million shares at June\u00a030, 2020 and December\u00a031, 2019",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 106955000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 191739000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 409415000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2040238000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Coal revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 410614000
+            },
+            {
+                "label": "Other revenues",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 1224000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 411838000
+            },
+            {
+                "label": "Cost of coal sales (exclusive of items shown separately below)",
+                "concept": "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 383279000
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "ctra:DepreciationDepletionAndAmortizationExcludingAcquiredIntangibles",
+                "unit": "usd",
+                "value": 49262000
+            },
+            {
+                "label": "Accretion on asset retirement obligations",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 7304000
+            },
+            {
+                "label": "Amortization of acquired intangibles, net",
+                "concept": "ctra:AmortizationofIntangibles",
+                "unit": "usd",
+                "value": 2096000
+            },
+            {
+                "label": "Asset impairment and restructuring",
+                "concept": "ctra:RestructuringCostsAndAssetImpairmentChargesContinuningOperations",
+                "unit": "usd",
+                "value": 184173000
+            },
+            {
+                "label": "Selling, general and administrative expenses (exclusive of depreciation, depletion and amortization shown separately above)",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 12028000
+            },
+            {
+                "label": "Merger-related costs",
+                "concept": "ctra:BusinessAcquisitionIntegrationandOtherRelatedCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Mark-to-market adjustment for acquisition-related obligations",
+                "concept": "ctra:AcquisitionRelatedObligationsChangesinFairValueGainLoss",
+                "unit": "usd",
+                "value": 2052000
+            },
+            {
+                "label": "Other (income) expense",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 124000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 635966000
+            },
+            {
+                "label": "(Loss) income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 224128000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 18814000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 5533000
+            },
+            {
+                "label": "Loss on modification and extinguishment of debt",
+                "concept": "ctra:GainLossOnExtinguishmentAndModificationOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Equity loss in affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1047000
+            },
+            {
+                "label": "Miscellaneous loss, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 188000
+            },
+            {
+                "label": "Total other expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 14140000
+            },
+            {
+                "label": "(Loss) income from continuing operations before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 238268000
+            },
+            {
+                "label": "Income tax (expense) benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Net (loss) income from continuing operations",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": 238301000
+            },
+            {
+                "label": "Loss from discontinued operations before income taxes",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income tax benefit from discontinued operations",
+                "concept": "DiscontinuedOperationTaxEffectOfDiscontinuedOperation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 238301000
+            },
+            {
+                "label": "(Loss) income from continuing operations (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": 13.02
+            },
+            {
+                "label": "Loss from discontinued operations (in dollars per share)",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 13.02
+            },
+            {
+                "label": "(Loss) income from continuing operations (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 13.02
+            },
+            {
+                "label": "Loss from discontinuing operations (in dollars per share)",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 13.02
+            },
+            {
+                "label": "Weighted average shares - basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 18304853
+            },
+            {
+                "label": "Weighted average shares - diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 18304853
+            }
+        ]
+    }
+}

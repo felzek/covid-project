@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-05-03",
+    "endDate": "2020-08-01",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "JCP",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 322400000.0
+            },
+            {
+                "label": "Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 89000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income/(loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 398000000
+            },
+            {
+                "label": "Currency translations (1)",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash flow hedges (2)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net actuarial gain/(loss) arising during the period (3)",
+                "concept": "DefinedBenefitPlanActuarialGainLossImmediateRecognitionAsComponentInNetPeriodicBenefitCostCredit",
+                "unit": "usd",
+                "value": 41000000
+            },
+            {
+                "label": "Prior service credit/(cost) arising during the period (4)",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Defined Benefit Plan, Amortization of Prior Service Cost (Credit)",
+                "concept": "DefinedBenefitPlanAmortizationOfPriorServiceCostCredit",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Total other comprehensive income/(loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 35000000
+            },
+            {
+                "label": "Total comprehensive income/(loss), net of tax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 433000000
+            }
+        ]
+    }
+}

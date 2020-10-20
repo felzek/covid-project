@@ -1,0 +1,200 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ZIVO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash {1}",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 118869
+            },
+            {
+                "label": "Prepaid Expenses",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 103835
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 222704
+            },
+            {
+                "label": "PROPERTY AND EQUIPMENT, NET",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 222704
+            },
+            {
+                "label": "Accounts Payable {1}",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1485722
+            },
+            {
+                "label": "Loans Payable, Related Parties",
+                "concept": "OtherLongTermNotesPayable",
+                "unit": "usd",
+                "value": 51000
+            },
+            {
+                "label": "Deferred Revenue - Participation Agreements",
+                "concept": "DeferredRevenue",
+                "unit": "usd",
+                "value": 1032526
+            },
+            {
+                "label": "Accrued Interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 2190138
+            },
+            {
+                "label": "Accrued Liabilities - Other",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 154250
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10093978
+            },
+            {
+                "label": "Loans Payable, Others",
+                "concept": "LoansPayable",
+                "unit": "usd",
+                "value": 121700
+            },
+            {
+                "label": "Total Long-Term Liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 121700
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 10215678
+            },
+            {
+                "label": "Common Stock, Value",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 406651
+            },
+            {
+                "label": "Additional Paid-In Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 83268134
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -93667759
+            },
+            {
+                "label": "Total Stockholders' Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -9992974
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 222704
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "General and Administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 374202
+            },
+            {
+                "label": "Professional fees and Consulting expense",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 219037
+            },
+            {
+                "label": "Research and Development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 436695
+            },
+            {
+                "label": "Total Costs and Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1029934
+            },
+            {
+                "label": "LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1029934
+            },
+            {
+                "label": "Amortization of Debt Discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 24182
+            },
+            {
+                "label": "Total Other Income (Expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -136901
+            },
+            {
+                "label": "Net Loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1166835
+            },
+            {
+                "label": "BASIC AND DILUTED LOSS PER SHARE",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "WEIGHTED AVERAGE BASIC AND DILUTED SHARES OUTSTANDING",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 403821866
+            }
+        ]
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FERL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash {1}",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5701
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 7583
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 13284
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 13284
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1223486
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 26921
+            },
+            {
+                "label": "Loan payable",
+                "concept": "LoansPayable",
+                "unit": "usd",
+                "value": 366345
+            },
+            {
+                "label": "Convertible note payable - net of debt discount",
+                "concept": "ConvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1666752
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1666752
+            },
+            {
+                "label": "Preferred stock, $0.001 par value, 20,000,000 authorized. 1,000,000 shares issued and outstanding as at June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Common shares",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 316543
+            },
+            {
+                "label": "Common stock to be issued",
+                "concept": "CommonStockShareSubscribedButUnissuedSubscriptionsReceivable",
+                "unit": "usd",
+                "value": 555228
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2576812
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 396792
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 5499843
+            },
+            {
+                "label": "Total stockholders deficiency",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1653468
+            },
+            {
+                "label": "Total liabilities and stockholders deficiency",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 13284
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "REVENUE",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 716
+            },
+            {
+                "label": "Consulting Expenses",
+                "concept": "OtherGeneralExpense",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 644974
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 985471
+            },
+            {
+                "label": "Interest Expense {1}",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 5938
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 3390
+            },
+            {
+                "label": "Net (loss) income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+                "unit": "usd",
+                "value": 992637
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 992637
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 4737
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 997374
+            },
+            {
+                "label": "(Loss) earnings per share - basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Weighted average number of common shares - basic",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 316543317
+            }
+        ]
+    }
+}

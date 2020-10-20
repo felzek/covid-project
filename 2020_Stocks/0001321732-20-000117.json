@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PEN",
+    "data": {
+        "bs": [
+            {
+                "label": "Balance at the beginning of the period",
+                "concept": "ProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 2416000
+            },
+            {
+                "label": "Balance at the beginning of the period",
+                "concept": "ProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 2416000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Consolidated net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 12901000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1347000
+            },
+            {
+                "label": "Net change in unrealized gains on available-for-sale securities, net of tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1131000
+            },
+            {
+                "label": "Total other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2478000
+            },
+            {
+                "label": "Consolidated comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 10423000
+            },
+            {
+                "label": "Net loss attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 941000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Penumbra, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 9482000
+            }
+        ]
+    }
+}

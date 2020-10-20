@@ -1,0 +1,224 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MLP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 340000
+            },
+            {
+                "label": "Accounts receivable, less allowance for doubtful accounts of $114 and $35, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 1726000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 146000
+            },
+            {
+                "label": "Assets held for sale",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": 7615000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 9827000
+            },
+            {
+                "label": "PROPERTY",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 52215000
+            },
+            {
+                "label": "us-gaap_AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 33091000
+            },
+            {
+                "label": "Property, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 19124000
+            },
+            {
+                "label": "Deferred development costs",
+                "concept": "DeferredCosts",
+                "unit": "usd",
+                "value": 8504000
+            },
+            {
+                "label": "Other noncurrent assets",
+                "concept": "OtherAssetsMiscellaneousNoncurrent",
+                "unit": "usd",
+                "value": 1253000
+            },
+            {
+                "label": "us-gaap_OtherAssetsNoncurrent",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 9757000
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 38708000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableTradeCurrent",
+                "unit": "usd",
+                "value": 521000
+            },
+            {
+                "label": "Payroll and employee benefits",
+                "concept": "mlp:PayrollAndEmployeeBenefitsLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 559000
+            },
+            {
+                "label": "Current portion of accrued retirement benefits",
+                "concept": "PensionAndOtherPostretirementAndPostemploymentBenefitPlansLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 165000
+            },
+            {
+                "label": "Deferred club membership revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 312000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 633000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2190000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued retirement benefits, net of current portion",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 9453000
+            },
+            {
+                "label": "Other noncurrent liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 64000
+            },
+            {
+                "label": "Total long-term liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock--no par value, 43,000,000 shares authorized, 19,291,102 and 19,238,081 shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 81251000
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 9184000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -47531000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -20386000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 22518000
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 38708000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Minimum rentals",
+                "concept": "OperatingLeaseLeaseIncomeLeasePayments",
+                "unit": "usd",
+                "value": 712000
+            },
+            {
+                "label": "Percentage rentals",
+                "concept": "OperatingLeaseVariableLeaseIncome",
+                "unit": "usd",
+                "value": 37000
+            },
+            {
+                "label": "Licensing fees",
+                "concept": "mlp:OperatingLeasesIncomeStatementLicensingFeesRevenue",
+                "unit": "usd",
+                "value": 111000
+            },
+            {
+                "label": "Other (primarily common area recoveries)",
+                "concept": "mlp:OperatingLeasesIncomeStatementRevenueOther",
+                "unit": "usd",
+                "value": 321000
+            },
+            {
+                "label": "Total",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 1436000
+            },
+            {
+                "label": "Total",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 1436000
+            }
+        ]
+    }
+}

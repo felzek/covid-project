@@ -1,0 +1,326 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CLDT",
+    "data": {
+        "bs": [
+            {
+                "label": "Investment in hotel properties, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 1328717000
+            },
+            {
+                "label": "Investment in hotel properties under development",
+                "concept": "cldt:InvestmentInHotelPropertiesUnderDevelopment",
+                "unit": "usd",
+                "value": 30546000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 36883000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 8863000
+            },
+            {
+                "label": "Investment in unconsolidated real estate entities",
+                "concept": "RealEstateInvestmentsUnconsolidatedRealEstateAndOtherJointVentures",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Right of use asset, net",
+                "concept": "cldt:RightOfUseAsset",
+                "unit": "usd",
+                "value": 20959000
+            },
+            {
+                "label": "Hotel receivables (net of allowance for doubtful accounts of $355 and $451, respectively)",
+                "concept": "AccountsAndNotesReceivableNet",
+                "unit": "usd",
+                "value": 2251000
+            },
+            {
+                "label": "Deferred costs, net",
+                "concept": "DeferredCostsCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 4495000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 4612000
+            },
+            {
+                "label": "Deferred tax asset, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 29000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1437355000
+            },
+            {
+                "label": "Mortgage debt, net",
+                "concept": "LoansPayable",
+                "unit": "usd",
+                "value": 491175000
+            },
+            {
+                "label": "Revolving credit facility",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 173000000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 19306000
+            },
+            {
+                "label": "Distributions and losses in excess of investments in unconsolidated real estate entities",
+                "concept": "cldt:EquityMethodInvestmentsDistributioninExcessofInvestmentLiability",
+                "unit": "usd",
+                "value": 17778000
+            },
+            {
+                "label": "Lease liability, net",
+                "concept": "cldt:LeaseLiability",
+                "unit": "usd",
+                "value": 23483000
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 469000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 725211000
+            },
+            {
+                "label": "Commitments and contingencies (Note 13)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred shares, $0.01 par value, 100,000,000 shares authorized and unissued at June\u00a030, 2020 and December\u00a031, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares, $0.01 par value, 500,000,000 shares authorized; 46,965,827 and 46,928,445 shares issued and outstanding at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 470000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 905977000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 207306000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 699141000
+            },
+            {
+                "label": "Noncontrolling interest in Operating Partnership",
+                "concept": "MinorityInterestInOperatingPartnerships",
+                "unit": "usd",
+                "value": 13003000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 712144000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1437355000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 20173000
+            },
+            {
+                "label": "Total hotel operating expenses",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 15740000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 13667000
+            },
+            {
+                "label": "Impairment loss on investment in unconsolidated real estate entities",
+                "concept": "ImpairmentLossesRelatedToRealEstatePartnerships",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Property taxes, ground rent and insurance",
+                "concept": "RealEstateTaxesAndInsurance",
+                "unit": "usd",
+                "value": 5892000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2487000
+            },
+            {
+                "label": "Other charges",
+                "concept": "cldt:AcquisitionRelatedCostsandOtherCharges",
+                "unit": "usd",
+                "value": 215000
+            },
+            {
+                "label": "Reimbursable costs from unconsolidated real estate entities",
+                "concept": "cldt:ReimbursedCostsFromUnconsolidatedRealEstateEntities",
+                "unit": "usd",
+                "value": 794000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 38795000
+            },
+            {
+                "label": "Operating (loss) income before gain (loss) on sale of hotel property",
+                "concept": "cldt:IncomeLossBeforeGainOnSaleOfHotelProperty",
+                "unit": "usd",
+                "value": 18622000
+            },
+            {
+                "label": "Gain (loss) on sale of hotel property",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Operating (loss) income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 18620000
+            },
+            {
+                "label": "Interest and other income",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 39000
+            },
+            {
+                "label": "Interest expense, including amortization of deferred fees",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 7034000
+            },
+            {
+                "label": "(Loss) income from unconsolidated real estate entities",
+                "concept": "cldt:IncomeLossFromUnconsolidatedRealEstateEntities",
+                "unit": "usd",
+                "value": 1578000
+            },
+            {
+                "label": "(Loss) income before income tax expense",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 27193000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 27193000
+            },
+            {
+                "label": "Net (loss) income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 366000
+            },
+            {
+                "label": "Net (loss) income attributable to common shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 26827000
+            },
+            {
+                "label": "Net income (loss) attributable to common shareholders (Note 11) (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.57
+            },
+            {
+                "label": "Net income (loss) attributable to common shareholders (Note 11) (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.57
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 46960289
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 46960289
+            },
+            {
+                "label": "Distributions declared per common share (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": "N/A"
+            }
+        ]
+    }
+}

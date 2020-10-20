@@ -1,0 +1,248 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "DHIL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 111339859
+            },
+            {
+                "label": "Investments",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 114348626
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 13992464
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2934506
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Property and equipment, net of depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 5866569
+            },
+            {
+                "label": "Deferred taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 11181715
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 259663739
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 8239646
+            },
+            {
+                "label": "Accrued incentive compensation",
+                "concept": "AccruedBonusesCurrent",
+                "unit": "usd",
+                "value": 12953820
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 2054572
+            },
+            {
+                "label": "Deferred compensation",
+                "concept": "DeferredCompensationLiabilityCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 26692713
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 49940751
+            },
+            {
+                "label": "Redeemable noncontrolling interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonFairValue",
+                "unit": "usd",
+                "value": 9571722
+            },
+            {
+                "label": "Common stock, no par value:\u00a07,000,000 shares authorized;\u00a03,212,924 issued and outstanding at June 30, 2020 (inclusive of 190,484 unvested shares);\u00a03,294,672 issued and outstanding at December 31, 2019 (inclusive of 227,844 unvested shares)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 86189846
+            },
+            {
+                "label": "Preferred stock, undesignated, 1,000,000 shares\u00a0authorized and unissued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deferred equity compensation",
+                "concept": "DeferredCompensationEquity",
+                "unit": "usd",
+                "value": 17103472
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 131064892
+            },
+            {
+                "label": "Total permanent shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 200151266
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 259663739
+            },
+            {
+                "label": "Book value per share (usd per share)",
+                "concept": "dhil:BookValuePerShare",
+                "unit": "usd/shares",
+                "value": 62.3
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 28248929
+            },
+            {
+                "label": "Compensation and related costs, excluding deferred compensation expense (benefit)",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 12557769
+            },
+            {
+                "label": "Deferred compensation expense (benefit)",
+                "concept": "dhil:DeferredCompensationExpenseBenefit",
+                "unit": "usd",
+                "value": 3825540
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2899853
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 1148782
+            },
+            {
+                "label": "Mutual fund administration",
+                "concept": "dhil:MutualFundAdministration",
+                "unit": "usd",
+                "value": 789316
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 21221260
+            },
+            {
+                "label": "NET OPERATING INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 7027669
+            },
+            {
+                "label": "Investment income (loss), net",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 11562624
+            },
+            {
+                "label": "NET INCOME BEFORE TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 18590293
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 4951814
+            },
+            {
+                "label": "NET INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 13638479
+            },
+            {
+                "label": "Net loss (income) attributable to redeemable noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1437789
+            },
+            {
+                "label": "NET INCOME ATTRIBUTABLE TO COMMON SHAREHOLDERS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12200690
+            },
+            {
+                "label": "Basic (USD per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 3.79
+            },
+            {
+                "label": "Diluted (USD per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 3.79
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 3220973
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 3220973
+            }
+        ]
+    }
+}

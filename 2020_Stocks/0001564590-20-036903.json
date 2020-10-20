@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MEC",
+    "data": {
+        "bs": [
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 198994000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 198994000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -6964000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 11086000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": 5353000
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2741000
+            },
+            {
+                "label": "Allowance for doubtful accounts",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 591000
+            },
+            {
+                "label": "Inventory excess and obsolescence reserve.",
+                "concept": "mec:InventoryExcessAndObsolescenceReserve",
+                "unit": "usd",
+                "value": 1413000
+            },
+            {
+                "label": "Loss (gain) on disposal of property, plant and equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": -618000
+            },
+            {
+                "label": "Represents Deferred Compensation and Long Term Incentive Non Cash.",
+                "concept": "mec:DeferredCompensationAndLongTermIncentiveNonCash",
+                "unit": "usd",
+                "value": -86000
+            },
+            {
+                "label": "Other non-cash adjustments",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": -168000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -3936000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the book value of tooling in process.",
+                "concept": "mec:IncreaseDecreaseInToolingInProcess",
+                "unit": "usd",
+                "value": 1463000
+            },
+            {
+                "label": "Prepaids and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 222000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -14356000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 1895000
+            },
+            {
+                "label": "Accrued liabilities, excluding long-term incentive",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 2226000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 3111000
+            },
+            {
+                "label": "Purchase of property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 3652000
+            },
+            {
+                "label": "Proceeds from sale of property, plant and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1766000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1886000
+            },
+            {
+                "label": "Proceeds from bank revolving credit notes",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 158643000
+            },
+            {
+                "label": "Payments on bank revolving credit notes",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 156743000
+            },
+            {
+                "label": "Deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 200000
+            },
+            {
+                "label": "Purchase of treasury stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 2510000
+            },
+            {
+                "label": "Payments on capital leases",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 296000
+            },
+            {
+                "label": "Net cash provided (used in) by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -1106000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 119000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 1714000
+            },
+            {
+                "label": "Cash paid for taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Non-cash transaction construction in progress and accounts payable.",
+                "concept": "mec:NonCashTransactionConstructionInProgressAndAccountsPayable",
+                "unit": "usd",
+                "value": 265000
+            }
+        ],
+        "ic": []
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "STFC",
+    "data": {
+        "bs": [
+            {
+                "label": "Balance at beginning of year (shares)",
+                "concept": "SharesOutstanding",
+                "unit": "shares",
+                "value": 50700000.0
+            },
+            {
+                "label": "Balance at beginning of year (shares)",
+                "concept": "SharesOutstanding",
+                "unit": "shares",
+                "value": 50700000.0
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 126700000.0
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 126700000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 34300000.0
+            },
+            {
+                "label": "Unrealized holding gains",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 38900000.0
+            },
+            {
+                "label": "Reclassification adjustments for gains realized in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax",
+                "unit": "usd",
+                "value": 7900000.0
+            },
+            {
+                "label": "Total net unrealized holding gains on available-for-sale investments",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 30000000.0
+            },
+            {
+                "label": "Negative prior service cost",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetTransitionAssetObligationBeforeTax",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Net actuarial loss",
+                "concept": "stfc:OtherComprehensiveIncomeReclassificationOfDefinedBenefitPlanNetActuarialLossBeforeTax",
+                "unit": "usd",
+                "value": 3600000.0
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Total net unrecognized benefit plan obligations",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 31600000.0
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 65900000.00000001
+            }
+        ]
+    }
+}

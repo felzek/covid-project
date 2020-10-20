@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ABCP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5846000
+            },
+            {
+                "label": "Federal income tax receivable",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": 5370000
+            },
+            {
+                "label": "Deferred tax asset",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 11216000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 387000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 387000
+            },
+            {
+                "label": "Commitments and contingencies (Note 7)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock ($0.01 par value, 85,000 authorized in 2020 and 85,000 authorized in 2019, 46,410 issued and 40,738 outstanding in 2020 and 46,410 issued and 40,738 outstanding in 2019)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 464000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 548304000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -532771000
+            },
+            {
+                "label": "Treasury stock, at cost - 2020 - 5,672 shares; and 2019 - 5,672 shares",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 5168000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 10829000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 11216000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Compensation and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 328000
+            },
+            {
+                "label": "Professional and outside services",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 566000
+            },
+            {
+                "label": "Property operating and maintenance",
+                "concept": "CostOfPropertyRepairsAndMaintenance",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Insurance",
+                "concept": "GeneralInsuranceExpense",
+                "unit": "usd",
+                "value": 43000
+            },
+            {
+                "label": "Other operating",
+                "concept": "OtherGeneralExpense",
+                "unit": "usd",
+                "value": 27000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 967000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -967000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -963000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -964000
+            },
+            {
+                "label": "Net income (loss) per common share - basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "Weighted average common shares outstanding - basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 40738000
+            }
+        ]
+    }
+}

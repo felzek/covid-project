@@ -1,0 +1,170 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EGRX",
+    "data": {
+        "bs": [
+            {
+                "label": "Future minimum lease payments",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDue",
+                "unit": "usd",
+                "value": 6242000
+            },
+            {
+                "label": "2020",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsRemainderOfFiscalYear",
+                "unit": "usd",
+                "value": 980000
+            },
+            {
+                "label": "2021",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths",
+                "unit": "usd",
+                "value": 1362000
+            },
+            {
+                "label": "2022",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueYearTwo",
+                "unit": "usd",
+                "value": 1376000
+            },
+            {
+                "label": "2023",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueYearThree",
+                "unit": "usd",
+                "value": 1291000
+            },
+            {
+                "label": "2024",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueYearFour",
+                "unit": "usd",
+                "value": 820000
+            },
+            {
+                "label": "2025",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueYearFive",
+                "unit": "usd",
+                "value": 413000
+            },
+            {
+                "label": "Beyond",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 41938000
+            },
+            {
+                "label": "Cost of product sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 10313000
+            },
+            {
+                "label": "Cost of royalty revenue",
+                "concept": "RoyaltyExpense",
+                "unit": "usd",
+                "value": 2822000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 7135000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 17959000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 38229000
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 3709000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 150000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 786000
+            },
+            {
+                "label": "Other income (expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 2300000
+            },
+            {
+                "label": "Total other income (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1664000
+            },
+            {
+                "label": "Income before income tax provision",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5373000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 5629000
+            },
+            {
+                "label": "Net (Loss) Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 256000
+            },
+            {
+                "label": "Basic (in usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Diluted (in usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 13664951
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 13664951
+            }
+        ]
+    }
+}

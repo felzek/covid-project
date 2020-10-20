@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RCMT",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 23538000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 23538000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 32652000
+            },
+            {
+                "label": "Cost of services",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 24149000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 8503000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 8994000
+            },
+            {
+                "label": "Depreciation and amortization of property and equipment",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 246000
+            },
+            {
+                "label": "Amortization of acquired intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 80000
+            },
+            {
+                "label": "Write-off of receivables and professional fees incurred related to arbitration",
+                "concept": "rcmt:WriteoffOfReceivablesRelatedToArbitration",
+                "unit": "usd",
+                "value": 350000
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 9670000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1167000
+            },
+            {
+                "label": "us-gaap_InterestIncomeExpenseNet",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": -184000
+            },
+            {
+                "label": "Imputed interest on contingent consideration",
+                "concept": "rcmt:ImputedInterestOnContingentConsideration",
+                "unit": "usd",
+                "value": 36000
+            },
+            {
+                "label": "us-gaap_ForeignCurrencyTransactionGainLossBeforeTax",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": -13000
+            },
+            {
+                "label": "us-gaap_OtherNonoperatingIncomeExpense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -233000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -1400000
+            },
+            {
+                "label": "Income tax (benefit) expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -408000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -992000
+            },
+            {
+                "label": "Basic and diluted net (loss) earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.08
+            }
+        ]
+    }
+}

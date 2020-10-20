@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MBCN",
+    "data": {
+        "bs": [
+            {
+                "label": "Restated period ending shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 6369467
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 140695000
+            },
+            {
+                "label": "Restated period ending shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 6369467
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 140695000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Restated weighted-average common shares issued (in shares)",
+                "concept": "WeightedAverageNumberOfSharesIssuedBasic",
+                "unit": "shares",
+                "value": 7298829
+            },
+            {
+                "label": "Restated average treasury stock shares (in shares)",
+                "concept": "WeightedAverageNumberOfSharesTreasuryStock",
+                "unit": "shares",
+                "value": 929362
+            },
+            {
+                "label": "Restated average shares outstanding - basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 6369467
+            },
+            {
+                "label": "Restated stock options and restricted stock (in shares)",
+                "concept": "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+                "unit": "shares",
+                "value": 18651
+            },
+            {
+                "label": "Restated average shares outstanding - diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 6388118
+            }
+        ]
+    }
+}

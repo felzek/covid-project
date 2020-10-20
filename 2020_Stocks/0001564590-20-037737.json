@@ -1,0 +1,104 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "KURA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 134968000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 134968000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development (includes related party amounts of $63 and $98 for the three months ended June 30, 2020 and 2019, respectively, and $195 and $151 for the six months ended June 30, 2020 and 2019, respectively)",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 13697000
+            },
+            {
+                "label": "General and administrative (includes related party amounts of $76 and $88 for the three months ended June 30, 2020 and 2019, respectively, and $187 and $175 for the six months ended June 30, 2020 and 2019, respectively)",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 7476000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 21173000
+            },
+            {
+                "label": "Management fee income related party.",
+                "concept": "kura:ManagementFeeIncomeRelatedParty",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestAndOtherIncome",
+                "unit": "usd",
+                "value": 818000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 144000
+            },
+            {
+                "label": "Total other income",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 686000
+            },
+            {
+                "label": "Net Loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 20487000
+            },
+            {
+                "label": "Net loss per share, basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.4
+            },
+            {
+                "label": "Weighted average number of shares used in computing net loss per share, basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 51633000
+            },
+            {
+                "label": "Net Loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 20487000
+            },
+            {
+                "label": "Unrealized gain (loss) on marketable securities and foreign currency",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Comprehensive Loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 20491000
+            }
+        ]
+    }
+}

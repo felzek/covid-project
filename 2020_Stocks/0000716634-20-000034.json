@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RDI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 40364000
+            },
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 40364000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "ProfitLoss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 22887000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Gain (Loss) Arising During Period, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 10655000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), Net Of Tax",
+                "concept": "rdi:OtherComprehensiveIncomeLossCashFlowHedgeGainLossNetOfTax",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Other",
+                "concept": "rdi:OtherComprehensiveIncomeLossOther",
+                "unit": "usd",
+                "value": 51000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 12171000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 185000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Noncontrolling Interest",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 11977000
+            }
+        ]
+    }
+}

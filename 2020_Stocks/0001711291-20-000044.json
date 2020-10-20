@@ -1,0 +1,230 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CURO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 269342000
+            },
+            {
+                "label": "Restricted cash (includes restricted cash of consolidated VIEs of $39,248 and $17,427 as of June\u00a030, 2020 and December\u00a031, 2019, respectively)",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gross loans receivable (includes loans of consolidated VIEs of $290,828 and $244,492 as of June\u00a030, 2020 and December\u00a031, 2019, respectively)",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 456512000
+            },
+            {
+                "label": "Less: allowance for loan losses (includes allowance for losses of consolidated VIEs of $47,988 and $24,425 as of June\u00a030, 2020 and December\u00a031, 2019, respectively)",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 76455000
+            },
+            {
+                "label": "Loans receivable, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 380057000
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": 18805000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 32860000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 64259000
+            },
+            {
+                "label": "Right of use asset - operating leases",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 111860000
+            },
+            {
+                "label": "Deferred tax assets",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 133977000
+            },
+            {
+                "label": "Other intangibles, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 35707000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsMiscellaneous",
+                "unit": "usd",
+                "value": 17018000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1127159000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities (includes accounts payable and accrued liabilities of consolidated VIEs of $20,567 and $13,462 as of June\u00a030, 2020 and December\u00a031, 2019, respectively)",
+                "concept": "curo:AccountsPayableAndAccruedLiabilitiesExcludingAccruedIncomeTaxesAndInterestPayable",
+                "unit": "usd",
+                "value": 63960000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 4974000
+            },
+            {
+                "label": "Lease liability - operating leases",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 119767000
+            },
+            {
+                "label": "Accrued interest (includes accrued interest of consolidated VIEs of $1,030 and $871 as of June\u00a030, 2020 and December\u00a031, 2019, respectively)",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 20005000
+            },
+            {
+                "label": "Liability for losses on CSO lender-owned consumer loans",
+                "concept": "GuaranteeObligationsCurrentCarryingValue",
+                "unit": "usd",
+                "value": 5164000
+            },
+            {
+                "label": "Debt (includes debt and issuance costs of consolidated VIEs of $126,315 and $5,630 as of June\u00a030, 2020 and $115,243 and $3,022 as of December\u00a031, 2019, respectively)",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 799828000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 11461000
+            },
+            {
+                "label": "Deferred tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 9058000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1034217000
+            },
+            {
+                "label": "Commitments and contingencies (Note 13)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock - $0.001 par value, 25,000,000 shares authorized; no shares were issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock - $0.001 par value; 225,000,000 shares authorized; 47,039,848 and 46,770,765 shares issued; and 40,884,545 and 41,156,224 shares outstanding at the respective period ends",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Treasury stock, at cost - 6,155,303 and 5,614,541 shares as of the respective period ends",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 77852000
+            },
+            {
+                "label": "Paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 74079000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 147301000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 50595000
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 92942000
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1127159000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 22073000
+            },
+            {
+                "label": "Foreign currency translation adjustment, net of $0 tax in both periods",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 10261000
+            },
+            {
+                "label": "Other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 10261000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 32334000
+            }
+        ]
+    }
+}

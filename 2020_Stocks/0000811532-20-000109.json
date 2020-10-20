@@ -1,0 +1,428 @@
+{
+    "startDate": "2020-03-30",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FUN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 301135000
+            },
+            {
+                "label": "Receivables",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 41822000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 45580000
+            },
+            {
+                "label": "Prepaid advertising",
+                "concept": "PrepaidAdvertising",
+                "unit": "usd",
+                "value": 2147000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 24602000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 415286000
+            },
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 437491000
+            },
+            {
+                "label": "Land improvements",
+                "concept": "LandImprovements",
+                "unit": "usd",
+                "value": 458933000
+            },
+            {
+                "label": "Buildings",
+                "concept": "BuildingsAndImprovementsGross",
+                "unit": "usd",
+                "value": 832356000
+            },
+            {
+                "label": "Rides and equipment",
+                "concept": "MachineryAndEquipmentGross",
+                "unit": "usd",
+                "value": 1934048000
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 93412000
+            },
+            {
+                "label": "Total property and equipment, gross",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 3756240000
+            },
+            {
+                "label": "Less accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1893656000
+            },
+            {
+                "label": "Total property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1862584000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 276238000
+            },
+            {
+                "label": "Other Intangibles, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 51836000
+            },
+            {
+                "label": "Right-of-Use Asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 13322000
+            },
+            {
+                "label": "Other Assets (See Note 1)",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 38268000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2657534000
+            },
+            {
+                "label": "Current maturities of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 24848000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 103834000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 30794000
+            },
+            {
+                "label": "Accrued taxes",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 12677000
+            },
+            {
+                "label": "Accrued salaries, wages and benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15287000
+            },
+            {
+                "label": "Self-insurance reserves",
+                "concept": "SelfInsuranceReserve",
+                "unit": "usd",
+                "value": 23028000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 21005000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 231473000
+            },
+            {
+                "label": "Deferred Tax Liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 29698000
+            },
+            {
+                "label": "Derivative Liability",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 37247000
+            },
+            {
+                "label": "Lease Liability",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 10072000
+            },
+            {
+                "label": "Non-Current Deferred Revenue (See Note 1)",
+                "concept": "ContractWithCustomerLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 97649000
+            },
+            {
+                "label": "Other Liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 2722000
+            },
+            {
+                "label": "Term debt",
+                "concept": "OtherLongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 255897000
+            },
+            {
+                "label": "Notes",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 2404638000
+            },
+            {
+                "label": "Total long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 2660535000
+            },
+            {
+                "label": "Special L.P. interests",
+                "concept": "fun:SpecialLimitedPartnersInterests",
+                "unit": "usd",
+                "value": 5290000
+            },
+            {
+                "label": "General partner",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Limited partners, 56,707, 56,666 and 56,597 units outstanding as of June 28, 2020, December 31, 2019 and June 30, 2019, respectively",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 436275000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 19128000
+            },
+            {
+                "label": "Total partners' equity",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 411862000
+            },
+            {
+                "label": "Total Liabilities and Partners' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2657534000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 6586000
+            },
+            {
+                "label": "Cost of food, merchandise, and games revenues",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 2005000
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 66983000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 23727000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 54923000
+            },
+            {
+                "label": "Loss on impairment / retirement of fixed assets, net",
+                "concept": "fun:GainLossOnRetirementAndImpairmentOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1036000
+            },
+            {
+                "label": "Loss on impairment of goodwill and other intangibles",
+                "concept": "GoodwillAndIntangibleAssetImpairment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gain on sale of investment",
+                "concept": "GainLossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 148674000
+            },
+            {
+                "label": "Operating (loss) income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 142088000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 36746000
+            },
+            {
+                "label": "Net effect of swaps",
+                "concept": "DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsGainLossNet",
+                "unit": "usd",
+                "value": 1559000
+            },
+            {
+                "label": "Loss on early debt extinguishment",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 1696000
+            },
+            {
+                "label": "(Gain) loss on foreign currency",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 12651000
+            },
+            {
+                "label": "Other (income) expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 130000
+            },
+            {
+                "label": "(Loss) income before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 169308000
+            },
+            {
+                "label": "(Benefit) provision for taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 36756000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 132552000
+            },
+            {
+                "label": "Net (loss) income allocated to general partner",
+                "concept": "NetIncomeLossAllocatedToGeneralPartners",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Net (loss) income allocated to limited partners",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": 132550000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6523000
+            },
+            {
+                "label": "Other comprehensive (loss) income, (net of tax)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 6523000
+            },
+            {
+                "label": "Total comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 139075000
+            },
+            {
+                "label": "Weighted average limited partner units outstanding (in shares)",
+                "concept": "WeightedAverageLimitedPartnershipUnitsOutstanding",
+                "unit": "shares",
+                "value": 56494000
+            },
+            {
+                "label": "Net income (loss) per limited partner unit (in dollars per share)",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipUnitBasicNetOfTax",
+                "unit": "usd/shares",
+                "value": 2.35
+            },
+            {
+                "label": "Weighted average limited partner units outstanding (in shares)",
+                "concept": "WeightedAverageLimitedPartnershipUnitsOutstandingDiluted",
+                "unit": "shares",
+                "value": 56494000
+            },
+            {
+                "label": "Net income (loss) per limited partner unit (in dollars per share)",
+                "concept": "NetIncomeLossNetOfTaxPerOutstandingLimitedPartnershipUnitDiluted",
+                "unit": "usd/shares",
+                "value": 2.35
+            }
+        ]
+    }
+}

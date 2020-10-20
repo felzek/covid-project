@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FMCI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash \u2013 Beginning",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 86134
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 31982
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 511429
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "MarketableSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 207402252
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 207913681
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1245640
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1245640
+            },
+            {
+                "label": "Promissory note \u2013 related party",
+                "concept": "NotesPayableRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 1799587
+            },
+            {
+                "label": "Deferred underwriting fees",
+                "concept": "DeferredCompensationLiabilityClassifiedNoncurrent",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 10045227
+            },
+            {
+                "label": "Class A Common stock subject to possible redemption, 18,560,820 and 18,913,021 shares at redemption value as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 192868450
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 authorized; none issued and outstanding Class A Common stock, $0.0001 par value; 100,000,000 shares authorized; 2,089,591 and 1,741,979 shares issued and outstanding (excluding 18,560,820 and 18,913,021 shares subject to possible redemption) as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 209
+            },
+            {
+                "label": "Class B Common stock, $0.0001 par value; 10,000,000 shares authorized; 5,000,000 shares issued and outstanding as of June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 500
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2126552
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2872743
+            },
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000004
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 207913681
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 540494
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 102552
+            },
+            {
+                "label": "Other income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 102552
+            },
+            {
+                "label": "(Loss) income before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 437942
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 53735
+            },
+            {
+                "label": "Weighted average shares outstanding, basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 6927936
+            },
+            {
+                "label": "Basic and diluted net loss per common stock (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            }
+        ]
+    }
+}

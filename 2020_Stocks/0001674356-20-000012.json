@@ -1,0 +1,55 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TPT",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 2646042
+            },
+            {
+                "label": "Net unrealized gains on marketable securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification of net realized gains on marketable securities into earnings",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 184025
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeOtherNetOfTax",
+                "unit": "usd",
+                "value": 184025
+            },
+            {
+                "label": "Total comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2462017
+            },
+            {
+                "label": "Preferred stock dividend declared",
+                "concept": "DividendsPreferredStockStock",
+                "unit": "usd",
+                "value": 3906
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to common shares",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2458111
+            }
+        ]
+    }
+}

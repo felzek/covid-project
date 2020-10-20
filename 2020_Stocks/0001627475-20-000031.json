@@ -1,0 +1,31 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-01-01",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "UPWK",
+    "data": {
+        "bs": [
+            {
+                "label": "Number of additional floors",
+                "concept": "upwk:LesseeOperatingLeaseNumberOfAdditionalFloors",
+                "unit": "floor",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating lease asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1700000.0
+            },
+            {
+                "label": "Operating lease liability",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 1700000.0
+            }
+        ],
+        "cf": [],
+        "ic": []
+    }
+}

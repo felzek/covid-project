@@ -1,0 +1,350 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BLFS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 29879000
+            },
+            {
+                "label": "Accounts receivable, trade, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 4351000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 10890000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1134000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 46254000
+            },
+            {
+                "label": "Assets held for rent, net",
+                "concept": "blfs:AssetsHeldForRentNoncurrent",
+                "unit": "usd",
+                "value": 4958000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 5347000
+            },
+            {
+                "label": "Operating lease right-of-use assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 740000
+            },
+            {
+                "label": "Long-term deposits and other assets",
+                "concept": "DepositsAssetsNoncurrent",
+                "unit": "usd",
+                "value": 36000
+            },
+            {
+                "label": "Investments",
+                "concept": "blfs:InvestmentsInNonMarketableEquitySecuritiesAndAvailableForSaleDebtSecurities",
+                "unit": "usd",
+                "value": 2500000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 41000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 20588000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 33506000
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 113970000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 3077000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2606000
+            },
+            {
+                "label": "Lease liabilities, operating, current portion",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 844000
+            },
+            {
+                "label": "Contingent consideration, current portion",
+                "concept": "BusinessCombinationContingentConsiderationLiabilityCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_DerivativeLiabilitiesCurrent",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 963000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 7490000
+            },
+            {
+                "label": "Warrant liability, long-term",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Contingent consideration, long-term",
+                "concept": "BusinessCombinationContingentConsiderationLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 388000
+            },
+            {
+                "label": "Lease liabilities, operating, long-term",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 116000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 133000
+            },
+            {
+                "label": "us-gaap_Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 8127000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.001 par value; 1,000,000 shares authorized, Series A, 4,250 shares designated, and 0 shares issued and outstanding at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value; 150,000,000 shares authorized, 25,982,367 and 20,825,452 shares issued and outstanding at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 199941000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 94124000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 105843000
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 113970000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 9920000
+            },
+            {
+                "label": "Cost of product and rental revenue (exclusive of intangible assets amortization)",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 4499000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1477000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 1366000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3278000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 706000
+            },
+            {
+                "label": "Acquisition costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Change in fair value of contingent consideration",
+                "concept": "BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1",
+                "unit": "usd",
+                "value": 1463000
+            },
+            {
+                "label": "us-gaap_CostsAndExpenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 9876000
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 44000
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 16442000
+            },
+            {
+                "label": "us-gaap_InvestmentIncomeInterest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_OtherNonoperatingExpense",
+                "concept": "OtherNonoperatingExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 16424000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 16380000
+            },
+            {
+                "label": "Income tax (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 16380000
+            },
+            {
+                "label": "Basic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 16380000
+            },
+            {
+                "label": "Diluted",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "unit": "usd",
+                "value": 16380000
+            },
+            {
+                "label": "Basic earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.7
+            },
+            {
+                "label": "Diluted earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.7
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 23292635
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 23292635
+            }
+        ]
+    }
+}

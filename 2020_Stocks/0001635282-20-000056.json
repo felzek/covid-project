@@ -1,0 +1,344 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RMNI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 72672000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 333000
+            },
+            {
+                "label": "Accounts receivable, net of allowance of $1,191 and $1,608, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 63475000
+            },
+            {
+                "label": "Deferred contract costs, current",
+                "concept": "CapitalizedContractCostNetCurrent",
+                "unit": "usd",
+                "value": 12061000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 12517000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 161058000
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation and amortization of $10,562 and $9,847, respectively",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 3339000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 17403000
+            },
+            {
+                "label": "Deferred contract costs, noncurrent",
+                "concept": "CapitalizedContractCostNetNoncurrent",
+                "unit": "usd",
+                "value": 17323000
+            },
+            {
+                "label": "Deposits and other",
+                "concept": "DepositsAssetsNoncurrent",
+                "unit": "usd",
+                "value": 1521000
+            },
+            {
+                "label": "Deferred income taxes, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 1197000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 201841000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 4646000
+            },
+            {
+                "label": "Accrued compensation, benefits and commissions",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 28913000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 19207000
+            },
+            {
+                "label": "Operating lease liabilities, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 4165000
+            },
+            {
+                "label": "Deferred revenue, current",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 195603000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 252534000
+            },
+            {
+                "label": "Deferred revenue, noncurrent",
+                "concept": "ContractWithCustomerLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 22903000
+            },
+            {
+                "label": "Operating lease liabilities, noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 14125000
+            },
+            {
+                "label": "Accrued PIK dividends payable",
+                "concept": "rmni:PaidinKindDividendsNoncurrent",
+                "unit": "usd",
+                "value": 1175000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 865000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 291602000
+            },
+            {
+                "label": "Commitments and contingencies (Note 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Authorized 180 shares; issued and outstanding 158 shares and 155 shares as of June 30, 2020 and December 31, 2019, respectively. Liquidation preference of $157,554, net of discount of $20,801 and $155,231, net of discount of $23,915, as of June 30, 2020 and December 31, 2019, respectively.",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 136753000
+            },
+            {
+                "label": "Preferred stock; $0.0001 par value. Authorized 99,820 shares (excluding 180 shares of Series A Preferred Stock); no other series has been designated",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock; $0.0001 par value. Authorized 1,000,000 shares; issued and outstanding 68,530 and 67,503 shares as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 83959000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1840000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 308640000
+            },
+            {
+                "label": "Total stockholders' deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 226514000
+            },
+            {
+                "label": "Total liabilities, redeemable preferred stock and stockholders' deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 201841000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 78402000
+            },
+            {
+                "label": "Cost of revenue",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 30437000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 47965000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 26836000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 13133000
+            },
+            {
+                "label": "Professional fees and other costs of litigation",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 2722000
+            },
+            {
+                "label": "Litigation appeal refunds",
+                "concept": "rmni:LitigationAppealRefunds",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Insurance costs and recoveries, net",
+                "concept": "rmni:InsuranceCostsAndRecoveriesNet",
+                "unit": "usd",
+                "value": 141000
+            },
+            {
+                "label": "Litigation costs and related recoveries, net",
+                "concept": "GainLossRelatedToLitigationSettlement",
+                "unit": "usd",
+                "value": 2863000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 42832000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 5133000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Other expenses, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 567000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 4554000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1084000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3470000
+            },
+            {
+                "label": "Foreign currency translation gain (loss)",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 402000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3872000
+            },
+            {
+                "label": "Net income (loss) attributable to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 3217000
+            },
+            {
+                "label": "Basic (usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.05
+            },
+            {
+                "label": "Diluted (usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.05
+            },
+            {
+                "label": "Basic (shares)",
+                "concept": "WeightedAverageNumberOfSharesIssuedBasic",
+                "unit": "shares",
+                "value": 68290000
+            },
+            {
+                "label": "Diluted (shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 68290000
+            }
+        ]
+    }
+}

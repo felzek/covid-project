@@ -1,0 +1,200 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EXR",
+    "data": {
+        "bs": [
+            {
+                "label": "Real estate assets, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 7673724000
+            },
+            {
+                "label": "Real estate assets - operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 261304000
+            },
+            {
+                "label": "Investments in unconsolidated real estate entities",
+                "concept": "RealEstateInvestmentsUnconsolidatedRealEstateAndOtherJointVentures",
+                "unit": "usd",
+                "value": 344177000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 56397000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 5354000
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 188938000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8529894000
+            },
+            {
+                "label": "Notes payable, net",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 4300744000
+            },
+            {
+                "label": "Exchangeable senior notes, net",
+                "concept": "ConvertibleDebt",
+                "unit": "usd",
+                "value": 573154000
+            },
+            {
+                "label": "Revolving lines of credit",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 207000000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 271875000
+            },
+            {
+                "label": "Cash distributions in unconsolidated real estate ventures",
+                "concept": "exr:CashDistributionsInUnconsolidatedRealEstateVentures",
+                "unit": "usd",
+                "value": 46100000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 132257000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 253246000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5784376000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value, 50,000,000 shares authorized, no shares issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 500,000,000 shares authorized, 129,069,555 and 129,534,407 shares issued and outstanding at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1291000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 2884940000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 119256000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 391285000
+            },
+            {
+                "label": "Total Extra Space Storage Inc. stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2375690000
+            },
+            {
+                "label": "Noncontrolling interest represented by Preferred Operating Partnership units, net",
+                "concept": "MinorityInterestInPreferredUnitHolders",
+                "unit": "usd",
+                "value": 172542000
+            },
+            {
+                "label": "Noncontrolling interests in Operating Partnership, net and other noncontrolling interests",
+                "concept": "MinorityInterestInOperatingPartnerships",
+                "unit": "usd",
+                "value": 197286000
+            },
+            {
+                "label": "Total noncontrolling interests and equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2745518000
+            },
+            {
+                "label": "Total liabilities, noncontrolling interests and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 8529894000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 111257000
+            },
+            {
+                "label": "Change in fair value of interest rate swaps",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 5728000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 105529000
+            },
+            {
+                "label": "Less: comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 8034000
+            },
+            {
+                "label": "Comprehensive income attributable to common stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 97495000
+            }
+        ]
+    }
+}

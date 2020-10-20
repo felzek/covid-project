@@ -1,0 +1,207 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "ESTC",
+    "data": {
+        "bs": [
+            {
+                "label": "Balance at April 30, 2020",
+                "concept": "AllowanceForDoubtfulAccountsReceivable",
+                "unit": "usd",
+                "value": 1297000
+            },
+            {
+                "label": "Balance at April 30, 2020",
+                "concept": "AllowanceForDoubtfulAccountsReceivable",
+                "unit": "usd",
+                "value": 1297000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 19001000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "OtherDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 4256000
+            },
+            {
+                "label": "Amortization of deferred contract acquisition costs",
+                "concept": "CapitalizedContractCostAmortization",
+                "unit": "usd",
+                "value": 9013000
+            },
+            {
+                "label": "Non-cash operating lease cost",
+                "concept": "OperatingLeaseRightOfUseAssetAmortizationExpense",
+                "unit": "usd",
+                "value": 1674000
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 18591000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 367000
+            },
+            {
+                "label": "Unrealized foreign currency exchange gain",
+                "concept": "ForeignCurrencyTransactionGainBeforeTax",
+                "unit": "usd",
+                "value": 10050000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 45211000
+            },
+            {
+                "label": "Deferred contract acquisition costs",
+                "concept": "estc:IncreaseDecreaseInCapitalizedContractCost",
+                "unit": "usd",
+                "value": 16463000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 341000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": 1693000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 612000
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 5099000
+            },
+            {
+                "label": "Accrued compensation and benefits",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 7204000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "estc:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 1716000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 1731000
+            },
+            {
+                "label": "Net cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 21998000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 379000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 379000
+            },
+            {
+                "label": "Proceeds from issuance of ordinary shares upon exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 29252000
+            },
+            {
+                "label": "Repayment of notes payable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 29252000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2472000
+            },
+            {
+                "label": "Net increase in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 53343000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 198000
+            },
+            {
+                "label": "Cash paid for operating lease liabilities",
+                "concept": "OperatingLeasePayments",
+                "unit": "usd",
+                "value": 2147000
+            },
+            {
+                "label": "Purchases of property and equipment included in accounts payable and accrued liabilities",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 264000
+            },
+            {
+                "label": "Operating lease right-of-use assets for new lease obligations",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Vesting of shares subject to repurchase",
+                "concept": "estc:VestingOfSharesSubjectToRepurchase",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 18591000
+            }
+        ]
+    }
+}

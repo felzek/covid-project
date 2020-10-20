@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-04",
+    "endDate": "2020-07-03",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "VAR",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1943100000.0
+            },
+            {
+                "label": "Common stock, shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1943100000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 60900000.0
+            },
+            {
+                "label": "Amortization of prior service cost included in net periodic benefit cost, net of tax benefit of $0.0* and $0.1, for the three and nine months ended July 3, 2020, respectively, and $0.0* and $0.1, for the corresponding periods of fiscal year 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Amortization of net actuarial loss included in net periodic benefit cost, net of tax expense of $(0.1) and $(0.4), for the three and nine months ended July 3, 2020, respectively, and $(0.1) and $(0.3), for the corresponding periods of fiscal year 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Defined benefit pension and post-retirement benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Change in unrealized gain (loss), net of tax benefit (expense) of $0.4 and $(0.2), for the three and nine months ended July 3, 2020, respectively, and $0.0* and $0.0* for the corresponding periods of fiscal year 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 1100000.0
+            },
+            {
+                "label": "Reclassification adjustments, net of tax benefit of $0.3 and $0.7, for the three and nine months ended July 3, 2020, respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 800000.0
+            },
+            {
+                "label": "Derivative instruments",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 1900000.0
+            },
+            {
+                "label": "Currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 10500000.0
+            },
+            {
+                "label": "Other comprehensive earnings (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 11700000.0
+            },
+            {
+                "label": "Comprehensive earnings",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 49200000.0
+            },
+            {
+                "label": "Less: Net earnings (loss) attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Comprehensive earnings attributable to Varian",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 49500000.0
+            }
+        ]
+    }
+}

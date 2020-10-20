@@ -1,0 +1,386 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BIOS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 118099000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 320222000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 149115000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 50107000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 637543000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 117629000
+            },
+            {
+                "label": "Operating lease right-of-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 52126000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 368481000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1428610000
+            },
+            {
+                "label": "Other noncurrent assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 21876000
+            },
+            {
+                "label": "Total noncurrent assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 1988722000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2626265000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 260120000
+            },
+            {
+                "label": "Accrued compensation and employee benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 47742000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "bios:AccruedExpensesAndOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": 59027000
+            },
+            {
+                "label": "Current portion of operating lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 18472000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 9250000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 394611000
+            },
+            {
+                "label": "Long-term debt, net of discount, deferred financing costs and current portion",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 1275385000
+            },
+            {
+                "label": "Operating lease liability, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 50779000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 2741000
+            },
+            {
+                "label": "Other noncurrent liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 34783000
+            },
+            {
+                "label": "Total noncurrent liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1363688000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1758299000
+            },
+            {
+                "label": "Preferred stock; $0.0001 par value; 12,500,000 shares authorized, no shares outstanding as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock; $0.0001 par value: 250,000,000 shares authorized, 177,098,513 shares issued and 176,714,791 shares outstanding as of June 30, 2020; 176,975,628 shares issued and 176,591,907 shares outstanding as of December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "Treasury stock; 383,722 shares outstanding, at cost, as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 2403000
+            },
+            {
+                "label": "Paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1009135000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 119533000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 19251000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 867966000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2626265000
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET LOSS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 27578000
+            },
+            {
+                "label": "Depreciation and amortization expense",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 41813000
+            },
+            {
+                "label": "Non-cash operating lease costs",
+                "concept": "bios:OperatingLeaseRightOfUseAssetAmortization",
+                "unit": "usd",
+                "value": 11240000
+            },
+            {
+                "label": "Deferred income taxes - net",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 598000
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 2764000
+            },
+            {
+                "label": "Loss on interest rate swaps upon discontinuing hedge accounting",
+                "concept": "bios:LossOnDiscontinuanceOfCashFlowHedgeDerivative",
+                "unit": "usd",
+                "value": 3746000
+            },
+            {
+                "label": "Equity in earnings of joint ventures",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1574000
+            },
+            {
+                "label": "Stock-based incentive compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1418000
+            },
+            {
+                "label": "Other adjustments",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 769000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": 4194000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 33239000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 1199000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 36422000
+            },
+            {
+                "label": "Accrued compensation and employee benefits",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 1977000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 13767000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeasePayments",
+                "unit": "usd",
+                "value": 9382000
+            },
+            {
+                "label": "Other noncurrent assets and liabilities",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssetsAndLiabilitiesNet",
+                "unit": "usd",
+                "value": 6794000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 53390000
+            },
+            {
+                "label": "Acquisition of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 9269000
+            },
+            {
+                "label": "Other investing cash flows",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 541000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 8728000
+            },
+            {
+                "label": "Redemptions to related parties",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Exercise of stock options, vesting of restricted stock, and related tax withholdings",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 645000
+            },
+            {
+                "label": "Repayments of debt principal",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 4625000
+            },
+            {
+                "label": "Other financing cash flows",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 11651000
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 6381000
+            },
+            {
+                "label": "NET INCREASE IN CASH AND CASH EQUIVALENTS",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 51043000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 53199000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 1887000
+            },
+            {
+                "label": "Cash paid for operating leases",
+                "concept": "OperatingLeasePaymentsUse",
+                "unit": "usd",
+                "value": 13388000
+            }
+        ],
+        "ic": []
+    }
+}

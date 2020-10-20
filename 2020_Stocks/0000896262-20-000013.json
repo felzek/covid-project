@@ -1,0 +1,333 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AMED",
+    "data": {
+        "bs": [
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 37000
+            },
+            {
+                "label": "Balance (in shares)",
+                "concept": "SharesOutstanding",
+                "unit": "shares",
+                "value": 36831298
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 37000
+            },
+            {
+                "label": "Balance (in shares)",
+                "concept": "SharesOutstanding",
+                "unit": "shares",
+                "value": 36831298
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 67193000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 11672000
+            },
+            {
+                "label": "Non-cash compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 12634000
+            },
+            {
+                "label": "Non-cash 401(k) employer match",
+                "concept": "PensionExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization and impairment of operating lease right of use assets",
+                "concept": "amed:AmortizationandImpairmentofOperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 18558000
+            },
+            {
+                "label": "Gain on disposal of property and equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 94000
+            },
+            {
+                "label": "Loss on sale of equity method investment",
+                "concept": "LossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": 2980000
+            },
+            {
+                "label": "Write-off of other comprehensive income",
+                "concept": "amed:WriteOffOfOtherComprehensiveIncome",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 4036000
+            },
+            {
+                "label": "Equity in earnings from equity method investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 964000
+            },
+            {
+                "label": "Amortization of deferred debt issuance costs/debt discount",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 437000
+            },
+            {
+                "label": "Return on equity investment",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 2744000
+            },
+            {
+                "label": "Patient accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 8997000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 3469000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 675000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 6452000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 27990000
+            },
+            {
+                "label": "Other long-term obligations",
+                "concept": "IncreaseDecreaseInOtherNoncurrentLiabilities",
+                "unit": "usd",
+                "value": 20746000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "amed:IncreaseDecreaseInOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 16365000
+            },
+            {
+                "label": "Operating lease right of use assets",
+                "concept": "amed:IncreaseDecreaseInOperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1924000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 139957000
+            },
+            {
+                "label": "Proceeds from sale of deferred compensation plan assets",
+                "concept": "ProceedsFromSaleOfRestrictedInvestments",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Proceeds from the sale of property and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 80000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1701000
+            },
+            {
+                "label": "Investments in equity method investees",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 875000
+            },
+            {
+                "label": "Proceeds from sale of equity method investment",
+                "concept": "ProceedsFromSaleOfEquityMethodInvestments",
+                "unit": "usd",
+                "value": 17876000
+            },
+            {
+                "label": "Acquisitions of businesses, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 299723000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 284322000
+            },
+            {
+                "label": "Proceeds from issuance of stock upon exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 2947000
+            },
+            {
+                "label": "Proceeds from issuance of stock to employee stock purchase plan",
+                "concept": "ProceedsFromStockPlans",
+                "unit": "usd",
+                "value": 1686000
+            },
+            {
+                "label": "Shares withheld to pay taxes on non-cash compensation",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 6384000
+            },
+            {
+                "label": "Noncontrolling interest distribution",
+                "concept": "amed:CashDistributionToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 372000
+            },
+            {
+                "label": "Proceeds from borrowings under term loan",
+                "concept": "amed:ProceedsFromBorrowingsUnderTermLoan",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from borrowings under revolving line of credit",
+                "concept": "ProceedsFromShortTermDebt",
+                "unit": "usd",
+                "value": 424500000
+            },
+            {
+                "label": "Repayments of borrowings under revolving line of credit",
+                "concept": "RepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 259500000
+            },
+            {
+                "label": "Principal payments of long-term obligations",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 4675000
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Provider relief fund advance",
+                "concept": "amed:FundsReceivedFromProviderReliefFundAdvance",
+                "unit": "usd",
+                "value": 70000000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 228202000
+            },
+            {
+                "label": "Net increase (decrease) in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 83837000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 3292000
+            },
+            {
+                "label": "Cash paid for income taxes, net of refunds received",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 8153000
+            },
+            {
+                "label": "Cash paid for operating lease liabilities",
+                "concept": "amed:CashPaidForOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 18289000
+            },
+            {
+                "label": "Cash paid for finance lease liabilities",
+                "concept": "amed:CashPaidForFinanceLeaseLiabilities",
+                "unit": "usd",
+                "value": 986000
+            },
+            {
+                "label": "Right of use assets obtained in exchange for operating lease liabilities",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 18891000
+            },
+            {
+                "label": "Right of use assets obtained in exchange for finance lease liabilities",
+                "concept": "RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability",
+                "unit": "usd",
+                "value": 487000
+            },
+            {
+                "label": "Reductions to right of use assets resulting from reductions to operating lease liabilities",
+                "concept": "amed:LesseeOperatingleaseReductionstoROUassetsresultingfromreductionstoleaseobligations",
+                "unit": "usd",
+                "value": 407000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Proceeds from sale of equity method investment",
+                "concept": "ProceedsFromSaleOfEquityMethodInvestments",
+                "unit": "usd",
+                "value": 17876000
+            },
+            {
+                "label": "Loss on sale of equity method investment",
+                "concept": "LossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": 2980000
+            }
+        ]
+    }
+}

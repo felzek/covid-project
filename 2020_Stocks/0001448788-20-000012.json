@@ -1,0 +1,501 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "SUWN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 875632
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 2109377
+            },
+            {
+                "label": "Accounts receivable - related party",
+                "concept": "AccountsReceivableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 1833476
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 13203055
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1024203
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 19045743
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 8834544
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 27880287
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10816147
+            },
+            {
+                "label": "Short-term loans",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 2739032
+            },
+            {
+                "label": "Due to related parties",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 2878273
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 16433451
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 16433451
+            },
+            {
+                "label": "Preferred stock, $0.001 par value; 1,000,000 shares authorized; no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock, $0.001 par value, 200,000,000 shares authorized; 199,632,803 and 199,632,803 shares issued and outstanding as of July 31, 2020 and April 30, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 199633
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 47732350
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -40780993
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 4640545
+            },
+            {
+                "label": "Total Sunwin Stevia International, Inc. Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 11791535
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": -344699
+            },
+            {
+                "label": "Total Stockholders' Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 11446836
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 27880287
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1055827
+            },
+            {
+                "label": "Loss from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 304440
+            },
+            {
+                "label": "Loss on disposition of property and equipment",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts receivable and notes receivable",
+                "concept": "IncreaseDecreaseInAccountsAndNotesReceivable",
+                "unit": "usd",
+                "value": 595967
+            },
+            {
+                "label": "Accounts receivable - related party {1}",
+                "concept": "IncreaseDecreaseInAccountsReceivableRelatedParties",
+                "unit": "usd",
+                "value": 1217425
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -189149
+            },
+            {
+                "label": "Prepaid expenses and other current assets {1}",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": -290138
+            },
+            {
+                "label": "Accounts payable and accrued expenses {1}",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 2229074
+            },
+            {
+                "label": "Taxes payable",
+                "concept": "IncreaseDecreaseInAccruedTaxesPayable",
+                "unit": "usd",
+                "value": -64602
+            },
+            {
+                "label": "NET CASH PROVIDED BY OPERATING ACTIVITIES FROM CONTINUING OPERATIONS",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 2747190
+            },
+            {
+                "label": "NET CASH PROVIDED BY DISCONTINUED OPERATING ACTIVITIES FROM DISCONTINUED OPERATIONS",
+                "concept": "NetCashProvidedByUsedInDiscontinuedOperations",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "NET CASH PROVIDED BY OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 2747190
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 137776
+            },
+            {
+                "label": "Proceed from disposal of equipment",
+                "concept": "PropertyPlantAndEquipmentDisposals",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "NET CASH (USED IN) PROVIDED BY INVESTING ACTIVITIES FROM CONTINUING OPERATIONS",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -137776
+            },
+            {
+                "label": "NET CASH USED IN INVESTING ACTIVITIES FROM DISCONTINUED OPERATIONS",
+                "concept": "CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "NET CASH (USED IN) PROVIDED BY INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -137776
+            },
+            {
+                "label": "Repayment of short term loans",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 666667
+            },
+            {
+                "label": "Repayment of related party advances",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 5268237
+            },
+            {
+                "label": "NET CASH USED IN FINANCING ACTIVITIES FROM CONTINUING OPERATIONS",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -2879786
+            },
+            {
+                "label": "NET CASH USED IN FINANCING ACTIVITIES FROM DISCONTINUED OPERATIONS",
+                "concept": "CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "NET CASH USED IN FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -2879786
+            },
+            {
+                "label": "EFFECT OF EXCHANGE RATE ON CASH",
+                "concept": "EffectOfExchangeRateOnCash",
+                "unit": "usd",
+                "value": 8084
+            },
+            {
+                "label": "NET (DECREASE) INCREASE IN CASH",
+                "concept": "CashPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -262288
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 16782
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues {1}",
+                "concept": "RegulatedOperatingRevenue",
+                "unit": "usd",
+                "value": 5287855
+            },
+            {
+                "label": "Revenues - related parties",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 1751823
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 7039678
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 5262992
+            },
+            {
+                "label": "Cost of revenues - related parties",
+                "concept": "RelatedPartiesAmountInCostOfSales",
+                "unit": "usd",
+                "value": 1609508
+            },
+            {
+                "label": "Total cost of revenues",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 6872500
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 167178
+            },
+            {
+                "label": "Selling expenses",
+                "concept": "SellingExpense",
+                "unit": "usd",
+                "value": 310915
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 473176
+            },
+            {
+                "label": "Research and development expenses",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 361438
+            },
+            {
+                "label": "Total operating expenses, net",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1145529
+            },
+            {
+                "label": "Income (loss) from operations",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -978351
+            },
+            {
+                "label": "Other (expenses) expenses",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1065
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 231
+            },
+            {
+                "label": "Interest expense - related party",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 16807
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 62531
+            },
+            {
+                "label": "Total other expense",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -77476
+            },
+            {
+                "label": "Net loss from continuing operations",
+                "concept": "NetIncomeLossFromContinuingOperationsAvailableToCommonShareholdersBasic",
+                "unit": "usd",
+                "value": -1055827
+            },
+            {
+                "label": "Loss from discontinued operations, net of income tax",
+                "concept": "DiscontinuedOperationGainLossFromDisposalOfDiscontinuedOperationBeforeIncomeTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Loss from discontinued operations, net of income tax {1}",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1055827
+            },
+            {
+                "label": "Less: net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -393228
+            },
+            {
+                "label": "Net loss attributable to Sunwin Stevia International, Inc.",
+                "concept": "NetIncomeLossAttributableToParentDiluted",
+                "unit": "usd",
+                "value": -662599
+            },
+            {
+                "label": "Net loss {1}",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -662599
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 131176
+            },
+            {
+                "label": "Total comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -531423
+            },
+            {
+                "label": "Less: comprehensive loss attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 48529
+            },
+            {
+                "label": "Comprehensive loss attributable to Sunwin Stevia International, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -579952
+            },
+            {
+                "label": "Continuing operations - basic and diluted",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Discontinued operations - basic and diluted",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationNetOfTaxPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0
+            },
+            {
+                "label": "Net loss per common share attributable to Sunwin Stevia International, Inc. - basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Weighted average common shares outstanding - basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 199632803
+            }
+        ]
+    }
+}

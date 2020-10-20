@@ -1,0 +1,260 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TPH",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 474545000
+            },
+            {
+                "label": "Receivables",
+                "concept": "AccountsAndNotesReceivableNet",
+                "unit": "usd",
+                "value": 87580000
+            },
+            {
+                "label": "Real estate inventories",
+                "concept": "InventoryRealEstate",
+                "unit": "usd",
+                "value": 3012622000
+            },
+            {
+                "label": "Investments in unconsolidated entities",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 36040000
+            },
+            {
+                "label": "Goodwill and other intangible assets, net",
+                "concept": "IntangibleAssetsNetIncludingGoodwill",
+                "unit": "usd",
+                "value": 159626000
+            },
+            {
+                "label": "Deferred tax assets, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 39744000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 167747000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3977904000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 71086000
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "AccruedLiabilitiesAndOtherLiabilities",
+                "unit": "usd",
+                "value": 314818000
+            },
+            {
+                "label": "Loans payable",
+                "concept": "LoansPayable",
+                "unit": "usd",
+                "value": 250000000
+            },
+            {
+                "label": "Senior notes, net",
+                "concept": "SeniorNotes",
+                "unit": "usd",
+                "value": 1166189000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1802093000
+            },
+            {
+                "label": "Commitments and contingencies (Note 13)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value, 50,000,000 shares authorized; no shares issued and outstanding as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 500,000,000 shares authorized; \u00a0\u00a0 130,325,865 and 136,149,633 shares issued and outstanding at \u00a0\u00a0 June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1303000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 482111000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1692385000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2175799000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2175811000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3977904000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Other operations revenue",
+                "concept": "RevenueNotFromContractWithCustomerExcludingInterestIncome",
+                "unit": "usd",
+                "value": 648000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 770106000
+            },
+            {
+                "label": "Other operations expense",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 624000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 45194000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 37554000
+            },
+            {
+                "label": "Restructuring charges",
+                "concept": "RestructuringCosts",
+                "unit": "usd",
+                "value": 5549000
+            },
+            {
+                "label": "Homebuilding income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 77081000
+            },
+            {
+                "label": "Equity in loss of unconsolidated entities",
+                "concept": "tph:HomeBuildingIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Other (expense) income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 6328000
+            },
+            {
+                "label": "Homebuilding income before income taxes",
+                "concept": "tph:HomebuildingIncomeLossFromContinuingOperationsBeforeTaxes",
+                "unit": "usd",
+                "value": 70728000
+            },
+            {
+                "label": "Equity in income of unconsolidated entities",
+                "concept": "tph:FinancialServicesIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 2932000
+            },
+            {
+                "label": "Financial services income before income taxes",
+                "concept": "tph:FinancialServicesIncomeLossFromContinuingOperationsBeforeTaxes",
+                "unit": "usd",
+                "value": 3943000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 74671000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 18143000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 56528000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.43
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.43
+            },
+            {
+                "label": "Basic (shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 130292563
+            },
+            {
+                "label": "Diluted (shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 130506567
+            }
+        ]
+    }
+}

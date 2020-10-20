@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BMTC",
+    "data": {
+        "bs": [
+            {
+                "label": "Commitments and obligations, liability outstanding",
+                "concept": "FairValueDisclosureOffbalanceSheetRisksFaceAmountLiability",
+                "unit": "usd",
+                "value": 826300000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income attributable to Bryn Mawr Bank Corporation",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 15035000
+            },
+            {
+                "label": "Unrealized investment gains, net of tax expense of $34, $1,319, $1,804 and $2,441, respectively",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 127000
+            },
+            {
+                "label": "Change in unfunded pension liability related to unrealized loss, prior service cost and transition obligation, net of tax expense of $6, $4, $12 and $8, respectively",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostsCreditArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 150000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 15185000
+            }
+        ]
+    }
+}

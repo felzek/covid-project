@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GAIF",
+    "data": {
+        "bs": [
+            {
+                "label": "Investment in Graham Alternative Investment Trading LLC, at fair value",
+                "concept": "InvestmentOwnedAtFairValue",
+                "unit": "usd",
+                "value": 27475546
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 27552601
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 77055
+            },
+            {
+                "label": "Members' capital, beginning",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 27475546
+            },
+            {
+                "label": "Total liabilities and members' capital",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 27552601
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net realized gain on investment",
+                "concept": "TradingSecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": 796313
+            },
+            {
+                "label": "Net (decrease) increase in unrealized appreciation on investment",
+                "concept": "TradingSecuritiesUnrealizedHoldingGainLoss",
+                "unit": "usd",
+                "value": -637940
+            },
+            {
+                "label": "Brokerage commissions and fees",
+                "concept": "FloorBrokerage",
+                "unit": "usd",
+                "value": 25796
+            },
+            {
+                "label": "Net gain allocated from investment in Graham Alternative Investment Trading LLC",
+                "concept": "NetRealizedOrUnrealizedGainLossOnTradingSecurities",
+                "unit": "usd",
+                "value": 132577
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 92009
+            },
+            {
+                "label": "Advisory fees",
+                "concept": "NoninterestExpenseInvestmentAdvisoryFees",
+                "unit": "usd",
+                "value": 103126
+            },
+            {
+                "label": "Sponsor fees",
+                "concept": "SponsorFees",
+                "unit": "usd",
+                "value": 55737
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 27337
+            },
+            {
+                "label": "Administrator's fees",
+                "concept": "AdministrativeFeesExpense",
+                "unit": "usd",
+                "value": 9058
+            },
+            {
+                "label": "Incentive allocation",
+                "concept": "IncentiveFeeExpense",
+                "unit": "usd",
+                "value": 5737
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1727
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 202722
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "IncomeLossAttributableToParent",
+                "unit": "usd",
+                "value": 21864
+            }
+        ]
+    }
+}

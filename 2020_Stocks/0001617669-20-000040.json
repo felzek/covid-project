@@ -1,0 +1,290 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "UFAB",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4737000
+            },
+            {
+                "label": "Accounts receivable, net of reserves of approximately $0.7 million and $0.9 million at June\u00a030, 2020 and December\u00a029, 2019, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 15683000
+            },
+            {
+                "label": "Inventory, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 15137000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 3654000
+            },
+            {
+                "label": "Refundable taxes",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 1391000
+            },
+            {
+                "label": "Assets held for sale",
+                "concept": "AssetsHeldForSaleNotPartOfDisposalGroupCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 40602000
+            },
+            {
+                "label": "Property, plant, and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 22815000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 22111000
+            },
+            {
+                "label": "Intangible assets",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 9625000
+            },
+            {
+                "label": "Operating leases",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 10965000
+            },
+            {
+                "label": "Investments, at cost",
+                "concept": "EquitySecuritiesWithoutReadilyDeterminableFairValueAmount",
+                "unit": "usd",
+                "value": 1054000
+            },
+            {
+                "label": "Deposits and other assets",
+                "concept": "ufab:DepositsandOtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 227000
+            },
+            {
+                "label": "Deferred tax asset",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 926000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 108325000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 7784000
+            },
+            {
+                "label": "Current maturities of long-term debt",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 2847000
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "AccruedSalariesCurrent",
+                "unit": "usd",
+                "value": 993000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4312000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15936000
+            },
+            {
+                "label": "Long-term debt, net of current maturities",
+                "concept": "LongTermNotesPayable",
+                "unit": "usd",
+                "value": 37794000
+            },
+            {
+                "label": "Line of credit",
+                "concept": "LongTermLineOfCredit",
+                "unit": "usd",
+                "value": 9874000
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 10659000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 74263000
+            },
+            {
+                "label": "Common stock, $0.001 par value: 15,000,000 shares authorized and 9,779,147 and 9,779,147 issued and outstanding at June\u00a030, 2020 and December\u00a029, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 46066000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 12014000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 34062000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 108325000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 14759000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 13019000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 1740000
+            },
+            {
+                "label": "Selling, general, and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6281000
+            },
+            {
+                "label": "Impairment",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Restructuring expenses",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 273000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 4814000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 624000
+            },
+            {
+                "label": "Other expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 606000
+            },
+            {
+                "label": "(Loss) before income tax (benefit)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5420000
+            },
+            {
+                "label": "Income tax (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1103000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4317000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.44
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.44
+            },
+            {
+                "label": "Dividends declared per share (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": "N/A"
+            }
+        ]
+    }
+}

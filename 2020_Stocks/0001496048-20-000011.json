@@ -1,0 +1,458 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GGP",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 3725551000
+            },
+            {
+                "label": "Buildings and equipment",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 14262736000
+            },
+            {
+                "label": "Less accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 2787621000
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "DevelopmentInProcess",
+                "unit": "usd",
+                "value": 207938000
+            },
+            {
+                "label": "Net property and equipment",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 15408604000
+            },
+            {
+                "label": "Investment in Unconsolidated Real Estate Affiliates",
+                "concept": "RealEstateInvestmentsUnconsolidatedRealEstateAndOtherJointVentures",
+                "unit": "usd",
+                "value": 4495267000
+            },
+            {
+                "label": "Net investment in real estate",
+                "concept": "RealEstateInvestments",
+                "unit": "usd",
+                "value": 19903871000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 209689000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 517209000
+            },
+            {
+                "label": "Notes receivable",
+                "concept": "NotesReceivableRelatedParties",
+                "unit": "usd",
+                "value": 42041000
+            },
+            {
+                "label": "Deferred expenses, net",
+                "concept": "ggp:DeferredExpensesNet",
+                "unit": "usd",
+                "value": 173375000
+            },
+            {
+                "label": "Prepaid expenses and other assets (see Notes 7 and 14)",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 746888000
+            },
+            {
+                "label": "Deferred tax assets, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 623022000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 22216095000
+            },
+            {
+                "label": "Mortgages, notes and loans payable (including related party debt - see Note 6)",
+                "concept": "ggp:LongTermDebtExcludingJuniorSubordinatedNotes",
+                "unit": "usd",
+                "value": 16600275000
+            },
+            {
+                "label": "Investment in Unconsolidated Real Estate Affiliates",
+                "concept": "ggp:InvestmentsInAndLoansToFromUnconsolidatedRealEstateAffiliatesLiabilities",
+                "unit": "usd",
+                "value": 130958000
+            },
+            {
+                "label": "Accounts payable and accrued expenses (see Notes 7 and 15)",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1006741000
+            },
+            {
+                "label": "Dividend payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Junior subordinated notes",
+                "concept": "JuniorSubordinatedNotes",
+                "unit": "usd",
+                "value": 206200000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 17944195000
+            },
+            {
+                "label": "Redeemable Class A equity interests",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonCarryingAmount",
+                "unit": "usd",
+                "value": 1172745000
+            },
+            {
+                "label": "Redeemable noncontrolling interests",
+                "concept": "RedeemableNoncontrollingInterestEquityOtherCarryingAmount",
+                "unit": "usd",
+                "value": 61837000
+            },
+            {
+                "label": "Total redeemable interests",
+                "concept": "TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests",
+                "unit": "usd",
+                "value": 1234582000
+            },
+            {
+                "label": "Class B Stock",
+                "concept": "ggp:ClassBStock",
+                "unit": "usd",
+                "value": 4992000
+            },
+            {
+                "label": "Class C Stock: 1,000,000,000 shares authorized, $0.01 par value, 640,051,301 issued and outstanding as of June 30, 2020 and December 31, 2019",
+                "concept": "ggp:ClassCStock",
+                "unit": "usd",
+                "value": 6401000
+            },
+            {
+                "label": "Preferred Stock: 500,000,000 shares authorized, $0.01 par value, 10,000,000 shares issued and outstanding as of June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 242042000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 6788182000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 5361146000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 101715000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1578756000
+            },
+            {
+                "label": "Noncontrolling interests in Consolidated Real Estate Affiliates",
+                "concept": "MinorityInterestInJointVentures",
+                "unit": "usd",
+                "value": 15085000
+            },
+            {
+                "label": "Noncontrolling interests of the Operating Partnership",
+                "concept": "MinorityInterestInOperatingPartnerships",
+                "unit": "usd",
+                "value": 1443477000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3037318000
+            },
+            {
+                "label": "Total liabilities, redeemable interests and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 22216095000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Lease Income",
+                "concept": "LeaseIncome",
+                "unit": "usd",
+                "value": 341073000
+            },
+            {
+                "label": "Management fees and other corporate revenues",
+                "concept": "ggp:ManagementAndOtherFeesRevenue",
+                "unit": "usd",
+                "value": 26565000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 6827000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 374465000
+            },
+            {
+                "label": "Real estate taxes",
+                "concept": "RealEstateTaxExpense",
+                "unit": "usd",
+                "value": 48656000
+            },
+            {
+                "label": "Property maintenance costs",
+                "concept": "CostOfPropertyRepairsAndMaintenance",
+                "unit": "usd",
+                "value": 6414000
+            },
+            {
+                "label": "Marketing",
+                "concept": "MarketingExpense",
+                "unit": "usd",
+                "value": 1641000
+            },
+            {
+                "label": "Other property operating costs",
+                "concept": "DirectCostsOfLeasedAndRentedPropertyOrEquipment",
+                "unit": "usd",
+                "value": 37262000
+            },
+            {
+                "label": "Property Management and Other Costs",
+                "concept": "ggp:PropertyManagementAndOtherCosts",
+                "unit": "usd",
+                "value": 57524000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5002000
+            },
+            {
+                "label": "Business Combination, Acquisition Related Costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 162896000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 390850000
+            },
+            {
+                "label": "Interest and dividend income",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 763000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 163964000
+            },
+            {
+                "label": "Loss before income taxes, equity in loss of Unconsolidated Real Estate Affiliates and related gain on investment, and allocation to noncontrolling interests",
+                "concept": "ggp:IncomeLossFromContinuingOperationsBeforeIncomeTaxesNoncontrollingInterestsAndIncomeLossFromEquityMethodInvestmentsAndReorganizationItems",
+                "unit": "usd",
+                "value": 180699000
+            },
+            {
+                "label": "Benefit from (provision for) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 6640000
+            },
+            {
+                "label": "Equity in loss of Unconsolidated Real Estate Affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 56426000
+            },
+            {
+                "label": "Unconsolidated Real Estate Affiliates - (loss) gain on investment, net",
+                "concept": "EquityMethodInvestmentRealizedGainLossOnDisposal",
+                "unit": "usd",
+                "value": 1120000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 231605000
+            },
+            {
+                "label": "Allocation to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 22555000
+            },
+            {
+                "label": "Net loss attributable to Brookfield Property REIT\u00a0Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 209050000
+            },
+            {
+                "label": "Basic & diluted earnings per share class A stock (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.3325
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 231605000
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 3612000
+            },
+            {
+                "label": "Net unrealized losses on other financial instruments",
+                "concept": "UnrealizedGainLossOnInterestRateCashFlowHedgesPretaxAccumulatedOtherComprehensiveIncomeLoss",
+                "unit": "usd",
+                "value": 56000
+            },
+            {
+                "label": "Other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3556000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 235161000
+            },
+            {
+                "label": "Comprehensive loss (income) allocated to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 24181000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Brookfield Property REIT\u00a0Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 210980000
+            },
+            {
+                "label": "Restructuring, Settlement and Impairment Provisions",
+                "concept": "RestructuringSettlementAndImpairmentProvisions",
+                "unit": "usd",
+                "value": 71455000
+            },
+            {
+                "label": "Gain (Loss) on Extinguishment of Debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 14320000
+            },
+            {
+                "label": "change in control of investment properties",
+                "concept": "ggp:ChangeInControlOfInvestmentProperties",
+                "unit": "usd",
+                "value": 15433000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 231605000
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 3612000
+            },
+            {
+                "label": "Net unrealized losses on other financial instruments",
+                "concept": "UnrealizedGainLossOnInterestRateCashFlowHedgesPretaxAccumulatedOtherComprehensiveIncomeLoss",
+                "unit": "usd",
+                "value": 56000
+            },
+            {
+                "label": "Other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3556000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 235161000
+            },
+            {
+                "label": "Comprehensive loss (income) allocated to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 24181000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Brookfield Property REIT\u00a0Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 210980000
+            }
+        ]
+    }
+}

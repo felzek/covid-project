@@ -1,0 +1,79 @@
+{
+    "startDate": "2018-07-01",
+    "endDate": "2018-09-30",
+    "year": "2018",
+    "quarter": "Q3",
+    "symbol": "SALI",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "The total amount of revenue recognized for the period from room rent",
+                "concept": "sali:RoomRentRevenue",
+                "unit": "usd",
+                "value": 1759870
+            },
+            {
+                "label": "The total amount of revenue recognized for the period from other resort.",
+                "concept": "sali:OtherResortRevenues",
+                "unit": "usd",
+                "value": 4870549
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 6630419
+            },
+            {
+                "label": "Operating Costs and Expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 3830178
+            },
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4532937
+            },
+            {
+                "label": "Depreciation, Depletion and Amortization, Nonproduction",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 514573
+            },
+            {
+                "label": "Costs and Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 8877688
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -2247269
+            },
+            {
+                "label": "Interest Income (Expense), Net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": -179406
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2426675
+            },
+            {
+                "label": "Stockholders' Equity, Period Increase (Decrease)",
+                "concept": "StockholdersEquityPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 0
+            }
+        ]
+    }
+}

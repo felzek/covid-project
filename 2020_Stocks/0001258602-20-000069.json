@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NNI",
+    "data": {
+        "bs": [
+            {
+                "label": "Loans and accrued interest receivable (net of allowance for loan losses of $209,445 and $61,914, respectively)",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 20460873000
+            },
+            {
+                "label": "Cash and cash equivalents - not held at a related party",
+                "concept": "nni:CashAndCashEquivalentsNotHeldAtRelatedParty",
+                "unit": "usd",
+                "value": 14242000
+            },
+            {
+                "label": "Cash and cash equivalents - held at a related party",
+                "concept": "nni:CashAndCashEquivalentsHeldAtRelatedParty",
+                "unit": "usd",
+                "value": 53298000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 67540000
+            },
+            {
+                "label": "Investments",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 449700000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 585236000
+            },
+            {
+                "label": "Restricted cash - due to customers",
+                "concept": "nni:RestrictedCashDueToCustomers",
+                "unit": "usd",
+                "value": 268539000
+            },
+            {
+                "label": "Accounts receivable (net of allowance for doubtful accounts of $3,901 and $4,455, respectively)",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 73783000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 156912000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 66733000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 350043000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 131849000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 22611208000
+            },
+            {
+                "label": "Bonds and notes payable",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 19726158000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 32760000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 242965000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 20270422000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value. Authorized 50,000,000 shares; no shares issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1867000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2331312000
+            },
+            {
+                "label": "Accumulated other comprehensive earnings",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3233000
+            },
+            {
+                "label": "Total Nelnet, Inc. shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2336796000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 3990000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2340786000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 22611208000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 86610000
+            },
+            {
+                "label": "Unrealized holding gains (losses) arising during period, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 3236000
+            },
+            {
+                "label": "Reclassification adjustment for (gains) losses recognized in net income, net",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 750000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2374000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 88984000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 128000
+            },
+            {
+                "label": "Comprehensive income attributable to Nelnet, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 88856000
+            }
+        ]
+    }
+}

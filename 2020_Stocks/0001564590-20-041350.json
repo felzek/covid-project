@@ -1,0 +1,212 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "UFI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 75267000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 75267000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -57237000
+            },
+            {
+                "label": "Equity in loss (earnings) of unconsolidated affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -477000
+            },
+            {
+                "label": "Distributions received from unconsolidated affiliates",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 10437000
+            },
+            {
+                "label": "Depreciation and amortization expense",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 23653000
+            },
+            {
+                "label": "Impairment of investment in unconsolidated affiliate",
+                "concept": "ufi:ImpairmentOfInvestmentInUnconsolidatedAffiliate",
+                "unit": "usd",
+                "value": 45194000
+            },
+            {
+                "label": "Gain on sale of investment in unconsolidated affiliate.",
+                "concept": "ufi:GainOnSaleOfInvestmentInUnconsolidatedAffiliate",
+                "unit": "usd",
+                "value": 2284000
+            },
+            {
+                "label": "Non-cash compensation expense",
+                "concept": "EmployeeBenefitsAndShareBasedCompensationNoncash",
+                "unit": "usd",
+                "value": 3999000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 4011000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 284000
+            },
+            {
+                "label": "Receivables, net",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": -29964000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -15792000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": -3625000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncreaseDecreaseInIncomeTaxes",
+                "unit": "usd",
+                "value": -113000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -17328000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": -46000
+            },
+            {
+                "label": "Other non-current liabilities",
+                "concept": "IncreaseDecreaseInOtherNoncurrentLiabilities",
+                "unit": "usd",
+                "value": 794000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 52724000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 18509000
+            },
+            {
+                "label": "Proceeds from sale of investment in unconsolidated affiliate.",
+                "concept": "ufi:ProceedsFromSaleOfInvestmentInUnconsolidatedAffiliate",
+                "unit": "usd",
+                "value": 60000000
+            },
+            {
+                "label": "Other, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": -83000
+            },
+            {
+                "label": "Net cash provided by (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 41574000
+            },
+            {
+                "label": "Proceeds from ABL Revolver",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 122200000
+            },
+            {
+                "label": "Payments on ABL Revolver",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 141600000
+            },
+            {
+                "label": "Payments on ABL Term Loan",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Payments on finance lease obligations",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 6035000
+            },
+            {
+                "label": "Payments for Common stock repurchased and retired under publicly announced program.",
+                "concept": "ufi:PaymentsForCommonStockRepurchasedAndRetiredUnderPubliclyAnnouncedProgram",
+                "unit": "usd",
+                "value": 1994000
+            },
+            {
+                "label": "Common stock withheld in satisfaction of tax withholding obligations under net share settle transactions",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 522000
+            },
+            {
+                "label": "Proceeds from stock option exercises",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 29000
+            },
+            {
+                "label": "Net cash (used in) provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -37922000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": -3337000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 53039000
+            }
+        ],
+        "ic": []
+    }
+}

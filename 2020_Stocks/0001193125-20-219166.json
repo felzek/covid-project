@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AIGT",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 17760285
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 17760285
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Fixed maturity investments",
+                "concept": "InterestAndDividendIncomeSecuritiesAvailableForSale",
+                "unit": "usd",
+                "value": 87293
+            },
+            {
+                "label": "Short term investments and cash and cash equivalents",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 2271
+            },
+            {
+                "label": "Dividends earned",
+                "concept": "InvestmentIncomeDividend",
+                "unit": "usd",
+                "value": 45253
+            },
+            {
+                "label": "us-gaap_InvestmentIncomeInvestmentExpense",
+                "concept": "InvestmentIncomeInvestmentExpense",
+                "unit": "usd",
+                "value": 37793
+            },
+            {
+                "label": "Net investment income",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 97024
+            }
+        ]
+    }
+}

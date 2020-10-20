@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SPPI",
+    "data": {
+        "bs": [
+            {
+                "label": "Vendor deposits",
+                "concept": "DepositAssets",
+                "unit": "usd",
+                "value": 11223000
+            },
+            {
+                "label": "Prepaid insurance",
+                "concept": "OtherPrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 566000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 11789000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 32085000
+            },
+            {
+                "label": "Unrealized gain (loss) on available-for-sale securities, net of income tax expense of $0, $33, $0, and $33 for the three and six months ended June\u00a030, 2020 and 2019, respectively.",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 780000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 793000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1573000
+            },
+            {
+                "label": "Total comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 30512000
+            }
+        ]
+    }
+}

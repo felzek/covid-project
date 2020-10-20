@@ -1,0 +1,212 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BFGC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 713021
+            },
+            {
+                "label": "Prepaids",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 42765
+            },
+            {
+                "label": "Deposits {1}",
+                "concept": "DepositsAssetsCurrent",
+                "unit": "usd",
+                "value": 116783
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 872569
+            },
+            {
+                "label": "Mineral properties",
+                "concept": "MineralPropertiesNet",
+                "unit": "usd",
+                "value": 210425
+            },
+            {
+                "label": "Total other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 210425
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1082994
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 13897
+            },
+            {
+                "label": "Related party payable",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 654036
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 667933
+            },
+            {
+                "label": "Warrant liability",
+                "concept": "WarrantsAndRightsOutstanding",
+                "unit": "usd",
+                "value": 768493
+            },
+            {
+                "label": "Note payable, long-term",
+                "concept": "LongTermNotesPayable",
+                "unit": "usd",
+                "value": 20833
+            },
+            {
+                "label": "Total long-term liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 789326
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1457259
+            },
+            {
+                "label": "Preferred stock value",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 2023
+            },
+            {
+                "label": "Common stock value",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 15723
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 12404684
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -12796695
+            },
+            {
+                "label": "Total stockholders' deficit",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -374265
+            },
+            {
+                "label": "Total liabilities and stockholders' deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1082994
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 197853
+            },
+            {
+                "label": "Lease expense",
+                "concept": "OperatingLeaseExpense",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Exploration, evaluation and project expense",
+                "concept": "ExplorationExpense",
+                "unit": "usd",
+                "value": 323274
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 537127
+            },
+            {
+                "label": "Net operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -537127
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 19235
+            },
+            {
+                "label": "Revaluation of warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 498974
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1055336
+            },
+            {
+                "label": "Weighted average common shares outstanding, basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 157230237
+            },
+            {
+                "label": "Weighted average common shares outstanding, diluted",
+                "concept": "ProFormaWeightedAverageSharesOutstandingDiluted",
+                "unit": "shares",
+                "value": 157230237
+            },
+            {
+                "label": "Earnings per share, basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Earnings per share, diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            }
+        ]
+    }
+}

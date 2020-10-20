@@ -1,0 +1,134 @@
+{
+    "startDate": "2020-03-30",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SPWR",
+    "data": {
+        "bs": [
+            {
+                "label": "Employee compensation and employee benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 30877000
+            },
+            {
+                "label": "Interest payable",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 10943000
+            },
+            {
+                "label": "Short-term warranty reserves",
+                "concept": "ProductWarrantyAccrualClassifiedCurrent",
+                "unit": "usd",
+                "value": 40083000
+            },
+            {
+                "label": "Restructuring reserve",
+                "concept": "RestructuringReserve",
+                "unit": "usd",
+                "value": 6146000
+            },
+            {
+                "label": "VAT payables",
+                "concept": "spwr:ValueAddedTaxPayableCurrent",
+                "unit": "usd",
+                "value": 11102000
+            },
+            {
+                "label": "Derivative financial instruments (Note 12)",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2107000
+            },
+            {
+                "label": "Legal expenses",
+                "concept": "spwr:ContributionsfromnoncontrollinginterestsattributabletopreCODprojects",
+                "unit": "usd",
+                "value": 13531000
+            },
+            {
+                "label": "Taxes payable",
+                "concept": "TaxesPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 18433000
+            },
+            {
+                "label": "Liability due to supply agreement",
+                "concept": "spwr:LiabilityduetoAUOptronics",
+                "unit": "usd",
+                "value": 29314000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 25577000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 188113000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 18398000
+            },
+            {
+                "label": "Translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 909000
+            },
+            {
+                "label": "Net change in derivatives (Note 12)",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": 2626000
+            },
+            {
+                "label": "Net loss on long-term pension liability obligation",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income taxes",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 141000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1576000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 16822000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interests and redeemable noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 980000
+            },
+            {
+                "label": "Comprehensive income attributable to stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 17802000
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GOLF",
+    "data": {
+        "bs": [
+            {
+                "label": "Accrued compensation and benefits",
+                "concept": "RestructuringReserveCurrent",
+                "unit": "usd",
+                "value": 8447000
+            },
+            {
+                "label": "Other noncurrent liabilities",
+                "concept": "RestructuringReserveNoncurrent",
+                "unit": "usd",
+                "value": 1893000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Compensation expense",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 3787000
+            }
+        ]
+    }
+}

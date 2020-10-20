@@ -1,0 +1,140 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GNK",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 142892000
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 142892000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 74206000
+            },
+            {
+                "label": "Expenses associated with operating vessels which are attributable to particular voyages such as port and canal charges, fuel (bunker) transactions, and brokerage commissions payable to unaffiliated third parties.",
+                "concept": "gnk:VoyageExpenses",
+                "unit": "usd",
+                "value": 41695000
+            },
+            {
+                "label": "Direct Operating Costs",
+                "concept": "DirectOperatingCosts",
+                "unit": "usd",
+                "value": 21058000
+            },
+            {
+                "label": "Represents the costs incurred for third-party vessels that are time chartered-in.",
+                "concept": "gnk:CharterHireExpense",
+                "unit": "usd",
+                "value": 1432000
+            },
+            {
+                "label": "General and Administrative Expense.",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5471000
+            },
+            {
+                "label": "\"This element represents management fees include expenses to third-party technical management companies for the day-to-day management of our vessels, including performing routine maintenance, attending to vessel operations and arranging for crews and supplies. \"",
+                "concept": "gnk:TechnicalManagementFees",
+                "unit": "usd",
+                "value": 1724000
+            },
+            {
+                "label": "Depreciation, Depletion and Amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 15930000
+            },
+            {
+                "label": "Amount of write-down of vessel assets, including but not limited to, assets to be disposed of and held-for-use.",
+                "concept": "gnk:VesselAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Costs and Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 87310000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 13104000
+            },
+            {
+                "label": "Other Nonoperating Income (Expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 120000
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 253000
+            },
+            {
+                "label": "Interest Expense.",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 5473000
+            },
+            {
+                "label": "Nonoperating Income (Expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 5100000
+            },
+            {
+                "label": "Net Income (Loss) Available to Common Stockholders, Basic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 18204000
+            },
+            {
+                "label": "Earnings Per Share, Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.43
+            },
+            {
+                "label": "Earnings Per Share, Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.43
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 41900901
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 41900901
+            }
+        ]
+    }
+}

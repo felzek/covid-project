@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AXP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 2043000000
+            },
+            {
+                "label": "Interest-bearing deposits in other banks (includes securities purchased under resale agreements)",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 39325000000
+            },
+            {
+                "label": "Short-term investment securities",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 129000000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashCashEquivalentsAndFederalFundsSold",
+                "unit": "usd",
+                "value": 41497000000
+            },
+            {
+                "label": "Card Member receivables (includes gross receivables available to settle obligations of consolidated variable interest entity), less reserves for credit losses",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 37034000000
+            },
+            {
+                "label": "Card Member loans (includes gross loans available to settle obligations of consolidated variable interest entity), less reserves",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 64431000000
+            },
+            {
+                "label": "Other loans, less reserves for credit losses",
+                "concept": "axp:OtherLoansReceivableNetAmount",
+                "unit": "usd",
+                "value": 4129000000
+            },
+            {
+                "label": "Investment securities",
+                "concept": "axp:DebtandEquitySecuritiesAvailableforsale",
+                "unit": "usd",
+                "value": 19942000000
+            },
+            {
+                "label": "Premises and equipment, less accumulated depreciation and amortization",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 4829000000
+            },
+            {
+                "label": "Other assets (includes restricted cash of consolidated variable interest entities)",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 16746000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 188608000000
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 84805000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 7731000000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 1567000000
+            },
+            {
+                "label": "Long-term debt (includes debt issued by consolidated variable interest entities)",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 48797000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 24646000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 167546000000
+            },
+            {
+                "label": "Contingencies (Note 7)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred shares",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 161000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 11760000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 12052000000
+            },
+            {
+                "label": "Net unrealized debt securities gains (losses), net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 85000000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2388000000
+            },
+            {
+                "label": "Net unrealized pension and other postretirement benefits, net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPensionAndOtherPostretirementPlansNetOfTax",
+                "unit": "usd",
+                "value": 608000000
+            },
+            {
+                "label": "Total accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2911000000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 21062000000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 188608000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 257000000
+            },
+            {
+                "label": "Net unrealized debt securities (losses) gains, net of tax",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 123000000
+            },
+            {
+                "label": "Net unrealized pension and other postretirement benefits, net of tax",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 33000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 85000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 342000000
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CK0001353282",
+    "data": {
+        "bs": [
+            {
+                "label": "Total partners\u2019 capital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 27977206
+            },
+            {
+                "label": "Units outstanding",
+                "concept": "PartnersCapitalAccountUnits",
+                "unit": "shares",
+                "value": 22071.04
+            },
+            {
+                "label": "Total partners\u2019 capital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 27977206
+            },
+            {
+                "label": "Units outstanding",
+                "concept": "PartnersCapitalAccountUnits",
+                "unit": "shares",
+                "value": 22071.04
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 14434
+            },
+            {
+                "label": "Ongoing selling agent fees",
+                "concept": "SellingExpense",
+                "unit": "usd",
+                "value": 142566
+            },
+            {
+                "label": "Clearing fees",
+                "concept": "ClearanceFees",
+                "unit": "usd",
+                "value": 68262
+            },
+            {
+                "label": "Advisory fees",
+                "concept": "CustodyFees",
+                "unit": "usd",
+                "value": 145383
+            },
+            {
+                "label": "Administrative fees",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 72692
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 74388
+            },
+            {
+                "label": "Other",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -1134
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 504425
+            },
+            {
+                "label": "Interest less expenses.",
+                "concept": "ck0001353282:NetInvestmentIncomeLoss",
+                "unit": "usd",
+                "value": -489991
+            },
+            {
+                "label": "Net realized gains (losses) on closed contracts",
+                "concept": "GainLossOnSaleOfCommodityContracts",
+                "unit": "usd",
+                "value": 550573
+            },
+            {
+                "label": "Change in net unrealized gains (losses) on open contracts",
+                "concept": "UnrealizedGainLossOnCommodityContracts",
+                "unit": "usd",
+                "value": -2926
+            },
+            {
+                "label": "Total trading results",
+                "concept": "TradingGainsLosses",
+                "unit": "usd",
+                "value": 547647
+            },
+            {
+                "label": "Net income (loss) before allocation to Special Limited Partner",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 57656
+            },
+            {
+                "label": "Net income loss after allocation to limited partner.",
+                "concept": "ck0001353282:NetIncomeLossAfterAllocationToLimitedPartner",
+                "unit": "usd",
+                "value": 57656
+            }
+        ]
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CME",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1405400000.0
+            },
+            {
+                "label": "Marketable securities",
+                "concept": "MarketableSecuritiesCurrent",
+                "unit": "usd",
+                "value": 88100000.0
+            },
+            {
+                "label": "Accounts receivable, net of allowance of $5.2 and $3.4",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 532100000.0
+            },
+            {
+                "label": "Other current assets (includes $4.4 and $4.3 in restricted cash)",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 319200000.0
+            },
+            {
+                "label": "Performance bonds and guaranty fund contributions",
+                "concept": "GoodFaithAndMarginDepositsWithBrokerDealers",
+                "unit": "usd",
+                "value": 79441400000.0
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 81786200000.0
+            },
+            {
+                "label": "Property, net of accumulated depreciation and amortization of $894.4 and $867.5",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 538600000.0
+            },
+            {
+                "label": "Intangible assets\u2014trading products",
+                "concept": "cme:Intangibleassetstradingproducts",
+                "unit": "usd",
+                "value": 17175300000.0
+            },
+            {
+                "label": "Intangible assets\u2014other, net",
+                "concept": "OtherIndefiniteLivedIntangibleAssets",
+                "unit": "usd",
+                "value": 4931700000.0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 10742500000.0
+            },
+            {
+                "label": "Other assets (includes $0.7 and $0.9 in restricted cash)",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2040500000.0
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 117214800000.0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 88000000.0
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 672500000.0
+            },
+            {
+                "label": "Performance bonds and guaranty fund contributions",
+                "concept": "cme:MarginDepositsAndGuarantyFundsLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 79440900000.0
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 80201400000.0
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "UnsecuredLongTermDebt",
+                "unit": "usd",
+                "value": 3440900000.0
+            },
+            {
+                "label": "Deferred income tax liabilities, net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 5607300000.0
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1126300000.0
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 90375900000.0
+            },
+            {
+                "label": "Preferred stock, $0.01 par value, 10,000 shares authorized at June 30, 2020 and December 31, 2019; none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 21148900000.0
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 5668500000.0
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 13100000.0
+            },
+            {
+                "label": "Total CME Group Shareholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 26807900000.0
+            },
+            {
+                "label": "Non-controlling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 31000000.0
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 26838900000.0
+            },
+            {
+                "label": "Total Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 117214800000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 503300000.0
+            },
+            {
+                "label": "Net unrealized holding gains (losses) arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Reclassification of net (gains) losses on sales included in investment income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Investment securities, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Net change in defined benefit plans arising during the period",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of net actuarial (gains) losses included in compensation and benefits expense",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax",
+                "unit": "usd",
+                "value": 1100000.0
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Defined benefit plans, net",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 800000.0
+            },
+            {
+                "label": "Net unrealized holding gains (losses) arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification of net unrealized (gains) losses to interest expense and other non-operating income (expense)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesBeforeTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Derivative investments, net",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 11600000.0
+            },
+            {
+                "label": "Reclassification of net currency (gains) losses from foreign entities to other expenses",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationReclassificationAdjustmentFromAOCIRealizedUponSaleOrLiquidationBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Foreign currency translation, net",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 11600000.0
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 13100000.0
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 516400000.0
+            },
+            {
+                "label": "Less: comprehensive (income) loss attributable to non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income attributable to CME Group",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 516400000.0
+            }
+        ]
+    }
+}

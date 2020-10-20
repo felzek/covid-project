@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-03-06",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "FUSE",
+    "data": {
+        "bs": [
+            {
+                "label": "Deferred offering costs",
+                "concept": "DeferredOfferingCosts",
+                "unit": "usd",
+                "value": 74074
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 74074
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Accrued offering costs",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Promissory note \u2014 Related party",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 19074
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 50074
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 24123
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -1000
+            },
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 74074
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1000
+            },
+            {
+                "label": "Weighted average shares outstanding, basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 7625000
+            },
+            {
+                "label": "Basic and diluted net loss per common share (in Dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            }
+        ]
+    }
+}

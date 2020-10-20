@@ -1,0 +1,356 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LAWS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 10012000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 802000
+            },
+            {
+                "label": "Accounts receivable, less allowance for doubtful accounts of $961 and $593, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 33968000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 54910000
+            },
+            {
+                "label": "Miscellaneous receivables and prepaid expenses",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 6046000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 105738000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 14872000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 19218000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 20150000
+            },
+            {
+                "label": "Cash value of life insurance",
+                "concept": "CashSurrenderValueOfLifeInsurance",
+                "unit": "usd",
+                "value": 14716000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 11250000
+            },
+            {
+                "label": "Right of use assets",
+                "concept": "laws:LeaseAssetsRightofUseAsset",
+                "unit": "usd",
+                "value": 9507000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 256000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 195707000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 11492000
+            },
+            {
+                "label": "Lease obligation",
+                "concept": "laws:LeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 3921000
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 24195000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 39608000
+            },
+            {
+                "label": "Revolving line of credit",
+                "concept": "SecuredLongTermDebt",
+                "unit": "usd",
+                "value": 1712000
+            },
+            {
+                "label": "Security bonus plan",
+                "concept": "laws:SecurityBonusPlan",
+                "unit": "usd",
+                "value": 11832000
+            },
+            {
+                "label": "Lease obligation",
+                "concept": "laws:LeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 7427000
+            },
+            {
+                "label": "Deferred compensation",
+                "concept": "DeferredCompensationLiabilityClassifiedNoncurrent",
+                "unit": "usd",
+                "value": 6186000
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 6094000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 3804000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 76663000
+            },
+            {
+                "label": "Authorized - 500,000 shares, Issued and outstanding \u2014 None",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $1 par value:",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 9201000
+            },
+            {
+                "label": "Capital in excess of par value",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 19029000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 99648000
+            },
+            {
+                "label": "Treasury stock \u2013 193,904 and 146,400 shares, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 7517000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1317000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 119044000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 195707000
+            },
+            {
+                "label": "Preferred Stock, Par or Stated Value Per Share",
+                "concept": "PreferredStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Shares Authorized",
+                "concept": "PreferredStockSharesAuthorized",
+                "unit": "shares",
+                "value": 500000
+            },
+            {
+                "label": "Preferred Stock, Shares Issued",
+                "concept": "PreferredStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Shares Outstanding",
+                "concept": "PreferredStockSharesOutstanding",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, Par or Stated Value Per Share",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 1
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 72146000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 38313000
+            },
+            {
+                "label": "Selling expenses",
+                "concept": "SellingExpense",
+                "unit": "usd",
+                "value": 16306000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 21438000
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 37744000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 569000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 72000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 511000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1008000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 389000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 619000
+            },
+            {
+                "label": "Basic income per share of common stock",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Diluted income per share of common stock",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Basic weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 9002000
+            },
+            {
+                "label": "Effect of dilutive securities outstanding",
+                "concept": "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+                "unit": "shares",
+                "value": 296000
+            },
+            {
+                "label": "Diluted weighted average shares outstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 9298000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 619000
+            },
+            {
+                "label": "Adjustment for foreign currency translation",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1178000
+            },
+            {
+                "label": "Net comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1797000
+            }
+        ]
+    }
+}

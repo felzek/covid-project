@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VEL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents, and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 16538000
+            },
+            {
+                "label": "Cash, cash equivalents, and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 16538000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InterestAndFeeIncomeLoansAndLeasesHeldInPortfolio",
+                "unit": "usd",
+                "value": 39755000
+            },
+            {
+                "label": "Interest expense \u2014 portfolio related",
+                "concept": "InterestExpenseNOWAccountsMoneyMarketAccountsAndSavingsDeposits",
+                "unit": "usd",
+                "value": 21189000
+            },
+            {
+                "label": "Interest income NOW accounts, money market accounts and savings deposits, net",
+                "concept": "vel:InterestIncomeNOWAccountsMoneyMarketAccountsAndSavingsDepositsNet",
+                "unit": "usd",
+                "value": 18566000
+            },
+            {
+                "label": "Interest expense \u2014 corporate debt",
+                "concept": "InterestExpenseBorrowings",
+                "unit": "usd",
+                "value": 1894000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 16672000
+            },
+            {
+                "label": "Provision for loan losses",
+                "concept": "ProvisionForLoanLossesExpensed",
+                "unit": "usd",
+                "value": 1800000
+            },
+            {
+                "label": "Net interest income after provision for loan losses",
+                "concept": "InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "unit": "usd",
+                "value": 14872000
+            },
+            {
+                "label": "Gain on disposition of loans",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 155000
+            },
+            {
+                "label": "Unrealized gain (loss) on fair value loans.",
+                "concept": "vel:UnrealizedGainLossOnFairValueLoans",
+                "unit": "usd",
+                "value": -13000
+            },
+            {
+                "label": "Other income (expense)",
+                "concept": "NoninterestIncomeOther",
+                "unit": "usd",
+                "value": -1481000
+            },
+            {
+                "label": "Total other operating (expense) income",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -1339000
+            },
+            {
+                "label": "Compensation and employee benefits",
+                "concept": "EmployeeBenefitsAndShareBasedCompensation",
+                "unit": "usd",
+                "value": 5863000
+            },
+            {
+                "label": "Rent and occupancy.",
+                "concept": "vel:RentAndOccupancy",
+                "unit": "usd",
+                "value": 448000
+            },
+            {
+                "label": "Loan servicing",
+                "concept": "ExpenseRelatedToDistributionOrServicingAndUnderwritingFees",
+                "unit": "usd",
+                "value": 1754000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 588000
+            },
+            {
+                "label": "Real estate owned, net",
+                "concept": "ForeclosedRealEstateExpense",
+                "unit": "usd",
+                "value": 408000
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 1847000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 10908000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2625000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 484000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2141000
+            },
+            {
+                "label": "Less deemed dividends on preferred stock",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 48955000
+            },
+            {
+                "label": "Net loss allocated to common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -46814000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -2.33
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -2.33
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 20087
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 20087
+            }
+        ]
+    }
+}

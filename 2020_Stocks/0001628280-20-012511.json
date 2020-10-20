@@ -1,0 +1,308 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OPC",
+    "data": {
+        "bs": [
+            {
+                "label": "Right-of-use assets\u2014finance leases",
+                "concept": "opc:FinanceLeaseRightOfUseAssetGross",
+                "unit": "usd",
+                "value": 302732000
+            },
+            {
+                "label": "Less: Accumulated provision for depreciation",
+                "concept": "opc:FinanceLeaseRightOfUseAssetAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 260139000
+            },
+            {
+                "label": "Total finance lease assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 42593000
+            },
+            {
+                "label": "Obligation under finance leases",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 72354000
+            },
+            {
+                "label": "Long-term debt and finance leases due within one year",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 6418000
+            },
+            {
+                "label": "Total finance lease liabilities",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 78772000
+            },
+            {
+                "label": "Electric plant in service",
+                "concept": "opc:OperatingLeaseRightOfUseAssetNoncurrent",
+                "unit": "usd",
+                "value": 3795000
+            },
+            {
+                "label": "Total operating lease assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 3795000
+            },
+            {
+                "label": "Capitalization\u2014Other",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2889000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1001000
+            },
+            {
+                "label": "Total operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 3890000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net margin",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 49366000
+            },
+            {
+                "label": "Depreciation and amortization, including nuclear fuel",
+                "concept": "opc:DepreciationDepletionAndAmortizationExcludingAccretionAndAmortizationOfDeferredGains",
+                "unit": "usd",
+                "value": 189831000
+            },
+            {
+                "label": "Accretion",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 26626000
+            },
+            {
+                "label": "Amortization of deferred gains",
+                "concept": "AmortizationOfDeferredHedgeGains",
+                "unit": "usd",
+                "value": 894000
+            },
+            {
+                "label": "Allowance for equity funds used during construction",
+                "concept": "PublicUtilitiesAllowanceForFundsUsedDuringConstructionCapitalizedCostOfEquity",
+                "unit": "usd",
+                "value": 251000
+            },
+            {
+                "label": "Deferred outage costs",
+                "concept": "opc:DeferredOutageCosts",
+                "unit": "usd",
+                "value": 27507000
+            },
+            {
+                "label": "Gain on sale of investments",
+                "concept": "GainLossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": 11694000
+            },
+            {
+                "label": "Regulatory deferral of costs associated with nuclear decommissioning",
+                "concept": "opc:NuclearDecommissionRegulatoryDeferralCosts",
+                "unit": "usd",
+                "value": 5427000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 1514000
+            },
+            {
+                "label": "Receivables",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": 119414000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 4003000
+            },
+            {
+                "label": "Prepayments and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 17423000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 42619000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 1032000
+            },
+            {
+                "label": "Accrued taxes",
+                "concept": "IncreaseDecreaseInPropertyAndOtherTaxesPayable",
+                "unit": "usd",
+                "value": 22469000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 15345000
+            },
+            {
+                "label": "Member power bill prepayments",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 26431000
+            },
+            {
+                "label": "Rate management program collections",
+                "concept": "opc:IncreaseDecreaseInRateManagementProgramCollections",
+                "unit": "usd",
+                "value": 81105000
+            },
+            {
+                "label": "Total adjustments",
+                "concept": "AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 46477000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 95843000
+            },
+            {
+                "label": "Property additions",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 659913000
+            },
+            {
+                "label": "Activity in nuclear decommissioning trust fund\u2014Purchases",
+                "concept": "PaymentsToInvestInDecommissioningFund",
+                "unit": "usd",
+                "value": 261327000
+            },
+            {
+                "label": "Activity in nuclear decommissioning trust fund - Proceeds",
+                "concept": "ProceedsFromDecommissioningFund",
+                "unit": "usd",
+                "value": 257176000
+            },
+            {
+                "label": "Increase (decrease) in restricted investments",
+                "concept": "IncreaseDecreaseOfRestrictedInvestments",
+                "unit": "usd",
+                "value": 13349000
+            },
+            {
+                "label": "Activity in other long-term investments\u2014Purchases",
+                "concept": "PaymentsToAcquireMarketableSecurities",
+                "unit": "usd",
+                "value": 180340000
+            },
+            {
+                "label": "Activity in other long-term investments - Proceeds",
+                "concept": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+                "unit": "usd",
+                "value": 110335000
+            },
+            {
+                "label": "Other",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 11880000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 735538000
+            },
+            {
+                "label": "Long-term debt proceeds",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 1377089000
+            },
+            {
+                "label": "Long-term debt payments",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 1000543000
+            },
+            {
+                "label": "Increase (decrease) in short-term borrowings, net",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 193620000
+            },
+            {
+                "label": "Other",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 7229000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 562937000
+            },
+            {
+                "label": "Net decrease in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 76758000
+            },
+            {
+                "label": "Interest (net of amounts capitalized)",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 101711000
+            },
+            {
+                "label": "Change in asset retirement obligations",
+                "concept": "IncreaseDecreaseInAssetRetirementObligations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued property additions at end of period",
+                "concept": "opc:IncreaseDecreaseInCapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 112213000
+            },
+            {
+                "label": "Interest paid-in-kind",
+                "concept": "PaidInKindInterest",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": []
+    }
+}

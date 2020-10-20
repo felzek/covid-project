@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HLF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents, and restricted cash, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1748100000.0
+            },
+            {
+                "label": "Cash, cash equivalents, and restricted cash, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1748100000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 115100000.0
+            },
+            {
+                "label": "Foreign currency translation adjustment, net of income taxes of $(2.3) and $(1.5) for the three months ended June 30, 2020 and 2019, respectively, and $(4.8) and $(1.0) for the six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 17200000.0
+            },
+            {
+                "label": "Unrealized (loss) gain on derivatives, net of income taxes of $\u2014 for both the three months ended June 30, 2020 and 2019, respectively, and $(0.3) and $\u2014 for the six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 16900000.0
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 132000000.0
+            }
+        ]
+    }
+}

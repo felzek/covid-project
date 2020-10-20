@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "POST",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Shareholders\u2019 Equity Excluding Noncontrolling Interests",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2916300000.0
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2879600000.0
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity Excluding Noncontrolling Interests",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2916300000.0
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2879600000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Earnings (Loss) Including Noncontrolling Interests",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 40400000.0
+            },
+            {
+                "label": "Reclassifications to net earnings (loss)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansBeforeTax",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Net gain on derivatives",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassifications to net earnings (loss)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesBeforeTax",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Unrealized foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 4700000.0
+            },
+            {
+                "label": "Reclassifications to net earnings (loss) (see Note 4)",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationReclassificationAdjustmentFromAOCIRealizedUponSaleOrLiquidationBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassifications to net earnings (loss)",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Net gain/loss on derivatives",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassifications to net earnings (loss)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesTax",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Total Other Comprehensive (Loss) Income Including Noncontrolling Interests",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 4500000.0
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4500000.0
+            },
+            {
+                "label": "Total Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 31400000.0
+            }
+        ]
+    }
+}

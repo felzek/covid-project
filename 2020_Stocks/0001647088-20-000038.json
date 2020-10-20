@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WSC",
+    "data": {
+        "bs": [
+            {
+                "label": "Receivables due from affiliates",
+                "concept": "AccountsReceivableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Amounts due to affiliates",
+                "concept": "wsc:DuetoRelatedPartiesExcludingInterestPayableCurrent",
+                "unit": "usd",
+                "value": 2174000
+            },
+            {
+                "label": "Total related party liabilities, net",
+                "concept": "RelatedPartyTransactionDueFromToRelatedParty",
+                "unit": "usd",
+                "value": 2154000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Leasing revenue from related parties",
+                "concept": "wsc:RelatedPartyTransactionOperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 294000
+            },
+            {
+                "label": "Consulting expense to related party",
+                "concept": "wsc:RelatedPartyTransactionConsultingExpense",
+                "unit": "usd",
+                "value": 2158000
+            },
+            {
+                "label": "Total related party expense, net",
+                "concept": "wsc:RelatedPartyTransactionIncomeExpensesfromTransactionswithRelatedPartyNet",
+                "unit": "usd",
+                "value": 1864000
+            }
+        ]
+    }
+}

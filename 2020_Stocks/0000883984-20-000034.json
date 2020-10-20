@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ICUI",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 20936000
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1411797000
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1411797000
+            },
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 20936000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 18908000
+            },
+            {
+                "label": "Cash flow hedge adjustments, net of taxes of $356 and $116 for the three and months ended June 30, 2020 and 2019, respectively, and ($577) and $322 for the six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 1126000
+            },
+            {
+                "label": "Foreign currency translation adjustment, net of taxes of $0 for all periods",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 4604000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Other Adjustments, after Tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of taxes",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 5734000
+            },
+            {
+                "label": "Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 24642000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Tax",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax",
+                "unit": "usd",
+                "value": 356000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other Comprehensive (Income) Loss, Other Adjustments, Tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ]
+    }
+}

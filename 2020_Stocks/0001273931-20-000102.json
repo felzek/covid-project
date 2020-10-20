@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MGI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 130600000.0
+            },
+            {
+                "label": "Settlement assets",
+                "concept": "SettlementAssetsCurrent",
+                "unit": "usd",
+                "value": 3501500000.0
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 158200000.0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 442200000.0
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 185300000.0
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4417800000.0
+            },
+            {
+                "label": "Payment service obligations",
+                "concept": "SettlementLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3501500000.0
+            },
+            {
+                "label": "Debt, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 855600000.0
+            },
+            {
+                "label": "Pension and other postretirement benefits",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 76300000.0
+            },
+            {
+                "label": "Accounts payable and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 252900000.0
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4686300000.0
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (NOTE 12)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Participating convertible preferred stock - series D, $0.01 par value, 200,000 shares authorized, 71,282 issued at June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 183900000.0
+            },
+            {
+                "label": "Common stock, $0.01 par value, 162,500,000 shares authorized, 65,061,090 shares issued at June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1120300000.0
+            },
+            {
+                "label": "Retained loss",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1494100000.0
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 68000000.0
+            },
+            {
+                "label": "Treasury stock: 1,504,305 and 2,329,906 shares at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 11300000.0
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 268500000.0
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 4417800000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET LOSS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4600000.0
+            },
+            {
+                "label": "Net change in unrealized holding loss on available-for-sale securities arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Net change in pension liability due to amortization of prior service credit and net actuarial loss, net of tax benefit of $0.2 and $0.3 for the three months ended June 30, 2020 and 2019, respectively, and $0.3 and $0.4 for the six months ended June 30, 2020 and 2019, respectively",
+                "concept": "mgi:OthercomprehensiveincomelossreclassificationfromAOCIPensionandOtherPostretirementBenefitPlansforNetGainLossandPriorServiceCostNetofTax",
+                "unit": "usd",
+                "value": 500000.0
+            },
+            {
+                "label": "Pension settlement charge, net of tax benefit of $7.2 for the three and six months ended June 30, 2019",
+                "concept": "OtherComprehensiveIncomeLossFinalizationOfPensionAndNonPensionPostretirementPlanValuationNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Valuation adjustment for pension, net of tax expense of $0.1 for the three and six months ended June 30, 2019",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized foreign currency translation adjustments, net of tax benefit (expense) of $0.2 and ($0.1) for the three months ended June 30, 2020 and 2019, respectively, and $0.2 and ($0.1) for the six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2100000.0
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2300000.0
+            },
+            {
+                "label": "COMPREHENSIVE (LOSS) INCOME",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2300000.0
+            }
+        ]
+    }
+}

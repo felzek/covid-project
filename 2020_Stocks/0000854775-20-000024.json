@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "DGII",
+    "data": {
+        "bs": [
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableGrossCurrent",
+                "unit": "usd",
+                "value": 60106000
+            },
+            {
+                "label": "Less allowance for doubtful accounts",
+                "concept": "AllowanceForDoubtfulAccountsReceivableCurrent",
+                "unit": "usd",
+                "value": 2178000
+            },
+            {
+                "label": "Less reserve for future returns and pricing adjustments",
+                "concept": "dgii:AllowanceforFutureReturnsandPricingAdjustments",
+                "unit": "usd",
+                "value": 4052000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 53876000
+            },
+            {
+                "label": "Raw materials",
+                "concept": "InventoryRawMaterialsNetOfReserves",
+                "unit": "usd",
+                "value": 33080000
+            },
+            {
+                "label": "Work in process",
+                "concept": "InventoryWorkInProcessNetOfReserves",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Finished goods",
+                "concept": "InventoryFinishedGoodsNetOfReserves",
+                "unit": "usd",
+                "value": 13470000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 46550000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1766000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 681000
+            },
+            {
+                "label": "Change in net unrealized gain on investments",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Less income tax expense",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 681000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2447000
+            }
+        ]
+    }
+}

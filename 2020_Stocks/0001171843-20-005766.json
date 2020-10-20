@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FCAP",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 105978000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 105978000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Noninterest income",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 1307000
+            },
+            {
+                "label": "fcap_GainLossOnLoansAndInvestment",
+                "concept": "fcap:GainLossOnLoansAndInvestment",
+                "unit": "usd",
+                "value": 915000
+            },
+            {
+                "label": "Increase in cash surrender value of life insurance",
+                "concept": "BankOwnedLifeInsuranceIncome",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "fcap_NoninterestIncomeOtherOperatingIncomeExcludingRevenueFromContractWithCustomer",
+                "concept": "fcap:NoninterestIncomeOtherOperatingIncomeExcludingRevenueFromContractWithCustomer",
+                "unit": "usd",
+                "value": 28000
+            },
+            {
+                "label": "fcap_NoninterestIncomeExcludingRevenueFromContractsWithCustomers",
+                "concept": "fcap:NoninterestIncomeExcludingRevenueFromContractsWithCustomers",
+                "unit": "usd",
+                "value": 1013000
+            },
+            {
+                "label": "Total noninterest income",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 2320000
+            }
+        ]
+    }
+}

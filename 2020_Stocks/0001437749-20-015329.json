@@ -1,0 +1,627 @@
+{
+    "startDate": "2019-05-01",
+    "endDate": "2020-04-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "BUKS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 16793000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 2784000
+            },
+            {
+                "label": "Asset held for sale, net of accumulated depreciation",
+                "concept": "buks:AssetHeldForSaleNetOfAccumulatedDepreciation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income tax receivable",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Parts and raw materials",
+                "concept": "InventoryRawMaterialsNetOfReserves",
+                "unit": "usd",
+                "value": 6892000
+            },
+            {
+                "label": "Work in process",
+                "concept": "InventoryWorkInProcessNetOfReserves",
+                "unit": "usd",
+                "value": 1661000
+            },
+            {
+                "label": "Finished goods",
+                "concept": "InventoryFinishedGoodsNetOfReserves",
+                "unit": "usd",
+                "value": 62000
+            },
+            {
+                "label": "us-gaap_InventoryNet",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 8615000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1620000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 29812000
+            },
+            {
+                "label": "Finance lease right-to-use assets",
+                "concept": "buks:FinanceLeaseRightOfUseAssetGross",
+                "unit": "usd",
+                "value": 44349000
+            },
+            {
+                "label": "Land and building",
+                "concept": "buks:LandAndBuildingGross",
+                "unit": "usd",
+                "value": 5805000
+            },
+            {
+                "label": "Aircraft",
+                "concept": "buks:FlightEquipmentOwned",
+                "unit": "usd",
+                "value": 8511000
+            },
+            {
+                "label": "Machinery and equipment",
+                "concept": "MachineryAndEquipmentGross",
+                "unit": "usd",
+                "value": 4093000
+            },
+            {
+                "label": "Office furniture and fixtures",
+                "concept": "FurnitureAndFixturesGross",
+                "unit": "usd",
+                "value": 8533000
+            },
+            {
+                "label": "Leasehold improvements",
+                "concept": "LeaseholdImprovementsGross",
+                "unit": "usd",
+                "value": 4032000
+            },
+            {
+                "label": "us-gaap_PropertyPlantAndEquipmentGross",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 75323000
+            },
+            {
+                "label": "us-gaap_AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 20577000
+            },
+            {
+                "label": "us-gaap_PropertyPlantAndEquipmentNet",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 54746000
+            },
+            {
+                "label": "SUPPLEMENTAL TYPE CERTIFICATES (net of accumulated amortization of $7,029 at April 30, 2020 and $6,054 at April 30, 2019)",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 6483000
+            },
+            {
+                "label": "Deferred tax asset",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 331000
+            },
+            {
+                "label": "Other assets (net of accumulated amortization of $10,153 at April 30, 2020 and $9,370 at April 30, 2019)",
+                "concept": "OtherAssetsMiscellaneousNoncurrent",
+                "unit": "usd",
+                "value": 3546000
+            },
+            {
+                "label": "us-gaap_OtherAssetsNoncurrent",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 3877000
+            },
+            {
+                "label": "Identifiable assets, net",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 94918000
+            },
+            {
+                "label": "Less: Current maturities",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 2228000
+            },
+            {
+                "label": "Current maturities of finance lease liability",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1163000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 962000
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 1994000
+            },
+            {
+                "label": "Gaming facility mandated payment",
+                "concept": "buks:GamingFacilityMandatedPayment",
+                "unit": "usd",
+                "value": 1338000
+            },
+            {
+                "label": "Compensation and compensated absences",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2571000
+            },
+            {
+                "label": "Deferred tax liability, current",
+                "concept": "buks:DeferredIncomeTaxLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 191000
+            },
+            {
+                "label": "Income tax payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 206000
+            },
+            {
+                "label": "us-gaap_OtherLiabilitiesCurrent",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 274000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10927000
+            },
+            {
+                "label": "Notes payable",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 3211000
+            },
+            {
+                "label": "Finance lease liability, net of current maturities",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 42211000
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 765000
+            },
+            {
+                "label": "us-gaap_LiabilitiesNoncurrent",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 46187000
+            },
+            {
+                "label": "us-gaap_Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 57114000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $.01: authorized 100,000,000 shares issued 77,719,677 shares, and outstanding 74,398,262 shares at April 30, 2020 and issued 71,008,122 shares, and outstanding 68,281,071 shares at April 30, 2019",
+                "concept": "CommonStockValueOutstanding",
+                "unit": "usd",
+                "value": 777000
+            },
+            {
+                "label": "Capital contributed in excess of par",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 15600000
+            },
+            {
+                "label": "us-gaap_TreasuryStockValue",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 1713000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 18147000
+            },
+            {
+                "label": "Total Butler National Corporation's stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 32811000
+            },
+            {
+                "label": "Noncontrolling interest in BHCMC, LLC",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 4993000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 37804000
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 94918000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 3246000
+            },
+            {
+                "label": "buks_DepreciationAndAmortizationExcludingAmortizationOfSupplementalTypeCertificates",
+                "concept": "buks:DepreciationAndAmortizationExcludingAmortizationOfSupplementalTypeCertificates",
+                "unit": "usd",
+                "value": 6357000
+            },
+            {
+                "label": "Stock issued for benefit plan",
+                "concept": "PensionAndOtherPostretirementBenefitExpense",
+                "unit": "usd",
+                "value": 676000
+            },
+            {
+                "label": "Deferred income tax (benefit)",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -260000
+            },
+            {
+                "label": "Gain on sale of airplanes",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 642000
+            },
+            {
+                "label": "Deferred compensation, restricted stock",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 224000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -481000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInIncomeTaxesReceivable",
+                "concept": "IncreaseDecreaseInIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": -27000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -270000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -26000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -812000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerLiability",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -764000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 907000
+            },
+            {
+                "label": "buks_IncreaseDecreaseInGamingFacilityMandatedPayment",
+                "concept": "buks:IncreaseDecreaseInGamingFacilityMandatedPayment",
+                "unit": "usd",
+                "value": 58000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 206000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 44000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 10044000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 3165000
+            },
+            {
+                "label": "Proceeds from sale of airplanes",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1095000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -2070000
+            },
+            {
+                "label": "Repayments of promissory notes, net",
+                "concept": "ProceedsFromRepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Borrowings of long-term debt",
+                "concept": "ProceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet",
+                "unit": "usd",
+                "value": 3383000
+            },
+            {
+                "label": "us-gaap_RepaymentsOfLongTermDebt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 1919000
+            },
+            {
+                "label": "us-gaap_FinanceLeasePrincipalPayments",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 973000
+            },
+            {
+                "label": "us-gaap_PaymentsForRepurchaseOfCommonStock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 326000
+            },
+            {
+                "label": "us-gaap_PaymentsToMinorityShareholders",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 360000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -195000
+            },
+            {
+                "label": "us-gaap_CashPeriodIncreaseDecrease",
+                "concept": "CashPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 7779000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 4365000
+            },
+            {
+                "label": "Income taxes paid",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 1360000
+            },
+            {
+                "label": "Issuance of restricted stock to employees",
+                "concept": "StockIssuedDuringPeriodValueRestrictedStockAwardGross",
+                "unit": "usd",
+                "value": 2040000
+            },
+            {
+                "label": "Capital asset and lease obligation additions",
+                "concept": "buks:CapitalAssetAndLeaseObligationAdditions",
+                "unit": "usd",
+                "value": 42650000
+            },
+            {
+                "label": "buks_NoncashInvestingAndFinancingActivitiesTotal",
+                "concept": "buks:NoncashInvestingAndFinancingActivitiesTotal",
+                "unit": "usd",
+                "value": 44690000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 65871000
+            },
+            {
+                "label": "Marketing and advertising",
+                "concept": "MarketingAndAdvertisingExpense",
+                "unit": "usd",
+                "value": 4095000
+            },
+            {
+                "label": "Employee benefits",
+                "concept": "EmployeeBenefitsAndShareBasedCompensation",
+                "unit": "usd",
+                "value": 2606000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 5116000
+            },
+            {
+                "label": "General, administrative and other",
+                "concept": "OtherGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 7347000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 57565000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 8306000
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 4368000
+            },
+            {
+                "label": "Gain on sale of airplanes",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 642000
+            },
+            {
+                "label": "Refund of sales/use tax",
+                "concept": "buks:RefundOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -3726000
+            },
+            {
+                "label": "Income before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 4580000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "CurrentIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1594000
+            },
+            {
+                "label": "Deferred income tax (benefit)",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -260000
+            },
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 3246000
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAttributableToNoncontrollingInterest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -988000
+            },
+            {
+                "label": "Net income attributable to Butler National Corporation",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4234000
+            },
+            {
+                "label": "Basic earnings per common share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.06
+            },
+            {
+                "label": "Weighted average common shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 68622527
+            },
+            {
+                "label": "Diluted earnings per common share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.06
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 68622527
+            }
+        ]
+    }
+}

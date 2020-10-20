@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "GWB",
+    "data": {
+        "bs": [
+            {
+                "label": "Time deposits",
+                "concept": "DepositsFairValueDisclosure",
+                "unit": "usd",
+                "value": 1433538000
+            },
+            {
+                "label": "FHLB advances and other borrowings",
+                "concept": "FederalHomeLoanBankBorrowingsFairValueDisclosure",
+                "unit": "usd",
+                "value": 355000000
+            },
+            {
+                "label": "Securities sold under repurchase agreements",
+                "concept": "SecuritiesLoanedOrSoldUnderAgreementsToRepurchaseFairValueDisclosure",
+                "unit": "usd",
+                "value": 70362000
+            },
+            {
+                "label": "Subordinated debentures and subordinated notes payable",
+                "concept": "FairValueLiabilitiesMeasuredOnRecurringBasisSubordinatedDebtObligations",
+                "unit": "usd",
+                "value": 108792000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 5400000
+            },
+            {
+                "label": "Net unrealized holding gain arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 11838000
+            },
+            {
+                "label": "Reclassification adjustment for net (gain) loss realized in net income",
+                "concept": "gwb:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesAndWriteDownOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2919000
+            },
+            {
+                "label": "Net change in unrealized gain on securities available for sale",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 8919000
+            },
+            {
+                "label": "Total comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 14319000
+            }
+        ]
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "CFFN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents (includes interest-earning deposits of $381,946 and $198,809)",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 396219000
+            },
+            {
+                "label": "Available-for-sale (\"AFS\") securities, at estimated fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 1220054000
+            },
+            {
+                "label": "Loans receivable, net (allowance for credit losses (\"ACL\") of $31,215 and $9,226)",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 7388090000
+            },
+            {
+                "label": "Federal Home Loan Bank Topeka (\"FHLB\") stock, at cost",
+                "concept": "FederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 102782000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 98953000
+            },
+            {
+                "label": "Income taxes receivable, net",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": 1655000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 351061000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 9558814000
+            },
+            {
+                "label": "Deposits",
+                "concept": "DepositsDomestic",
+                "unit": "usd",
+                "value": 6069684000
+            },
+            {
+                "label": "Borrowings",
+                "concept": "FederalHomeLoanBankAdvancesLongTerm",
+                "unit": "usd",
+                "value": 1989089000
+            },
+            {
+                "label": "Advance payments by borrowers for taxes and insurance",
+                "concept": "AdvancePaymentsByBorrowersForTaxesAndInsurance",
+                "unit": "usd",
+                "value": 39125000
+            },
+            {
+                "label": "Deferred income tax liabilities, net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 10942000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 149454000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 8258294000
+            },
+            {
+                "label": "Preferred stock, $.01 par value; 100,000,000 shares authorized, no shares issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $.01 par value; 1,400,000,000 shares authorized, 141,511,716 and 141,440,030 shares issued and outstanding as of June 30, 2020 and September 30, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1415000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1211653000
+            },
+            {
+                "label": "Unearned compensation, Employee Stock Ownership Plan (\"ESOP\")",
+                "concept": "cffn:UnearnedESOPSharesCost",
+                "unit": "usd",
+                "value": 33453000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 138496000
+            },
+            {
+                "label": "Accumulated other comprehensive (loss) income (\"AOCI\"), net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 17591000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1300520000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 9558814000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 19474000
+            },
+            {
+                "label": "Unrealized gains (losses) on AFS securities arising during the period, net of taxes of $(1,775), $(1,317), $(4,962) and $(3,432)",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 5533000
+            },
+            {
+                "label": "Changes in unrealized gains (losses) on cash flow hedges, net of taxes of $367, $3,601, $5,826 and $8,847",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 1146000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 23861000
+            }
+        ]
+    }
+}

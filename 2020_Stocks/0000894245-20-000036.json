@@ -1,0 +1,146 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AEI22",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 3630861
+            },
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 1282456
+            },
+            {
+                "label": "Buildings",
+                "concept": "BuildingsAndImprovementsGross",
+                "unit": "usd",
+                "value": 3835828
+            },
+            {
+                "label": "Real Estate Held for Investment, at cost",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 5846714
+            },
+            {
+                "label": "Real Estate Held for Investment, Net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 3699344
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 7939987
+            },
+            {
+                "label": "Payable to AEI Fund Management, Inc.",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 15544
+            },
+            {
+                "label": "Distributions Payable",
+                "concept": "DividendsPayableCurrent",
+                "unit": "usd",
+                "value": 101544
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 140003
+            },
+            {
+                "label": "General Partners",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 9811
+            },
+            {
+                "label": "Total Liabilities and Partners' Capital",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 7939987
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental Income",
+                "concept": "OperatingLeasesIncomeStatementLeaseRevenue",
+                "unit": "usd",
+                "value": 117998
+            },
+            {
+                "label": "Partnership Administration \u2013 Affiliates",
+                "concept": "CostsAndExpensesRelatedParty",
+                "unit": "usd",
+                "value": 16637
+            },
+            {
+                "label": "Partnership Administration and Property Management \u2013 Unrelated Parties",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 13227
+            },
+            {
+                "label": "Total Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 76427
+            },
+            {
+                "label": "Operating Income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 41571
+            },
+            {
+                "label": "Gain on Sale of Real Estate",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total Other Income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 891
+            },
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 42462
+            },
+            {
+                "label": "General Partners",
+                "concept": "NetIncomeLossAllocatedToGeneralPartners",
+                "unit": "usd",
+                "value": 1274
+            },
+            {
+                "label": "Limited Partners",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": 41188
+            },
+            {
+                "label": "Weighted Average Units Outstanding \u2013 Basic and Diluted (in Shares)",
+                "concept": "WeightedAverageGeneralPartnershipUnitsOutstanding",
+                "unit": "shares",
+                "value": 12692
+            }
+        ]
+    }
+}

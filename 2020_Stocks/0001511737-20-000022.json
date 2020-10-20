@@ -1,0 +1,399 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "UBNT",
+    "data": {
+        "bs": [
+            {
+                "label": "Property and Equipment, Gross",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 120769000
+            },
+            {
+                "label": "Less: Accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 42247000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 78522000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 380297000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 7695000
+            },
+            {
+                "label": "Impairment of cost-based investment",
+                "concept": "CostmethodInvestmentsOtherThanTemporaryImpairment",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Amortization of debt issuance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 1807000
+            },
+            {
+                "label": "Non-cash lease expense",
+                "concept": "ubnt:OperatingLeaseNonCashLeaseExpense",
+                "unit": "usd",
+                "value": 1146000
+            },
+            {
+                "label": "Premium amortization and (discount accretion), net",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 52000
+            },
+            {
+                "label": "Write off unamortized debt issuance costs",
+                "concept": "WriteOffOfDeferredDebtIssuanceCost",
+                "unit": "usd",
+                "value": 105000
+            },
+            {
+                "label": "Provision for inventory obsolescence",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 6617000
+            },
+            {
+                "label": "Provisions for loss on vendor deposits and purchase commitments",
+                "concept": "ubnt:ProvisionforGainLossonVendorDeposit",
+                "unit": "usd",
+                "value": 3327000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2888000
+            },
+            {
+                "label": "Deferred taxes",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 1194000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 265000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 13883000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 28053000
+            },
+            {
+                "label": "Vendor deposits",
+                "concept": "ubnt:IncreaseDecreaseinVendorDeposits",
+                "unit": "usd",
+                "value": 3124000
+            },
+            {
+                "label": "Prepaid income taxes",
+                "concept": "IncreaseDecreaseInPrepaidTaxes",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 10813000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 116900000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 3527000
+            },
+            {
+                "label": "Deferred revenues",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 855000
+            },
+            {
+                "label": "Accrued and other liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 39975000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 460284000
+            },
+            {
+                "label": "Purchase of property and equipment and other long-term assets",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 30619000
+            },
+            {
+                "label": "Private equity investment",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Purchase of investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 27538000
+            },
+            {
+                "label": "Proceeds from sale of investments",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 111909000
+            },
+            {
+                "label": "Proceeds from maturity of investments",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 15832000
+            },
+            {
+                "label": "Net cash (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 69584000
+            },
+            {
+                "label": "Debt Issuance Costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 3138000
+            },
+            {
+                "label": "Repurchases of common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 700125000
+            },
+            {
+                "label": "Payment of common stock cash dividends",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 78682000
+            },
+            {
+                "label": "Proceeds from exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 179000
+            },
+            {
+                "label": "Tax withholdings related to net share settlements of stock options",
+                "concept": "StockIssuedDuringPeriodValueStockOptionsExercisedNetOfTaxBenefitExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Tax withholdings related to net share settlements of restricted stock units",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 1132000
+            },
+            {
+                "label": "Net cash (used in) provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 625398000
+            },
+            {
+                "label": "Net (decrease) increase in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 95530000
+            },
+            {
+                "label": "Income taxes paid, net of refunds",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 74918000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 21817000
+            },
+            {
+                "label": "Right-of-use asset recognized",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 8610000
+            },
+            {
+                "label": "Unpaid stock repurchases",
+                "concept": "DividendsCash",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unpaid property and equipment and other long-term assets",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 366000
+            },
+            {
+                "label": "Net unsettled investment purchases (sales, and maturities)",
+                "concept": "TransferOfInvestments",
+                "unit": "usd",
+                "value": 522000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 1284500000
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 676328000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 608172000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 89405000
+            },
+            {
+                "label": "Sales, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 40569000
+            },
+            {
+                "label": "Litigation settlement",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 129974000
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 478198000
+            },
+            {
+                "label": "Interest expense and other, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 28002000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 450196000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 69899000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 380297000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 5.81
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 5.8
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 65427000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 65514000
+            },
+            {
+                "label": "Unrealized (losses) gains on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 384000
+            },
+            {
+                "label": "Other Comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 384000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 379913000
+            }
+        ]
+    }
+}

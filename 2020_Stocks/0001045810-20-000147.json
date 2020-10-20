@@ -1,0 +1,67 @@
+{
+    "startDate": "2020-04-27",
+    "endDate": "2020-07-26",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NVDA",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 622000000
+            },
+            {
+                "label": "Net change in unrealized gain",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Reclassification adjustments for net realized gain (loss) included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Net change in unrealized gain",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Net unrealized gain",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 16000000
+            },
+            {
+                "label": "Reclassification adjustments for net realized gain (loss) included in net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Net change in unrealized gain",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 636000000
+            }
+        ]
+    }
+}

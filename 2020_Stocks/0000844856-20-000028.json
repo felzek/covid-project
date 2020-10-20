@@ -1,0 +1,248 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HCMC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1147103
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 26992
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 1779923
+            },
+            {
+                "label": "Investment",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": 12857
+            },
+            {
+                "label": "TOTAL CURRENT ASSETS",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 3265395
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 287837
+            },
+            {
+                "label": "Intangible assets, net of accumulated amortization",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 1795418
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 956000
+            },
+            {
+                "label": "Note receivable",
+                "concept": "NotesAndLoansReceivableNetNoncurrent",
+                "unit": "usd",
+                "value": 333396
+            },
+            {
+                "label": "Right of use asset - operating lease, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 4396343
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 142668
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 13177057
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 929799
+            },
+            {
+                "label": "Contract liabilities",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 21386
+            },
+            {
+                "label": "Current portion of line of credit",
+                "concept": "LinesOfCreditCurrent",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Current portion of loan payment",
+                "concept": "LoansPayableCurrent",
+                "unit": "usd",
+                "value": 651187
+            },
+            {
+                "label": "Operating lease liability, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 536152
+            },
+            {
+                "label": "TOTAL CURRENT LIABILITIES",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4138524
+            },
+            {
+                "label": "Loan payable, net of current portion",
+                "concept": "LongTermLoansPayable",
+                "unit": "usd",
+                "value": 1237060
+            },
+            {
+                "label": "Operating lease liability, net of current",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 3335437
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 8711021
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (SEE NOTE 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Series B convertible preferred stock, $1,000 par value per share, 30,000 shares authorized; 20,150 shares issued and outstanding as of June 30, 2020 and December 31, 2019; aggregate liquidation preference of $20.2 million",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 20150116
+            },
+            {
+                "label": "Common Stock, $0.0001 par value per share, 750,000,000,000 shares authorized; approximately 87.6 and 67.7 billion shares issued and outstanding as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 8755829
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5706544
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -30146453
+            },
+            {
+                "label": "TOTAL STOCKHOLDERS' EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4466036
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 13177057
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "TOTAL SALES, NET",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 3308912
+            },
+            {
+                "label": "GROSS PROFIT",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 1373294
+            },
+            {
+                "label": "OPERATING EXPENSES",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2168159
+            },
+            {
+                "label": "LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -794865
+            },
+            {
+                "label": "Gain (loss) on investment",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": -1286
+            },
+            {
+                "label": "Interest income (expense), net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": -22529
+            },
+            {
+                "label": "Total other (expense) income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -23815
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -818680
+            },
+            {
+                "label": "NET LOSS PER SHARE-BASIC AND DILUTED (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0
+            },
+            {
+                "label": "WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING-BASIC AND DILUTED (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 81189670235
+            }
+        ]
+    }
+}

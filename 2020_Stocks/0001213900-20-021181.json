@@ -1,0 +1,152 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MFAC",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH, BEGINNING OF PERIOD",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 599156
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 16321
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 615477
+            },
+            {
+                "label": "Marketable securities held in trust account",
+                "concept": "MarketableSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 33164861
+            },
+            {
+                "label": "Total other assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 33164861
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 33780338
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 221898
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 271937
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 513835
+            },
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "DeferredRevenueNoncurrent",
+                "unit": "usd",
+                "value": 6771556
+            },
+            {
+                "label": "Total long term liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 6771556
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 7285391
+            },
+            {
+                "label": "Class A common stock subject to possible redemption, $0.0001 par value, 2,128,212 and 16,177,739 shares at redemption value of $10.10 per share at June 30, 2020 and December 31, 2019, respectively.",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonCarryingAmount",
+                "unit": "usd",
+                "value": 21494941
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1671219
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3328256
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000006
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 33780338
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 13820
+            },
+            {
+                "label": "Legal and professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 161571
+            },
+            {
+                "label": "Total expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 285237
+            },
+            {
+                "label": "Interest income on investments held in Trust Account",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 38392
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 2422
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NPTN",
+    "data": {
+        "bs": [
+            {
+                "label": "Accrued warranty",
+                "concept": "ProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 1617000
+            },
+            {
+                "label": "Accrued warranty",
+                "concept": "ProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 1617000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 5725000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of zero tax",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 461000
+            },
+            {
+                "label": "Total other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 461000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 6186000
+            }
+        ]
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TMO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5818000000
+            },
+            {
+                "label": "Accounts receivable, less allowances of $113 and $102",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 4478000000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 3648000000
+            },
+            {
+                "label": "Contract assets, net",
+                "concept": "ContractWithCustomerAssetNetCurrent",
+                "unit": "usd",
+                "value": 686000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1145000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 15775000000
+            },
+            {
+                "label": "Property, Plant and Equipment, Net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 4887000000
+            },
+            {
+                "label": "Acquisition-related Intangible Assets, Net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 13170000000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2061000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 25700000000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 61593000000
+            },
+            {
+                "label": "Short-term obligations and current maturities of long-term obligations",
+                "concept": "DebtCurrent",
+                "unit": "usd",
+                "value": 675000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1385000000
+            },
+            {
+                "label": "Accrued payroll and employee benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1184000000
+            },
+            {
+                "label": "Contract liabilities",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 975000000
+            },
+            {
+                "label": "Other accrued expenses",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1794000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 6013000000
+            },
+            {
+                "label": "Deferred Income Taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 1750000000
+            },
+            {
+                "label": "Other Long-term Liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 3317000000
+            },
+            {
+                "label": "Long-term Obligations",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 20638000000
+            },
+            {
+                "label": "Preferred stock, $100 par value, 50,000 shares authorized; none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $1 par value, 1,200,000,000 shares authorized; 435,885,737 and 434,416,804 shares issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 436000000
+            },
+            {
+                "label": "Capital in excess of par value",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 15334000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 23860000000
+            },
+            {
+                "label": "Treasury stock at cost, 40,296,337 and 35,676,421 shares",
+                "concept": "TreasuryStockCommonValue",
+                "unit": "usd",
+                "value": 6766000000
+            },
+            {
+                "label": "Accumulated other comprehensive items",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2989000000
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 29875000000
+            },
+            {
+                "label": "Total Liabilities and Shareholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 61593000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 1156000000
+            },
+            {
+                "label": "Currency translation adjustment (net of tax (benefit) provision of $(17), $(30), $5 and $15)",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 103000000
+            },
+            {
+                "label": "Unrealized losses on hedging instruments (net of tax benefit of $1, $0, $20 and $0)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Reclassification adjustment for losses included in net income (net of tax benefit of $1, $1, $2 and $2)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Pension and other postretirement benefit liability adjustments arising during the period (net of tax benefit of $6, $4, $1 and $4)",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsNetOfTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Amortization of net loss included in net periodic pension cost (net of tax benefit of $2, $1, $3 and $2)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Total other comprehensive items",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 99000000
+            },
+            {
+                "label": "Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1255000000
+            }
+        ]
+    }
+}

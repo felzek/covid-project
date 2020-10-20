@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CK1437958",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH, DUE FROM BANKS AND RESTRICTED CASH, beginning of year",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 26496000
+            },
+            {
+                "label": "CASH, DUE FROM BANKS AND RESTRICTED CASH, beginning of year",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 26496000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3671000
+            },
+            {
+                "label": "Unrealized holding (loss) gain during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Income tax benefit (expense) related to unrealized holding (loss) gain",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "OTHER COMPREHENSIVE (LOSS) INCOME, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3668000
+            }
+        ]
+    }
+}

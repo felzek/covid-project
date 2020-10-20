@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CWEN",
+    "data": {
+        "bs": [
+            {
+                "label": "Current portion of long-term debt \u2014 affiliate",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities",
+                "unit": "usd",
+                "value": 6813000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 76000000
+            },
+            {
+                "label": "Unrealized gain (loss) on derivatives, net of income tax expense (benefit) of $1, $0, $(1), $0",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 80000000
+            },
+            {
+                "label": "Less: Comprehensive income (loss) attributable to noncontrolling interests and redeemable interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 31000000
+            },
+            {
+                "label": "Comprehensive Income (Loss) Attributable to Clearway Energy, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 49000000
+            }
+        ]
+    }
+}

@@ -1,0 +1,332 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CHCO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 87658000
+            },
+            {
+                "label": "Interest-bearing deposits in depository institutions",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 285596000
+            },
+            {
+                "label": "Cash and Cash Equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 373254000
+            },
+            {
+                "label": "Investment securities available for sale, at fair value",
+                "concept": "AvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 1055185000
+            },
+            {
+                "label": "Investment securities, held-to-maturity, at amortized cost",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Securities held-to-maturity, Estimated Fair Value",
+                "concept": "HeldToMaturitySecuritiesFairValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other securities",
+                "concept": "chco:OtherInvestmentSecurities",
+                "unit": "usd",
+                "value": 26144000
+            },
+            {
+                "label": "Total Investment Securities",
+                "concept": "MarketableSecurities",
+                "unit": "usd",
+                "value": 1081329000
+            },
+            {
+                "label": "Gross loans",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 3665596000
+            },
+            {
+                "label": "Allowance for credit losses",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 25199000
+            },
+            {
+                "label": "Net Loans",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 3640397000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 116746000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 77991000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 14200000
+            },
+            {
+                "label": "Net deferred tax asset",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Goodwill and other intangible assets, net",
+                "concept": "IntangibleAssetsNetIncludingGoodwill",
+                "unit": "usd",
+                "value": 119417000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 105438000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 5528772000
+            },
+            {
+                "label": "Noninterest-bearing",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 1079469000
+            },
+            {
+                "label": "Demand deposits",
+                "concept": "DemandDepositAccounts",
+                "unit": "usd",
+                "value": 921761000
+            },
+            {
+                "label": "Savings deposits",
+                "concept": "DepositsSavingsDeposits",
+                "unit": "usd",
+                "value": 1067254000
+            },
+            {
+                "label": "Time deposits",
+                "concept": "TimeDeposits",
+                "unit": "usd",
+                "value": 1342631000
+            },
+            {
+                "label": "Total Deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 4411115000
+            },
+            {
+                "label": "Securities sold under agreements to repurchase",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 282676000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "JuniorSubordinatedDebentureOwedToUnconsolidatedSubsidiaryTrust",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 2598000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 138633000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4835022000
+            },
+            {
+                "label": "Preferred stock, par value (in dollars per share)",
+                "concept": "PreferredStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 25
+            },
+            {
+                "label": "Preferred stock, shares authorized (in shares)",
+                "concept": "PreferredStockSharesAuthorized",
+                "unit": "shares",
+                "value": 500000
+            },
+            {
+                "label": "Preferred stock, shares issued (in shares)",
+                "concept": "PreferredStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value (in dollars per share)",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 2.5
+            },
+            {
+                "label": "Common stock, shares authorized (in shares)",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": 50000000
+            },
+            {
+                "label": "Common stock, shares issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 19047548
+            },
+            {
+                "label": "Common stock, treasury shares (in shares)",
+                "concept": "TreasuryStockShares",
+                "unit": "shares",
+                "value": 2970815
+            },
+            {
+                "label": "Preferred Stock",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 47619000
+            },
+            {
+                "label": "Capital surplus",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 169881000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 565804000
+            },
+            {
+                "label": "Cost of common stock in treasury",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 120583000
+            },
+            {
+                "label": "Unrealized gain on securities available-for-sale",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 37299000
+            },
+            {
+                "label": "Underfunded pension liability",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPensionAndOtherPostretirementPlansNetOfTax",
+                "unit": "usd",
+                "value": 6270000
+            },
+            {
+                "label": "Total Accumulated Other Comprehensive Income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 31029000
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 693750000
+            },
+            {
+                "label": "Total Liabilities and Shareholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 5528772000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income Available to Common Shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 18251000
+            },
+            {
+                "label": "Unrealized gains on available-for-sale securities arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 4652000
+            },
+            {
+                "label": "Reclassification adjustment for gains",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Reclassification of unrealized gains on held-to-maturity securities to available-for-sale",
+                "concept": "OtherComprehensiveIncomeReclassificationAdjustmentForHeldToMaturityTransferredToAvailableForSaleSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income before income taxes",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 4658000
+            },
+            {
+                "label": "-1089000",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 1089000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3569000
+            },
+            {
+                "label": "Comprehensive Income, Net of Tax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 21820000
+            }
+        ]
+    }
+}

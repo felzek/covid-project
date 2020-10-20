@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-03-01",
+    "endDate": "2020-05-31",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "SCHN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents as of beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 307655000
+            },
+            {
+                "label": "Cash and cash equivalents as of beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 307655000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4717000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1904000
+            },
+            {
+                "label": "Pension obligations, net",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Total other comprehensive loss, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1859000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 6576000
+            },
+            {
+                "label": "Less comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 278000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to SSI shareholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 6854000
+            }
+        ]
+    }
+}

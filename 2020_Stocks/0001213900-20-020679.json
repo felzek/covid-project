@@ -1,0 +1,224 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "ROLL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, at beginning of period",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 143615000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts of $1,642 at June 27, 2020 and $1,627 at March 28, 2020",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 113184000
+            },
+            {
+                "label": "Inventory, Net, Total",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 371009000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 638849000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 218128000
+            },
+            {
+                "label": "Operating lease assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 30530000
+            },
+            {
+                "label": "Balance at beginning",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 277455000
+            },
+            {
+                "label": "Intangible assets, net of accumulated amortization of $58,242 at June 27, 2020 and $55,732 at March 28, 2020",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 161060000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1349209000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 51812000
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 5891000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 100290000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 19425000
+            },
+            {
+                "label": "Long-term debt, less current portion",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 16635000
+            },
+            {
+                "label": "Long-term operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 24857000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 206574000
+            },
+            {
+                "label": "Preferred stock, $.01 par value; authorized shares: 10,000,000 at June 27, 2020 and March 28, 2020, respectively; none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $.01 par value; authorized shares: 60,000,000 at June 27, 2020 and March 28, 2020, respectively; issued shares: 25,941,772 and 25,881,415 at June 27, 2020 and March 28, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 259000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 418069000
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 6229000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 791908000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1142635000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1349209000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 156493000
+            },
+            {
+                "label": "Gross margin",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 59453000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 26829000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 3810000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 28814000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 425000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 28347000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 22689000
+            },
+            {
+                "label": "Basic (in Dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.92
+            },
+            {
+                "label": "Diluted (in Dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.91
+            },
+            {
+                "label": "Basic (in Shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 24763903
+            },
+            {
+                "label": "Diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 24933941
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ZI",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease right-of-use assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 35000000.0
+            },
+            {
+                "label": "Current portion of operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 4000000.0
+            },
+            {
+                "label": "Operating lease liabilities, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 38300000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 110900000.0
+            },
+            {
+                "label": "Cost of service",
+                "concept": "zi:CostOfGoodsAndServiceIncludingDepreciationAndExcludingAmortization",
+                "unit": "usd",
+                "value": 28200000.0
+            },
+            {
+                "label": "Amortization of acquired technology",
+                "concept": "CostOfGoodsAndServicesSoldAmortization",
+                "unit": "usd",
+                "value": 5600000.0
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 77100000.0
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 59500000.0
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 16399999.999999998
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 18200000.0
+            },
+            {
+                "label": "Amortization of other acquired intangibles",
+                "concept": "zi:AmortizationOfOtherIntangibleAssets",
+                "unit": "usd",
+                "value": 4700000.0
+            },
+            {
+                "label": "Restructuring and transaction related expenses",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 9500000.0
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 108300000.0
+            },
+            {
+                "label": "Income (loss) from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 31200000.0
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 25100000.0
+            },
+            {
+                "label": "Loss on debt extinguishment",
+                "concept": "GainsLossesOnExtinguishmentOfDebtBeforeWriteOffOfDeferredDebtIssuanceCost",
+                "unit": "usd",
+                "value": 12700000.0
+            },
+            {
+                "label": "Other (income) expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 69100000.0
+            },
+            {
+                "label": "Benefit from income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 12900000.0
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 56200000.0
+            },
+            {
+                "label": "Less: Net income (loss) attributable to ZoomInfo OpCo prior to the Reorganization Transactions",
+                "concept": "zi:NetIncomeLossAttributableToParentPriorToReorganization",
+                "unit": "usd",
+                "value": 800000.0
+            },
+            {
+                "label": "Less: Net income (loss) attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 36600000.0
+            },
+            {
+                "label": "Net income (loss) attributable to ZoomInfo Technologies Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 20400000.0
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.22
+            }
+        ]
+    }
+}

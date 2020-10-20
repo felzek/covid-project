@@ -1,0 +1,140 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ENERGY11",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 7666221
+            },
+            {
+                "label": "Oil, natural gas and natural gas liquids revenue receivable",
+                "concept": "OilAndGasJointInterestBillingReceivables",
+                "unit": "usd",
+                "value": 2829721
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 10664284
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 345176048
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 22011811
+            },
+            {
+                "label": "Revolving credit facility",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 40000000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 63532997
+            },
+            {
+                "label": "Limited partners' interest (18,973,474 common units issued and outstanding, respectively)",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 281644778
+            },
+            {
+                "label": "General partner's interest",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 1727
+            },
+            {
+                "label": "Total Partners\u2019 Equity",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 281643051
+            },
+            {
+                "label": "Total Liabilities and Partners\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 345176048
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 4752518
+            },
+            {
+                "label": "Production expenses",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 2120130
+            },
+            {
+                "label": "Production taxes",
+                "concept": "ProductionTaxExpense",
+                "unit": "usd",
+                "value": 416550
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 355137
+            },
+            {
+                "label": "Total operating costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 8789671
+            },
+            {
+                "label": "Gain on derivatives",
+                "concept": "GainLossOnPriceRiskDerivativesNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total other expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 404368
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4441521
+            },
+            {
+                "label": "Basic and diluted net income (loss) per common unit (in Dollars per share)",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipAndGeneralPartnershipUnitBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.23
+            },
+            {
+                "label": "Weighted average common units outstanding - basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfLimitedPartnershipAndGeneralPartnershipUnitOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 18973474
+            }
+        ]
+    }
+}

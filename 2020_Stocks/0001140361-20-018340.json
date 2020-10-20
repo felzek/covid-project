@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TGC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2710000
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 2710000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Oil and gas properties",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 563000
+            },
+            {
+                "label": "Cost incurred related to the upstream oil and gas activities, such as the exploration, development, and production of crude petroleum and natural gas and all taxes not related to income of the entity or excise or sales taxes levied on the revenue of the entity that are not reported elsewhere. These taxes could include production, real estate, personal property, and pump tax.",
+                "concept": "tgc:ProductionCostsAndTaxes",
+                "unit": "usd",
+                "value": 689000
+            },
+            {
+                "label": "Depreciation, depletion, and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 155000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 272000
+            },
+            {
+                "label": "Operating Costs and Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1116000
+            },
+            {
+                "label": "Net income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -553000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Gain (Loss) on Disposition of Assets",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Total other income (expenses)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -1000
+            },
+            {
+                "label": "Income before income tax",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -554000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -554000
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.05
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 10673458
+            }
+        ]
+    }
+}

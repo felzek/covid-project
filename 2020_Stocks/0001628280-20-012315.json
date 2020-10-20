@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PBCT",
+    "data": {
+        "bs": [
+            {
+                "label": "Gross Amount Recognized",
+                "concept": "SecuritiesPurchasedUnderAgreementsToResellGross",
+                "unit": "usd",
+                "value": 250000000.0
+            },
+            {
+                "label": "Gross Amount Offset",
+                "concept": "SecuritiesPurchasedUnderAgreementsToResellLiability",
+                "unit": "usd",
+                "value": 250000000.0
+            },
+            {
+                "label": "Net Amount Presented",
+                "concept": "SecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gross Amount Recognized",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchaseGross",
+                "unit": "usd",
+                "value": 250000000.0
+            },
+            {
+                "label": "Gross Amount Offset",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchaseAsset",
+                "unit": "usd",
+                "value": 250000000.0
+            },
+            {
+                "label": "Customer repurchase agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 89900000.0
+            },
+            {
+                "label": "Net actuarial gains and losses related to pension and other postretirement plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Net unrealized gains and losses on debt securities available-for-sale",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 18400000.0
+            },
+            {
+                "label": "Amortization of unrealized losses on debt securities transferred to held-to-maturity",
+                "concept": "pbct:OtherComprehensiveIncomeNetUnrealizedHoldingGainsLossesOnSecuritiesTransferredFromAvailableForSaleToHeldToMaturity",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Net unrealized gains and losses on derivatives accounted for as cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 2200000.0
+            },
+            {
+                "label": "Total other comprehensive income, net of tax (note 6)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 18800000.0
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 108700000.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "NHI",
+    "data": {
+        "bs": [
+            {
+                "label": "Off-Balance Sheet, Credit Loss, Liability",
+                "concept": "OffBalanceSheetCreditLossLiability",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Off-Balance Sheet, Credit Loss, Liability",
+                "concept": "OffBalanceSheetCreditLossLiability",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 44425000
+            },
+            {
+                "label": "Increase (decrease) in fair value of cash flow hedge",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 867000
+            },
+            {
+                "label": "Less: reclassification adjustment for amounts recognized in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 2263000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1396000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 45821000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 57000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 45764000
+            }
+        ]
+    }
+}

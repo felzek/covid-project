@@ -1,0 +1,266 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CVET",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 414000000
+            },
+            {
+                "label": "Accounts receivable, net of allowance of $X and $X",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 470000000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 484000000
+            },
+            {
+                "label": "Other receivables",
+                "concept": "OtherReceivablesGrossCurrent",
+                "unit": "usd",
+                "value": 75000000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 41000000
+            },
+            {
+                "label": "Assets held for sale",
+                "concept": "cvet:DisposalGroupIncludingDiscontinuedOperationAssetsandAssetsHeldforSaleCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1484000000
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation of $X and $X",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 102000000
+            },
+            {
+                "label": "Operating lease right-of-use assets, net (Note 5)",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 127000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1154000000
+            },
+            {
+                "label": "Other intangibles, net (Note 6)",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 572000000
+            },
+            {
+                "label": "Investments and other",
+                "concept": "InvestmentsAndOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": 87000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3526000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 429000000
+            },
+            {
+                "label": "Current maturities of long-term debt and other borrowings (Note 7)",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 31000000
+            },
+            {
+                "label": "Accrued payroll and related liabilities",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 50000000
+            },
+            {
+                "label": "Accrued taxes",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 48000000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 162000000
+            },
+            {
+                "label": "Liabilities held for sale",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 720000000
+            },
+            {
+                "label": "Long-term debt and other borrowings, net (Note 7)",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 1095000000
+            },
+            {
+                "label": "Deferred taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 41000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 141000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1997000000
+            },
+            {
+                "label": "Commitments and contingencies (Note 10)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable non-controlling interests (Note 11)",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 9000000
+            },
+            {
+                "label": "Redeemable series A convertible preferred stock, $0.01 par value, $1,000 per share liquidation preference, 250,000 shares authorized, issued, and outstanding as of June\u00a030, 2020 (Note 12)",
+                "concept": "RedeemableNoncontrollingInterestEquityPreferredCarryingAmount",
+                "unit": "usd",
+                "value": 244000000
+            },
+            {
+                "label": "Common stock, $0.01 par value per share, 675,000,000 shares authorized; 112,674,657 shares issued and outstanding as of June 30, 2020; 111,620,507 shares issued and outstanding as of December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss (Note 13)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 107000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2404000000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1022000000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1276000000
+            },
+            {
+                "label": "Total liabilities, mezzanine equity, and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3526000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 54000000
+            },
+            {
+                "label": "Foreign currency translation gain (loss)",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Unrealized gain (loss) on derivative instruments",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsAndTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 61000000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Foreign currency translation (gain) loss",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income attributable to redeemable non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Covetrus",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 61000000
+            }
+        ]
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CCI",
+    "data": {
+        "bs": [
+            {
+                "label": "Real estate assets, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 164571123
+            },
+            {
+                "label": "Investment in unconsolidated real estate entity",
+                "concept": "cci:InvestmentsInUnconsolidatedSubsidiaries",
+                "unit": "usd",
+                "value": 10738226
+            },
+            {
+                "label": "Real estate note investment, net",
+                "concept": "MortgageLoansOnRealEstateCommercialAndConsumerNet",
+                "unit": "usd",
+                "value": 5321132
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 22485979
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 272267
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 707070
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 204095797
+            },
+            {
+                "label": "Credit facilities, net",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 92202593
+            },
+            {
+                "label": "Preferred stock, net",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsAmount",
+                "unit": "usd",
+                "value": 12429325
+            },
+            {
+                "label": "Related party payables",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 552700
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2491820
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 107676438
+            },
+            {
+                "label": "Commitments and contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, Value, Issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 108663
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 108006913
+            },
+            {
+                "label": "Accumulated distributions",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 4862634
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 6833583
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 96419359
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 204095797
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental and other property revenues",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 3011391
+            },
+            {
+                "label": "Real estate note investment interest",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 117413
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 3128804
+            },
+            {
+                "label": "Property operations expense",
+                "concept": "cci:PropertyOperationsExpense",
+                "unit": "usd",
+                "value": 1268246
+            },
+            {
+                "label": "Reimbursable operating expenses to related parties",
+                "concept": "CostsAndExpensesRelatedParty",
+                "unit": "usd",
+                "value": 232574
+            },
+            {
+                "label": "Asset management fee to related party",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 680656
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 2489818
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 550352
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 5221646
+            },
+            {
+                "label": "Income (Loss) from Equity Method Investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 325325
+            },
+            {
+                "label": "Interest income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 5050
+            },
+            {
+                "label": "Interest expense",
+                "concept": "OtherNonoperatingExpense",
+                "unit": "usd",
+                "value": 897013
+            },
+            {
+                "label": "Nonoperating Income (Expense), Total",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 566638
+            },
+            {
+                "label": "Total expenses before asset management fee waiver",
+                "concept": "cci:TotalExpensesBeforeAssetManagementFeeWaiver",
+                "unit": "usd",
+                "value": 5788284
+            },
+            {
+                "label": "Asset management fee waived by Advisor",
+                "concept": "InvestmentCompanyVoluntaryFeeWaived",
+                "unit": "usd",
+                "value": 12350
+            },
+            {
+                "label": "Net expenses after asset management fee waiver",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 5775934
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2647130
+            },
+            {
+                "label": "Weighted-average shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 10520556
+            },
+            {
+                "label": "Net loss per common share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.25
+            }
+        ]
+    }
+}

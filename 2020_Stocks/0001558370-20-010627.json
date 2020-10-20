@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GPFF",
+    "data": {
+        "bs": [
+            {
+                "label": "Partners' Capital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 46086278
+            },
+            {
+                "label": "Partners' Capital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 46086278
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Marketable Securities, Realized Gain (Loss)",
+                "concept": "MarketableSecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": -645
+            },
+            {
+                "label": "Marketable Securities, Unrealized Gain (Loss)",
+                "concept": "MarketableSecuritiesUnrealizedGainLoss",
+                "unit": "usd",
+                "value": 390085
+            },
+            {
+                "label": "Aggregate net gain (loss) (whether realized or unrealized) on securities, net of commissions.",
+                "concept": "gpff:GainLossOnSecuritiesNetOfCommissions",
+                "unit": "usd",
+                "value": 389440
+            },
+            {
+                "label": "Amount of gain (loss) resulting from the difference between the acquisition price and the selling price or fair value of trading assets and trading liabilities, net of applicable commissions. Includes, but is not limited to, changes in fair value of marketable securities and derivative trading activities.",
+                "concept": "gpff:TradingGainsLossesNetOfCommissionsMarketableSecuritiesAndDerivatives",
+                "unit": "usd",
+                "value": 1172398
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 72954
+            },
+            {
+                "label": "Investment Income, Dividend",
+                "concept": "InvestmentIncomeDividend",
+                "unit": "usd",
+                "value": 85490
+            },
+            {
+                "label": "Investment Income, Interest and Dividend",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 158444
+            },
+            {
+                "label": "Expenses charged against the earnings during the period that are related to the general partner fee, selling agent compensation and consulting fees to the trading advisors etc.",
+                "concept": "gpff:FeesToGeneralPartner",
+                "unit": "usd",
+                "value": 586807
+            },
+            {
+                "label": "Amount of incentive fees charged (credited) against the earnings during the period payable to the trading advisors.",
+                "concept": "gpff:IncentiveFees",
+                "unit": "usd",
+                "value": 842
+            },
+            {
+                "label": "Expenses recognized in the period that are related to organization and offering costs incurred in connection with the organization and the ongoing public offering of partnership interests.",
+                "concept": "gpff:OrganizationalAndOfferingCosts",
+                "unit": "usd",
+                "value": 35954
+            },
+            {
+                "label": "Other Expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 31398
+            },
+            {
+                "label": "Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 655001
+            },
+            {
+                "label": "Investment Income, Net",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": -496557
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 675841
+            }
+        ]
+    }
+}

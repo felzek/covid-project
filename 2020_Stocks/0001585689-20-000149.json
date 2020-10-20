@@ -1,0 +1,79 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HLT",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 432000000
+            },
+            {
+                "label": "Currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Pension liability adjustment",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Cash flow hedge adjustment",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 18000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 414000000
+            },
+            {
+                "label": "Comprehensive loss (income) attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Hilton stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 412000000
+            },
+            {
+                "label": "Currency translation adjustment, tax benefit",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Pension liability adjustment, tax expense",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Cash flow hedge adjustment, tax benefit",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationTax",
+                "unit": "usd",
+                "value": 1000000
+            }
+        ]
+    }
+}

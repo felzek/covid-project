@@ -1,0 +1,278 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "BRSF",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH AT BEGINNING OF THE PERIOD",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 27947
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 6706
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryGross",
+                "unit": "usd",
+                "value": 371
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 10329
+            },
+            {
+                "label": "Prepaid expenses and other current assets - related party",
+                "concept": "OtherPrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 700
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1333
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 47386
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 495091
+            },
+            {
+                "label": "Accounts payable and accrued expenses - related party",
+                "concept": "AccountsPayableAndOtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8737
+            },
+            {
+                "label": "Notes payable",
+                "concept": "OtherNotesPayableCurrent",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "Convertible notes payable, net",
+                "concept": "ConvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 406482
+            },
+            {
+                "label": "Derivative liabilities",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 571843
+            },
+            {
+                "label": "Finance lease - short term",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 4595
+            },
+            {
+                "label": "Loans payable - related party",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 322967
+            },
+            {
+                "label": "TOTAL CURRENT LIABILITIES:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1879715
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1879715
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.001 par value; 10,000,000 shares authorized, 0 shares issued and outstanding as of March 31, 2020 and December 31, 2019, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2772711
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -4623737
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -687
+            },
+            {
+                "label": "TOTAL STOCKHOLDERS\u2019 DEFICIT",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -1832329
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 DEFICIT",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 47386
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "REVENUE",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 133845
+            },
+            {
+                "label": "COST OF GOODS SOLD",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 104982
+            },
+            {
+                "label": "GROSS PROFIT",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 28863
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 96390
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 123608
+            },
+            {
+                "label": "Sales and marketing expenses",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 40584
+            },
+            {
+                "label": "Occupancy expenses",
+                "concept": "LeaseAndRentalExpense",
+                "unit": "usd",
+                "value": 11638
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 208635
+            },
+            {
+                "label": "TOTAL SELLING, GENERAL AND ADMINISTRATIVE",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 480855
+            },
+            {
+                "label": "LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -451992
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 453616
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 1290
+            },
+            {
+                "label": "Foreign currency transaction loss",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": -123
+            },
+            {
+                "label": "TOTAL OTHER EXPENSE",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -499668
+            },
+            {
+                "label": "LOSS BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -951660
+            },
+            {
+                "label": "PROVISION FOR INCOME TAXES",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "NET LOSS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -951660
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -1053
+            },
+            {
+                "label": "TOTAL COMPREHENSIVE LOSS",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -952713
+            },
+            {
+                "label": "Basic and diluted (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.05
+            },
+            {
+                "label": "Basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 19380460
+            }
+        ]
+    }
+}

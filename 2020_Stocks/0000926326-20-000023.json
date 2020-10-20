@@ -1,0 +1,116 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OMCL",
+    "data": {
+        "bs": [
+            {
+                "label": "Raw materials",
+                "concept": "InventoryRawMaterialsNetOfReserves",
+                "unit": "usd",
+                "value": 32101000
+            },
+            {
+                "label": "Work in process",
+                "concept": "InventoryWorkInProcessNetOfReserves",
+                "unit": "usd",
+                "value": 7833000
+            },
+            {
+                "label": "Finished goods",
+                "concept": "InventoryFinishedGoodsNetOfReserves",
+                "unit": "usd",
+                "value": 74311000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 114245000
+            },
+            {
+                "label": "Capitalized software, net",
+                "concept": "CapitalizedComputerSoftwareNet",
+                "unit": "usd",
+                "value": 94166000
+            },
+            {
+                "label": "Long-term unbilled receivables, net",
+                "concept": "ContractWithCustomerAssetNetNoncurrent",
+                "unit": "usd",
+                "value": 16132000
+            },
+            {
+                "label": "Deferred debt issuance costs",
+                "concept": "DeferredFinanceCostsNet",
+                "unit": "usd",
+                "value": 4218000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsMiscellaneousNoncurrent",
+                "unit": "usd",
+                "value": 1681000
+            },
+            {
+                "label": "Other long-term assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 116197000
+            },
+            {
+                "label": "Operating lease liabilities, current portion",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 10463000
+            },
+            {
+                "label": "Advance payments from customers",
+                "concept": "omcl:ContractwithCustomerLiabilityCustomerAdvancesandDepositsCurrent",
+                "unit": "usd",
+                "value": 4651000
+            },
+            {
+                "label": "Rebates and lease buyouts",
+                "concept": "omcl:AccruedLiabilitiesRebatesandLeaseBuyoutsCurrent",
+                "unit": "usd",
+                "value": 18690000
+            },
+            {
+                "label": "Group purchasing organization fees",
+                "concept": "omcl:GroupPurchasingOrganizationFeeLiabilityCurrent",
+                "unit": "usd",
+                "value": 4250000
+            },
+            {
+                "label": "Taxes payable",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 2963000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 11962000
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 52979000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Restructuring expenses",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 6400000.0
+            }
+        ]
+    }
+}

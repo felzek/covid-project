@@ -1,0 +1,194 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "ASH",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH AND CASH EQUIVALENTS - BEGINNING OF PERIOD",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 416000000
+            },
+            {
+                "label": "CASH AND CASH EQUIVALENTS - BEGINNING OF PERIOD",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 416000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 574000000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 378000000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 196000000
+            },
+            {
+                "label": "Selling, general and administrative expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 113000000
+            },
+            {
+                "label": "Research and development expense",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Intangibles amortization expense",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "Income (loss) from equity method investments and other income (expense).",
+                "concept": "ash:IncomeLossFromEquityMethodInvestmentsAndOtherIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Goodwill impairment - Note G",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 48000000
+            },
+            {
+                "label": "Net interest and other expense (income)",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Other defined benefit plan net periodic benefit income (expense).",
+                "concept": "ash:OtherDefinedBenefitPlanNetPeriodicBenefitIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income (loss) on divestitures",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income (loss) from continuing operations before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 62000000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 12000000
+            },
+            {
+                "label": "Income (loss) from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 50000000
+            },
+            {
+                "label": "Income (loss) from discontinued operations (net of income taxes)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 37000000
+            },
+            {
+                "label": "Income (loss) from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.82
+            },
+            {
+                "label": "Income (loss) from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.61
+            },
+            {
+                "label": "Income (loss) from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.81
+            },
+            {
+                "label": "Income (loss) from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.2
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.61
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 37000000
+            },
+            {
+                "label": "Unrealized translation gain (loss)",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Pension and postretirement obligation adjustment",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 44000000
+            }
+        ]
+    }
+}

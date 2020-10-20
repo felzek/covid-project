@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MXL",
+    "data": {
+        "bs": [
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1210000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1210000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 21807000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax expense of $33 and $24 for the three and six months ended June 30, 2020, respectively, and net of tax benefit of $14 and $15 for the three and six months ended June 30, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 294000
+            },
+            {
+                "label": "Unrealized gain (loss) on interest rate swap, net of tax expense of $30 and tax benefit of $11 for the three and six months ended June 30, 2020, respectively, and net of tax benefit of $164 and $294 for the three and six months ended June 30, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 116000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 410000
+            },
+            {
+                "label": "Total comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 21397000
+            },
+            {
+                "label": "Foreign Currency Translation Adjustment, Tax (expense) benefit",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Unrealized gain (loss) on interest rate swap, tax (expense) benefit",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax",
+                "unit": "usd",
+                "value": 30000
+            }
+        ]
+    }
+}

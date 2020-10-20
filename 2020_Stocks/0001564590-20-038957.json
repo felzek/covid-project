@@ -1,0 +1,393 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "CGC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "cad",
+                "value": 975870000
+            },
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "cad",
+                "value": 975870000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "cad",
+                "value": 128322000
+            },
+            {
+                "label": "Depreciation of property, plant and equipment",
+                "concept": "Depreciation",
+                "unit": "cad",
+                "value": 17415000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "cad",
+                "value": 16632000
+            },
+            {
+                "label": "Loss from equity method investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "cad",
+                "value": 7189000
+            },
+            {
+                "label": "Share based compensation including amounts recorded in selling, general and administrative expenses.",
+                "concept": "cgc:ShareBasedCompensationIncludingAmountsRecordedInSellingGeneralAndAdministrativeExpenses",
+                "unit": "cad",
+                "value": 30685000
+            },
+            {
+                "label": "Asset impairment and restructuring costs",
+                "concept": "RestructuringCostsAndAssetImpairmentCharges",
+                "unit": "cad",
+                "value": 12794000
+            },
+            {
+                "label": "Income tax recovery (expense)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "cad",
+                "value": 3038000
+            },
+            {
+                "label": "Non cash foreign currency.",
+                "concept": "cgc:NonCashForeignCurrency",
+                "unit": "cad",
+                "value": 8688000
+            },
+            {
+                "label": "Amounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "cad",
+                "value": 17577000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "cad",
+                "value": 16059000
+            },
+            {
+                "label": "Inventory",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "cad",
+                "value": 10772000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "cad",
+                "value": 3755000
+            },
+            {
+                "label": "Increase decrease in other operating capital net including non cash fair value adjustments.",
+                "concept": "cgc:IncreaseDecreaseInOtherOperatingCapitalNetIncludingNonCashFairValueAdjustments",
+                "unit": "cad",
+                "value": 75090000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "cad",
+                "value": 118546000
+            },
+            {
+                "label": "Purchases of and deposits on property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "cad",
+                "value": 61547000
+            },
+            {
+                "label": "Purchases of intangible assets",
+                "concept": "PaymentsToAcquireIntangibleAssets",
+                "unit": "cad",
+                "value": 3088000
+            },
+            {
+                "label": "Proceeds on sale of intangible assets",
+                "concept": "ProceedsFromSaleOfIntangibleAssets",
+                "unit": "cad",
+                "value": 18337000
+            },
+            {
+                "label": "(Purchases) redemption of short-term investments",
+                "concept": "PaymentsForProceedsFromShortTermInvestments",
+                "unit": "cad",
+                "value": 382486000
+            },
+            {
+                "label": "Investments in other financial assets",
+                "concept": "PaymentsToAcquireOtherProductiveAssets",
+                "unit": "cad",
+                "value": 2564000
+            },
+            {
+                "label": "Recovery of amounts related to construction financing",
+                "concept": "ProceedsFromRecoveriesOfLoanPreviouslyChargedOff",
+                "unit": "cad",
+                "value": 10000000
+            },
+            {
+                "label": "Payment of acquisition related liabilities",
+                "concept": "PaymentForContingentConsiderationLiabilityInvestingActivities",
+                "unit": "cad",
+                "value": 4511000
+            },
+            {
+                "label": "Net cash outflow on acquisition of noncontrolling interests",
+                "concept": "PaymentsToAcquireAdditionalInterestInSubsidiaries",
+                "unit": "cad",
+                "value": 125000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "cad",
+                "value": 425984000
+            },
+            {
+                "label": "Payment of share issue costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "cad",
+                "value": 595000
+            },
+            {
+                "label": "Proceeds from issuance of shares by subsidiary.",
+                "concept": "cgc:ProceedsFromIssuanceOfSharesBySubsidiary",
+                "unit": "cad",
+                "value": 92000
+            },
+            {
+                "label": "Proceeds from exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "cad",
+                "value": 4722000
+            },
+            {
+                "label": "Proceeds from exercise of warrants",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "cad",
+                "value": 244990000
+            },
+            {
+                "label": "Issuance of long-term debt",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "cad",
+                "value": 4439000
+            },
+            {
+                "label": "Repayment of long-term debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "cad",
+                "value": 6345000
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "cad",
+                "value": 247303000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "cad",
+                "value": 30079000
+            },
+            {
+                "label": "Net decrease in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "cad",
+                "value": 327306000
+            },
+            {
+                "label": "Income taxes received.",
+                "concept": "cgc:IncomeTaxesReceived",
+                "unit": "cad",
+                "value": 2000000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "cad",
+                "value": 408000
+            },
+            {
+                "label": "Additions to property, plant and equipment",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "cad",
+                "value": 17337000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "cad",
+                "value": 119088000
+            },
+            {
+                "label": "Excise taxes",
+                "concept": "ExciseAndSalesTaxes",
+                "unit": "cad",
+                "value": 8672000
+            },
+            {
+                "label": "Net revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "cad",
+                "value": 110416000
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "cad",
+                "value": 103921000
+            },
+            {
+                "label": "Gross margin",
+                "concept": "GrossProfit",
+                "unit": "cad",
+                "value": 6495000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "cad",
+                "value": 135392000
+            },
+            {
+                "label": "Share-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "cad",
+                "value": 30685000
+            },
+            {
+                "label": "Asset impairment and restructuring costs",
+                "concept": "RestructuringCostsAndAssetImpairmentCharges",
+                "unit": "cad",
+                "value": 12794000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "cad",
+                "value": 178871000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "cad",
+                "value": 172376000
+            },
+            {
+                "label": "Loss from equity method investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "cad",
+                "value": 7189000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "cad",
+                "value": 48205000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "cad",
+                "value": 131360000
+            },
+            {
+                "label": "Income tax recovery (expense)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "cad",
+                "value": 3038000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "cad",
+                "value": 128322000
+            },
+            {
+                "label": "Net loss attributable to noncontrolling interests and redeemable noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "cad",
+                "value": 19821000
+            },
+            {
+                "label": "Net loss attributable to Canopy Growth Corporation",
+                "concept": "NetIncomeLoss",
+                "unit": "cad",
+                "value": 108501000
+            },
+            {
+                "label": "Basic and diluted loss per share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "cad/shares",
+                "value": 0.3
+            },
+            {
+                "label": "Basic and diluted weighted average common shares outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 363763347
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "cad",
+                "value": 128322000
+            },
+            {
+                "label": "Fair value changes of own credit risk of financial liabilities",
+                "concept": "OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionAfterTaxAndReclassificationAdjustmentAttributableToParent",
+                "unit": "cad",
+                "value": 15360000
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "cad",
+                "value": 53124000
+            },
+            {
+                "label": "Total other comprehensive loss, net of income tax effect",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "cad",
+                "value": 68484000
+            },
+            {
+                "label": "Comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "cad",
+                "value": 196806000
+            },
+            {
+                "label": "Comprehensive loss attributable to noncontrolling interests and redeemable noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "cad",
+                "value": 19821000
+            },
+            {
+                "label": "Comprehensive loss attributable to Canopy Growth Corporation",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "cad",
+                "value": 176985000
+            }
+        ]
+    }
+}

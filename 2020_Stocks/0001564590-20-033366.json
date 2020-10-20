@@ -1,0 +1,507 @@
+{
+    "startDate": "2019-05-27",
+    "endDate": "2020-05-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "CAG",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents and restricted cash at beginning of year",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 554300000.0
+            },
+            {
+                "label": "Cash and cash equivalents and restricted cash at beginning of year",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 554300000.0
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 841800000.0
+            },
+            {
+                "label": "Income (loss) from discontinued operations, net of tax",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 841800000.0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 388900000.0
+            },
+            {
+                "label": "Asset impairment charges",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 259899999.99999997
+            },
+            {
+                "label": "Loss (gain) on divestitures",
+                "concept": "GainLossOnSaleOfBusiness",
+                "unit": "usd",
+                "value": 2200000.0
+            },
+            {
+                "label": "Lease cancellation expense",
+                "concept": "GainLossOnContractTermination",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Significant litigation accruals",
+                "concept": "LossContingencyAccrualProvision",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from the settlement of interest rate swaps",
+                "concept": "GainLossOnSaleOfDerivatives",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gain (Loss) on Guarantee Contract",
+                "concept": "cag:GainLossOnGuaranteeContract",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Earnings of affiliates in excess of distributions",
+                "concept": "IncomeLossFromEquityMethodInvestmentsNetOfDividendsOrDistributions",
+                "unit": "usd",
+                "value": 21800000.0
+            },
+            {
+                "label": "Stock-settled share-based payments expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 59200000.0
+            },
+            {
+                "label": "Contributions to pension plans",
+                "concept": "PensionContributions",
+                "unit": "usd",
+                "value": 17500000.0
+            },
+            {
+                "label": "Pension expense (benefit)",
+                "concept": "PensionExpense",
+                "unit": "usd",
+                "value": 5900000.0
+            },
+            {
+                "label": "Other items",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 11300000.0
+            },
+            {
+                "label": "Receivables",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 43800000.0
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 163500000.0
+            },
+            {
+                "label": "Increase Decrease In Deferred Income Taxes And Income Taxes Payable Net",
+                "concept": "cag:IncreaseDecreaseInDeferredIncomeTaxesAndIncomeTaxesPayableNet",
+                "unit": "usd",
+                "value": 23100000.0
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 13600000.0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 234400000.0
+            },
+            {
+                "label": "Accrued payroll",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 15900000.0
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "IncreaseDecreaseInOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 66800000.0
+            },
+            {
+                "label": "Net cash flows from operating activities - continuing operations",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 1842600000.0
+            },
+            {
+                "label": "Net cash flows from operating activities - discontinued operations",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 1842600000.0
+            },
+            {
+                "label": "Additions to property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 369500000.0
+            },
+            {
+                "label": "Sale of property, plant and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 14000000.0
+            },
+            {
+                "label": "Purchase of business, net of cash acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from divestitures, net of cash divested",
+                "concept": "ProceedsFromDivestitureOfBusinesses",
+                "unit": "usd",
+                "value": 194600000.0
+            },
+            {
+                "label": "Purchase of marketable securities",
+                "concept": "PaymentsToAcquireMarketableSecurities",
+                "unit": "usd",
+                "value": 46800000.0
+            },
+            {
+                "label": "Sales of marketable securities",
+                "concept": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+                "unit": "usd",
+                "value": 53800000.0
+            },
+            {
+                "label": "Other items",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Net cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 153800000.0
+            },
+            {
+                "label": "Net short-term borrowings (repayments)",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Issuance of long-term debt",
+                "concept": "ProceedsFromIssuanceOfOtherLongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Repayment of long-term debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 947500000.0
+            },
+            {
+                "label": "Debt issuance costs and bridge financing fees",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Repayments Of Long-Term Debt, Finite-Lived Intangible Assets",
+                "concept": "cag:RepaymentsOfLongTermDebtFiniteLivedIntangibleAssets",
+                "unit": "usd",
+                "value": 13600000.0
+            },
+            {
+                "label": "Issuance of Conagra Brands, Inc. common shares, net",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Repurchase of Conagra Brands, Inc. common shares",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 413600000.0
+            },
+            {
+                "label": "Proceeds from exercise of stock options payments related to tax withholdings for share based compensation.",
+                "concept": "cag:ProceedsFromExerciseOfStockOptionsPaymentsRelatedToTaxWithholdingsForShareBasedCompensation",
+                "unit": "usd",
+                "value": 4800000.0
+            },
+            {
+                "label": "Other items",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Net cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1370400000.0
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1700000.0
+            },
+            {
+                "label": "Net change in cash and cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 316700000.0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Pre-Tax Amount",
+                "concept": "IncomeLossIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1043099999.9999999
+            },
+            {
+                "label": "Pre-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 7100000.0
+            },
+            {
+                "label": "Pre-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 3300000.0
+            },
+            {
+                "label": "Pre-Tax Amount",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Pre-Tax Amount",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 42700000.0
+            },
+            {
+                "label": "Pre-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationReclassificationAdjustmentFromAOCIRealizedUponSaleOrLiquidationBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Pre-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsAndTax",
+                "unit": "usd",
+                "value": 63200000.0
+            },
+            {
+                "label": "Pre-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansBeforeTax",
+                "unit": "usd",
+                "value": 5500000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Before Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "cag:ComprehensiveIncomeLossBeforeTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1047700000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Before Tax, Attributable to Noncontrolling Interest",
+                "concept": "cag:ComprehensiveIncomeLossBeforeTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3900000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Before Tax, Attributable to Parent",
+                "concept": "cag:ComprehensiveIncomeLossBeforeTaxAttributableToParent",
+                "unit": "usd",
+                "value": 1051599999.9999999
+            },
+            {
+                "label": "Tax (Expense) Benefit",
+                "concept": "IncomeTaxExpenseBenefitContinuingOperationsDiscontinuedOperationsExtraordinaryItems",
+                "unit": "usd",
+                "value": 201300000.0
+            },
+            {
+                "label": "Tax (Expense) Benefit",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationTax",
+                "unit": "usd",
+                "value": 1800000.0
+            },
+            {
+                "label": "Tax (Expense) Benefit",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationTax",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Tax (Expense) Benefit",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Tax (Expense) Benefit",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTranslationGainLossArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Tax (Expense) Benefit",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationReclassificationAdjustmentFromAOCIRealizedUponSaleOrLiquidationTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Tax (Expense) Benefit",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansBeforeReclassificationAdjustmentsTax",
+                "unit": "usd",
+                "value": 15900000.0
+            },
+            {
+                "label": "Tax (Expense) Benefit",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 1400000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "cag:ComprehensiveIncomeLossTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 211700000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Tax, Attributable to Noncontrolling Interest",
+                "concept": "cag:ComprehensiveIncomeLossTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Tax, Attributable to Parent",
+                "concept": "cag:ComprehensiveIncomeLossTaxAttributableToParent",
+                "unit": "usd",
+                "value": 210800000.0
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 841800000.0
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 5300000.0
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 2400000.0
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 41300000.0
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationReclassificationAdjustmentFromAOCIRealizedUponSaleOrLiquidationNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsNetOfTax",
+                "unit": "usd",
+                "value": 47300000.0
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansNetOfTax",
+                "unit": "usd",
+                "value": 4099999.9999999995
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 836000000.0
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4800000.0
+            },
+            {
+                "label": "After-Tax Amount",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 840800000.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FBC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 204000000
+            },
+            {
+                "label": "Interest-earning deposits",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 23000000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 227000000
+            },
+            {
+                "label": "Investment securities available-for-sale",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 2348000000
+            },
+            {
+                "label": "Investment securities held-to-maturity",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 496000000
+            },
+            {
+                "label": "Loans held-for-sale ($5,598 and $5,219 measured at fair value, respectively)",
+                "concept": "LoansReceivableHeldForSaleAmount",
+                "unit": "usd",
+                "value": 5615000000
+            },
+            {
+                "label": "Loans held-for-investment ($12 and $12 measured at fair value, respectively)",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 14808000000
+            },
+            {
+                "label": "Loans with government guarantees",
+                "concept": "fbc:LoansRepurchasedWithGovernmentGuarantees",
+                "unit": "usd",
+                "value": 1791000000
+            },
+            {
+                "label": "Less: allowance for loan losses",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 229000000
+            },
+            {
+                "label": "Total loans held-for-investment and loans with government guarantees, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 16370000000
+            },
+            {
+                "label": "Mortgage servicing rights",
+                "concept": "ServicingAssetAtFairValueAmount",
+                "unit": "usd",
+                "value": 261000000
+            },
+            {
+                "label": "Federal Home Loan Bank stock",
+                "concept": "FederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 377000000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 410000000
+            },
+            {
+                "label": "Goodwill and intangible assets",
+                "concept": "IntangibleAssetsNetIncludingGoodwill",
+                "unit": "usd",
+                "value": 164000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 1200000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 27468000000
+            },
+            {
+                "label": "Noninterest bearing deposits",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 7921000000
+            },
+            {
+                "label": "Interest bearing deposits",
+                "concept": "InterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 9977000000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 17898000000
+            },
+            {
+                "label": "Short-term Federal Home Loan Bank advances and other",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 3354000000
+            },
+            {
+                "label": "Long-term Federal Home Loan Bank advances",
+                "concept": "FederalHomeLoanBankAdvancesLongTerm",
+                "unit": "usd",
+                "value": 1200000000
+            },
+            {
+                "label": "Other long-term debt",
+                "concept": "OtherLongTermDebt",
+                "unit": "usd",
+                "value": 493000000
+            },
+            {
+                "label": "Other liabilities ($35 and $35 measured at fair value, respectively)",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 2552000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 25497000000
+            },
+            {
+                "label": "Common stock $0.01 par value, 80,000,000 and 80,000,000 shares authorized; 56,943,979 and 56,631,236 shares issued and outstanding, respectively",
+                "concept": "CommonStockValueOutstanding",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1488000000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 46000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 436000000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1971000000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 27468000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 116000000
+            },
+            {
+                "label": "Investment securities",
+                "concept": "fbc:OtherComprehensiveIncomeLossAvailableforsaleSecuritiesAdjustmentandOtherthanTemporaryImpairmentLossesNetofTaxPortionAttributabletoParent",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "Derivatives and hedging activities",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 131000000
+            }
+        ]
+    }
+}

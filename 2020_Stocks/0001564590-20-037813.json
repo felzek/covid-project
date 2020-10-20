@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CBB",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 7000000.0
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 7000000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 380000000.0
+            },
+            {
+                "label": "Cost of services and products, excluding items below",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 193400000.0
+            },
+            {
+                "label": "Selling, general and administrative, excluding items below",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 81300000.0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 74700000.0
+            },
+            {
+                "label": "Restructuring and severance related charges",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Transaction and integration costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": 2500000.0
+            },
+            {
+                "label": "Total operating costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 352300000.0
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 27700000.0
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 33500000.0
+            },
+            {
+                "label": "Other components of pension and postretirement benefit plans expense not including service cost",
+                "concept": "cbb:OtherComponentsOfPensionAndPostretirementBenefitPlansExpense",
+                "unit": "usd",
+                "value": 3800000.0
+            },
+            {
+                "label": "Other (income) expense, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9400000.0
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7800000.0
+            },
+            {
+                "label": "Preferred stock dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 2600000.0
+            },
+            {
+                "label": "Net loss applicable to common shareowners",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 10400000.0
+            },
+            {
+                "label": "Basic and diluted net loss per common share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.21
+            }
+        ]
+    }
+}

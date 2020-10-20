@@ -1,0 +1,326 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FELE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 43083000
+            },
+            {
+                "label": "Receivables, less allowances of $4,741 and $3,705, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 183210000
+            },
+            {
+                "label": "Raw material",
+                "concept": "InventoryRawMaterials",
+                "unit": "usd",
+                "value": 94697000
+            },
+            {
+                "label": "Work-in-process",
+                "concept": "InventoryWorkInProcess",
+                "unit": "usd",
+                "value": 20696000
+            },
+            {
+                "label": "Finished goods",
+                "concept": "InventoryFinishedGoods",
+                "unit": "usd",
+                "value": 184002000
+            },
+            {
+                "label": "Total inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 299395000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 23653000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 549341000
+            },
+            {
+                "label": "Land and buildings",
+                "concept": "fele:LandAndBuildingsGross",
+                "unit": "usd",
+                "value": 133620000
+            },
+            {
+                "label": "Machinery and equipment",
+                "concept": "MachineryAndEquipmentGross",
+                "unit": "usd",
+                "value": 270702000
+            },
+            {
+                "label": "Furniture and fixtures",
+                "concept": "FurnitureAndFixturesGross",
+                "unit": "usd",
+                "value": 45159000
+            },
+            {
+                "label": "Other",
+                "concept": "PropertyPlantAndEquipmentOther",
+                "unit": "usd",
+                "value": 28879000
+            },
+            {
+                "label": "Property, plant, and equipment, gross",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 478360000
+            },
+            {
+                "label": "Less: Allowance for depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 291997000
+            },
+            {
+                "label": "Property, plant, and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 186363000
+            },
+            {
+                "label": "Right-of-Use Asset, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 27687000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 7911000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 121725000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 256219000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2086000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1151332000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 86767000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "fele:AccruedExpensesEmployeeRelatedLiabilitiesandOtherCurrent",
+                "unit": "usd",
+                "value": 65316000
+            },
+            {
+                "label": "Current lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 10273000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 7297000
+            },
+            {
+                "label": "Current maturities of long-term debt and short-term borrowings",
+                "concept": "DebtCurrent",
+                "unit": "usd",
+                "value": 4243000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 173896000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 92489000
+            },
+            {
+                "label": "Long-term lease liability",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 17416000
+            },
+            {
+                "label": "Income taxes payable non-current",
+                "concept": "LiabilityForUncertainTaxPositionsNoncurrent",
+                "unit": "usd",
+                "value": 11965000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 25748000
+            },
+            {
+                "label": "Employee benefit plans",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 36631000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 17938000
+            },
+            {
+                "label": "Commitments and contingencies (see Note 14)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable noncontrolling interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 262000
+            },
+            {
+                "label": "Common stock (65,000 shares authorized, $.10 par value) outstanding (46,185 and 46,391, respectively)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4618000
+            },
+            {
+                "label": "Additional capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 278175000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 715621000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 224550000
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 773864000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1647000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 775511000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1151332000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 24802000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 1977000
+            },
+            {
+                "label": "Employee benefit plan activity",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 901000
+            },
+            {
+                "label": "Other comprehensive income/(loss)",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 2878000
+            },
+            {
+                "label": "Income tax expense related to items of other comprehensive income/(loss)",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 185000
+            },
+            {
+                "label": "Other comprehensive income/(loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2693000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 27495000
+            },
+            {
+                "label": "Less: Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 173000
+            },
+            {
+                "label": "Comprehensive income attributable to Franklin Electric Co., Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 27322000
+            }
+        ]
+    }
+}

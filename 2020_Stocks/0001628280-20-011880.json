@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "YETI",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 34963000
+            },
+            {
+                "label": "Finance lease assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1015000
+            },
+            {
+                "label": "Total lease assets",
+                "concept": "yeti:OperatingAndFinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 35978000
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 8086000
+            },
+            {
+                "label": "Finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 191000
+            },
+            {
+                "label": "Operating lease liabilities, non-current",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 38589000
+            },
+            {
+                "label": "Finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 853000
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "yeti:OperatingAndFinanceLeaseLiability",
+                "unit": "usd",
+                "value": 47719000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 33482000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 487000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 33969000
+            }
+        ]
+    }
+}

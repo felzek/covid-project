@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "XAN",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH AND CASH EQUIVALENTS AND RESTRICTED CASH AT BEGINNING OF PERIOD",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 70658000
+            },
+            {
+                "label": "CASH AND CASH EQUIVALENTS AND RESTRICTED CASH AT BEGINNING OF PERIOD",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 70658000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET (LOSS) INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 33400000
+            },
+            {
+                "label": "Reclassification adjustments associated with net unrealized losses from interest rate hedges included in net loss (income)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 344000
+            },
+            {
+                "label": "Unrealized losses on derivatives, net",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 484000
+            },
+            {
+                "label": "Total other comprehensive (loss) income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 140000
+            },
+            {
+                "label": "Comprehensive (loss) income before allocation to preferred shares",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 33540000
+            },
+            {
+                "label": "Comprehensive (Income) Loss, Net of Tax, Attributable to Preferred Stockholders",
+                "concept": "xan:ComprehensiveIncomeLossNetOfTaxAttributableToPreferredStockholders",
+                "unit": "usd",
+                "value": 2587000
+            },
+            {
+                "label": "Comprehensive (loss) income allocable to common shares",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 36127000
+            }
+        ]
+    }
+}

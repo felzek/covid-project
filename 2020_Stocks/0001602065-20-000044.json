@@ -1,0 +1,320 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VNOM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 9663000
+            },
+            {
+                "label": "Royalty income receivable (net of allowance for credit losses)",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 32118000
+            },
+            {
+                "label": "Royalty income receivable\u2014related party",
+                "concept": "AccountsReceivableRelatedParties",
+                "unit": "usd",
+                "value": 917000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 482000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 43180000
+            },
+            {
+                "label": "Oil and natural gas interests, full cost method of accounting ($1,480,346 and $1,551,767 excluded from depletion at June\u00a030, 2020 and December 31, 2019, respectively)",
+                "concept": "OilAndGasPropertyFullCostMethodGross",
+                "unit": "usd",
+                "value": 2933731000
+            },
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 5688000
+            },
+            {
+                "label": "Accumulated depletion and impairment",
+                "concept": "OilAndGasPropertyFullCostMethodDepletion",
+                "unit": "usd",
+                "value": 373898000
+            },
+            {
+                "label": "Property, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2565521000
+            },
+            {
+                "label": "Deferred tax asset (net of allowance)",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 15572000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2624273000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Accounts payable\u2014related party",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 12439000
+            },
+            {
+                "label": "Derivative instruments",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 33956000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 46406000
+            },
+            {
+                "label": "Long-term debt, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 630507000
+            },
+            {
+                "label": "Derivative instruments",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 5875000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 682788000
+            },
+            {
+                "label": "Commitments and contingencies (Note 12)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "General partner",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 849000
+            },
+            {
+                "label": "Common units (67,831,342 units issued and outstanding as of June\u00a030, 2020 and 67,805,707 units issued and outstanding as of December 31, 2019)",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 728149000
+            },
+            {
+                "label": "Class B units (90,709,946 units issued and outstanding as of June\u00a030, 2020 and December 31, 2019)",
+                "concept": "OtherPartnersCapital",
+                "unit": "usd",
+                "value": 1080000
+            },
+            {
+                "label": "Total Viper Energy Partners LP unitholders\u2019 equity",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 730078000
+            },
+            {
+                "label": "Non-controlling interest",
+                "concept": "PartnersCapitalAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1211407000
+            },
+            {
+                "label": "Total equity",
+                "concept": "PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1941485000
+            },
+            {
+                "label": "Total liabilities and unitholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2624273000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Royalty income",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 32444000
+            },
+            {
+                "label": "Lease bonus income",
+                "concept": "vnom:Leasebonus",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Other operating income",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 202000
+            },
+            {
+                "label": "Total operating income",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 32669000
+            },
+            {
+                "label": "Production and ad valorem taxes",
+                "concept": "ProductionTaxExpense",
+                "unit": "usd",
+                "value": 3110000
+            },
+            {
+                "label": "Depletion",
+                "concept": "DepletionOfOilAndGasProperties",
+                "unit": "usd",
+                "value": 22782000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1683000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 27575000
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 5094000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 7669000
+            },
+            {
+                "label": "Loss on derivative instruments, net",
+                "concept": "DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsGainLossNet",
+                "unit": "usd",
+                "value": 34443000
+            },
+            {
+                "label": "Gain (loss) on revaluation of investment",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 3443000
+            },
+            {
+                "label": "Other income, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 519000
+            },
+            {
+                "label": "Total other expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 38150000
+            },
+            {
+                "label": "(Loss) income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 33056000
+            },
+            {
+                "label": "Provision for (benefit from) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 33056000
+            },
+            {
+                "label": "Net (loss) income attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 11304000
+            },
+            {
+                "label": "Net (loss) income attributable to Viper Energy Partners LP",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 21752000
+            },
+            {
+                "label": "Basic (dollars per unit)",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipUnitBasicNetOfTax",
+                "unit": "usd/shares",
+                "value": 0.32
+            },
+            {
+                "label": "Diluted (dollars per unit)",
+                "concept": "NetIncomeLossNetOfTaxPerOutstandingLimitedPartnershipUnitDiluted",
+                "unit": "usd/shares",
+                "value": 0.32
+            },
+            {
+                "label": "Basic (in units)",
+                "concept": "WeightedAverageLimitedPartnershipUnitsOutstanding",
+                "unit": "shares",
+                "value": 67831000
+            },
+            {
+                "label": "Diluted (in units)",
+                "concept": "WeightedAverageLimitedPartnershipUnitsOutstandingDiluted",
+                "unit": "shares",
+                "value": 67831000
+            }
+        ]
+    }
+}

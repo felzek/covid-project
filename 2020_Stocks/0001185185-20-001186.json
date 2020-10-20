@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SPIN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 89511
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 330141
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 421658
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts of $600,000 and $589,243 at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "AccountsReceivableNetNoncurrent",
+                "unit": "usd",
+                "value": 170329
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 610156
+            },
+            {
+                "label": "Note Payable to a bank",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 655000
+            },
+            {
+                "label": "Current portion of Paycheck Protection Program loan",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 32303
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8941
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 696244
+            },
+            {
+                "label": "Long term portion of Paycheck Protection Program loan",
+                "concept": "BorrowingsUnderGuaranteedInvestmentAgreements",
+                "unit": "usd",
+                "value": 31794
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 728038
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock: $0.001 par value, 50,000,000 shares authorized, 20,240,882 shares issued and outstanding at both June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 20241
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 19869511
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -20007634
+            },
+            {
+                "label": "Total stockholders\u2019 (deficit) equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -117882
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 (deficit) equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 610156
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net service revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 35500
+            },
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 53422
+            },
+            {
+                "label": "Third party providers",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total cost of providing services",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 53422
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -125862
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 260
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 4667
+            },
+            {
+                "label": "Total other income and (expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -4407
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -130269
+            },
+            {
+                "label": "Basic/ diluted (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Basic/ diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 20240882
+            }
+        ]
+    }
+}

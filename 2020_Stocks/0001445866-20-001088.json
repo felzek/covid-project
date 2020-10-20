@@ -1,0 +1,297 @@
+{
+    "startDate": "2019-05-01",
+    "endDate": "2020-04-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "APHD",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1631
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1631
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 333034
+            },
+            {
+                "label": "Due to related parties",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 19056
+            },
+            {
+                "label": "Convertible debenture, net of unamortized discount of $95,057 and $36,000, respectively",
+                "concept": "ConvertibleDebtCurrent",
+                "unit": "usd",
+                "value": 564725
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 31126
+            },
+            {
+                "label": "Derivative liability",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1605568
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3136509
+            },
+            {
+                "label": "Preferred stock - 10,000,000 authorized shares with a par value of $0.001 per share Convertible Preferred Series A: Issued and outstanding: 500,000 shares",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 500
+            },
+            {
+                "label": "Common stock - 5,000,000,000 authorized shares with a par value of $0.001 per share issued and outstanding: 1,829,867 and 1,074,255 shares, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1830
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 4384537
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -7521745
+            },
+            {
+                "label": "Total Stockholders' Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -3134878
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1631
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1575407
+            },
+            {
+                "label": "Amortization of discount on convertible debt payable",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 78451
+            },
+            {
+                "label": "Loss on change in fair value of derivative liability",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -794930
+            },
+            {
+                "label": "Interest and penalties accrued on convertible debt payable",
+                "concept": "AccretionExpense",
+                "unit": "usd",
+                "value": 21995
+            },
+            {
+                "label": "Loss (gain) on settlement of debt",
+                "concept": "GainLossOnSaleOfProject",
+                "unit": "usd",
+                "value": -289602
+            },
+            {
+                "label": "Preferred shares issued for consulting fees",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": -33000
+            },
+            {
+                "label": "Original issue discount",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 21563
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Prepaid expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts payable and accrued liabilities {1}",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 136059
+            },
+            {
+                "label": "Due to related parties {1}",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": 19056
+            },
+            {
+                "label": "Net Cash Used In Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -177751
+            },
+            {
+                "label": "Proceeds from convertible debenture",
+                "concept": "ProceedsFromConvertibleDebt",
+                "unit": "usd",
+                "value": 155630
+            },
+            {
+                "label": "Net Cash Provided by Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 155630
+            },
+            {
+                "label": "Increase (decrease) in Cash",
+                "concept": "CashPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -22121
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Income tax paid",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Beneficial conversion feature",
+                "concept": "DebtInstrumentConvertibleBeneficialConversionFeature",
+                "unit": "usd",
+                "value": 137507
+            },
+            {
+                "label": "Common stock issued for conversion of convertible debentures",
+                "concept": "StockIssuedDuringPeriodValueConversionOfConvertibleSecurities",
+                "unit": "usd",
+                "value": 309729
+            },
+            {
+                "label": "Series B preferred shares issued for settlement of accounts and notes payable",
+                "concept": "StockAndWarrantsIssuedDuringPeriodValuePreferredStockAndWarrants",
+                "unit": "usd",
+                "value": 550000
+            }
+        ],
+        "ic": [
+            {
+                "label": "(Recovery) bad debt",
+                "concept": "AllowanceForLoanAndLeaseLossRecoveryOfBadDebts",
+                "unit": "usd",
+                "value": 1569
+            },
+            {
+                "label": "Consulting fees",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Management fees",
+                "concept": "OfficersCompensation",
+                "unit": "usd",
+                "value": 38030
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 107953
+            },
+            {
+                "label": "Total Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 259217
+            },
+            {
+                "label": "Net Operating Loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -259217
+            },
+            {
+                "label": "Loss on change in fair value of derivative liability",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -794930
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 231658
+            },
+            {
+                "label": "(Loss) gain on settlement of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -289602
+            },
+            {
+                "label": "Total Other Expenses",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -1316190
+            },
+            {
+                "label": "Net Loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1575407
+            },
+            {
+                "label": "Net Loss Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -1.03
+            },
+            {
+                "label": "Weighted Average Shares Outstanding - Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 1533316
+            }
+        ]
+    }
+}

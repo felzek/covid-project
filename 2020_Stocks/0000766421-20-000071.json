@@ -1,0 +1,116 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ALK",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Shareholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3861000000
+            },
+            {
+                "label": "Common stock, shares outstanding (shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 123639314
+            },
+            {
+                "label": "Total Shareholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3861000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 214000000
+            },
+            {
+                "label": "Unrealized holding gain (loss) arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 31000000
+            },
+            {
+                "label": "Reclassification of (gain) loss into Other - net nonoperating income (expense)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Total",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Reclassification of net pension expense into Wages and benefits and Other - net nonoperating income (expense)",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Total",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Unrealized holding gain (loss) arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Reclassification of loss into Aircraft rent",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Total",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 24000000
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 190000000
+            }
+        ]
+    }
+}

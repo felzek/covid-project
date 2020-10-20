@@ -1,0 +1,236 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CCR",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 102000
+            },
+            {
+                "label": "Trade Receivables, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 21391000
+            },
+            {
+                "label": "Other Receivables, net",
+                "concept": "AccountsAndOtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 747000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 14122000
+            },
+            {
+                "label": "Prepaid Expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 2761000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 39123000
+            },
+            {
+                "label": "Property, Plant and Equipment",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 1001044000
+            },
+            {
+                "label": "Less\u2014Accumulated Depreciation, Depletion and Amortization",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 594233000
+            },
+            {
+                "label": "us-gaap_PropertyPlantAndEquipmentNet",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 406811000
+            },
+            {
+                "label": "Right of Use Asset\u2014Operating Leases",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 13335000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssetsMiscellaneousNoncurrent",
+                "unit": "usd",
+                "value": 13246000
+            },
+            {
+                "label": "us-gaap_OtherAssetsNoncurrent",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 26581000
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 472515000
+            },
+            {
+                "label": "Accounts Payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 13292000
+            },
+            {
+                "label": "Accounts Payable\u2014Related Party",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 4731000
+            },
+            {
+                "label": "Current Portion of Long-Term Debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+                "unit": "usd",
+                "value": 8763000
+            },
+            {
+                "label": "Other Accrued Liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 39617000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 66403000
+            },
+            {
+                "label": "Affiliated Company Credit Agreement\u2014Related Party",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 179560000
+            },
+            {
+                "label": "Finance Lease Obligations",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 5666000
+            },
+            {
+                "label": "us-gaap_LongTermDebtAndCapitalLeaseObligations",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 185226000
+            },
+            {
+                "label": "Pneumoconiosis Benefits",
+                "concept": "ccr:EmployeeRelatedLiabilitiesMedicalAndDisabilityBenefitsNoncurrent",
+                "unit": "usd",
+                "value": 6508000
+            },
+            {
+                "label": "Workers\u2019 Compensation",
+                "concept": "WorkersCompensationLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 3811000
+            },
+            {
+                "label": "Asset Retirement Obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 11030000
+            },
+            {
+                "label": "Operating Lease Liability",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 9102000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 856000
+            },
+            {
+                "label": "us-gaap_LiabilitiesOtherThanLongtermDebtNoncurrent",
+                "concept": "LiabilitiesOtherThanLongtermDebtNoncurrent",
+                "unit": "usd",
+                "value": 31307000
+            },
+            {
+                "label": "us-gaap_Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 282936000
+            },
+            {
+                "label": "Common Units (27,690,251 Units Outstanding at June 30, 2020; 27,632,824 Units Outstanding at December 31, 2019)",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 167384000
+            },
+            {
+                "label": "General Partner Interest",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 11539000
+            },
+            {
+                "label": "Accumulated Other Comprehensive Income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 10656000
+            },
+            {
+                "label": "us-gaap_PartnersCapital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 189579000
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 472515000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 7854000
+            },
+            {
+                "label": "Recognized Net Actuarial Gain (Loss)",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 38000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossNetOfTax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 38000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 7816000
+            }
+        ]
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SBCF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 84178000
+            },
+            {
+                "label": "Interest bearing deposits with other banks",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 440142000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 524320000
+            },
+            {
+                "label": "Time deposits with other banks",
+                "concept": "sbcf:TimeDepositsWithOtherBanks",
+                "unit": "usd",
+                "value": 2496000
+            },
+            {
+                "label": "Securities available-for-sale (at fair value)",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 976025000
+            },
+            {
+                "label": "Securities held-to-maturity (fair value $235,946 at June 30, 2020 and $262,213 at December 31, 2019)",
+                "concept": "HeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 227092000
+            },
+            {
+                "label": "Total debt securities",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 1203117000
+            },
+            {
+                "label": "Loans held for sale (at fair value)",
+                "concept": "AssetsHeldForSaleNotPartOfDisposalGroup",
+                "unit": "usd",
+                "value": 54943000
+            },
+            {
+                "label": "Loans",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 5772052000
+            },
+            {
+                "label": "Less: Allowance for credit losses",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 91250000
+            },
+            {
+                "label": "Loans, net of allowance for credit losses",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 5680802000
+            },
+            {
+                "label": "Bank premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 69041000
+            },
+            {
+                "label": "Other real estate owned",
+                "concept": "OtherRealEstate",
+                "unit": "usd",
+                "value": 15847000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 212146000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 17950000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 127954000
+            },
+            {
+                "label": "Net deferred tax assets",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 21404000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 153993000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8084013000
+            },
+            {
+                "label": "Deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 6666783000
+            },
+            {
+                "label": "Securities sold under agreements to repurchase, maturing within 30 days",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 92125000
+            },
+            {
+                "label": "Federal Home Loan Bank (FHLB) borrowings",
+                "concept": "FederalHomeLoanBankConsolidatedObligations",
+                "unit": "usd",
+                "value": 135000000
+            },
+            {
+                "label": "Subordinated debt",
+                "concept": "SubordinatedDebt",
+                "unit": "usd",
+                "value": 71225000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 88277000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 7053410000
+            },
+            {
+                "label": "Common stock, par value $0.10 per share, authorized 120,000,000 shares, issued 53,326,794 and outstanding 52,990,655 at June 30, 2020, and authorized 120,000,000, issued 51,760,617 and outstanding 51,513,733 shares at December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 5299000
+            },
+            {
+                "label": "Other shareholders' equity",
+                "concept": "sbcf:OtherShareholdersEquity",
+                "unit": "usd",
+                "value": 1025304000
+            },
+            {
+                "label": "Total Shareholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1030603000
+            },
+            {
+                "label": "Total Liabilities and Shareholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 8084013000
+            },
+            {
+                "label": "Common stock, shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 52990655
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 25080000
+            },
+            {
+                "label": "Unrealized gains on securities available-for-sale",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 17581000
+            },
+            {
+                "label": "Reclassification of unrealized losses on securities transferred to available-for-sale upon adoption of new accounting pronouncement",
+                "concept": "OtherComprehensiveIncomeReclassificationAdjustmentForHeldToMaturityTransferredToAvailableForSaleSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of unrealized losses on securities transferred to held-to-maturity, net",
+                "concept": "sbcf:OtherComprehensiveIncomeLossTransfersfromAvailableforSaletoHeldtomaturitySecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 59000
+            },
+            {
+                "label": "Reclassification adjustment for (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 1188000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 3917000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 12535000
+            },
+            {
+                "label": "Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 37615000
+            }
+        ]
+    }
+}

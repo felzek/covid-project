@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NVR",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1982890000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 24650000
+            },
+            {
+                "label": "Receivables",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 20801000
+            },
+            {
+                "label": "Lots and housing units, covered under sales agreements with customers",
+                "concept": "nvr:LotsAndHousingUnitsCoveredUnderSalesAgreementsWithCustomers",
+                "unit": "usd",
+                "value": 1340444000
+            },
+            {
+                "label": "Unsold lots and housing units",
+                "concept": "nvr:UnsoldLotsAndHousingUnits",
+                "unit": "usd",
+                "value": 172394000
+            },
+            {
+                "label": "Land under development",
+                "concept": "InventoryRealEstateLandAndLandDevelopmentCosts",
+                "unit": "usd",
+                "value": 69323000
+            },
+            {
+                "label": "Building materials and other",
+                "concept": "RealEstateInventoryConstructionMaterials",
+                "unit": "usd",
+                "value": 20379000
+            },
+            {
+                "label": "Total Inventory",
+                "concept": "InventoryOperativeBuilders",
+                "unit": "usd",
+                "value": 1602540000
+            },
+            {
+                "label": "Contract land deposits, net",
+                "concept": "DepositsAssets",
+                "unit": "usd",
+                "value": 360978000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 50459000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 57701000
+            },
+            {
+                "label": "Reorganization value in excess of amounts allocable to identifiable assets, net",
+                "concept": "PostconfirmationReorganizationValueInExcessOfAmountsAllocableToIdentifiableAssets",
+                "unit": "usd",
+                "value": 41580000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 196498000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4338097000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 294254000
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 349113000
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "ContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 158016000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 64540000
+            },
+            {
+                "label": "Senior notes",
+                "concept": "SeniorNotes",
+                "unit": "usd",
+                "value": 1193962000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2059885000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 1620368000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 9525000
+            },
+            {
+                "label": "Income before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+                "unit": "usd",
+                "value": 209831000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 45756000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 164075000
+            },
+            {
+                "label": "Basic earnings per share (USD per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 44.56
+            },
+            {
+                "label": "Diluted earnings per share (USD per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 42.5
+            },
+            {
+                "label": "Basic weighted average shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 3682000
+            },
+            {
+                "label": "Diluted weighted average shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 3861000
+            }
+        ]
+    }
+}

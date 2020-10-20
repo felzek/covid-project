@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DOV",
+    "data": {
+        "bs": [
+            {
+                "label": "Foreign currency cash flow hedges - asset",
+                "concept": "ForeignCurrencyContractAssetFairValueDisclosure",
+                "unit": "usd",
+                "value": 1792000
+            },
+            {
+                "label": "Foreign currency cash flow hedges - liability",
+                "concept": "ForeignCurrencyContractsLiabilityFairValueDisclosure",
+                "unit": "usd",
+                "value": 2112000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 124766000
+            },
+            {
+                "label": "Foreign currency translation (losses) gains",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 44569000
+            },
+            {
+                "label": "Reclassification of foreign currency translation losses to earnings",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationReclassificationAdjustmentFromAOCIRealizedUponSaleOrLiquidationNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 44569000
+            },
+            {
+                "label": "Amortization of actuarial losses included in net periodic pension cost",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 1835000
+            },
+            {
+                "label": "Amortization of prior service cost included in net periodic pension cost",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 259000
+            },
+            {
+                "label": "Total pension and other postretirement benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2094000
+            },
+            {
+                "label": "Unrealized net gains (losses) arising during period",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1880000
+            },
+            {
+                "label": "Net losses (gains) reclassified into earnings",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 594000
+            },
+            {
+                "label": "Total cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 1286000
+            },
+            {
+                "label": "Other comprehensive (loss) earnings",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 47949000
+            },
+            {
+                "label": "Comprehensive earnings",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 172715000
+            }
+        ]
+    }
+}

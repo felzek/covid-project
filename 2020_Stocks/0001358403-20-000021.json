@@ -1,0 +1,296 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BLCM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 66408000
+            },
+            {
+                "label": "Restricted cash, current",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 87000
+            },
+            {
+                "label": "Accounts receivable, interest and other receivables",
+                "concept": "AccountsAndOtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 127000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1528000
+            },
+            {
+                "label": "Assets held for sale",
+                "concept": "AssetsHeldForSaleNotPartOfDisposalGroupCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 68150000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 869000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1615000
+            },
+            {
+                "label": "Restricted cash, non-current",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 1500000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 341000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 72475000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 2486000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 7108000
+            },
+            {
+                "label": "Warrant derivative liability",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 28183000
+            },
+            {
+                "label": "Private placement option liability",
+                "concept": "blcm:DerivativeLiabilityPrivatePlacementOption",
+                "unit": "usd",
+                "value": 33970000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 6390000
+            },
+            {
+                "label": "Current portion of lease liabilities",
+                "concept": "blcm:LeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 491000
+            },
+            {
+                "label": "Liabilities Held-For-Sale, Not Part Of Disposal Group, Current",
+                "concept": "blcm:LiabilitiesHeldForSaleNotPartOfDisposalGroupCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 78628000
+            },
+            {
+                "label": "Long-term debt, net of deferred issuance costs",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 20715000
+            },
+            {
+                "label": "Long-term lease liabilities",
+                "concept": "blcm:LeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 609000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 99952000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock: $0.01 par value; 10,000,000 shares authorized",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 21308000
+            },
+            {
+                "label": "Common stock, $0.01 par value; 80,000,000 and 40,000,000 shares authorized at June\u00a030, 2020 and December\u00a031, 2019, respectively, 5,127,525 shares issued and 5,059,779 shares outstanding at June\u00a030, 2020; 5,076,593 shares issued and 5,008,846 shares outstanding at December\u00a031, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 51000
+            },
+            {
+                "label": "Treasury stock: 67,746 shares held at June\u00a030, 2020 and December\u00a031, 2019",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 5056000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 515252000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 389000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 558643000
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 48785000
+            },
+            {
+                "label": "Total liabilities, preferred stock and stockholders' deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 72475000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 11758000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3761000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 15519000
+            },
+            {
+                "label": "Gain on dispositions, net",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 3761000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 11758000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeDomesticDeposits",
+                "unit": "usd",
+                "value": 28000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 763000
+            },
+            {
+                "label": "Change in fair value of warrant and private placement option liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 30701000
+            },
+            {
+                "label": "Total other (expense) income",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 31436000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 43194000
+            },
+            {
+                "label": "Net loss per common share attributable to common shareholders, basic and diluted (in shares)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 8.55
+            },
+            {
+                "label": "Weighted-average shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 5052234
+            },
+            {
+                "label": "Unrealized gain on available-for-sale securities, net of tax",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 49000
+            },
+            {
+                "label": "Comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 43243000
+            }
+        ]
+    }
+}

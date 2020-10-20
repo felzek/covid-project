@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CAVF",
+    "data": {
+        "bs": [
+            {
+                "label": "Members' Equity",
+                "concept": "MembersEquity",
+                "unit": "usd",
+                "value": 58726893
+            },
+            {
+                "label": "Members' Equity",
+                "concept": "MembersEquity",
+                "unit": "usd",
+                "value": 58726893
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest earned on the cash balance of the Master Fund and allocated to the reporting entity.",
+                "concept": "cavf:InterestIncomeOperatingAllocatedFromMasterFund",
+                "unit": "usd",
+                "value": 238925
+            },
+            {
+                "label": "Represents the aggregate amount of expenses allocated from the Master Fund during the period.",
+                "concept": "cavf:ExpensesAllocatedFromMasterFund",
+                "unit": "usd",
+                "value": 671995
+            },
+            {
+                "label": "Fees charged for managing the assets during reporting period.",
+                "concept": "cavf:InvestmentAdvisoryFeeExpense",
+                "unit": "usd",
+                "value": 267518
+            },
+            {
+                "label": "Other General and Administrative Expense",
+                "concept": "AdministrativeFeesExpense",
+                "unit": "usd",
+                "value": 89172
+            },
+            {
+                "label": "Represents the amount expensed during the reporting period to pay for audit, legal and other expenses.",
+                "concept": "cavf:ProfessionalFeesAndOtherExpenses",
+                "unit": "usd",
+                "value": 77516
+            },
+            {
+                "label": "Investment Income, Investment Expense",
+                "concept": "InvestmentIncomeInvestmentExpense",
+                "unit": "usd",
+                "value": 1106201
+            },
+            {
+                "label": "Investment Income, Net",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": -867276
+            },
+            {
+                "label": "Represents the gain (loss) realized during the period from the sale of trading securities allocated to the reporting entity by the Master Fund.",
+                "concept": "cavf:TradingSecuritiesRealizedGainLossAllocatedFromMasterFund",
+                "unit": "usd",
+                "value": -4257336
+            },
+            {
+                "label": "The net change in the difference between the fair value and the carrying value, or in the comparative fair values, of trading securities held at each balance sheet date, allocated from the Master Fund to the reporting entity during the period.",
+                "concept": "cavf:TradingSecuritiesUnrealizedHoldingGainLossAllocatedFromMasterFund",
+                "unit": "usd",
+                "value": -4282657
+            },
+            {
+                "label": "Debt and Equity Securities, Gain (Loss)",
+                "concept": "DebtAndEquitySecuritiesGainLoss",
+                "unit": "usd",
+                "value": -8539993
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -9407269
+            },
+            {
+                "label": "Represents the amount of capital contributed by non-managing members for units issued during the period.",
+                "concept": "cavf:NonManagingMembersSubscriptionsContributedCapital",
+                "unit": "usd",
+                "value": 450000
+            },
+            {
+                "label": "Represents the change in non-managing members' equity due to redemptions.",
+                "concept": "cavf:NonManagingMembersCapitalRedemptions",
+                "unit": "usd",
+                "value": 14800351
+            },
+            {
+                "label": "Changes in members' equity during the period.",
+                "concept": "cavf:CapitalAccountPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -23757620
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -122.29
+            },
+            {
+                "label": "Weighted average number of redeemable units outstanding during the period.",
+                "concept": "cavf:WeightedAverageRedeemableUnitsOutstanding",
+                "unit": "shares",
+                "value": 75042.288
+            }
+        ]
+    }
+}

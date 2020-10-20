@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BPMP",
+    "data": {
+        "bs": [
+            {
+                "label": "Current portion of environmental remediation obligations",
+                "concept": "AccruedEnvironmentalLossContingenciesCurrent",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Long-term portion of environmental remediation obligations",
+                "concept": "AccruedEnvironmentalLossContingenciesNoncurrent",
+                "unit": "usd",
+                "value": 3200000.0
+            },
+            {
+                "label": "Environmental liabilities",
+                "concept": "AccrualForEnvironmentalLossContingencies",
+                "unit": "usd",
+                "value": 3600000.0
+            },
+            {
+                "label": "Current portion of indemnification assets",
+                "concept": "bpmp:IndemnificationAssetForEnvironmentalLossContingenciesCurrent",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Non-current portion of indemnification assets",
+                "concept": "bpmp:IndemnificationAssetForEnvironmentalLossContingenciesNoncurrent",
+                "unit": "usd",
+                "value": 3200000.0
+            },
+            {
+                "label": "Indemnification assets",
+                "concept": "bpmp:IndemnificationAssetForEnvironmentalLossContingencies",
+                "unit": "usd",
+                "value": 3600000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Partner distributions declared",
+                "concept": "DistributedEarnings",
+                "unit": "usd",
+                "value": 18200000.0
+            },
+            {
+                "label": "Net income attributable to the Partnership in excess of distributions",
+                "concept": "bpmp:NetIncomeInExcessOfDistributions",
+                "unit": "usd",
+                "value": 1500000.0
+            },
+            {
+                "label": "Net income attributable to the Partnership",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 19700000.0
+            },
+            {
+                "label": "Basic and Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfLimitedPartnershipAndGeneralPartnershipUnitOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 52400000.0
+            },
+            {
+                "label": "Net income attributable to the Partnership per limited partner unit \u2013 basic and diluted (in dollars per share)",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipAndGeneralPartnershipUnitBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.38
+            }
+        ]
+    }
+}

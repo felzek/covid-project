@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "KREF",
+    "data": {
+        "bs": [
+            {
+                "label": "Commercial mortgage loans, held-for-investment",
+                "concept": "kref:CommercialMortgageLoansHeldForInvestment",
+                "unit": "usd",
+                "value": 992168000
+            },
+            {
+                "label": "Less: Allowance for credit losses",
+                "concept": "kref:TransfersAccountedForAsSecuredBorrowingsAssetsCarryingAmountAllowanceforCreditLosses",
+                "unit": "usd",
+                "value": 7643000
+            },
+            {
+                "label": "Carrying value, collateral assets",
+                "concept": "TransfersAccountedForAsSecuredBorrowingsAssetsCarryingAmount",
+                "unit": "usd",
+                "value": 984525000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 11429000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 6386000
+            },
+            {
+                "label": "Total net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 5043000
+            },
+            {
+                "label": "Amortization of deferred debt issuance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 1700000.0
+            }
+        ]
+    }
+}

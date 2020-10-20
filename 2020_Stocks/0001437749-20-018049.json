@@ -1,0 +1,121 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "ASFI",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 3409000
+            },
+            {
+                "label": "Interest and dividend income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 263000
+            },
+            {
+                "label": "Gain on settlements",
+                "concept": "GainLossRelatedToLitigationSettlement",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 253000
+            },
+            {
+                "label": "us-gaap_OtherIncome",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 516000
+            },
+            {
+                "label": "us-gaap_Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 3925000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3281000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Impairment of consumer receivables acquired for liquidation",
+                "concept": "OtherAssetImpairmentCharges",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncomeLossFromEquityMethodInvestments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -2000
+            },
+            {
+                "label": "us-gaap_CostsAndExpenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 3284000
+            },
+            {
+                "label": "Income before income tax",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 641000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 195000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 446000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 6567765
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 6748499
+            }
+        ]
+    }
+}

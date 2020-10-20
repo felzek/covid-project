@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AGP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1396000
+            },
+            {
+                "label": "Cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1396000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 335000
+            },
+            {
+                "label": "Costs incurred to operate and maintain an entities' wells and related equipment and facilities, including applicable operating costs of support equipment and facilities and other costs of operating and maintaining those wells and related equipment and facilities.",
+                "concept": "agp:GasAndOilProduction",
+                "unit": "usd",
+                "value": 308000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 656000
+            },
+            {
+                "label": "General And Administrative Expenses To Affiliates",
+                "concept": "agp:GeneralAndAdministrativeExpensesToAffiliates",
+                "unit": "usd",
+                "value": 748000
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "CostDepreciationAmortizationAndDepletion",
+                "unit": "usd",
+                "value": 165000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 1877000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1542000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1542000
+            },
+            {
+                "label": "Common limited partners\u2019 interest",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": -1511000
+            },
+            {
+                "label": "General partner\u2019s interest",
+                "concept": "NetIncomeLossAllocatedToGeneralPartners",
+                "unit": "usd",
+                "value": -31000
+            },
+            {
+                "label": "Basic and Diluted",
+                "concept": "IncomeLossFromContinuingOperationsPerOutstandingLimitedPartnershipAndGeneralPartnershipUnitBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.06
+            },
+            {
+                "label": "Basic and Diluted",
+                "concept": "WeightedAverageNumberOfLimitedPartnershipAndGeneralPartnershipUnitOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 23300000
+            }
+        ]
+    }
+}

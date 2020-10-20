@@ -1,0 +1,224 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ARE",
+    "data": {
+        "bs": [
+            {
+                "label": "Investments in real estate",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 16281125000
+            },
+            {
+                "label": "Investments in unconsolidated real estate joint ventures",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 326858000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 206860000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 34680000
+            },
+            {
+                "label": "Tenant receivables",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 7208000
+            },
+            {
+                "label": "Deferred rent",
+                "concept": "DeferredRentReceivablesNet",
+                "unit": "usd",
+                "value": 688749000
+            },
+            {
+                "label": "Deferred leasing costs",
+                "concept": "are:DeferredCostsLeasingAndFinanceNet",
+                "unit": "usd",
+                "value": 274483000
+            },
+            {
+                "label": "Investments",
+                "concept": "EquitySecuritiesFvNiAndWithoutReadilyDeterminableFairValue",
+                "unit": "usd",
+                "value": 1318465000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 930680000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 20069108000
+            },
+            {
+                "label": "Secured notes payable",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 344784000
+            },
+            {
+                "label": "Unsecured senior notes payable",
+                "concept": "SeniorLongTermNotes",
+                "unit": "usd",
+                "value": 6738486000
+            },
+            {
+                "label": "Unsecured senior lines of credit",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 440000000
+            },
+            {
+                "label": "Accounts payable, accrued expenses, and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1343181000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 133681000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 9000132000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable noncontrolling interests",
+                "concept": "TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests",
+                "unit": "usd",
+                "value": 12122000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1246000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 9443274000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 13080000
+            },
+            {
+                "label": "Alexandria Real Estate Equities, Inc.\u2019s stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 9431440000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1625414000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 11056854000
+            },
+            {
+                "label": "Total liabilities, noncontrolling interests, and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 20069108000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 243561000
+            },
+            {
+                "label": "Unrealized interest rate hedge losses arising during the period",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification adjustment for amortization to interest expense included in net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized losses on interest rate hedge agreements, net",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized foreign currency translation gains (losses) arising during the period",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 2526000
+            },
+            {
+                "label": "Unrealized gains (losses) on foreign currency translation, net",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2526000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2526000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 246087000
+            },
+            {
+                "label": "Less: comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 13907000
+            },
+            {
+                "label": "Comprehensive income attributable to Alexandria Real Estate Equities, Inc.\u2019s stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 232180000
+            }
+        ]
+    }
+}

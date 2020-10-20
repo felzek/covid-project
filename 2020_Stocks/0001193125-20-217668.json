@@ -1,0 +1,200 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "JIH",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 2359041
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 194781
+            },
+            {
+                "label": "Assets, Current",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 2553822
+            },
+            {
+                "label": "Assets Held-in-trust, Noncurrent",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 347493194
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 350047016
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 31118
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 264018
+            },
+            {
+                "label": "Due to Related Parties, Current",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accrual for Taxes Other than Income Taxes, Current",
+                "concept": "AccrualForTaxesOtherThanIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 177360
+            },
+            {
+                "label": "Accrued Income Taxes, Current",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 601402
+            },
+            {
+                "label": "Liabilities, Current",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1073898
+            },
+            {
+                "label": "Deferred Underwriting Commissions Non Current",
+                "concept": "jih:DeferredUnderwritingCommissionsNonCurrent",
+                "unit": "usd",
+                "value": 12075000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 13148898
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable Noncontrolling Interest, Equity, Common, Carrying Amount",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonCarryingAmount",
+                "unit": "usd",
+                "value": 331898115
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3694194
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1304798
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000003
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 350047016
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 107050
+            },
+            {
+                "label": "Taxes, Other",
+                "concept": "TaxesOther",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -157050
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 72
+            },
+            {
+                "label": "Interest Income On Marketable Securities Held In Trust Account",
+                "concept": "jih:InterestIncomeOnMarketableSecuritiesHeldInTrustAccount",
+                "unit": "usd",
+                "value": 700827
+            },
+            {
+                "label": "Unrealized Gain Loss On Marketable Securities Held In Trust Account",
+                "concept": "jih:UnrealizedGainLossOnMarketableSecuritiesHeldInTrustAccount",
+                "unit": "usd",
+                "value": -592352
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -48503
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 158722
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -207225
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 10112541
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.02
+            }
+        ]
+    }
+}

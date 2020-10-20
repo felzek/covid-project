@@ -1,0 +1,416 @@
+{
+    "startDate": "2020-03-30",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "LEE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 56710000
+            },
+            {
+                "label": "Accounts receivable and contract assets, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 55540000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 8305000
+            },
+            {
+                "label": "us-gaap_OtherAssetsCurrent",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 19979000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 140534000
+            },
+            {
+                "label": "Associated companies",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 28315000
+            },
+            {
+                "label": "us-gaap_CostMethodInvestments",
+                "concept": "CostMethodInvestments",
+                "unit": "usd",
+                "value": 8173000
+            },
+            {
+                "label": "us-gaap_LongTermInvestments",
+                "concept": "LongTermInvestments",
+                "unit": "usd",
+                "value": 36488000
+            },
+            {
+                "label": "Land and improvements",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 19106000
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "BuildingsAndImprovementsGross",
+                "unit": "usd",
+                "value": 128469000
+            },
+            {
+                "label": "Equipment",
+                "concept": "MachineryAndEquipmentGross",
+                "unit": "usd",
+                "value": 246623000
+            },
+            {
+                "label": "Construction in process",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 7104000
+            },
+            {
+                "label": "us-gaap_PropertyPlantAndEquipmentGross",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 401302000
+            },
+            {
+                "label": "Less accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 289702000
+            },
+            {
+                "label": "us-gaap_PropertyPlantAndEquipmentNet",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 111600000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 70626000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 313868000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 206245000
+            },
+            {
+                "label": "Medical plan assets, net",
+                "concept": "DefinedBenefitPlanAssetsForPlanBenefitsNoncurrent",
+                "unit": "usd",
+                "value": 14981000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 8026000
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 902368000
+            },
+            {
+                "label": "Current portion of lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 8886000
+            },
+            {
+                "label": "Less current maturities of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 36710000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 19446000
+            },
+            {
+                "label": "Compensation and other accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 45187000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unearned revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 59285000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 169514000
+            },
+            {
+                "label": "Long-term debt, net of current maturities",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 539290000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 62585000
+            },
+            {
+                "label": "Pension obligations",
+                "concept": "DefinedBenefitPensionPlanLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 87649000
+            },
+            {
+                "label": "Postretirement and postemployment benefit obligations",
+                "concept": "PostemploymentBenefitsLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 39796000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 10061000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesNoncurrent",
+                "unit": "usd",
+                "value": 17497000
+            },
+            {
+                "label": "Warrants and other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 12211000
+            },
+            {
+                "label": "us-gaap_Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 938603000
+            },
+            {
+                "label": "Serial convertible preferred stock, no par value; authorized 500 shares; none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 256179000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 266744000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 28164000
+            },
+            {
+                "label": "Total stockholders' deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 38145000
+            },
+            {
+                "label": "Non-controlling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1910000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 36235000
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 902368000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total operating revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 182528000
+            },
+            {
+                "label": "us-gaap_LaborAndRelatedExpense",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 72396000
+            },
+            {
+                "label": "Newsprint and ink",
+                "concept": "lee:NewsprintAndInkExpense",
+                "unit": "usd",
+                "value": 7572000
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 77440000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 11201000
+            },
+            {
+                "label": "us-gaap_GainLossOnSaleOfPropertyPlantEquipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 147000
+            },
+            {
+                "label": "Restructuring costs and other",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 2865000
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 171621000
+            },
+            {
+                "label": "Equity in earnings of associated companies",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 842000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 11749000
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 13135000
+            },
+            {
+                "label": "Debt financing and administrative costs",
+                "concept": "lee:DebtFinancingAndAdministrativeCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1027000
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 12108000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 359000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 368000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 727000
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAttributableToNoncontrollingInterest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 548000
+            },
+            {
+                "label": "Income (loss) attributable to Lee Enterprises, Incorporated",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1275000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of income taxes",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 317000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 958000
+            },
+            {
+                "label": "Basic: (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Diluted: (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.02
+            }
+        ]
+    }
+}

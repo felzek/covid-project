@@ -1,0 +1,31 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "IQV",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total before income taxes",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 11000000
+            },
+            {
+                "label": "Income tax (benefit) expense",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "(Gains) losses on derivative instruments included in net income, net of income tax expense (benefit) of $1, $\u2014, $1, $(1)",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 12000000
+            }
+        ]
+    }
+}

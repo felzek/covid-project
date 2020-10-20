@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RPTX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 370132000
+            },
+            {
+                "label": "Cash and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 370132000
+            },
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 369933000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 199000
+            },
+            {
+                "label": "Total cash and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 370132000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development, net of tax credits",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 8951000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3372000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 12323000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -12323000
+            },
+            {
+                "label": "Realized and unrealized gain (loss) on foreign exchange",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 595000
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherNonoperatingExpense",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Total other income (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 591000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -11732000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "Net income loss and comprehensive income loss.",
+                "concept": "rptx:NetIncomeLossAndComprehensiveIncomeLoss",
+                "unit": "usd",
+                "value": -11802000
+            },
+            {
+                "label": "Net loss attributable to common shareholders\u2014basic and diluted",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -11802000
+            },
+            {
+                "label": "Net loss per share attributable to common shareholders\u2014basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -2.45
+            },
+            {
+                "label": "Weighted-average common shares outstanding\u2014basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 4825214
+            }
+        ]
+    }
+}

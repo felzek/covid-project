@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "BRBR",
+    "data": {
+        "bs": [
+            {
+                "label": "Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2136699999.9999998
+            },
+            {
+                "label": "Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2136699999.9999998
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings including redeemable noncontrolling interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 14200000.0
+            },
+            {
+                "label": "Net gain (loss) on derivatives, before tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification adjustment from AOCI on derivatives, before tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesBeforeTax",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Foreign Currency Translation Adjustment, before Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Net gain (loss) on derivatives, tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Less: Comprehensive income attributable to redeemable noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 11600000.0
+            },
+            {
+                "label": "Total comprehensive income available to Class A common stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3500000.0
+            }
+        ]
+    }
+}

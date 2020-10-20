@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MAN",
+    "data": {
+        "bs": [
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2542800000.0
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2542800000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) earnings",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 64400000.00000001
+            },
+            {
+                "label": "Other Comprehensive Income Loss Foreign Currency Translation Adjustment Net Of Tax.",
+                "concept": "man:OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 37300000.0
+            },
+            {
+                "label": "Translation adjustments on derivative instruments, net of income taxes of $(5.3), $(3.1), $0.1 and $2.0, respectively",
+                "concept": "TranslationAdjustmentForNetInvestmentHedgeNetOfTaxPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 9300000.0
+            },
+            {
+                "label": "Translation adjustments of long-term intercompany loans",
+                "concept": "AdjustmentForLongTermIntercompanyTransactionsNetOfTax",
+                "unit": "usd",
+                "value": 1900000.0
+            },
+            {
+                "label": "Defined benefit pension plans and retiree health care plan, net of income taxes of $(0.1), $0.0, $7.6 and $0.1, respectively",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 26700000.0
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 37700000.0
+            }
+        ]
+    }
+}

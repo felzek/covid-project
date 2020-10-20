@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BE",
+    "data": {
+        "bs": [
+            {
+                "label": "Accrued warranty beginning balance",
+                "concept": "StandardProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 9431000
+            },
+            {
+                "label": "Accrued warranty beginning balance",
+                "concept": "StandardProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 9431000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 187856000
+            },
+            {
+                "label": "Cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 161607000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 26249000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 19377000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 11427000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 24945000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 55749000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 29500000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 332000
+            },
+            {
+                "label": "Interest expense to related parties",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 794000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 3913000
+            },
+            {
+                "label": "Gain (loss) on revaluation of embedded derivatives",
+                "concept": "be:EmbeddedDerivativeGainLossonEmbeddedDerivativeNetAndFairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 412000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 47837000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 141000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 47978000
+            },
+            {
+                "label": "Less: net loss attributable to noncontrolling interests and redeemable noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5466000
+            }
+        ]
+    }
+}

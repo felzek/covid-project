@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SBP",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_PartnersCapital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 45798799
+            },
+            {
+                "label": "us-gaap_PartnersCapital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 45798799
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rent and other income",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 295300
+            },
+            {
+                "label": "Real estate operating expenses",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 69841
+            },
+            {
+                "label": "Other",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 30184
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -491128
+            }
+        ]
+    }
+}

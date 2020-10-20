@@ -1,0 +1,32 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DGX",
+    "data": {
+        "bs": [
+            {
+                "label": "Carrying Amount of Hedged Long-Term Debt",
+                "concept": "HedgedLiabilityFairValueHedge",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Hedge Accounting Basis Adjustment",
+                "concept": "HedgedLiabilityFairValueHedgeCumulativeIncreaseDecrease",
+                "unit": "usd",
+                "value": 59000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 13000000
+            }
+        ]
+    }
+}

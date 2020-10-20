@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-27",
+    "endDate": "2020-07-26",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "AMAT",
+    "data": {
+        "bs": [
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1118000000
+            },
+            {
+                "label": "Compensation and employee benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 723000000
+            },
+            {
+                "label": "Warranty",
+                "concept": "ProductWarrantyAccrualClassifiedCurrent",
+                "unit": "usd",
+                "value": 199000000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrent",
+                "unit": "usd",
+                "value": 201000000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 74000000
+            },
+            {
+                "label": "Other accrued taxes",
+                "concept": "AccrualForTaxesOtherThanIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 27000000
+            },
+            {
+                "label": "Interest payable",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 53000000
+            },
+            {
+                "label": "Operating lease liabilities, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 63000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 437000000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2895000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 4395000000
+            },
+            {
+                "label": "Income from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 1108000000
+            }
+        ]
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SCGY",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 58459
+            },
+            {
+                "label": "Prepaid expense and other receivables",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 61459
+            },
+            {
+                "label": "Joint venture",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 1344
+            },
+            {
+                "label": "Right to use assets, net",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 74756
+            },
+            {
+                "label": "Deposits {1}",
+                "concept": "PrepaidExpenseNoncurrent",
+                "unit": "usd",
+                "value": 20349
+            },
+            {
+                "label": "Total non-current assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 96449
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 157908
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1172250
+            },
+            {
+                "label": "Lease liability",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 48838
+            },
+            {
+                "label": "Note payable",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 223000
+            },
+            {
+                "label": "Stock subscription payables",
+                "concept": "ShortTermNonBankLoansAndNotesPayable",
+                "unit": "usd",
+                "value": 901539
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2345627
+            },
+            {
+                "label": "Lease liability -long term",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 25918
+            },
+            {
+                "label": "Total Liability",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2371545
+            },
+            {
+                "label": "Preferred Stock, Value",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common Stock, Value",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1149159
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5734030
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -9104155
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 7329
+            },
+            {
+                "label": "Total stockholders' deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -2213637
+            },
+            {
+                "label": "Total liabilities and stockholders' deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 157908
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "REVENUE",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "COST OF REVENUE",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "GROSS PROFIT",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 138121
+            },
+            {
+                "label": "Depreciation {1}",
+                "concept": "DepreciationNonproduction",
+                "unit": "usd",
+                "value": 245
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 138366
+            },
+            {
+                "label": "NET LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -138366
+            },
+            {
+                "label": "Interest (expense) income",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 2785
+            },
+            {
+                "label": "Net loss before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -141151
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "NET LOSS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -141151
+            },
+            {
+                "label": "Foreign translation gain (loss)",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1704
+            },
+            {
+                "label": "Comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -139447
+            },
+            {
+                "label": "Net loss per common share, basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.001
+            },
+            {
+                "label": "Weighted average common shares outstanding, basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 114915852
+            }
+        ]
+    }
+}

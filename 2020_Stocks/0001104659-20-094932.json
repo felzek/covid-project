@@ -1,0 +1,104 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BENH",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 270
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 270
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "The amount represents consulting expenses during the financial year.",
+                "concept": "benh:ConsultingExpenses",
+                "unit": "usd",
+                "value": 1656
+            },
+            {
+                "label": "The amount represents travel expenses during the financial year.",
+                "concept": "benh:TravelExpenses",
+                "unit": "usd",
+                "value": 520
+            },
+            {
+                "label": "Filing fees required for filings to SEC.",
+                "concept": "benh:FilingFees",
+                "unit": "usd",
+                "value": 4123
+            },
+            {
+                "label": "Other General Expense",
+                "concept": "OtherGeneralExpense",
+                "unit": "usd",
+                "value": 75
+            },
+            {
+                "label": "Represents the amount of accounting fee charged for services from professionals accountants during the reporting period.",
+                "concept": "benh:AccountingFees",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Represents the amount of auditing fee charged for services from professionals during the reporting period.",
+                "concept": "benh:AuditingFees",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "The amount of expense provided in the period for legal costs incurred on or before the balance sheet date pertaining to resolved, pending or threatened litigation, including arbitration and mediation proceedings.",
+                "concept": "benh:LegalFee",
+                "unit": "usd",
+                "value": -916
+            },
+            {
+                "label": "Other Expenses",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 1106
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -15564
+            },
+            {
+                "label": "The net amount of provision for write down of investment.",
+                "concept": "benh:ProvisionForWriteDownOfInvestment",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -15564
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 77350003
+            }
+        ]
+    }
+}

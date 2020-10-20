@@ -1,0 +1,284 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TLGT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5851000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 206000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts of $2,444 and $2,208, as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 13555000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 32110000
+            },
+            {
+                "label": "Prepaid expenses and other receivables",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 2251000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 53973000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 96970000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 34666000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 469000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 4197000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 190275000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 10561000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 9325000
+            },
+            {
+                "label": "Capital lease obligation, current",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 477000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 23741000
+            },
+            {
+                "label": "Long-term Line of Credit",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 25000000
+            },
+            {
+                "label": "Secured Long-term Debt, Noncurrent",
+                "concept": "SecuredLongTermDebt",
+                "unit": "usd",
+                "value": 91714000
+            },
+            {
+                "label": "Derivative liabilities",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 5571000
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 193000
+            },
+            {
+                "label": "Other long term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 2742000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 228055000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, Value, Issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 56000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 127596000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 162642000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2790000
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 37780000
+            },
+            {
+                "label": "Total liabilities and stockholders' deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 190275000
+            },
+            {
+                "label": "Government Grant Advance, Current",
+                "concept": "tlgt:GovernmentGrantAdvanceCurrent",
+                "unit": "usd",
+                "value": 3378000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue, net",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 13586000
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 11084000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4989000
+            },
+            {
+                "label": "Impairment charges",
+                "concept": "ImpairmentOfIntangibleAssetsExcludingGoodwill",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Product development and research expenses",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1880000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 17953000
+            },
+            {
+                "label": "Operating income/(loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 4367000
+            },
+            {
+                "label": "Foreign currency exchange gain/(loss)",
+                "concept": "ForeignCurrencyTransactionGainLossRealized",
+                "unit": "usd",
+                "value": 2125000
+            },
+            {
+                "label": "Debt partial extinguishment of 2019 Notes",
+                "concept": "ExtinguishmentOfDebtAmount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest and other expense, net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 7520000
+            },
+            {
+                "label": "Change in the fair value of derivative liabilities",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 4591000
+            },
+            {
+                "label": "Loss before income tax (benefit)/expense",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 14353000
+            },
+            {
+                "label": "Income tax (benefit)/ expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Net loss attributable to common shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 14332000
+            },
+            {
+                "label": "Basic and diluted loss per share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 2.56
+            },
+            {
+                "label": "Basic and diluted shares (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 5593557
+            }
+        ]
+    }
+}

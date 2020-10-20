@@ -1,0 +1,55 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GFED",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Basic Income Per Common Share",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 1883383
+            },
+            {
+                "label": "Basic Income Per Common Share (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 4337274
+            },
+            {
+                "label": "Basic Income Per Common Share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.43
+            },
+            {
+                "label": "Effect of Dilutive Securities, Average Common Shares Outstanding (in shares)",
+                "concept": "WeightedAverageNumberDilutedSharesOutstandingAdjustment",
+                "unit": "shares",
+                "value": 3477
+            },
+            {
+                "label": "Diluted Income Per Common Share",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "unit": "usd",
+                "value": 1883383
+            },
+            {
+                "label": "Diluted Income Per Common Share (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 4340751
+            },
+            {
+                "label": "Diluted Income Per Common Share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.43
+            }
+        ]
+    }
+}

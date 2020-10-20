@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "DIS",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating Lease, Right-of-Use Asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 3905000000
+            },
+            {
+                "label": "Finance Lease, Right-of-Use Asset",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 341000000
+            },
+            {
+                "label": "Operating and Financing Lease Right Of Use Asset",
+                "concept": "dis:OperatingAndFinancingLeaseTotalRightOfUseAsset",
+                "unit": "usd",
+                "value": 4246000000
+            },
+            {
+                "label": "Operating Lease, Liability, Current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 804000000
+            },
+            {
+                "label": "Finance Lease, Liability, Current",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 38000000
+            },
+            {
+                "label": "Operating and Finance Lease Liability Current",
+                "concept": "dis:OperatingAndFinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 842000000
+            },
+            {
+                "label": "Operating Lease, Liability, Noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2779000000
+            },
+            {
+                "label": "Finance Lease, Liability, Noncurrent",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 271000000
+            },
+            {
+                "label": "Operating and Finance Lease Liability Noncurrent",
+                "concept": "dis:OperatingAndFinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 3050000000
+            },
+            {
+                "label": "Operating and Finance Lease Liability",
+                "concept": "dis:OperatingAndFinanceLeaseLiability",
+                "unit": "usd",
+                "value": 3892000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Gain (loss) on pay-floating swaps",
+                "concept": "ChangeInUnrealizedGainLossOnFairValueHedgingInstruments1",
+                "unit": "usd",
+                "value": 63000000
+            }
+        ]
+    }
+}

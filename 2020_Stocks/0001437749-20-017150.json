@@ -1,0 +1,75 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SYBT",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 420231000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 420231000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Operating lease cost",
+                "concept": "OperatingLeaseCost",
+                "unit": "usd",
+                "value": 473000
+            },
+            {
+                "label": "Variable lease cost",
+                "concept": "VariableLeaseCost",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Less sublease income",
+                "concept": "SubleaseIncome",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "us-gaap_LeaseCost",
+                "concept": "LeaseCost",
+                "unit": "usd",
+                "value": 493000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Operating lease cost",
+                "concept": "OperatingLeaseCost",
+                "unit": "usd",
+                "value": 473000
+            },
+            {
+                "label": "Variable lease cost",
+                "concept": "VariableLeaseCost",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Less sublease income",
+                "concept": "SubleaseIncome",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "us-gaap_LeaseCost",
+                "concept": "LeaseCost",
+                "unit": "usd",
+                "value": 493000
+            }
+        ]
+    }
+}

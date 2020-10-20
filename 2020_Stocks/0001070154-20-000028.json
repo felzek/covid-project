@@ -1,0 +1,272 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "STL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 324729000
+            },
+            {
+                "label": "Securities available for sale, at estimated fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 2620624000
+            },
+            {
+                "label": "Securities held to maturity (\u201cHTM\u201d), (net of allowance for credit losses of $2,499 at June\u00a030, 2020)",
+                "concept": "stl:HeldToMaturitySecuritiesAfterAllowanceForCreditLoss",
+                "unit": "usd",
+                "value": 1924955000
+            },
+            {
+                "label": "Loans held for sale",
+                "concept": "LoansReceivableHeldForSaleNetNotPartOfDisposalGroup",
+                "unit": "usd",
+                "value": 44437000
+            },
+            {
+                "label": "Portfolio loans",
+                "concept": "LoansAndLeasesReceivableNetOfDeferredIncome",
+                "unit": "usd",
+                "value": 22295267000
+            },
+            {
+                "label": "Allowance for credit losses - loans",
+                "concept": "LoansAndLeasesReceivableAllowance",
+                "unit": "usd",
+                "value": 365489000
+            },
+            {
+                "label": "Portfolio loans, net",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 21929778000
+            },
+            {
+                "label": "Federal Home Loan Bank (\u201cFHLB\u201d) and Federal Reserve Bank (\u201cFRB\u201d) stock, at cost",
+                "concept": "FederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 193666000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 101296000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 226728000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1683482000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 101964000
+            },
+            {
+                "label": "Bank owned life insurance (\u201cBOLI\u201d)",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 620908000
+            },
+            {
+                "label": "Other real estate owned",
+                "concept": "OtherRealEstateAndForeclosedAssets",
+                "unit": "usd",
+                "value": 8665000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 1058661000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 30839893000
+            },
+            {
+                "label": "Deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 23600621000
+            },
+            {
+                "label": "FHLB and other borrowings",
+                "concept": "FederalHomeLoanBankAdvancesLongTerm",
+                "unit": "usd",
+                "value": 975058000
+            },
+            {
+                "label": "Paycheck Protection Program Lending Facility",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 568350000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 26448000
+            },
+            {
+                "label": "Senior Notes",
+                "concept": "SeniorNotes",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Mortgage escrow funds",
+                "concept": "AdvancePaymentsByBorrowersForTaxesAndInsurance",
+                "unit": "usd",
+                "value": 69686000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 671140000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 26355706000
+            },
+            {
+                "label": "Commitments and Contingent liabilities (See Note 15. \u201cCommitments and Contingencies\u201d)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock (par value $0.01 per share; 10,000,000 shares authorized; 135,000 shares issued and outstanding at June\u00a030, 2020 and December 31, 2019)",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 137142000
+            },
+            {
+                "label": "Common stock (par value $0.01 per share; 310,000,000 shares authorized at June\u00a030, 2020 and December 31, 2019; 229,872,925 shares issued at June\u00a030, 2020 and December 31, 2019; 194,458,805 and 198,455,324 shares outstanding at June\u00a030, 2020 and December 31, 2019, respectively)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2299000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3755474000
+            },
+            {
+                "label": "Treasury stock, at cost (35,414,120 shares at June\u00a030, 2020 and 31,417,601 shares at December 31, 2019)",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 660223000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1160885000
+            },
+            {
+                "label": "Accumulated other comprehensive income, net of tax expense of $33,847 at June\u00a030, 2020 and $15,361 at December 31, 2019",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 88610000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4484187000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 30839893000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 50792000
+            },
+            {
+                "label": "Change in unrealized holding gains on securities available for sale",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 29356000
+            },
+            {
+                "label": "Unrealized (loss) on transfer of securities held to maturity to available for sale",
+                "concept": "OtherComprehensiveIncomeReclassificationAdjustmentForHeldToMaturityTransferredToAvailableForSaleSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification adjustment for net realized (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 485000
+            },
+            {
+                "label": "Accretion of net unrealized loss on securities transferred to held to maturity",
+                "concept": "stl:OtherComprehensiveIncomeLossUnrealizedHoldingGainLossOnSecuritiesTransferredToHeldToMaturityArisingDuringPeriodbeforeTax",
+                "unit": "usd",
+                "value": 59000
+            },
+            {
+                "label": "Change in the actuarial loss of defined benefit plan and post-retirement benefit plans",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax",
+                "unit": "usd",
+                "value": 76000
+            },
+            {
+                "label": "Total other comprehensive income, before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 29006000
+            },
+            {
+                "label": "Deferred tax (expense) related to other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 8017000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 20989000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 71781000
+            }
+        ]
+    }
+}

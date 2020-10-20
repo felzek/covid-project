@@ -1,0 +1,164 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EYE",
+    "data": {
+        "bs": [
+            {
+                "label": "Property and equipment, gross",
+                "concept": "PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetBeforeAccumulatedDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 642894000
+            },
+            {
+                "label": "Less: Accumulated depreciation",
+                "concept": "PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAccumulatedDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 302989000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 339905000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total net revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 260007000
+            },
+            {
+                "label": "Total costs applicable to revenue",
+                "concept": "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 140780000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 136582000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 21924000
+            },
+            {
+                "label": "Asset impairment",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 2411000
+            },
+            {
+                "label": "Litigation settlement",
+                "concept": "GainLossRelatedToLitigationSettlement",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other expense (income), net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 92000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 160825000
+            },
+            {
+                "label": "Income (loss) from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 41598000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 15502000
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "DebtRelatedCommitmentFeesAndDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 136000
+            },
+            {
+                "label": "Earnings (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 57236000
+            },
+            {
+                "label": "Income tax provision (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 13403000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 43833000
+            },
+            {
+                "label": "Basic (in usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.55
+            },
+            {
+                "label": "Diluted (in usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.55
+            },
+            {
+                "label": "Basic (shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 80325000
+            },
+            {
+                "label": "Diluted (shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 80325000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 43833000
+            },
+            {
+                "label": "Unrealized gain (loss) on hedge instruments",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 4111000
+            },
+            {
+                "label": "Tax provision (benefit) of unrealized gain (loss) on hedge instruments",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTax",
+                "unit": "usd",
+                "value": 1050000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 40772000
+            }
+        ]
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "CPLG",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 553000000
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 1936000000
+            },
+            {
+                "label": "Furniture, fixtures, and other equipment",
+                "concept": "FurnitureAndFixturesGross",
+                "unit": "usd",
+                "value": 323000000
+            },
+            {
+                "label": "Gross operating real estate",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 2812000000
+            },
+            {
+                "label": "Less accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 1117000000
+            },
+            {
+                "label": "Net operating real estate",
+                "concept": "cplg:OperatingRealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 1695000000
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Total real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 1703000000
+            },
+            {
+                "label": "Right of use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 194000000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 60000000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1998000000
+            },
+            {
+                "label": "Debt, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 961000000
+            },
+            {
+                "label": "Mandatorily redeemable preferred shares",
+                "concept": "cplg:MandatorilyRedeemablePreferredShares",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 66000000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 46000000
+            },
+            {
+                "label": "Deferred tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1095000000
+            },
+            {
+                "label": "Common Stock, Value, Outstanding",
+                "concept": "CommonStockValueOutstanding",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 959000000
+            },
+            {
+                "label": "Retained earnings (deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 59000000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 903000000
+            },
+            {
+                "label": "Total Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1998000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 72000000
+            },
+            {
+                "label": "Property tax, insurance and other",
+                "concept": "cplg:PropertyTaxInsuranceAndOther",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Management and royalty fees",
+                "concept": "cplg:ManagementAndRoyaltyFees",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Corporate general and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 42000000
+            },
+            {
+                "label": "Impairment loss",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 52000000
+            },
+            {
+                "label": "Gain on sales of real estate",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 9000000
+            },
+            {
+                "label": "Gain on casualty",
+                "concept": "cplg:GainLossRelatedToRealEstateCasualties",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Total Operating Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 167000000
+            },
+            {
+                "label": "Operating Loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 95000000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 12000000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Total Other Expenses",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 108000000
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 107000000
+            },
+            {
+                "label": "Weighted average number of shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 56600000.0
+            },
+            {
+                "label": "Basic and diluted earnings (loss) per share (in usd per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 1.89
+            }
+        ]
+    }
+}

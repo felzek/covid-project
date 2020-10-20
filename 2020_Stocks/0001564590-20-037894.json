@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GMHI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1011395
+            },
+            {
+                "label": "Cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1011395
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Professional fees and other expenses.",
+                "concept": "gmhi:ProfessionalFeesAndOtherExpenses",
+                "unit": "usd",
+                "value": 160123
+            },
+            {
+                "label": "State franchise taxes, other than income tax",
+                "concept": "TaxesExcludingIncomeAndExciseTaxes",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Net loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 210123
+            },
+            {
+                "label": "Other income - interest income",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 57058
+            },
+            {
+                "label": "Net income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 153065
+            },
+            {
+                "label": "Income tax provision and interest",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 32143
+            },
+            {
+                "label": "Net Income attributable to common shares",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 120922
+            }
+        ]
+    }
+}

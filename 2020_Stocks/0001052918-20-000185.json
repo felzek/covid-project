@@ -1,0 +1,248 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ELST",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 394875
+            },
+            {
+                "label": "Certificates of deposit",
+                "concept": "CertificatesOfDepositAtCarryingValue",
+                "unit": "usd",
+                "value": 499999
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 53402
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 803528
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 20395
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivableCurrent",
+                "unit": "usd",
+                "value": 4590
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1776789
+            },
+            {
+                "label": "Property and equipment, net of depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 8922
+            },
+            {
+                "label": "Right to use - Lease, net of amortization",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 13214
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1798925
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 26041
+            },
+            {
+                "label": "Refundable deposits",
+                "concept": "CustomerRefundableFees",
+                "unit": "usd",
+                "value": 1060
+            },
+            {
+                "label": "Accrued wages and bonus",
+                "concept": "AccruedSalariesCurrent",
+                "unit": "usd",
+                "value": 3656
+            },
+            {
+                "label": "Accrued vacation pay",
+                "concept": "AccruedEmployeeBenefitsCurrent",
+                "unit": "usd",
+                "value": 19105
+            },
+            {
+                "label": "Lease liability, current portion",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 13214
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 6742
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 69818
+            },
+            {
+                "label": "CARES Act loan payable (NOTE 8)",
+                "concept": "NotesPayableToBankNoncurrent",
+                "unit": "usd",
+                "value": 171712
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 241530
+            },
+            {
+                "label": "Common stock, $0.001 par value 50,000,000 shares authorized 4,946,502 and 4,946,502 shares issued and outstanding respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4947
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 931441
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 621007
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1557395
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1798925
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sales, net",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 245497
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 132395
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 113102
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 69957
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 50213
+            },
+            {
+                "label": "Marketing and sales",
+                "concept": "MarketingExpense",
+                "unit": "usd",
+                "value": 86295
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 206465
+            },
+            {
+                "label": "Operating loss {1}",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -93363
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeMoneyMarketDeposits",
+                "unit": "usd",
+                "value": 2488
+            },
+            {
+                "label": "Total other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 11488
+            },
+            {
+                "label": "Net loss before income tax",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+                "unit": "usd",
+                "value": -81875
+            },
+            {
+                "label": "Benefit (provision) for income tax",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -81875
+            },
+            {
+                "label": "Basic and diluted earnings per share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "Basic and diluted weighted average shares used in computing income (loss) per share:",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 4946502
+            }
+        ]
+    }
+}

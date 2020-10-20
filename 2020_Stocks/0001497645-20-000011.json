@@ -1,0 +1,224 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "INN",
+    "data": {
+        "bs": [
+            {
+                "label": "Investment in hotel properties, net",
+                "concept": "inn:RealEstateInvestmentPropertyNetExcludingUndevelopedLand",
+                "unit": "usd",
+                "value": 2145912000
+            },
+            {
+                "label": "Undeveloped land",
+                "concept": "LandAvailableForDevelopment",
+                "unit": "usd",
+                "value": 1500000
+            },
+            {
+                "label": "Assets held for sale, net",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": 425000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 124554000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 18658000
+            },
+            {
+                "label": "Investment in real estate loans, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 29173000
+            },
+            {
+                "label": "Right-of-use assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 29181000
+            },
+            {
+                "label": "Trade receivables, net",
+                "concept": "ReceivablesFromCustomers",
+                "unit": "usd",
+                "value": 10507000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 7249000
+            },
+            {
+                "label": "Deferred charges, net",
+                "concept": "inn:DeferredCostsNet",
+                "unit": "usd",
+                "value": 4479000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 9237000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2380875000
+            },
+            {
+                "label": "Debt, net of debt issuance costs",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 1159399000
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 19069000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2672000
+            },
+            {
+                "label": "Accrued expenses and other",
+                "concept": "AccruedLiabilitiesAndOtherLiabilities",
+                "unit": "usd",
+                "value": 68199000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1249339000
+            },
+            {
+                "label": "Commitments and contingencies (Note 10)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value per share, 500,000,000 shares authorized, 105,696,833 and 105,169,515 shares issued and outstanding at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1057000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1194178000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 36086000
+            },
+            {
+                "label": "Distributions in excess of retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 93994000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1065249000
+            },
+            {
+                "label": "Non-controlling interests in operating partnership",
+                "concept": "MinorityInterestInOperatingPartnerships",
+                "unit": "usd",
+                "value": 1332000
+            },
+            {
+                "label": "Non-controlling interests in joint venture (Note 8)",
+                "concept": "MinorityInterestInJointVentures",
+                "unit": "usd",
+                "value": 64955000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1131536000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2380875000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 52548000
+            },
+            {
+                "label": "Changes in fair value of derivative financial instruments",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 1023000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 53571000
+            },
+            {
+                "label": "Operating Partnership",
+                "concept": "inn:ComprehensiveIncomeLossNetOfTaxAttributableToNoncontrollingInterestOperatingPartnership",
+                "unit": "usd",
+                "value": 96000
+            },
+            {
+                "label": "Joint venture",
+                "concept": "inn:ComprehensiveIncomeLossNetOfTaxAttributableToNoncontrollingInterestJointVenture",
+                "unit": "usd",
+                "value": 2035000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Summit Hotel Properties,\u00a0Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 51440000
+            },
+            {
+                "label": "Preferred dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 3709000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to common stockholders",
+                "concept": "inn:ComprehensiveIncomeLossAvailableToCommonStockholders",
+                "unit": "usd",
+                "value": 55149000
+            }
+        ]
+    }
+}

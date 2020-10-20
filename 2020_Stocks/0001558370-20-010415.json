@@ -1,0 +1,152 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SNMP",
+    "data": {
+        "bs": [
+            {
+                "label": "Partners Capital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": -99291000
+            },
+            {
+                "label": "Partners Capital",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": -99291000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Operating Lease, Lease Income",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 11339000
+            },
+            {
+                "label": "Oil And Gas Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 11680000
+            },
+            {
+                "label": "Lease Operating Expense",
+                "concept": "OperatingLeaseExpense",
+                "unit": "usd",
+                "value": 1332000
+            },
+            {
+                "label": "Cost incurred related to the gas activities, such as transportation, marketing and processing crude oil, natural gas and refined petroleum products.",
+                "concept": "snmp:GasGatheringTransportationMarketingAndProcessingCosts1",
+                "unit": "usd",
+                "value": 2355000
+            },
+            {
+                "label": "Production Tax Expense",
+                "concept": "ProductionTaxExpense",
+                "unit": "usd",
+                "value": 44000
+            },
+            {
+                "label": "General And Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4512000
+            },
+            {
+                "label": "Allocated Share-based Compensation Expense",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 725000
+            },
+            {
+                "label": "Depreciation Depletion And Amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 5900000
+            },
+            {
+                "label": "Asset Retirement Obligation Accretion Expense",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 140000
+            },
+            {
+                "label": "Costs And Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 15008000
+            },
+            {
+                "label": "Interest Expenses",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 23164000
+            },
+            {
+                "label": "Income Loss From Equity Method Investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 3897000
+            },
+            {
+                "label": "Other Nonoperating Income Expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "The aggregate amount of income or expense from ancillary business-related activities and interest.",
+                "concept": "snmp:NonoperatingIncomeExpenseAndInterest",
+                "unit": "usd",
+                "value": 19259000
+            },
+            {
+                "label": "Represents the aggregate amount of expenses, including operating and nonoperating.",
+                "concept": "snmp:ExpensesOperatingAndNonoperating",
+                "unit": "usd",
+                "value": 34267000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -22587000
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -22617000
+            },
+            {
+                "label": "Represents Net loss attributable to common unitholders, basic and diluted.",
+                "concept": "snmp:NetIncomeLossAvailableToCommonStockholdersBasicAndDiluted",
+                "unit": "usd",
+                "value": -22617000
+            },
+            {
+                "label": "Per unit of ownership amount after tax of income (loss), basic and diluted, available to outstanding limited partnership (LP) unit-holder.",
+                "concept": "snmp:NetIncomeLossPerOutstandingLimitedPartnershipUnitBasicAndDilutedNetOfTax",
+                "unit": "usd/shares",
+                "value": -1.18
+            },
+            {
+                "label": "The average number of limited partnership units issued and outstanding that are used in calculating basic and diluted earnings per limited partnership and general partnership unit.",
+                "concept": "snmp:WeightedAverageNumberOfLimitedPartnershipUnitOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 19220593
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "TFSL",
+    "data": {
+        "bs": [
+            {
+                "label": "Unfunded commitments on home equity lines of credit (including commitments for suspended accounts)",
+                "concept": "FairValueDisclosureOffbalanceSheetRisksFaceAmountLiability",
+                "unit": "usd",
+                "value": 472276000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 26840000
+            },
+            {
+                "label": "Net change in unrealized gain (losses) on securities available for sale",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 4010000
+            },
+            {
+                "label": "Net change in cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 11571000
+            },
+            {
+                "label": "Net change in defined benefit plan obligation",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 451000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 15130000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 11710000
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LNC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and invested cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 4201000000
+            },
+            {
+                "label": "Cash and invested cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 4201000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Insurance premiums",
+                "concept": "PremiumsEarnedNet",
+                "unit": "usd",
+                "value": 1342000000
+            },
+            {
+                "label": "Insurance fees for investment and interest-sensitive life insurance contracts consist of asset-based fees, cost of insurance charges, percent of premium charges, contract administration charges and surrender charges that are assessed against contract holder account balances.",
+                "concept": "lnc:InsuranceFees",
+                "unit": "usd",
+                "value": 1458000000
+            },
+            {
+                "label": "Net investment income",
+                "concept": "NetInvestmentIncome",
+                "unit": "usd",
+                "value": 1172000000
+            },
+            {
+                "label": "Portion of loss recognized in other comprehensive income",
+                "concept": "OtherThanTemporaryImpairmentLossesInvestmentsPortionInOtherComprehensiveIncomeLossBeforeTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "This item represents the net total realized and unrealized gain (loss) included in earnings for the period as a result of selling or holding marketable securities categorized as trading, available-for-sale, or held-to-maturity, including the unrealized holding gain (loss) of held-to-maturity securities transferred to the trading security category and the cumulative unrealized gain (loss) which was included in other comprehensive income (a separate component of shareholders' equity) for available-for-sale securities transferred to trading securities during the period. Additionally, this item would include any gains (losses) realized during the period from the sale of investments accounted for under the cost method of accounting, derivatives and embedded derivatives and reinsurance embedded derivatives.",
+                "concept": "lnc:RealizedGainLossExcludingOtherThanTemporaryImpairmentLossesOnSecurities",
+                "unit": "usd",
+                "value": 647000000
+            },
+            {
+                "label": "Realized Gain Loss",
+                "concept": "DebtAndEquitySecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": 647000000
+            },
+            {
+                "label": "The amortization of net deferred gain on indemnity reinsurance transactions.",
+                "concept": "lnc:AmortizationOfDeferredGainOnBusinessSoldThroughReinsurance",
+                "unit": "usd",
+                "value": 11000000
+            },
+            {
+                "label": "Other revenues",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 181000000
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 3517000000
+            },
+            {
+                "label": "Interest credited",
+                "concept": "InterestCreditedToPolicyholdersAccountBalances",
+                "unit": "usd",
+                "value": 732000000
+            },
+            {
+                "label": "Benefits",
+                "concept": "PolicyholderBenefitsAndClaimsIncurredNet",
+                "unit": "usd",
+                "value": 1725000000
+            },
+            {
+                "label": "Underwriting, acquisition, insurance and other expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 1123000000
+            },
+            {
+                "label": "Interest Expense, Debt",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 84000000
+            },
+            {
+                "label": "Costs related to our enterprise-wide digitization initiative.",
+                "concept": "lnc:StrategicDigitizationExpense",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Benefits, Losses and Expenses",
+                "concept": "BenefitsLossesAndExpenses",
+                "unit": "usd",
+                "value": 3678000000
+            },
+            {
+                "label": "Income (loss) from continuing operations before taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 161000000
+            },
+            {
+                "label": "Federal income tax benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 67000000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 94000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 4319000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4225000000
+            },
+            {
+                "label": "Earnings Per Share, Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.49
+            },
+            {
+                "label": "Earnings Per Share, Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.49
+            },
+            {
+                "label": "Common dividends declared per share (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.4
+            }
+        ]
+    }
+}

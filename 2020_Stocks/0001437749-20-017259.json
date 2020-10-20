@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CLDB",
+    "data": {
+        "bs": [
+            {
+                "label": "Investment securities available-for-sale (Note 3)",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 162926000
+            },
+            {
+                "label": "Loans held for sale",
+                "concept": "LoansHeldForSaleFairValueDisclosure",
+                "unit": "usd",
+                "value": 4563000
+            },
+            {
+                "label": "Interest rate derivatives, assets",
+                "concept": "InterestRateDerivativeInstrumentsNotDesignatedAsHedgingInstrumentsAssetAtFairValue",
+                "unit": "usd",
+                "value": 4436000
+            },
+            {
+                "label": "Interest rate derivatives, liabilities",
+                "concept": "InterestRateDerivativeInstrumentsNotDesignatedAsHedgingInstrumentsLiabilityAtFairValue",
+                "unit": "usd",
+                "value": 4436000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1932000
+            },
+            {
+                "label": "Weighted average common shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 4168073
+            },
+            {
+                "label": "Net effect of dilutive common share equivalents (in shares)",
+                "concept": "WeightedAverageNumberDilutedSharesOutstandingAdjustment",
+                "unit": "shares",
+                "value": 4191
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 4172264
+            },
+            {
+                "label": "Basic earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.47
+            },
+            {
+                "label": "Diluted earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.47
+            }
+        ]
+    }
+}

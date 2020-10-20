@@ -1,0 +1,164 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "STNL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 10971
+            },
+            {
+                "label": "Cash segregated for final distribution to Class A Stockholders (See Note 1)",
+                "concept": "CashSegregatedUnderOtherRegulations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 10971
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 418315
+            },
+            {
+                "label": "Accrued income and franchise taxes",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Promissory note payable - Sponsor",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Advances from Sponsor",
+                "concept": "DueToOtherRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 418315
+            },
+            {
+                "label": "Preferred shares, $0.0001 par value; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Class A common stock, $0.0001 par value, 200,000,000 shares authorized, 523,642 and 0 issued and outstanding at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 52
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5336716
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 5744198
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 407344
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 10971
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "REVENUE",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 33759
+            },
+            {
+                "label": "TOTAL EXPENSES",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 33759
+            },
+            {
+                "label": "Investment income from Trust Account",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "TOTAL OTHER INCOME",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "(LOSS) INCOME BEFORE INCOME TAX PROVISION",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 33759
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net (loss) income attributable to common shares",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 33759
+            },
+            {
+                "label": "Weighted average number of common stock outstanding, basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 1383669
+            },
+            {
+                "label": "Basic and diluted net loss per common stock (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.02
+            }
+        ]
+    }
+}

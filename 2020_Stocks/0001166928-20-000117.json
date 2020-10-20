@@ -1,0 +1,338 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WTBA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 54175000
+            },
+            {
+                "label": "Federal funds sold",
+                "concept": "FederalFundsSold",
+                "unit": "usd",
+                "value": 62494000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsAndFederalFundsSold",
+                "unit": "usd",
+                "value": 116669000
+            },
+            {
+                "label": "Investment securities available for sale, at fair value",
+                "concept": "AvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 342017000
+            },
+            {
+                "label": "Federal Home Loan Bank stock, at cost",
+                "concept": "FederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 12307000
+            },
+            {
+                "label": "Loans",
+                "concept": "LoansAndLeasesReceivableNetOfDeferredIncome",
+                "unit": "usd",
+                "value": 2199688000
+            },
+            {
+                "label": "Allowance for loan losses",
+                "concept": "LoansAndLeasesReceivableAllowance",
+                "unit": "usd",
+                "value": 21363000
+            },
+            {
+                "label": "Loans, net",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 2178325000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 28655000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 8467000
+            },
+            {
+                "label": "Bank-owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 35187000
+            },
+            {
+                "label": "Deferred tax assets, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 10122000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 8574000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2740323000
+            },
+            {
+                "label": "Noninterest-bearing demand",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 590487000
+            },
+            {
+                "label": "Interest-bearing demand",
+                "concept": "InterestBearingDomesticDepositDemand",
+                "unit": "usd",
+                "value": 378931000
+            },
+            {
+                "label": "Savings",
+                "concept": "DepositsSavingsDeposits",
+                "unit": "usd",
+                "value": 1081743000
+            },
+            {
+                "label": "Time of $250 or more",
+                "concept": "TimeDepositsAtOrAboveFDICInsuranceLimit",
+                "unit": "usd",
+                "value": 61456000
+            },
+            {
+                "label": "Other time",
+                "concept": "wtba:Timedepositslessthan250000",
+                "unit": "usd",
+                "value": 143092000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 2255709000
+            },
+            {
+                "label": "Federal funds purchased",
+                "concept": "FederalFundsPurchased",
+                "unit": "usd",
+                "value": 5755000
+            },
+            {
+                "label": "Subordinated notes, net",
+                "concept": "JuniorSubordinatedDebentureOwedToUnconsolidatedSubsidiaryTrust",
+                "unit": "usd",
+                "value": 20445000
+            },
+            {
+                "label": "Federal Home Loan Bank advances, net",
+                "concept": "wtba:FederalHomeLoanBankAdvancesNetOfDiscount",
+                "unit": "usd",
+                "value": 179869000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "OtherLongTermDebt",
+                "unit": "usd",
+                "value": 22867000
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 46991000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2531636000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (NOTE 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value; authorized 50,000,000 shares; no shares issued and outstanding at June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, no par value; authorized 50,000,000 shares; 16,469,272 and 16,379,752 shares issued and outstanding at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 27632000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 193981000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 15926000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 208687000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2740323000
+            },
+            {
+                "label": "Preferred stock, par value ($ per share)",
+                "concept": "PreferredStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, shares authorized",
+                "concept": "PreferredStockSharesAuthorized",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, shares issued",
+                "concept": "PreferredStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, shares outstanding",
+                "concept": "PreferredStockSharesOutstanding",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, No Par Value",
+                "concept": "CommonStockNoParValue",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, shares authorized",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 16469272
+            },
+            {
+                "label": "Common stock, shares outstanding",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7969000
+            },
+            {
+                "label": "Unrealized holding gains (losses) on investment securities arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 5622000
+            },
+            {
+                "label": "Plus: reclassification adjustment for net gains (losses) on investment securities realized in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 69000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax",
+                "unit": "usd",
+                "value": 1423000
+            },
+            {
+                "label": "Other comprehensive income on investment securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 4268000
+            },
+            {
+                "label": "Unrealized holding gains (losses) on derivatives arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 2910000
+            },
+            {
+                "label": "Plus: reclassification adjustment for net (gains) losses on derivatives realized in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesBeforeTax",
+                "unit": "usd",
+                "value": 1038000
+            },
+            {
+                "label": "Plus: reclassification adjustment for amortization of derivative termination costs",
+                "concept": "wtba:OthercomprehensiveincomelossreclassificationadjustmentfromAOCIforamortizationofderivativeterminationcosts",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Income tax benefit",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 463000
+            },
+            {
+                "label": "Other comprehensive loss on derivatives",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1394000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2874000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 10843000
+            }
+        ]
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SNR",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 134643000
+            },
+            {
+                "label": "Buildings, improvements and other",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 1973699000
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 385667000
+            },
+            {
+                "label": "Net real estate property",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 1722675000
+            },
+            {
+                "label": "Acquired lease and other intangible assets",
+                "concept": "FiniteLivedIntangibleAssetsGross",
+                "unit": "usd",
+                "value": 7642000
+            },
+            {
+                "label": "Accumulated amortization",
+                "concept": "FiniteLivedIntangibleAssetsAccumulatedAmortization",
+                "unit": "usd",
+                "value": 2416000
+            },
+            {
+                "label": "Net real estate intangibles",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 5226000
+            },
+            {
+                "label": "Net real estate investments",
+                "concept": "RealEstateInvestments",
+                "unit": "usd",
+                "value": 1727901000
+            },
+            {
+                "label": "Assets from discontinued operations",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 102325000
+            },
+            {
+                "label": "Receivables and other assets, net",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 31508000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1861734000
+            },
+            {
+                "label": "Debt, net",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 1546764000
+            },
+            {
+                "label": "Liabilities from discontinued operations",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 57823000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1604587000
+            },
+            {
+                "label": "Commitments and contingencies (Note 14)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable preferred stock, $0.01 par value with $100 liquidation preference, 400,000 shares authorized, issued and outstanding as of both June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockRedemptionAmountFutureRedeemableSecurities",
+                "unit": "usd",
+                "value": 40500000
+            },
+            {
+                "label": "Preferred stock, $0.01 par value, 99,600,000 shares (excluding 400,000 shares of redeemable preferred stock) authorized, none issued or outstanding as of both June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 2,000,000,000 shares authorized, 83,023,396 and 82,964,438 shares issued and outstanding as of June 30, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 830000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 904135000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 674626000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 13692000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 216647000
+            },
+            {
+                "label": "Total Liabilities, Redeemable Preferred Stock and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1861734000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2658000
+            },
+            {
+                "label": "Unrealized gain (loss) on cash flow hedge",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 762000
+            },
+            {
+                "label": "Total other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 762000
+            },
+            {
+                "label": "Total comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1896000
+            }
+        ]
+    }
+}

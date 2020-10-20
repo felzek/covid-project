@@ -1,0 +1,44 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "AEY",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 15880590
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 15880590
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Stock options excluded (in shares)",
+                "concept": "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount",
+                "unit": "shares",
+                "value": 150000
+            },
+            {
+                "label": "Weighted average exercise price of stock options (in dollars per share)",
+                "concept": "aey:WeightedAverageExercisePriceOfStockOptions",
+                "unit": "usd/shares",
+                "value": 2.96
+            },
+            {
+                "label": "Average market price of common stock (in dollars per share)",
+                "concept": "aey:AverageMarketPriceOfCommonstock",
+                "unit": "usd/shares",
+                "value": 2.41
+            }
+        ]
+    }
+}

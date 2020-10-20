@@ -1,0 +1,309 @@
+{
+    "startDate": "2018-06-01",
+    "endDate": "2019-05-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "ANGO",
+    "data": {
+        "bs": [
+            {
+                "label": "Inventories",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationInventory1",
+                "unit": "usd",
+                "value": 11029000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 16624000
+            },
+            {
+                "label": "Disposal Group, Including Discontinued Operation, Intangible Assets",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationIntangibleAssets",
+                "unit": "usd",
+                "value": 15047000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationGoodwill1",
+                "unit": "usd",
+                "value": 75308000
+            },
+            {
+                "label": "Total Fluid Management assets",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": 118008000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 61340000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 25880000
+            },
+            {
+                "label": "Goodwill impairment",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Stock based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 9249000
+            },
+            {
+                "label": "Gain on disposition",
+                "concept": "GainLossOnSaleOfBusiness",
+                "unit": "usd",
+                "value": 46592000
+            },
+            {
+                "label": "Transaction costs for disposition",
+                "concept": "ango:TransactionCostsDisposition",
+                "unit": "usd",
+                "value": 4030000
+            },
+            {
+                "label": "Change in fair value of contingent consideration",
+                "concept": "ango:ChangeInFairValueOfContingentConsideration",
+                "unit": "usd",
+                "value": 6776000
+            },
+            {
+                "label": "Deferred income tax provision",
+                "concept": "ango:DeferredIncomeTaxRelatedToOperatingActivity",
+                "unit": "usd",
+                "value": 2655000
+            },
+            {
+                "label": "Changes in accounts receivable allowances",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 202000
+            },
+            {
+                "label": "Asset impairments and disposals",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": 2495000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 3177000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 1428000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 1871000
+            },
+            {
+                "label": "Accounts payable, accrued and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 5212000
+            },
+            {
+                "label": "Net cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 37440000
+            },
+            {
+                "label": "Additions to property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 3118000
+            },
+            {
+                "label": "Proceeds from disposition of discontinued operations",
+                "concept": "ProceedsFromDivestitureOfBusinesses",
+                "unit": "usd",
+                "value": 169242000
+            },
+            {
+                "label": "Cash paid for acquisitions",
+                "concept": "PaymentsToAcquireBusinessTwoNetOfCashAcquired",
+                "unit": "usd",
+                "value": 84920000
+            },
+            {
+                "label": "Acquisition of intangibles",
+                "concept": "ango:PaymentsToAcquireIntangibleAssetsNetOfCashAcquired",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from sale of marketable securities",
+                "concept": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+                "unit": "usd",
+                "value": 1350000
+            },
+            {
+                "label": "Net cash provided by (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 82554000
+            },
+            {
+                "label": "Repayment of long-term debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Proceeds from borrowings on revolving credit facility",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 55000000
+            },
+            {
+                "label": "Deferred financing costs on long-term debt",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payment of acquisition related contingent consideration",
+                "concept": "BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1",
+                "unit": "usd",
+                "value": 8100000
+            },
+            {
+                "label": "Proceeds (outlays) from exercise of stock options and employee stock purchase plan",
+                "concept": "ango:ProceedsPaymentsIssuanceOfSharesShareBasedPaymentArrangementIncludingOptionExercised",
+                "unit": "usd",
+                "value": 2031000
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 33931000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 380000
+            },
+            {
+                "label": "(Decrease) increase in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 153545000
+            },
+            {
+                "label": "Increase (decrease) in accounts payable for purchases of fixed assets",
+                "concept": "NoncashOrPartNoncashAcquisitionNetNonmonetaryAssetsAcquiredLiabilitiesAssumed1",
+                "unit": "usd",
+                "value": 114000
+            },
+            {
+                "label": "Fair value of contingent consideration for acquisitions",
+                "concept": "ango:NoncashorPartNoncashAcquisitionValueofContingentConsiderationReceived",
+                "unit": "usd",
+                "value": 25100000
+            },
+            {
+                "label": "Fair value of acquisition consideration included in accrued expenses",
+                "concept": "NoncashOrPartNoncashAcquisitionValueOfLiabilitiesAssumed1",
+                "unit": "usd",
+                "value": 4650000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 5115000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 426000
+            },
+            {
+                "label": "Noncash Lease Expense",
+                "concept": "ango:NoncashLeaseExpense",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 61340000
+            },
+            {
+                "label": "Unrealized gain on marketable securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Reclassification adjustment for gains included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 116000
+            },
+            {
+                "label": "Foreign currency translation gain (loss)",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 317000
+            },
+            {
+                "label": "Other comprehensive income (loss), before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Income tax benefit (expense) related to items of other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossTaxPortionAttributableToParent1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Total comprehensive income (loss), net of tax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 60940000
+            }
+        ]
+    }
+}

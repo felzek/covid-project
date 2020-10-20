@@ -1,0 +1,381 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-03-31",
+    "year": "2019",
+    "quarter": "Q1",
+    "symbol": "ZGSI",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -6131304
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -6131304
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1231088
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 6331
+            },
+            {
+                "label": "Amortization expense",
+                "concept": "zgsi:AdjustmentForAmortizationExcludingDebtDiscount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Bad debt expense",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 342
+            },
+            {
+                "label": "Common stock issued for services",
+                "concept": "IssuanceOfStockAndWarrantsForServicesOrClaims",
+                "unit": "usd",
+                "value": 79950
+            },
+            {
+                "label": "Warrants issued for services",
+                "concept": "AdjustmentOfWarrantsGrantedForServices",
+                "unit": "usd",
+                "value": 23685
+            },
+            {
+                "label": "Stock options issued as compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Change in fair value of derivative",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -28000
+            },
+            {
+                "label": "Loss on disposal of asset",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Advance on future royalties, related party reserve",
+                "concept": "zgsi:AdvanceOnFutureRoyaltiesRelatedParties",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Impairment expense",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accretion of debt discounts",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 197335
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -99510
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidRoyalties",
+                "concept": "IncreaseDecreaseInPrepaidRoyalties",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 22759
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInDepositOtherAssets",
+                "concept": "IncreaseDecreaseInDepositOtherAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableRelatedParties",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": -30654
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 129898
+            },
+            {
+                "label": "Deferred compensation",
+                "concept": "IncreaseDecreaseInDeferredCompensation",
+                "unit": "usd",
+                "value": -12500
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerLiability",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -43200
+            },
+            {
+                "label": "Accrued interest, related party",
+                "concept": "zgsi:IncreaseDecreaseInInterestPayableRelatedPartiesNet",
+                "unit": "usd",
+                "value": 103950
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 28367
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -642833
+            },
+            {
+                "label": "us-gaap_RepaymentsOfNotesPayable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 61133
+            },
+            {
+                "label": "us-gaap_RepaymentsOfRelatedPartyDebt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from notes payable convertible",
+                "concept": "ProceedsFromConvertibleDebt",
+                "unit": "usd",
+                "value": 425000
+            },
+            {
+                "label": "Proceeds from notes payable insurance",
+                "concept": "zgsi:ProceedsFromNotesPayableInsurance",
+                "unit": "usd",
+                "value": 6470
+            },
+            {
+                "label": "zgsi_PaymentsOfStockIssuanceCostsRelatedParty",
+                "concept": "zgsi:PaymentsOfStockIssuanceCostsRelatedParty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds of notes payable",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 132000
+            },
+            {
+                "label": "Proceeds of notes payable, related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Proceeds from sale of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsOfStockIssuanceCosts",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 602337
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -40496
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 135152
+            },
+            {
+                "label": "zgsi_WarrantsIssued",
+                "concept": "zgsi:WarrantsIssued",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "zgsi_StockIssuedDuringPeriodValueIssuedForLoanCosts",
+                "concept": "zgsi:StockIssuedDuringPeriodValueIssuedForLoanCosts",
+                "unit": "usd",
+                "value": 3608
+            },
+            {
+                "label": "Portion of initial valuation recorded as debt discount",
+                "concept": "zgsi:FairValueMeasurementWithUnobservableInputsReconciliationRecurringAndNonRecurringBasisLiabilityDebtDiscount",
+                "unit": "usd",
+                "value": 89000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Sale of goods",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 44495
+            },
+            {
+                "label": "us-gaap_Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 44495
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 24013
+            },
+            {
+                "label": "Shipping costs",
+                "concept": "zgsi:CostShippingExpense",
+                "unit": "usd",
+                "value": 3300
+            },
+            {
+                "label": "Royalty expense",
+                "concept": "zgsi:CostRoyaltyExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_CostOfRevenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 27313
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 17182
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 886712
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 1071
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 887783
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -870601
+            },
+            {
+                "label": "Change in fair value of derivative",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -28000
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 135152
+            },
+            {
+                "label": "us-gaap_AccretionExpense",
+                "concept": "AccretionExpense",
+                "unit": "usd",
+                "value": 197335
+            },
+            {
+                "label": "Loss on disposal of asset",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -360487
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1231088
+            },
+            {
+                "label": "NET LOSS PER SHARE - BASIC AND DILUTED (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.03
+            },
+            {
+                "label": "WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING - BASIC AND DILUTED (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 41052658
+            }
+        ]
+    }
+}

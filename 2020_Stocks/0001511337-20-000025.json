@@ -1,0 +1,398 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RLJ",
+    "data": {
+        "bs": [
+            {
+                "label": "Investment in hotel properties, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 4555628000
+            },
+            {
+                "label": "Investments in and Advance to Affiliates, Subsidiaries, Associates, and Joint Ventures",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 14862000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1048442000
+            },
+            {
+                "label": "Restricted cash reserves",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 44578000
+            },
+            {
+                "label": "Hotel and other receivables, net of allowance of $573 and $251, respectively",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 11410000
+            },
+            {
+                "label": "Operating Lease, Right-of-Use Asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 141651000
+            },
+            {
+                "label": "Deferred Income Tax Assets, Net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 64509000
+            },
+            {
+                "label": "Prepaid expense and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 36357000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 5917437000
+            },
+            {
+                "label": "Debt, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 2591674000
+            },
+            {
+                "label": "Accounts payable and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 205186000
+            },
+            {
+                "label": "Contract with Customer, Liability",
+                "concept": "ContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 41216000
+            },
+            {
+                "label": "Operating Lease, Liability",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 119863000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 5292000
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 8735000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2971966000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Series A Cumulative Convertible Preferred Shares, $0.01 par value, 12,950,000 shares authorized; 12,879,475 shares issued and outstanding, liquidation value of $328,266, at June 30, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 366936000
+            },
+            {
+                "label": "Common shares of beneficial interest, $0.01 par value, 450,000,000 shares authorized; 165,092,953 and 169,852,246 shares issued and outstanding at June 30, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1651000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3071063000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 82573000
+            },
+            {
+                "label": "Retained Earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 434242000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2922835000
+            },
+            {
+                "label": "Noncontrolling interest in consolidated joint ventures",
+                "concept": "MinorityInterestInJointVentures",
+                "unit": "usd",
+                "value": 13492000
+            },
+            {
+                "label": "Noncontrolling interest in the Operating Partnership",
+                "concept": "MinorityInterestInOperatingPartnerships",
+                "unit": "usd",
+                "value": 9144000
+            },
+            {
+                "label": "Total noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 22636000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2945471000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 5917437000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 32591000
+            },
+            {
+                "label": "Management and franchise fees",
+                "concept": "rlj:ManagementandFranchiseFeeexpense",
+                "unit": "usd",
+                "value": 1827000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 49229000
+            },
+            {
+                "label": "Property tax, insurance and other",
+                "concept": "rlj:RealEstateTaxesRentAndInsurance",
+                "unit": "usd",
+                "value": 25348000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11673000
+            },
+            {
+                "label": "Transaction costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 136646000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 282000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 579000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 23794000
+            },
+            {
+                "label": "Gain (loss) on sale of hotel properties, net",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "(Loss) income before equity in loss from unconsolidated joint ventures",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 126996000
+            },
+            {
+                "label": "Income (Loss) from Equity Method Investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 975000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 127971000
+            },
+            {
+                "label": "Income tax benefit (expense)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 11805000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 116166000
+            },
+            {
+                "label": "Noncontrolling interest in consolidated joint ventures",
+                "concept": "NoncontrollingInterestInNetIncomeLossJointVenturePartnersNonredeemable",
+                "unit": "usd",
+                "value": 524000
+            },
+            {
+                "label": "Noncontrolling interest in the Operating Partnership",
+                "concept": "NoncontrollingInterestInNetIncomeLossOperatingPartnershipsNonredeemable",
+                "unit": "usd",
+                "value": 568000
+            },
+            {
+                "label": "Preferred distributions - consolidated joint venture",
+                "concept": "PreferredStockDividendsAndOtherAdjustments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redemption of preferred equity - consolidated joint venture",
+                "concept": "OtherPreferredStockDividendsAndAdjustments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 115074000
+            },
+            {
+                "label": "Preferred dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 6279000
+            },
+            {
+                "label": "Net (loss) income attributable to common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 121353000
+            },
+            {
+                "label": "Net income per share attributable to common shareholders - basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.74
+            },
+            {
+                "label": "Weighted-average number of common shares - basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 163543701
+            },
+            {
+                "label": "Net income per share attributable to common shareholders - diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.74
+            },
+            {
+                "label": "Weighted-average number of common shares - diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 163543701
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 116166000
+            },
+            {
+                "label": "Unrealized loss on interest rate derivatives",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 6582000
+            },
+            {
+                "label": "Reclassification of unrealized gain on discontinued cash flow hedges to interest expense",
+                "concept": "DerivativeInstrumentsGainLossReclassifiedFromAccumulatedOCIIntoIncomeEffectivePortionNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 122748000
+            },
+            {
+                "label": "Noncontrolling interest in consolidated joint ventures",
+                "concept": "NoncontrollingInterestInNetIncomeLossJointVenturePartnersNonredeemable",
+                "unit": "usd",
+                "value": 524000
+            },
+            {
+                "label": "Noncontrolling interest in the Operating Partnership",
+                "concept": "NoncontrollingInterestInNetIncomeLossOperatingPartnershipsNonredeemable",
+                "unit": "usd",
+                "value": 568000
+            },
+            {
+                "label": "Preferred distributions - consolidated joint venture",
+                "concept": "PreferredStockDividendsAndOtherAdjustments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redemption of preferred equity - consolidated joint venture",
+                "concept": "OtherPreferredStockDividendsAndAdjustments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to RLJ",
+                "concept": "rlj:ComprehensiveIncomeLossAttributabletoCommonShareholders",
+                "unit": "usd",
+                "value": 121656000
+            }
+        ]
+    }
+}

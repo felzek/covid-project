@@ -1,0 +1,165 @@
+{
+    "startDate": "2020-03-01",
+    "endDate": "2020-05-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "EBF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 75832000
+            },
+            {
+                "label": "Cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 75832000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net earnings",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4185000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 2444000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 1972000
+            },
+            {
+                "label": "Gain from disposal of assets",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Bad debt expense, net of recoveries",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 648000
+            },
+            {
+                "label": "Stock based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 338000
+            },
+            {
+                "label": "Net pension expense",
+                "concept": "PensionExpense",
+                "unit": "usd",
+                "value": 577000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -9271000
+            },
+            {
+                "label": "Increase decrease in prepaid expense and income taxes.",
+                "concept": "ebf:IncreaseDecreaseInPrepaidExpenseAndIncomeTaxes",
+                "unit": "usd",
+                "value": -1517000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -600000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -6514000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -76000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 14850000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 1125000
+            },
+            {
+                "label": "Proceeds from disposal of plant and property",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 136000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -989000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 5864000
+            },
+            {
+                "label": "Common stock repurchases",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 423000
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -6287000
+            },
+            {
+                "label": "Net change in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 7574000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4185000
+            },
+            {
+                "label": "Adjustment to pension, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": -433000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4618000
+            }
+        ]
+    }
+}

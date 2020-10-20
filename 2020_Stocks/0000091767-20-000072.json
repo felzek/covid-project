@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-03-30",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SON",
+    "data": {
+        "bs": [
+            {
+                "label": "Right of Use Asset-Operating Leases",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 294050000
+            },
+            {
+                "label": "Finance lease assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 28719000
+            },
+            {
+                "label": "Total lease assets",
+                "concept": "son:LeaseRightofuseAsset",
+                "unit": "usd",
+                "value": 322769000
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 53563000
+            },
+            {
+                "label": "Current finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 2897000
+            },
+            {
+                "label": "Total current lease liabilities",
+                "concept": "son:LeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 56460000
+            },
+            {
+                "label": "Noncurrent Operating Lease Liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 249217000
+            },
+            {
+                "label": "Noncurrent finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 23863000
+            },
+            {
+                "label": "Total noncurrent lease liabilities",
+                "concept": "son:LeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 273080000
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "son:LeaseLiability",
+                "unit": "usd",
+                "value": 329540000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 54990000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 32864000
+            },
+            {
+                "label": "Changes in defined benefit plans, net of tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 4416000
+            },
+            {
+                "label": "Changes in derivative financial instruments, net of tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 1830000
+            },
+            {
+                "label": "Other comprehensive income/(loss):",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 39110000
+            },
+            {
+                "label": "Comprehensive income:",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 94100000
+            },
+            {
+                "label": "Net loss/(income) attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 221000
+            },
+            {
+                "label": "Other comprehensive loss/(income) attributable to noncontrolling interests",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 590000
+            },
+            {
+                "label": "Comprehensive income attributable to Sonoco",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 94911000
+            }
+        ]
+    }
+}

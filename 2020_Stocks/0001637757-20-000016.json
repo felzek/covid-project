@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CWEN",
+    "data": {
+        "bs": [
+            {
+                "label": "Long-term debt, including current portion",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities",
+                "unit": "usd",
+                "value": 6815000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 104000000
+            },
+            {
+                "label": "Unrealized gain (loss) on derivatives",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Less: Comprehensive loss attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 27000000
+            },
+            {
+                "label": "Comprehensive Income (Loss) Attributable to Clearway Energy LLC",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 136000000
+            }
+        ]
+    }
+}

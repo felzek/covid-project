@@ -1,0 +1,356 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FTFT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 576303
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 464
+            },
+            {
+                "label": "Other receivables, net",
+                "concept": "OtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 44668
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 3044
+            },
+            {
+                "label": "Loan receivables",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 206512
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 16466
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 6981330
+            },
+            {
+                "label": "Amount due from related parties",
+                "concept": "DueFromRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 3089063
+            },
+            {
+                "label": "Long term investments",
+                "concept": "LongTermInvestments",
+                "unit": "usd",
+                "value": 12250000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 23313718
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 316783
+            },
+            {
+                "label": "Total",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2661944
+            },
+            {
+                "label": "Advances from customers",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 422994
+            },
+            {
+                "label": "Short-term bank loans",
+                "concept": "ShortTermBankLoansAndNotesPayable",
+                "unit": "usd",
+                "value": 844805
+            },
+            {
+                "label": "Loans payable",
+                "concept": "LoansPayableCurrent",
+                "unit": "usd",
+                "value": 2252556
+            },
+            {
+                "label": "Advances from issuance of the Company\u2019s Common Stock",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 500000
+            },
+            {
+                "label": "Liabilities related to discontinued operations",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Commitments and contingencies (Note 14)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value; 60,000,000 shares authorized and 38,494,063 shares issued and outstanding as of June 30, 2020 and 33,810,416 shares issued and outstanding as of December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 38494
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 109739379
+            },
+            {
+                "label": "Accumulated deficits",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -96636617
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3667726
+            },
+            {
+                "label": "Total Future FinTech Group Inc. stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 16808982
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 14711459
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 23313718
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 113687
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 9359
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 104328
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 413503
+            },
+            {
+                "label": "Selling expenses",
+                "concept": "SellingExpense",
+                "unit": "usd",
+                "value": 7693
+            },
+            {
+                "label": "Bad debt provision",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 210510
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 631706
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -527378
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 62
+            },
+            {
+                "label": "Interest expenses",
+                "concept": "InterestExpenseOther",
+                "unit": "usd",
+                "value": 26682
+            },
+            {
+                "label": "Other income (expenses)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 16657
+            },
+            {
+                "label": "Total other income (expenses)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -9963
+            },
+            {
+                "label": "Loss from Continuing Operations before Income Tax",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -537341
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss from Continuing Operations, net of tax",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -537341
+            },
+            {
+                "label": "Loss from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -537341
+            },
+            {
+                "label": "Less: Loss attributable to the non-controlling interest",
+                "concept": "IncomeLossFromContinuingOperationsAttributableToNoncontrollingEntity",
+                "unit": "usd",
+                "value": -8578
+            },
+            {
+                "label": "Net income (loss) attributable to Future Fintech Group, Inc. Common Shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -528763
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -537341
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": -83155
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -620496
+            },
+            {
+                "label": "Less: Comprehensive income (loss) attributable to non-controlling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive Income (Loss) Attributable to Future Fintech Group, Inc. Common Shareholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -620496
+            },
+            {
+                "label": "Basic loss per share from continuing operations (in Dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "Basic earnings (loss) per share from discontinued operations (in Dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Basic Earnings (Loss) per Share from Net Income (Loss) (in Dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "Diluted loss per share from continuing operations (in Dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "Diluted earnings (loss) per share from discontinued operations (in Dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Diluted Earnings (Loss) per Share from Net Income (Loss) (in Dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "Basic (in Shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 33334888
+            },
+            {
+                "label": "Diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 34004411
+            }
+        ]
+    }
+}

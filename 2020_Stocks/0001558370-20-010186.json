@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "PBIP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 60020000
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 60020000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3620000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) On Securities Arising During Period, Before Tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 5409000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Securities, Available-for-Sale, Unrealized Holding Gain (Loss) Arising During Period, Tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 1136000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, before Tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 990000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationTax",
+                "unit": "usd",
+                "value": 208000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Derivative, Excluded Component, Increase (Decrease), Adjustments, before Tax",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAdjustmentsBeforeTax",
+                "unit": "usd",
+                "value": 3311000
+            },
+            {
+                "label": "It represents tax effect of other than temporary impairment (OTTI) on a debt securities",
+                "concept": "pbip:OtherThanTemporaryImpairmentLossesReclassificationAdjustmentRecognizedInEarningsTax",
+                "unit": "usd",
+                "value": 695000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 875000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net Of Tax, Attributable To Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4495000
+            }
+        ]
+    }
+}

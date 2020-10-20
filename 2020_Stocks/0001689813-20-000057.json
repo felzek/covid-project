@@ -1,0 +1,278 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BHVN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 261061000
+            },
+            {
+                "label": "Trade receivables, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 44796000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 8970000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 47735000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 362562000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 8979000
+            },
+            {
+                "label": "Equity method investment",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 2473000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 40535000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 9706000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 424255000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 17044000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 118123000
+            },
+            {
+                "label": "Current portion of mandatorily redeemable preferred shares",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsAmountCurrent",
+                "unit": "usd",
+                "value": 31250000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 166417000
+            },
+            {
+                "label": "Liability related to sale of future royalties, net",
+                "concept": "bhvn:LiabilityForSaleOfFutureRoyaltiesCarryingAmountNoncurrent",
+                "unit": "usd",
+                "value": 160805000
+            },
+            {
+                "label": "Mandatorily redeemable preferred shares, net",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsAmountNoncurrent",
+                "unit": "usd",
+                "value": 127771000
+            },
+            {
+                "label": "Derivative liability",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 4728000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 459721000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares, no par value; 200,000,000 shares authorized as of June 30, 2020 and December 31, 2019; 59,525,565 and 52,385,283 shares issued and outstanding as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1199005000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 91773000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1326244000
+            },
+            {
+                "label": "Total shareholders\u2019 deficit",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 35466000
+            },
+            {
+                "label": "Total liabilities and shareholders' deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 424255000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Product revenue, net",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 9698000
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 3058000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 6640000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 42425000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 124802000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 167227000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 160587000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseOther",
+                "unit": "usd",
+                "value": 172000
+            },
+            {
+                "label": "Non-cash interest expense on mandatorily redeemable preferred shares",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 6993000
+            },
+            {
+                "label": "Non-cash interest expense on liability related to sale of future royalties",
+                "concept": "bhvn:NoncashInterestExpenseOnFutureRoyaltiesLiability",
+                "unit": "usd",
+                "value": 11570000
+            },
+            {
+                "label": "Change in fair value of derivative liability",
+                "concept": "bhvn:FairValueAdjustmentOfDerivativeLiability",
+                "unit": "usd",
+                "value": 650000
+            },
+            {
+                "label": "Loss from equity method investment",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1485000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 119000
+            },
+            {
+                "label": "Total other expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 19689000
+            },
+            {
+                "label": "Loss before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 180276000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 658000
+            },
+            {
+                "label": "Net loss and comprehensive loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 180934000
+            },
+            {
+                "label": "Net loss per share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 3.08
+            },
+            {
+                "label": "Weighted average common shares outstanding - basic and diluted (shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 58742329
+            }
+        ]
+    }
+}

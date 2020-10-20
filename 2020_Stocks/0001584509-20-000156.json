@@ -1,0 +1,116 @@
+{
+    "startDate": "2020-03-28",
+    "endDate": "2020-06-26",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "CIK0",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating Lease Right-of-use Assets (see Note 8)",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Finance",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 130935000
+            },
+            {
+                "label": "Total lease assets",
+                "concept": "cik0:FinanceandOperatingLeaseRightofUseAsset",
+                "unit": "usd",
+                "value": 681937000
+            },
+            {
+                "label": "Current operating lease liabilities (see Note 8)",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Finance",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 29929000
+            },
+            {
+                "label": "Noncurrent Operating Lease Liabilities (see Note 8)",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Finance",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 107457000
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "cik0:OperatingandFinanceLeaseLeaseLiability",
+                "unit": "usd",
+                "value": 549272000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 256308000
+            },
+            {
+                "label": "Pension plan adjustments",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 285000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 4115000
+            },
+            {
+                "label": "Fair value of cash flow hedges",
+                "concept": "cik0:OtherComprehensiveIncomeLossFairValueCashFlowHedgeAfterTax",
+                "unit": "usd",
+                "value": 7673000
+            },
+            {
+                "label": "Share of equity investee's comprehensive loss",
+                "concept": "cik0:OtherComprehensiveIncomeLossShareofEquityMethodInvesteeOtherComprehensiveIncomeNetofTax",
+                "unit": "usd",
+                "value": 71000
+            },
+            {
+                "label": "Other comprehensive loss, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3914000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 260222000
+            },
+            {
+                "label": "Less: Net income attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 132000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Aramark stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 260354000
+            }
+        ]
+    }
+}

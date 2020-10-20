@@ -1,0 +1,176 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GHL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents ($9.6 million and $9.8 million restricted from use at June\u00a030, 2020 and December\u00a031, 2019, respectively)",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 84550000
+            },
+            {
+                "label": "Fees receivable, net of allowance for doubtful accounts of $0.3 million and $1.1 million at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 45275000
+            },
+            {
+                "label": "Other receivables",
+                "concept": "OtherReceivables",
+                "unit": "usd",
+                "value": 17360000
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation of $48.3 million and $47.7 million at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 7323000
+            },
+            {
+                "label": "Operating lease right-of-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 83282000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 203940000
+            },
+            {
+                "label": "Deferred tax asset, net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 59138000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 13008000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 513876000
+            },
+            {
+                "label": "Compensation payable",
+                "concept": "EmployeeRelatedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 22067000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 13525000
+            },
+            {
+                "label": "Current income taxes payable",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 8255000
+            },
+            {
+                "label": "Operating lease obligations",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 87079000
+            },
+            {
+                "label": "Secured term loan payable",
+                "concept": "LoansPayable",
+                "unit": "usd",
+                "value": 343274000
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 26208000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 500408000
+            },
+            {
+                "label": "Common stock, par value $0.01 per share; 100,000,000\u00a0shares authorized, 48,526,550 and 46,801,812 shares issued as of June\u00a030, 2020 and December\u00a031, 2019, respectively; 18,887,477 and 18,355,907 shares outstanding as of June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 485000
+            },
+            {
+                "label": "Restricted stock units",
+                "concept": "ghl:RestrictedStockUnitsValue",
+                "unit": "usd",
+                "value": 52257000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 933315000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 43881000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 38325000
+            },
+            {
+                "label": "Treasury stock, at cost, par value $0.01 per share; 29,639,073 and 28,445,905 shares as of June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 978145000
+            },
+            {
+                "label": "Stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 13468000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 513876000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 14968000
+            },
+            {
+                "label": "Currency translation adjustment, net of tax",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 9822000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 5146000
+            }
+        ]
+    }
+}

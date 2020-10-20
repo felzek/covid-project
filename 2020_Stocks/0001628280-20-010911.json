@@ -1,0 +1,37 @@
+{
+    "startDate": "2019-12-31",
+    "endDate": "2019-12-31",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BAX",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, par value (in dollars per share)",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 1
+            },
+            {
+                "label": "Common stock, authorized (in shares)",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": 2000000000
+            },
+            {
+                "label": "Common stock, issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 683494944
+            },
+            {
+                "label": "Treasury stock, common (in shares)",
+                "concept": "TreasuryStockCommonShares",
+                "unit": "shares",
+                "value": 170495859
+            }
+        ],
+        "cf": [],
+        "ic": []
+    }
+}

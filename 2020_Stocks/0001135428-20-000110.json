@@ -1,0 +1,85 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "DLBU",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1195000
+            },
+            {
+                "label": "Total investment income",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 1215000
+            },
+            {
+                "label": "Administrative fees",
+                "concept": "AdministrativeFeesExpense",
+                "unit": "usd",
+                "value": 109000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 91000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "Incentive fees",
+                "concept": "IncentiveFeeExpense",
+                "unit": "usd",
+                "value": 37000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherGeneralExpense",
+                "unit": "usd",
+                "value": 41000
+            },
+            {
+                "label": "Total net expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 795000
+            },
+            {
+                "label": "Net investment income (loss)",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 420000
+            },
+            {
+                "label": "Net increase (decrease) in net assets resulting from operations",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 633000
+            },
+            {
+                "label": "Earnings (loss) per share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Weighted average shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 2993736
+            }
+        ]
+    }
+}

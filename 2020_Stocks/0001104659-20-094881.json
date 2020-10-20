@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MNCL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 149321
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 149321
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 358642
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -358642
+            },
+            {
+                "label": "Interest Earned On Marketable Securities Held In Trust Account",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 185100
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -173542
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 28392
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -201934
+            },
+            {
+                "label": "Average number of shares or units issued and outstanding subject to redeemable that are used in calculating basic and diluted earnings per share (EPS).",
+                "concept": "mncl:WeightedAverageNumberOfShareOutstandingSubjectToRedeemableBasicAndDiluted",
+                "unit": "shares",
+                "value": 17250000
+            },
+            {
+                "label": "The amount of net income (loss) from continuing operations subject to redeemable per each basic and diluted share of common stock or unit when the per share amount is the same for both basic and diluted shares.",
+                "concept": "mncl:IncomeLossFromContinuingOperationsSubjectToRedeemablePerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Weighted average shares outstanding of non-redeemable common stock, basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 5030000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations, Per Basic and Diluted Share",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.06
+            }
+        ]
+    }
+}

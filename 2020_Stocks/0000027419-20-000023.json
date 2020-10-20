@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-05-03",
+    "endDate": "2020-08-01",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TGT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsAndShortTermInvestments",
+                "unit": "usd",
+                "value": 7284000000
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 8876000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1463000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 17623000000
+            },
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 6027000000
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "BuildingsAndImprovementsGross",
+                "unit": "usd",
+                "value": 30946000000
+            },
+            {
+                "label": "Fixtures and equipment",
+                "concept": "FurnitureAndFixturesGross",
+                "unit": "usd",
+                "value": 5665000000
+            },
+            {
+                "label": "Computer hardware and software",
+                "concept": "CapitalizedComputerSoftwareGross",
+                "unit": "usd",
+                "value": 2631000000
+            },
+            {
+                "label": "Construction-in-progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 811000000
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 19341000000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 26739000000
+            },
+            {
+                "label": "Operating lease assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 2233000000
+            },
+            {
+                "label": "Other noncurrent assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 1405000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 48000000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 10726000000
+            },
+            {
+                "label": "Accrued and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 5057000000
+            },
+            {
+                "label": "Current portion of long-term debt and other borrowings",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+                "unit": "usd",
+                "value": 109000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15892000000
+            },
+            {
+                "label": "Long-term debt and other borrowings",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 14188000000
+            },
+            {
+                "label": "Noncurrent operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2241000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 1121000000
+            },
+            {
+                "label": "Other noncurrent liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1980000000
+            },
+            {
+                "label": "Total noncurrent liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 19530000000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 42000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 6248000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 7121000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 833000000
+            },
+            {
+                "label": "Total shareholders\u2019 investment",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 12578000000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 investment",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 48000000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1690000000
+            },
+            {
+                "label": "Pension, net of tax",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 22000000
+            },
+            {
+                "label": "Currency translation adjustment and cash flow hedges, net of tax",
+                "concept": "tgt:OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentandCashFlowHedgesNetofTaxPortionAttributabletoParentTotal",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1711000000
+            }
+        ]
+    }
+}

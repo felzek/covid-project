@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CPF",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning balance",
+                "concept": "LoansAndLeasesReceivableAllowance",
+                "unit": "usd",
+                "value": 67339000
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "LoansAndLeasesReceivableAllowance",
+                "unit": "usd",
+                "value": 67339000
+            },
+            {
+                "label": "Reserve for off-balance sheet credit exposures (included in other liabilities)",
+                "concept": "OffBalanceSheetCreditLossLiability",
+                "unit": "usd",
+                "value": 4383000
+            },
+            {
+                "label": "Reserve for off-balance sheet credit exposures (included in other liabilities)",
+                "concept": "OffBalanceSheetCreditLossLiability",
+                "unit": "usd",
+                "value": 4383000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 9917000
+            },
+            {
+                "label": "Net change in unrealized gain on investment securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6275000
+            },
+            {
+                "label": "Defined benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 204000
+            },
+            {
+                "label": "Total other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 6479000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 16396000
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FTAI",
+    "data": {
+        "bs": [
+            {
+                "label": "Notes payable, fair value disclosure",
+                "concept": "NotesPayableFairValueDisclosure",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 15728000
+            },
+            {
+                "label": "Other comprehensive income (loss) related to equity method investees, net",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 12112000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 27840000
+            },
+            {
+                "label": "Continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsAttributableToNoncontrollingEntity",
+                "unit": "usd",
+                "value": 4112000
+            },
+            {
+                "label": "Discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to shareholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 23728000
+            },
+            {
+                "label": "Tax expense, cash flow hedge",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTaxParent",
+                "unit": "usd",
+                "value": 3220000
+            }
+        ]
+    }
+}

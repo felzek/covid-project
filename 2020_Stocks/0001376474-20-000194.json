@@ -1,0 +1,116 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "REAL4",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 92000
+            },
+            {
+                "label": "Receivable - limited partners",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 117000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "OtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 14000
+            },
+            {
+                "label": "General partners",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 43000
+            },
+            {
+                "label": "Limited partners",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "Total partners' equity",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 103000
+            },
+            {
+                "label": "Total liabilities and partners' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 117000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Legal and accounting",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Net loss from partnership operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Net loss allocated to general partners (1%)",
+                "concept": "NetIncomeLossAllocatedToGeneralPartners",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net loss allocated to limited partners (99%)",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Net loss per limited partnership interest",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipUnitBasicNetOfTax",
+                "unit": "usd/shares",
+                "value": 1.08
+            }
+        ]
+    }
+}

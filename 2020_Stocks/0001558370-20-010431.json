@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "STKS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 23460000
+            },
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 23460000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Represents revenue from owned restaurant.",
+                "concept": "stks:OwnedRestaurantNetRevenues",
+                "unit": "usd",
+                "value": 16529000
+            },
+            {
+                "label": "Represents revenue earned from management and licensing contracts.",
+                "concept": "stks:RevenueFromManagementLicenseAndIncentiveFee",
+                "unit": "usd",
+                "value": 135000
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 16664000
+            },
+            {
+                "label": "The aggregate costs incurred directly related to operations of owned restaurants.",
+                "concept": "stks:CostsOfOwnedRestaurant",
+                "unit": "usd",
+                "value": 4174000
+            },
+            {
+                "label": "The amount of restaurant operating expenses that are associated with the entity's normal revenue producing operation.",
+                "concept": "stks:OwnedRestaurantOperatingExpenses",
+                "unit": "usd",
+                "value": 12038000
+            },
+            {
+                "label": "Operating Costs and Expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 16212000
+            },
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2438000
+            },
+            {
+                "label": "Depreciation, Depletion and Amortization, Nonproduction",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 2510000
+            },
+            {
+                "label": "Transaction costs.",
+                "concept": "stks:TransactionCosts",
+                "unit": "usd",
+                "value": 14000
+            },
+            {
+                "label": "Amount of expenses incurred toward pandemic (COVID-19) during the period.",
+                "concept": "stks:NationalPandemicExpenses",
+                "unit": "usd",
+                "value": 695000
+            },
+            {
+                "label": "Gain (Loss) on Contract Termination",
+                "concept": "GainLossOnContractTermination",
+                "unit": "usd",
+                "value": -89000
+            },
+            {
+                "label": "Other Operating Income (Expense), Net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Total costs of sales and operating expenses for the period. This item represents the entity's proportionate share for the period of the net income (loss) of its investee (such as unconsolidated subsidiaries and joint ventures) to which the equity method of accounting is applied. This item includes income or expense related to stock-based compensation based on the investor's grant of stock to employees of an equity method investee.",
+                "concept": "stks:CostsExpensesAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 21947000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -5283000
+            },
+            {
+                "label": "Interest Income (Expense), Net",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": -1195000
+            },
+            {
+                "label": "Nonoperating Income (Expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -1195000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -6478000
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -3228000
+            },
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -3250000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -378000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2872000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax, Portion Attributable to Noncontrolling Interest",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -2000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -2870000
+            },
+            {
+                "label": "Earnings Per Share, Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.1
+            },
+            {
+                "label": "Earnings Per Share, Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.1
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 28907568
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 28907568
+            }
+        ]
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "AUSC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1470
+            },
+            {
+                "label": "Prepaid Expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 7554
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 2100
+            },
+            {
+                "label": "TOTAL CURRENT ASSETS",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 11124
+            },
+            {
+                "label": "Property, Plant and Equipment (net)",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 61444
+            },
+            {
+                "label": "Deposits {1}",
+                "concept": "DepositsAssetsCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 72568
+            },
+            {
+                "label": "Accounts Payable {1}",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 49026
+            },
+            {
+                "label": "Accrued Interest Payable",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 104331
+            },
+            {
+                "label": "Notes Payable (net of discount)",
+                "concept": "OtherShortTermBorrowings",
+                "unit": "usd",
+                "value": 417282
+            },
+            {
+                "label": "Derivative Liability",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 247130
+            },
+            {
+                "label": "Related Party Advances",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 5542
+            },
+            {
+                "label": "TOTAL CURRENT LIABILITIES",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 823311
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 823311
+            },
+            {
+                "label": "78,031,330 and 15,597,928 shares issued and outstanding as of March 31, 2020 and December 31, 2019 respectively,",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 7803
+            },
+            {
+                "label": "Additional Paid In Capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 8560406
+            },
+            {
+                "label": "Shares to be issued",
+                "concept": "OtherAdditionalCapital",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsUnappropriated",
+                "unit": "usd",
+                "value": -9318952
+            },
+            {
+                "label": "TOTAL STOCKHOLDERS' EQUITY (DEFICIT)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -750743
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 72568
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -882344
+            },
+            {
+                "label": "Finance Costs",
+                "concept": "PaidInKindInterest",
+                "unit": "usd",
+                "value": 36311
+            },
+            {
+                "label": "Depreciation {1}",
+                "concept": "CostOfGoodsAndServicesSoldDepreciation",
+                "unit": "usd",
+                "value": 1307
+            },
+            {
+                "label": "Share Based expense",
+                "concept": "IssuanceOfStockAndWarrantsForServicesOrClaims",
+                "unit": "usd",
+                "value": 1150000
+            },
+            {
+                "label": "Change in Accounts Payable and Accrued Expenses",
+                "concept": "IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -6107
+            },
+            {
+                "label": "Change in Related Party Advances",
+                "concept": "IncreaseDecreaseInOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": -1224
+            },
+            {
+                "label": "Change in Derivative and Note Discount",
+                "concept": "IncreaseDecreaseInDerivativeLiabilities",
+                "unit": "usd",
+                "value": -397342
+            },
+            {
+                "label": "Net Cash Used by Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 88474
+            },
+            {
+                "label": "Purchase of Land",
+                "concept": "PaymentsToAcquireBuildings",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net cash used by investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -3690
+            },
+            {
+                "label": "Proceeds from notes payable",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 78000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 78000
+            },
+            {
+                "label": "NET INCREASE (DECREASE) IN CASH",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -14164
+            }
+        ],
+        "ic": [
+            {
+                "label": "REVENUE",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Salaries and wages",
+                "concept": "SalariesAndWages",
+                "unit": "usd",
+                "value": 49335
+            },
+            {
+                "label": "Share based expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1150000
+            },
+            {
+                "label": "G&A Expenses",
+                "concept": "SellingExpense",
+                "unit": "usd",
+                "value": 27413
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "DepreciationExpenseOnReclassifiedAssets",
+                "unit": "usd",
+                "value": 1307
+            },
+            {
+                "label": "TOTAL EXPENSES",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1235555
+            },
+            {
+                "label": "Financing cost",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 36311
+            },
+            {
+                "label": "Interest Expense {1}",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 52710
+            },
+            {
+                "label": "TOTAL OTHER INCOME (EXPENSES)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 353211
+            },
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -882344
+            },
+            {
+                "label": "NET LOSS PER COMMON SHARE - BASIC & DILUTED",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.02
+            },
+            {
+                "label": "WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING - BASIC & DILUTED",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 60508825
+            }
+        ]
+    }
+}

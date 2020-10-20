@@ -1,0 +1,140 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AMP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 7654000000
+            },
+            {
+                "label": "Investments",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 39208000000
+            },
+            {
+                "label": "Separate account assets",
+                "concept": "SeparateAccountAssets",
+                "unit": "usd",
+                "value": 83698000000
+            },
+            {
+                "label": "Receivables",
+                "concept": "amp:Receivables",
+                "unit": "usd",
+                "value": 7275000000
+            },
+            {
+                "label": "Deferred acquisition costs",
+                "concept": "DeferredPolicyAcquisitionCosts",
+                "unit": "usd",
+                "value": 2499000000
+            },
+            {
+                "label": "Restricted and segregated cash and investments",
+                "concept": "amp:RestrictedCashAndCashEquivalentsAndCashAndSecuritiesSegregatedUnderFederalAndOtherRegulations",
+                "unit": "usd",
+                "value": 2416000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 10588000000
+            },
+            {
+                "label": "Policyholder account balances, future policy benefits and claims",
+                "concept": "amp:PolicyholderAccountBalancesFuturePolicyBenefitsandClaims",
+                "unit": "usd",
+                "value": 33312000000
+            },
+            {
+                "label": "Separate account liabilities",
+                "concept": "SeparateAccountsLiability",
+                "unit": "usd",
+                "value": 83698000000
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 16070000000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 200000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 2835000000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1650000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 9090000000
+            },
+            {
+                "label": "Accounts Receivable, Allowance for Credit Loss",
+                "concept": "AllowanceForDoubtfulAccountsReceivable",
+                "unit": "usd",
+                "value": 47000000
+            },
+            {
+                "label": "Investments, Allowance for Credit Losses",
+                "concept": "amp:InvestmentsAllowanceforCreditLosses",
+                "unit": "usd",
+                "value": 56000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 539000000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Net unrealized gains (losses) on securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 697000000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 689000000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 150000000
+            }
+        ]
+    }
+}

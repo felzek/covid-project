@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LAZ",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 683968000
+            },
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 683968000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 73076000
+            },
+            {
+                "label": "Currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 22384000
+            },
+            {
+                "label": "Prior service cost (net of tax expense of $2 for the three months ended June 30, 2020 and $38 for the six months ended June 30, 2020)",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostsCreditArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Actuarial gain (net of tax (benefit) expense of $(171) and $2,420 for the three months ended June 30, 2020 and 2019, respectively, and $1,619 and $2,720 for the six months ended June 30, 2020 and 2019, respectively)",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 482000
+            },
+            {
+                "label": "Adjustment for items reclassified to earnings (net of tax expense of $338 and $174 for the three months ended June 30, 2020 and 2019, respectively, and $676 and $352 for the six months ended June 30, 2020 and 2019, respectively)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansNetOfTax",
+                "unit": "usd",
+                "value": 1615000
+            },
+            {
+                "label": "OTHER COMPREHENSIVE INCOME (LOSS), NET OF TAX",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 24490000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 97566000
+            },
+            {
+                "label": "LESS - COMPREHENSIVE INCOME (LOSS) ATTRIBUTABLE TO NONCONTROLLING INTERESTS",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 383000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME ATTRIBUTABLE TO LAZARD LTD",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 97949000
+            }
+        ]
+    }
+}

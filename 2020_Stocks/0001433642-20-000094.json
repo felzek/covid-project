@@ -1,0 +1,441 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "HLNE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 71091000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 3147000
+            },
+            {
+                "label": "Fees receivable",
+                "concept": "hlne:FeesReceivable",
+                "unit": "usd",
+                "value": 23679000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 5917000
+            },
+            {
+                "label": "Due from related parties",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 2153000
+            },
+            {
+                "label": "Furniture, fixtures and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 7666000
+            },
+            {
+                "label": "Lease right-of-use assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 9697000
+            },
+            {
+                "label": "Investments",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 194864000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 191375000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 16918000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 526507000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1148000
+            },
+            {
+                "label": "Accrued compensation and benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 23443000
+            },
+            {
+                "label": "Deferred incentive fee revenue",
+                "concept": "ContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 3704000
+            },
+            {
+                "label": "Debt",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 74538000
+            },
+            {
+                "label": "Accrued members\u2019 distributions",
+                "concept": "hlne:MemberDistributionPayable",
+                "unit": "usd",
+                "value": 3367000
+            },
+            {
+                "label": "Payable to related parties pursuant to tax receivable agreement",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 143370000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 10102000
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 10243000
+            },
+            {
+                "label": "Other liabilities (includes $16,785 and $13,394 at fair value)",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 23981000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 293896000
+            },
+            {
+                "label": "Commitments and contingencies (Note 13)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.001 par value, 10,000,000 authorized, none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 126585000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 84000
+            },
+            {
+                "label": "Total Hamilton Lane Incorporated stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 166788000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 232611000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 526507000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4968000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 1004000
+            },
+            {
+                "label": "Change in deferred income taxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 638000
+            },
+            {
+                "label": "Change in payable to related parties pursuant to tax receivable agreement",
+                "concept": "hlne:IncreaseDecreaseInPayableToRelatedPartiesPursuantToTaxReceivableAgreement",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Equity-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1748000
+            },
+            {
+                "label": "Equity in (loss) income of investees",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 21203000
+            },
+            {
+                "label": "Proceeds received from investments",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 157000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 82000
+            },
+            {
+                "label": "Fees receivable",
+                "concept": "hlne:IncreaseDecreaseInFeesReceivable",
+                "unit": "usd",
+                "value": 6707000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 1071000
+            },
+            {
+                "label": "Due from related parties",
+                "concept": "IncreaseDecreaseInDueFromRelatedParties",
+                "unit": "usd",
+                "value": 452000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 424000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 820000
+            },
+            {
+                "label": "Accrued compensation and benefits",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 12639000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 1542000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 47455000
+            },
+            {
+                "label": "Purchase of furniture, fixtures and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 998000
+            },
+            {
+                "label": "Purchase of other investments",
+                "concept": "PaymentsToAcquireOtherInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Distributions received from investments",
+                "concept": "ProceedsFromEquityMethodInvestmentDividendsOrDistributionsReturnOfCapital",
+                "unit": "usd",
+                "value": 4162000
+            },
+            {
+                "label": "Contributions to investments",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": 9238000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 6074000
+            },
+            {
+                "label": "Proceeds from offering",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 204979000
+            },
+            {
+                "label": "Purchase of membership interests",
+                "concept": "hlne:LimitedLiabilityCompanyLLCOrLimitedPartnershipLPPurchaseOfMembershipInterest",
+                "unit": "usd",
+                "value": 204979000
+            },
+            {
+                "label": "Repayments of debt",
+                "concept": "RepaymentsOfSeniorDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Draw-down on revolver",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Repayment of revolver",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Secured financing",
+                "concept": "hlne:ProceedsFromOtherSecuredFinancing",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Contributions from non-controlling interest in general partnerships",
+                "concept": "ProceedsFromMinorityShareholders",
+                "unit": "usd",
+                "value": 32000
+            },
+            {
+                "label": "Distributions to non-controlling interest in general partnerships",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 220000
+            },
+            {
+                "label": "Repurchase of Class B common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Repurchase of Class A shares for employee tax withholding",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds received from issuance of shares under Employee Share Purchase Plan",
+                "concept": "ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                "unit": "usd",
+                "value": 339000
+            },
+            {
+                "label": "Payments to related parties, pursuant to tax receivable agreement",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 36000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 8027000
+            },
+            {
+                "label": "Members\u2019 distributions paid",
+                "concept": "DistributionMadeToLimitedLiabilityCompanyLLCMemberCashDistributionsPaid",
+                "unit": "usd",
+                "value": 12429000
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 20343000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Increase in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 21028000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4968000
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4958000
+            },
+            {
+                "label": "Total comprehensive income attributable to Hamilton Lane Incorporated",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3240000
+            }
+        ]
+    }
+}

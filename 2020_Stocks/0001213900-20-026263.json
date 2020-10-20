@@ -1,0 +1,188 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HIGR",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH \u2013 BEGINNING OF PERIOD",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 28270
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 38270
+            },
+            {
+                "label": "Right of use asset \u2013 operating lease \u2013 related party",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 105764
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 144034
+            },
+            {
+                "label": "Accounts payable \u2013 related party",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Notes payable \u2013 related party",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Loan payable - related party",
+                "concept": "LoansPayableCurrent",
+                "unit": "usd",
+                "value": 2465
+            },
+            {
+                "label": "Accrued royalty- related party",
+                "concept": "AccruedRoyaltiesCurrent",
+                "unit": "usd",
+                "value": 15909
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 338
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 95484
+            },
+            {
+                "label": "Operating lease obligation \u2013 related party",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 76993
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $0.001 per share; 1,100,000,000 shares authorized; 100,000,000 shares issued and outstanding as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 619566
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -28443
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 DEFICIT",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 144034
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sales \u2013 related party",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 37847
+            },
+            {
+                "label": "Cost of sales - royalty- related party",
+                "concept": "CostsAndExpensesRelatedParty",
+                "unit": "usd",
+                "value": 9462
+            },
+            {
+                "label": "Cost of goods sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 560
+            },
+            {
+                "label": "Gross margin",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 27825
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 5284
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 9667
+            },
+            {
+                "label": "Total operating expense",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 14951
+            },
+            {
+                "label": "Income (loss) from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 12874
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 187
+            },
+            {
+                "label": "Total other income (expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -187
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12687
+            },
+            {
+                "label": "Net income (loss) per common share \u2013 basic and diluted (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Weighted average common shares outstanding \u2013 basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 100000000
+            }
+        ]
+    }
+}

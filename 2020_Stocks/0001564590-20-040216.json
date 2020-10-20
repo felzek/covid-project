@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "STON",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash\u2014Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 63560000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash\u2014Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 63560000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Issuance of Series A Preferred Stock/Units",
+                "concept": "StockIssuedDuringPeriodValueNewIssues",
+                "unit": "usd",
+                "value": 8800000
+            },
+            {
+                "label": "Stock issued during period value common stock.",
+                "concept": "ston:StockIssuedDuringPeriodValueCommonStock",
+                "unit": "usd",
+                "value": 8200000
+            },
+            {
+                "label": "Common stock awards under incentive plans",
+                "concept": "StockIssuedDuringPeriodValueShareBasedCompensation",
+                "unit": "usd",
+                "value": 317000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -3914000
+            }
+        ]
+    }
+}

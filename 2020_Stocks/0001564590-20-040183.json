@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FSEA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 30625000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 30625000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 531000
+            },
+            {
+                "label": "Unrealized holding gains on securities available-for-sale arising during the period net of income taxes of $163, $124, $257 and $318, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 436000
+            },
+            {
+                "label": "Other comprehensive income loss reclassification adjustment from AOCI for sale and for write down of securities, net of tax.",
+                "concept": "fsea:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleAndForWriteDownOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 49000
+            },
+            {
+                "label": "Total unrealized gains on securities",
+                "concept": "UnrealizedGainOnSecurities",
+                "unit": "usd",
+                "value": 387000
+            },
+            {
+                "label": "Change in interest rate swaps net of income taxes of $(45), $-0-, $(45) and $-0-, respectively",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAdjustmentsAfterTax",
+                "unit": "usd",
+                "value": 119000
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 268000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 799000
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RPLA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1261642
+            },
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1261642
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 96052
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -96052
+            },
+            {
+                "label": "Amount of gain on marketable securities, dividends and interest held in Trust Account.",
+                "concept": "rpla:GainOnMarketableSecuritiesDividendAndInterestHeldInTrustAccount",
+                "unit": "usd",
+                "value": -14168
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -110220
+            },
+            {
+                "label": "Average number of  public shares or units issued and outstanding that are used in calculating basic and diluted earnings per share (EPS).",
+                "concept": "rpla:BasicAndDilutedWeightedAverageSharesOutstandingOfPublicShares",
+                "unit": "shares",
+                "value": 28750000
+            },
+            {
+                "label": "The amount of net income or loss for the period per each share in instances when basic and diluted earnings per share are the same amount and reported as a single line item on the face of the financial statements.  Basic earnings per share is the amount of net income or loss for the period per each share of common stock or unit outstanding during the reporting period.  Diluted earnings per share includes the amount of net income or loss for the period available to each share of common stock or common unit outstanding during the reporting period and to each share or unit that would have been outstanding assuming the issuance of common shares or units for all dilutive potential common shares or units outstanding during the reporting period.",
+                "concept": "rpla:BasicAndDilutedNetIncomePerSharePublicShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Average number of Founder shares or units issued and outstanding that are used in calculating basic and diluted earnings per share (EPS).",
+                "concept": "rpla:BasicAndDilutedWeightedAverageSharesOutstandingOfFounderShares",
+                "unit": "shares",
+                "value": 7187500
+            },
+            {
+                "label": "The amount of net income or loss for the period per each share in instances when basic and diluted earnings per share are the same amount and reported as a single line item on the face of the financial statements.  Basic earnings per share is the amount of net income or loss for the period per each share of common stock or unit outstanding during the reporting period.  Diluted earnings per share includes the amount of net income or loss for the period available to each share of common stock or common unit outstanding during the reporting period and to each share or unit that would have been outstanding assuming the issuance of common shares or units for all dilutive potential common shares or units outstanding during the reporting period.",
+                "concept": "rpla:BasicAndDilutedNetLossPerShareFounderShare",
+                "unit": "usd/shares",
+                "value": -0.01
+            }
+        ]
+    }
+}

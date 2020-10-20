@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AVP",
+    "data": {
+        "bs": [
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 160100000.0
+            },
+            {
+                "label": "Finance right-of-use assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1900000.0
+            },
+            {
+                "label": "Total right-of-use assets",
+                "concept": "avp:LeaseRightofUseAssets",
+                "unit": "usd",
+                "value": 162000000.0
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 44300000.0
+            },
+            {
+                "label": "Finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Total current lease liabilities",
+                "concept": "avp:LeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 44900000.0
+            },
+            {
+                "label": "Long-term operating lease liability",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 129300000.00000001
+            },
+            {
+                "label": "Finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 1500000.0
+            },
+            {
+                "label": "Total noncurrent lease liabilities",
+                "concept": "avp:LeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 130800000.00000001
+            },
+            {
+                "label": "Total lease liability",
+                "concept": "avp:LeaseLiability",
+                "unit": "usd",
+                "value": 175700000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 93500000.0
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Unrealized (loss) gain on revaluation of long-term intercompany balances",
+                "concept": "avp:OtherComprehensiveIncomeLossForeignCurrencyTransactionandTranslationAdjustmentNetofTaxIncludingIntercompanyAmounts",
+                "unit": "usd",
+                "value": 3300000.0
+            },
+            {
+                "label": "Change in unrealized gains, (losses) on cash flow hedges, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Adjustments and amortization of net actuarial loss and prior service cost, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansNetOfTax",
+                "unit": "usd",
+                "value": 2000000.0
+            },
+            {
+                "label": "Total other comprehensive (loss) income, net of income taxes",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1500000.0
+            },
+            {
+                "label": "Comprehensive loss",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 95000000.0
+            },
+            {
+                "label": "Less: comprehensive loss (income) attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Comprehensive loss attributable to Avon",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 94300000.0
+            }
+        ]
+    }
+}

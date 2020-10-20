@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EYES",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 3505000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 3505000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development, net of grants",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 323000
+            },
+            {
+                "label": "Clinical and regulatory expense, net of grants.",
+                "concept": "eyes:ClinicalAndRegulatoryExpenseNetOfGrants",
+                "unit": "usd",
+                "value": 429000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1516000
+            },
+            {
+                "label": "Restructuring charges",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 848000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 3116000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -3116000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -3100000
+            },
+            {
+                "label": "Net loss per common share \u2013 basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.15
+            },
+            {
+                "label": "Weighted average common shares outstanding \u2013 basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 20337000
+            }
+        ]
+    }
+}

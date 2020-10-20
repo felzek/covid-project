@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TRILINC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 14974399
+            },
+            {
+                "label": "Cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 14974399
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 10903460
+            },
+            {
+                "label": "Interest from cash",
+                "concept": "InterestIncomeDepositsWithFinancialInstitutions",
+                "unit": "usd",
+                "value": 18722
+            },
+            {
+                "label": "Total investment income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 10922182
+            },
+            {
+                "label": "Asset management fees",
+                "concept": "NoninterestExpenseInvestmentAdvisoryFees",
+                "unit": "usd",
+                "value": 1844871
+            },
+            {
+                "label": "Incentive fees",
+                "concept": "IncentiveFeeExpense",
+                "unit": "usd",
+                "value": 1628075
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 516940
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 287086
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 68536
+            },
+            {
+                "label": "Board of managers fees.",
+                "concept": "trilinc:BoardOfManagersFees",
+                "unit": "usd",
+                "value": 64375
+            },
+            {
+                "label": "Operating expenses gross.",
+                "concept": "trilinc:OperatingExpensesGross",
+                "unit": "usd",
+                "value": 4409883
+            },
+            {
+                "label": "NET INVESTMENT INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 6512299
+            },
+            {
+                "label": "Net change in unrealized appreciation (depreciation) on investments.",
+                "concept": "trilinc:NetChangeInUnrealizedAppreciationDepreciationOnInvestments",
+                "unit": "usd",
+                "value": -1052185
+            },
+            {
+                "label": "Foreign exchange loss",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 4167
+            },
+            {
+                "label": "NET CHANGE IN NET ASSETS RESULTING FROM OPERATIONS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 5464281
+            },
+            {
+                "label": "Net investment income per units basic and diluted.",
+                "concept": "trilinc:NetInvestmentIncomePerUnitsBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.14
+            },
+            {
+                "label": "EARNINGS PER UNIT - BASIC AND DILUTED",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.12
+            },
+            {
+                "label": "WEIGHTED AVERAGE UNITS OUTSTANDING - BASIC AND DILUTED",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 46545426
+            }
+        ]
+    }
+}

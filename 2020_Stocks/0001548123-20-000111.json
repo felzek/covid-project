@@ -1,0 +1,315 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "TRTK",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 29293
+            },
+            {
+                "label": "Subscriptions receivable",
+                "concept": "StockholdersEquityNoteSubscriptionsReceivable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Note receivable, net of allowance of $155,000 and $155,000, respectively",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 29293
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 367643
+            },
+            {
+                "label": "License",
+                "concept": "IndefiniteLivedLicenseAgreements",
+                "unit": "usd",
+                "value": 35051
+            },
+            {
+                "label": "Deposit",
+                "concept": "DepositAssets",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 434987
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndOtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4985
+            },
+            {
+                "label": "Short term advances - related parties",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 288690
+            },
+            {
+                "label": "Discontinued operations",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": 2387
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 296062
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 293383
+            },
+            {
+                "label": "Commitments and contingencies (Note 5)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Preferred Stock - $0.001 par value; 10,000,000 shares authorized; none outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock - $0.001 par value; 200,000,000 shares authorized; 100,074,854 and 100,074,854 shares issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 100075
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 6881516
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -6665860
+            },
+            {
+                "label": "Total Shareholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 138925
+            },
+            {
+                "label": "Total Liabilities and Shareholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 434987
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -63132
+            },
+            {
+                "label": "Accounts payable and accrued liabilities {1}",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 2679
+            },
+            {
+                "label": "Net Cash Used in Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -60453
+            },
+            {
+                "label": "Purchase of a license",
+                "concept": "PaymentsToAcquireAdditionalInterestInSubsidiaries",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Purchase of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": -76297
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -76297
+            },
+            {
+                "label": "Proceeds from issuance of the Company and subsidiary common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Collection of subscriptions receivable",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 165000
+            },
+            {
+                "label": "Proceeds from short term advances - related parties",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash Flows Provided by Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 165000
+            },
+            {
+                "label": "Net Change in Cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 28250
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Sales",
+                "concept": "ResultsOfOperationsSalesRevenueToUnaffiliatedEnterprises",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total Sales",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 26359
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 36773
+            },
+            {
+                "label": "Total Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 63132
+            },
+            {
+                "label": "Operating Loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -63132
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Loss before loss from discontinued operations",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax",
+                "unit": "usd",
+                "value": -63132
+            },
+            {
+                "label": "Discontinued operations {1}",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationOperatingIncomeLoss",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -63132
+            },
+            {
+                "label": "Non-controlling loss",
+                "concept": "NoncontrollingInterestInNetIncomeLossOtherNoncontrollingInterestsNonredeemable",
+                "unit": "usd",
+                "value": 20827
+            },
+            {
+                "label": "Net loss attributable to TORtec Group Corporation",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -42305
+            },
+            {
+                "label": "Basic and Diluted Loss per Share - Continuing Operations",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Basic and Diluted Loss per Share - Discontinued Operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Basic and Diluted Loss per Share - Net Loss",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Basic and Diluted Weighted-Average Common Shares Outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 100074854
+            }
+        ]
+    }
+}

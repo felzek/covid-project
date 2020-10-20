@@ -1,0 +1,261 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "GHM",
+    "data": {
+        "bs": [
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 94164000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 88474000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 94164000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1818000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 486000
+            },
+            {
+                "label": "The amount of gains and losses recognized in net periodic benefit cost and the amount of prior service cost recognized in net periodic benefit cost relating to benefit changes attributable to plan participants' prior service pursuant to a plan amendment or a plan initiation.",
+                "concept": "ghm:AmortizationOfUnrecognizedPriorServiceCostAndActuarialLosses",
+                "unit": "usd",
+                "value": 266000
+            },
+            {
+                "label": "Equity-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 164000
+            },
+            {
+                "label": "Gain on disposal or sale of property, plant and equipment",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 282000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 1646000
+            },
+            {
+                "label": "Unbilled revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerAsset",
+                "unit": "usd",
+                "value": 1091000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 361000
+            },
+            {
+                "label": "Prepaid expenses and other current and non-current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 356000
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncreaseDecreaseInIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 490000
+            },
+            {
+                "label": "Increase (decrease) in operating lease right of use asset.",
+                "concept": "ghm:IncreaseDecreaseInOperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 37000
+            },
+            {
+                "label": "The (increase) decrease during the reporting period in the amount of the asset recognized for an overfunded defined benefit pension plan.",
+                "concept": "ghm:IncreaseDecreaseInDefinedBenefitPlanAssetsForPlanBenefitsNoncurrent",
+                "unit": "usd",
+                "value": 210000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 4430000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the aggregate amount of liabilities incurred for obligations related to services received from employees, obligations and expenses incurred but not paid and noncurrent obligations.",
+                "concept": "ghm:IncreaseDecreaseInAccruedCompensationAccruedExpensesAndOtherCurrentAndNonCurrentLiabilities",
+                "unit": "usd",
+                "value": 709000
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 4094000
+            },
+            {
+                "label": "Increase (decrease) in operating lease liabilities.",
+                "concept": "ghm:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 37000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the aggregate amount of liabilities incurred for deferred compensation arrangements payable beyond one year and noncurrent liabilities associated with defined benefit pension plans and other postretirement defined benefit plans.",
+                "concept": "ghm:IncreaseDecreaseInLongTermPortionOfAccruedCompensationAccruedPensionLiabilityAndAccruedPostretirementBenefits",
+                "unit": "usd",
+                "value": 32000
+            },
+            {
+                "label": "Net cash used by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 4373000
+            },
+            {
+                "label": "Purchase of property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 338000
+            },
+            {
+                "label": "Proceeds from disposal of property, plant and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Purchase of investments",
+                "concept": "PaymentsToAcquireHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 26103000
+            },
+            {
+                "label": "Redemption of investments at maturity",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 40048000
+            },
+            {
+                "label": "Net cash provided by investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 13613000
+            },
+            {
+                "label": "Principal repayments on finance lease obligations",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Principal repayments on long-term debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 4599000
+            },
+            {
+                "label": "Proceeds from the issuance of long-term debt",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 4599000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 1097000
+            },
+            {
+                "label": "Purchase of treasury stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Net cash used by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1132000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents, including cash classified within current assets held for sale",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 8114000
+            },
+            {
+                "label": "Cash, cash equivalents, restricted cash and restricted cash equivalents, period increase decrease excluding cash within current assets held for sale, including exchange rate effect.",
+                "concept": "ghm:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingCashWithinCurrentAssetsHeldForSaleIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 8114000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1818000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Defined benefit pension and other postretirement plans net of income tax expense of $61 and $55, for the three months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 205000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 214000
+            },
+            {
+                "label": "Total comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1604000
+            }
+        ]
+    }
+}

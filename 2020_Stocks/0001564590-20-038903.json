@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MCHX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 46777000
+            },
+            {
+                "label": "Cash and cash equivalents at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 46777000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 25847000
+            },
+            {
+                "label": "Service costs",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 15204000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 5438000
+            },
+            {
+                "label": "Product development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 5886000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3038000
+            },
+            {
+                "label": "Amortization of intangible assets from acquisitions",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 1206000
+            },
+            {
+                "label": "Business combination acquisition and disposition related cost benefit.",
+                "concept": "mchx:BusinessCombinationAcquisitionAndDispositionRelatedCostBenefit",
+                "unit": "usd",
+                "value": 361000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 30411000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 4564000
+            },
+            {
+                "label": "Interest income and other, net.",
+                "concept": "mchx:InterestIncomeAndOtherNet",
+                "unit": "usd",
+                "value": 32000
+            },
+            {
+                "label": "Loss before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4532000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "Net loss applicable to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 4508000
+            },
+            {
+                "label": "Basic and diluted net loss per Class A and Class B share applicable to common stockholders",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.09
+            }
+        ]
+    }
+}

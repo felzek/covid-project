@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-04",
+    "endDate": "2020-07-03",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VEC",
+    "data": {
+        "bs": [
+            {
+                "label": "Receivables",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 260295000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 344994000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 657781000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 45655000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 255710000
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 46473000
+            },
+            {
+                "label": "Total non-current liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 132636000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 388346000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 194854000
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 269435000
+            },
+            {
+                "label": "Total Liabilities and Shareholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 657781000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Compensation cost for awards",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 3044000
+            },
+            {
+                "label": "Future tax benefit",
+                "concept": "EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense",
+                "unit": "usd",
+                "value": 658000
+            }
+        ]
+    }
+}

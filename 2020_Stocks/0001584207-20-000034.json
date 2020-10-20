@@ -1,0 +1,200 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OMF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2740000000
+            },
+            {
+                "label": "Investment securities (includes available-for-sale securities with a fair value of $1.8\u00a0billion and amortized cost basis of $1.7\u00a0billion in 2020)",
+                "concept": "MarketableSecurities",
+                "unit": "usd",
+                "value": 1862000000
+            },
+            {
+                "label": "Net finance receivables (includes loans of consolidated VIEs of $8.9 billion in 2020 and $8.4 billion in 2019)",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 17721000000
+            },
+            {
+                "label": "Unearned insurance premium and claim reserves",
+                "concept": "omf:UnearnedPremiumsAndLiabilityForUnpaidClaimsAndClaimAdjustmentExpense",
+                "unit": "usd",
+                "value": 791000000
+            },
+            {
+                "label": "Allowance for finance receivable losses (includes allowance of consolidated VIEs of $1.1 billion in 2020 and $340 million in 2019)",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 2324000000
+            },
+            {
+                "label": "Net finance receivables, less unearned insurance premium and claim reserves and allowance for finance receivable losses",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 14606000000
+            },
+            {
+                "label": "Restricted cash and restricted cash equivalents (includes restricted cash and restricted cash equivalents of consolidated VIEs of $459 million in 2020 and $400 million in 2019)",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 487000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1422000000
+            },
+            {
+                "label": "Other intangible assets",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 324000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 1067000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 22508000000
+            },
+            {
+                "label": "Long-term debt (includes debt of consolidated VIEs of $7.8 billion in 2020 and $7.6 billion in 2019)",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 18010000000
+            },
+            {
+                "label": "Insurance claims and policyholder liabilities",
+                "concept": "LiabilityForFuturePolicyBenefitsAndUnpaidClaimsAndClaimsAdjustmentExpense",
+                "unit": "usd",
+                "value": 630000000
+            },
+            {
+                "label": "Deferred and accrued taxes",
+                "concept": "omf:DeferredAndAccruedIncomeTaxes",
+                "unit": "usd",
+                "value": 124000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 573000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 19337000000
+            },
+            {
+                "label": "Contingencies (Note 14)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1648000000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 65000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1457000000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3171000000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 22508000000
+            },
+            {
+                "label": "Fair Value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 1800000000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 89000000
+            },
+            {
+                "label": "Net change in unrealized gains on non-credit impaired available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 87000000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Net change in unrealized gains on non-credit impaired available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 71000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 160000000
+            }
+        ]
+    }
+}

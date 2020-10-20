@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BFIN",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 172454000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 172454000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Deposit service charges and fees",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 736000
+            },
+            {
+                "label": "Loan servicing fees",
+                "concept": "InvestmentBankingAdvisoryBrokerageAndUnderwritingFeesAndCommissions",
+                "unit": "usd",
+                "value": 82000
+            },
+            {
+                "label": "Mortgage brokerage and banking fees",
+                "concept": "BrokerageCommissionsRevenue",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Gain on sale of equity securities",
+                "concept": "EquitySecuritiesFvNiGainLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss on disposal of other assets",
+                "concept": "GainLossOnSaleOfOtherAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Earnings on bank-owned life insurance",
+                "concept": "BankOwnedLifeInsuranceIncome",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "us-gaap_NoninterestIncomeOtherOperatingIncome",
+                "concept": "NoninterestIncomeOtherOperatingIncome",
+                "unit": "usd",
+                "value": 101000
+            },
+            {
+                "label": "us-gaap_NoninterestIncome",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 1163000
+            }
+        ]
+    }
+}

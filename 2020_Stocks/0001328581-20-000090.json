@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "BCC",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 44564000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 739708000
+            },
+            {
+                "label": "Treasury stock, at cost",
+                "concept": "TreasuryStockCommonShares",
+                "unit": "shares",
+                "value": 5367000
+            },
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 44564000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 739708000
+            },
+            {
+                "label": "Treasury stock, at cost",
+                "concept": "TreasuryStockCommonShares",
+                "unit": "shares",
+                "value": 5367000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 33586000
+            },
+            {
+                "label": "Amortization of actuarial (gain) loss, tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossTax",
+                "unit": "usd",
+                "value": 51000
+            },
+            {
+                "label": "Effect of settlements, tax effect",
+                "concept": "OtherComprehensiveIncomeFinalizationOfPensionAndNonPensionPostretirementPlanValuationTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 150000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 33736000
+            }
+        ]
+    }
+}

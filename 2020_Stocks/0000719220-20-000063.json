@@ -1,0 +1,410 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "STBA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks, including interest-bearing deposits of $277,670 and $124,491 at June 30, 2020 and December\u00a031, 2019",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 351365000
+            },
+            {
+                "label": "Securities, at fair value",
+                "concept": "stba:DebtSecuritiesAvailableforsaleandEquitySecuritiesFVNI",
+                "unit": "usd",
+                "value": 804366000
+            },
+            {
+                "label": "Loans held for sale",
+                "concept": "LoansReceivableHeldForSaleNetNotPartOfDisposalGroup",
+                "unit": "usd",
+                "value": 14259000
+            },
+            {
+                "label": "Portfolio loans, net of unearned income",
+                "concept": "LoansAndLeasesReceivableNetOfDeferredIncome",
+                "unit": "usd",
+                "value": 7548558000
+            },
+            {
+                "label": "Allowance for credit losses on loans",
+                "concept": "LoansAndLeasesReceivableAllowance",
+                "unit": "usd",
+                "value": 114609000
+            },
+            {
+                "label": "Portfolio loans, net",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 7433949000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 81443000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 56441000
+            },
+            {
+                "label": "Federal Home Loan Bank and other restricted stock, at cost",
+                "concept": "RestrictedInvestments",
+                "unit": "usd",
+                "value": 15151000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 373289000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 9743000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 334290000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 9474296000
+            },
+            {
+                "label": "Noninterest-bearing demand",
+                "concept": "NoninterestBearingDomesticDepositDemand",
+                "unit": "usd",
+                "value": 2250958000
+            },
+            {
+                "label": "Interest-bearing demand",
+                "concept": "InterestBearingDomesticDepositDemand",
+                "unit": "usd",
+                "value": 1055261000
+            },
+            {
+                "label": "Money market",
+                "concept": "DepositsMoneyMarketDeposits",
+                "unit": "usd",
+                "value": 2121588000
+            },
+            {
+                "label": "Savings",
+                "concept": "DepositsSavingsDeposits",
+                "unit": "usd",
+                "value": 916268000
+            },
+            {
+                "label": "Certificates of deposit",
+                "concept": "TimeDeposits",
+                "unit": "usd",
+                "value": 1523841000
+            },
+            {
+                "label": "Total Deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 7867916000
+            },
+            {
+                "label": "Securities sold under repurchase agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "OtherShortTermBorrowings",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Long-term borrowings",
+                "concept": "OtherLongTermDebt",
+                "unit": "usd",
+                "value": 49489000
+            },
+            {
+                "label": "Junior subordinated debt securities",
+                "concept": "JuniorSubordinatedLongTermNotes",
+                "unit": "usd",
+                "value": 64053000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 180361000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 8338519000
+            },
+            {
+                "label": "Common stock ($2.50 par value)\u2028Authorized\u201450,000,000 shares\u2028Issued\u201441,449,444 shares at June 30, 2020 and December\u00a031, 2019\u2028Outstanding\u2014 39,263,460 shares at June 30, 2020 and 39,560,304 shares at December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 103623000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 400417000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 692240000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 9232000
+            },
+            {
+                "label": "Treasury stock (2,185,984 shares at June 30, 2020 and 1,889,140 shares at December\u00a031, 2019, at cost)",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 69735000
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1135777000
+            },
+            {
+                "label": "Total Liabilities and Shareholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 9474296000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Loans, including fees",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 75498000
+            },
+            {
+                "label": "Taxable",
+                "concept": "InterestIncomeSecuritiesTaxable",
+                "unit": "usd",
+                "value": 3791000
+            },
+            {
+                "label": "Tax-exempt",
+                "concept": "InterestIncomeSecuritiesTaxExempt",
+                "unit": "usd",
+                "value": 959000
+            },
+            {
+                "label": "Dividends",
+                "concept": "DividendIncomeOperating",
+                "unit": "usd",
+                "value": 231000
+            },
+            {
+                "label": "Total Interest and Dividend Income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 80479000
+            },
+            {
+                "label": "Deposits",
+                "concept": "InterestExpenseDeposits",
+                "unit": "usd",
+                "value": 9227000
+            },
+            {
+                "label": "Borrowings and junior subordinated debt securities",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 1104000
+            },
+            {
+                "label": "Total Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 10331000
+            },
+            {
+                "label": "NET INTEREST INCOME",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 70148000
+            },
+            {
+                "label": "Provision for credit losses",
+                "concept": "stba:FinancingReceivableAndOffBalanceSheetLiabilityCreditLossExpenseReversal",
+                "unit": "usd",
+                "value": 86759000
+            },
+            {
+                "label": "Net Interest (Loss) Income After Provision for Credit Losses",
+                "concept": "InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "unit": "usd",
+                "value": 16611000
+            },
+            {
+                "label": "Net gain on sale of securities",
+                "concept": "DebtAndEquitySecuritiesGainLoss",
+                "unit": "usd",
+                "value": 142000
+            },
+            {
+                "label": "Commercial loan swap income",
+                "concept": "InterestAndFeeIncomeLoansCommercial",
+                "unit": "usd",
+                "value": 945000
+            },
+            {
+                "label": "Mortgage banking",
+                "concept": "FeesAndCommissionsMortgageBankingAndServicing",
+                "unit": "usd",
+                "value": 2623000
+            },
+            {
+                "label": "Other",
+                "concept": "NoninterestIncomeOther",
+                "unit": "usd",
+                "value": 2974000
+            },
+            {
+                "label": "Total Noninterest Income",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 15224000
+            },
+            {
+                "label": "Salaries and employee benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 21419000
+            },
+            {
+                "label": "Data processing and information technology",
+                "concept": "InformationTechnologyAndDataProcessing",
+                "unit": "usd",
+                "value": 3585000
+            },
+            {
+                "label": "Net occupancy",
+                "concept": "OccupancyNet",
+                "unit": "usd",
+                "value": 3437000
+            },
+            {
+                "label": "Furniture, equipment and software",
+                "concept": "EquipmentExpense",
+                "unit": "usd",
+                "value": 3006000
+            },
+            {
+                "label": "Merger related expenses",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other taxes",
+                "concept": "TaxesOther",
+                "unit": "usd",
+                "value": 1604000
+            },
+            {
+                "label": "Marketing",
+                "concept": "MarketingExpense",
+                "unit": "usd",
+                "value": 979000
+            },
+            {
+                "label": "Professional services and legal",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 1932000
+            },
+            {
+                "label": "FDIC insurance",
+                "concept": "FederalDepositInsuranceCorporationPremiumExpense",
+                "unit": "usd",
+                "value": 1048000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 6468000
+            },
+            {
+                "label": "Total Noninterest Expense",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 43478000
+            },
+            {
+                "label": "(Loss) Income Before Taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 44865000
+            },
+            {
+                "label": "Income tax (benefit) expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 11793000
+            },
+            {
+                "label": "Net (Loss) Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 33072000
+            },
+            {
+                "label": "(Loss) earnings per share\u2014basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.85
+            },
+            {
+                "label": "(Loss) earnings per share\u2014diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.85
+            },
+            {
+                "label": "Dividends declared per share (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.28
+            },
+            {
+                "label": "Comprehensive (Loss) Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 29512000
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "startDate": "2020-03-30",
+    "endDate": "2020-06-28",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SMTX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 311000
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 311000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue (note 3)",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 90406000
+            },
+            {
+                "label": "Cost of sales (note 9)",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 79720000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 10686000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 7107000
+            },
+            {
+                "label": "Represents the amount of restructuring charges (recoveries) during the period.",
+                "concept": "smtx:RestructuringChargesRecoveries",
+                "unit": "usd",
+                "value": 125000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 3704000
+            },
+            {
+                "label": "Fair value measurement gain (loss) on warrant liability.",
+                "concept": "smtx:FairValueMeasurementGainLossOnWarrantLiability",
+                "unit": "usd",
+                "value": 399000
+            },
+            {
+                "label": "Interest expense (note 3)",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1987000
+            },
+            {
+                "label": "Net income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1318000
+            },
+            {
+                "label": "Current",
+                "concept": "CurrentIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 311000
+            },
+            {
+                "label": "Deferred",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 52000
+            },
+            {
+                "label": "Total income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 363000
+            },
+            {
+                "label": "Net income (loss) and comprehensive income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 955000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.03
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.03
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 28213729
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 29493472
+            }
+        ]
+    }
+}

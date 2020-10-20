@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SYKE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash \u2013 beginning",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 130683000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash \u2013 beginning",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 130683000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 22230000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 8311000
+            },
+            {
+                "label": "Unrealized gain (loss) on cash flow hedging instruments, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 253000
+            },
+            {
+                "label": "Unrealized actuarial gain (loss) related to pension liability, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Amount, after tax and reclassification adjustment, of (increase) decrease in accumulated other comprehensive income for other post-retirement benefit plans.",
+                "concept": "syke:OtherComprehensiveIncomeLossOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 22000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of taxes",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 8052000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 30282000
+            }
+        ]
+    }
+}

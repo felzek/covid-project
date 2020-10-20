@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GEVO",
+    "data": {
+        "bs": [
+            {
+                "label": "Accrued utilities and supplies",
+                "concept": "AccruedUtilitiesCurrent",
+                "unit": "usd",
+                "value": 704000
+            },
+            {
+                "label": "Accounts payable - trade",
+                "concept": "AccountsPayableTradeCurrent",
+                "unit": "usd",
+                "value": 569000
+            },
+            {
+                "label": "Accrued employee compensation",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1445000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1281000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3999000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue from contract with Customer",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 988000
+            },
+            {
+                "label": "Other revenue",
+                "concept": "gevo:OtherRevenuesIncludingGrants",
+                "unit": "usd",
+                "value": 46000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 988000
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 2644000
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": -1656000
+            },
+            {
+                "label": "Research and development expense",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 677000
+            },
+            {
+                "label": "Selling, general and administrative expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2919000
+            },
+            {
+                "label": "Additions",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 3601000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -5257000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 541000
+            },
+            {
+                "label": "(Loss) on modification of 2020 Notes",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -57000
+            },
+            {
+                "label": "Gain from change in fair value of derivative warrant liability",
+                "concept": "gevo:GainLossFromChangeInFairValueOfWarrantLiabilities",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "(Loss) gain from change in fair value of 2020/21 Notes and 2020 Notes embedded derivative liability",
+                "concept": "EmbeddedDerivativeGainLossOnEmbeddedDerivativeNet",
+                "unit": "usd",
+                "value": -176000
+            },
+            {
+                "label": "Other income (expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -13000
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -786000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -6043000
+            },
+            {
+                "label": "Net loss per share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.4
+            },
+            {
+                "label": "Weighted-average number of common shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 15071105
+            }
+        ]
+    }
+}

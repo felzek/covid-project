@@ -1,0 +1,254 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "COFS",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 7261605
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 202623000
+            },
+            {
+                "label": "Common stock, outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 7261605
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 202623000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7684000
+            },
+            {
+                "label": "Provision for loan losses",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 1775000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1386000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": 2021000
+            },
+            {
+                "label": "Compensation expense on employee and director stock purchases, stock options, and restricted stock units",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 183000
+            },
+            {
+                "label": "Net gains on sales of securities",
+                "concept": "DebtSecuritiesAvailableForSaleRealizedGainLoss",
+                "unit": "usd",
+                "value": 1343000
+            },
+            {
+                "label": "Change in market value of equity securities",
+                "concept": "EquitySecuritiesFvNiGainLoss",
+                "unit": "usd",
+                "value": 54000
+            },
+            {
+                "label": "us-gaap_GainLossOnSaleOfLoansAndLeases",
+                "concept": "GainLossOnSaleOfLoansAndLeases",
+                "unit": "usd",
+                "value": 4739000
+            },
+            {
+                "label": "us-gaap_PaymentsForOriginationOfMortgageLoansHeldForSale",
+                "concept": "PaymentsForOriginationOfMortgageLoansHeldForSale",
+                "unit": "usd",
+                "value": 101844000
+            },
+            {
+                "label": "Proceeds from loan sales",
+                "concept": "ProceedsFromSaleOfLoansHeldForSale",
+                "unit": "usd",
+                "value": 97601000
+            },
+            {
+                "label": "Earnings on life insurance policies",
+                "concept": "BankOwnedLifeInsuranceIncome",
+                "unit": "usd",
+                "value": 384000
+            },
+            {
+                "label": "us-gaap_GainsLossesOnSalesOfOtherRealEstate",
+                "concept": "GainsLossesOnSalesOfOtherRealEstate",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Proceeds from sales of other real estate owned",
+                "concept": "ProceedsFromSaleOfRealEstate",
+                "unit": "usd",
+                "value": 139000
+            },
+            {
+                "label": "Costs capitalized to other real estate",
+                "concept": "cofs:ProceedsFromCostsCapitalizedToOtherRealEstate",
+                "unit": "usd",
+                "value": 19000
+            },
+            {
+                "label": "Deferred federal income tax (benefit)/expense",
+                "concept": "DeferredFederalIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 307000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInOtherOperatingAssets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 8564000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInOtherOperatingLiabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 1169000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 5299000
+            },
+            {
+                "label": "Sales of securities available for sale",
+                "concept": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+                "unit": "usd",
+                "value": 92979000
+            },
+            {
+                "label": "Maturities, prepayments and calls of securities available for sale",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 26635000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireAvailableForSaleSecurities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 144856000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireFederalReserveStock",
+                "concept": "PaymentsToAcquireFederalReserveStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsForProceedsFromLoansAndLeases",
+                "concept": "PaymentsForProceedsFromLoansAndLeases",
+                "unit": "usd",
+                "value": 105154000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 928000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 131324000
+            },
+            {
+                "label": "Net change in deposits",
+                "concept": "IncreaseDecreaseInDeposits",
+                "unit": "usd",
+                "value": 169706000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInFederalFundsPurchased",
+                "concept": "IncreaseDecreaseInFederalFundsPurchased",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from borrowings",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "us-gaap_RepaymentsOfLongTermDebt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 33019000
+            },
+            {
+                "label": "Issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 69000
+            },
+            {
+                "label": "us-gaap_PaymentsOfDividends",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 2900000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 143856000
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 7233000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 2672000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 1351000
+            },
+            {
+                "label": "Loans transferred to other real estate owned",
+                "concept": "TransferToOtherRealEstate",
+                "unit": "usd",
+                "value": 42000
+            }
+        ],
+        "ic": []
+    }
+}

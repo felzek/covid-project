@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1791755000
+            },
+            {
+                "label": "Cash segregated for regulatory purposes.",
+                "concept": "sf:CashSegregatedForRegulatoryPurposes",
+                "unit": "usd",
+                "value": 111017000
+            },
+            {
+                "label": "Cash and cash equivalents and cash segregated for regulatory purposes.",
+                "concept": "sf:CashAndCashEquivalentsAndCashSegregatedForRegulatoryPurposes",
+                "unit": "usd",
+                "value": 1902772000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 107887000
+            },
+            {
+                "label": "Changes in unrealized gains on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 76571000
+            },
+            {
+                "label": "Changes in unrealized gains/(losses) on cash flow hedging instruments",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 4023000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 156000
+            },
+            {
+                "label": "Total other comprehensive income/(loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 80438000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 188325000
+            },
+            {
+                "label": "Comprehensive income applicable to Stifel Financial Corp.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 188325000
+            }
+        ]
+    }
+}

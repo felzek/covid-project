@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "IVR",
+    "data": {
+        "bs": [
+            {
+                "label": "Mortgage-backed and credit risk transfer securities, at fair value (including pledged securities of $1,070,928 and $21,132,742, respectively)",
+                "concept": "MarketableSecurities",
+                "unit": "usd",
+                "value": 1584158000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 270161000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 1409000
+            },
+            {
+                "label": "Due from counterparties",
+                "concept": "ivr:DuefromCounterparties",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investment related receivable",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 14232000
+            },
+            {
+                "label": "Derivative assets, at fair value",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other assets (including pledged security of $44,654 as of December 31, 2019)",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 79512000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1949472000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Secured loans",
+                "concept": "AdvancesFromFederalHomeLoanBanks",
+                "unit": "usd",
+                "value": 740000000
+            },
+            {
+                "label": "Derivative liabilities, at fair value",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 507000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 6339000
+            },
+            {
+                "label": "Investment related payable",
+                "concept": "InvestmentRelatedLiabilities",
+                "unit": "usd",
+                "value": 31500000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 167000
+            },
+            {
+                "label": "Collateral held payable",
+                "concept": "OtherSecuredFinancings",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2606000
+            },
+            {
+                "label": "Due to affiliate",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 10561000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 791680000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, par value $0.01 per share; 450,000,000 shares authorized; 181,327,368 and 144,256,357 shares issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1813000
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3313801000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 106348000
+            },
+            {
+                "label": "Retained earnings (distributions in excess of earnings)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2827494000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1157792000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1949472000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 288839000
+            },
+            {
+                "label": "Unrealized gain (loss) on mortgage-backed and credit risk transfer securities, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 53271000
+            },
+            {
+                "label": "Reclassification of unrealized (gain) loss on sale of mortgage-backed and credit risk transfer securities to gain (loss) on investments, net",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 34782000
+            },
+            {
+                "label": "Reclassification of amortization of net deferred (gain) loss on de-designated interest rate swaps to repurchase agreements interest expense",
+                "concept": "ivr:OtherComprehensiveIncomeLossReclassificationAdjustmentfromAOCIonDeferredSwapGainLossFromDedesignationNetofTax",
+                "unit": "usd",
+                "value": 4503000
+            },
+            {
+                "label": "Currency translation adjustments on investment in unconsolidated venture",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 388000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 23380000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 312219000
+            },
+            {
+                "label": "Dividends to preferred stockholders",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 11106000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to common stockholders",
+                "concept": "ivr:ComprehensiveIncomeLossNetOfTaxAttributableToCommonStockholders",
+                "unit": "usd",
+                "value": 323325000
+            }
+        ]
+    }
+}

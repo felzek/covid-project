@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RUSHA",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1186560000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1186560000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Numerator for basic and diluted earnings per share \u2013 Net income available to common shareholders",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": 16816000
+            },
+            {
+                "label": "Denominator for basic earnings per share \u2013 weighted average shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 36291000
+            },
+            {
+                "label": "Employee stock options and restricted stock awards (in shares)",
+                "concept": "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+                "unit": "shares",
+                "value": 609000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 36900000
+            },
+            {
+                "label": "Basic earnings per common share (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.46
+            },
+            {
+                "label": "Diluted earnings per common share and common share equivalents (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.46
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "USAC",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 14885772
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 14885772
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Investment income",
+                "concept": "GrossInvestmentIncomeOperating",
+                "unit": "usd",
+                "value": 761897
+            },
+            {
+                "label": "us-gaap_InvestmentIncomeInvestmentExpense",
+                "concept": "InvestmentIncomeInvestmentExpense",
+                "unit": "usd",
+                "value": 20594
+            },
+            {
+                "label": "Net investment income",
+                "concept": "NetInvestmentIncome",
+                "unit": "usd",
+                "value": 741303
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EIDX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 174821000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 174821000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development (includes related party expense (benefit) of $(129) and $(30) for the three months ended June 30, 2020 and 2019, respectively, and $(371) and $64 for the six months ended June 30, 2020 and 2019, respectively)",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 17924000
+            },
+            {
+                "label": "General and administrative (includes related party expense of $372 and $74 for the three months ended June 30, 2020 and 2019, respectively and $658 and $153 for the six months ended June 30, 2020 and 2019, respectively)",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 10317000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 28241000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 28241000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 604000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Net and comprehensive loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 28849000
+            },
+            {
+                "label": "Net loss per share - basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.75
+            },
+            {
+                "label": "Weighted-average shares used in computing net loss per share - basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 38291414
+            }
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WNC",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 12937000
+            },
+            {
+                "label": "Finance",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 2873000
+            },
+            {
+                "label": "Total leased ROU assets",
+                "concept": "wnc:OperatingLeaseandFinanceLeaseRightofUseAsset",
+                "unit": "usd",
+                "value": 15810000
+            },
+            {
+                "label": "Operating",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 4343000
+            },
+            {
+                "label": "Current portion of finance lease obligations",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 337000
+            },
+            {
+                "label": "Operating",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 8839000
+            },
+            {
+                "label": "Finance lease obligations",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 206000
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "wnc:OperatingLeaseandFinanceLeaseLiability",
+                "unit": "usd",
+                "value": 13725000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 146000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 318000
+            },
+            {
+                "label": "Unrealized gain (loss) on derivative instruments",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 2264000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2582000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2436000
+            }
+        ]
+    }
+}

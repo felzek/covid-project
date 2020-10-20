@@ -1,0 +1,387 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "ITI",
+    "data": {
+        "bs": [
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 74156000
+            },
+            {
+                "label": "Common Stock, Shares, Issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 40752000
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 74156000
+            },
+            {
+                "label": "Common Stock, Shares, Issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 40752000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 10348000
+            },
+            {
+                "label": "Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": 9930000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 418000
+            },
+            {
+                "label": "Operating Lease, Expense",
+                "concept": "OperatingLeaseExpense",
+                "unit": "usd",
+                "value": 361000
+            },
+            {
+                "label": "Deferred income tax expense (benefit)",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 185000
+            },
+            {
+                "label": "Share-based Compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 664000
+            },
+            {
+                "label": "Amortization of Intangible Assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 361000
+            },
+            {
+                "label": "Other Noncash Income (Expense)",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 4157000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period, net of the amount of revenue for work performed for which billing has not occurred, net of uncollectible accounts and excluding the portion taken into income, in the liability reflecting revenue yet to be earned for which cash or other forms of consideration was received or recorded as a receivable.",
+                "concept": "iti:IncreaseDecreaseInUnbilledReceivablesAndDeferredRevenueNet",
+                "unit": "usd",
+                "value": 1258000
+            },
+            {
+                "label": "Increase (Decrease) in Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 271000
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense and Other Assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 771000
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable and Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 3505000
+            },
+            {
+                "label": "The amount of operating lease liabilities",
+                "concept": "iti:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 349000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities, Continuing Operations",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 1770000
+            },
+            {
+                "label": "Cash Provided by (Used in) Operating Activities, Discontinued Operations",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": 2072000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 302000
+            },
+            {
+                "label": "Payments to Acquire Property, Plant, and Equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 252000
+            },
+            {
+                "label": "Payments to Acquire Short-term Investments",
+                "concept": "PaymentsToAcquireShortTermInvestments",
+                "unit": "usd",
+                "value": 19456000
+            },
+            {
+                "label": "Proceeds from Sale, Maturity and Collection of Short-term Investments",
+                "concept": "ProceedsFromSaleMaturityAndCollectionOfShorttermInvestments",
+                "unit": "usd",
+                "value": 6700000
+            },
+            {
+                "label": "Payments to Develop Software",
+                "concept": "PaymentsToDevelopSoftware",
+                "unit": "usd",
+                "value": 206000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities, Continuing Operations",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 13214000
+            },
+            {
+                "label": "Cash Provided by (Used in) Investing Activities, Discontinued Operations",
+                "concept": "CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": 9440000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 3774000
+            },
+            {
+                "label": "Proceeds from Stock Options Exercised",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 74000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities, Continuing Operations",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 74000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 74000
+            },
+            {
+                "label": "Cash and Cash Equivalents, Period Increase (Decrease)",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 4002000
+            },
+            {
+                "label": "Income Taxes Paid, Net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "The amount of closing working capital receivable in noncash investing and financing activities.",
+                "concept": "iti:ClosingWorkingCapitalReceivable",
+                "unit": "usd",
+                "value": 250000
+            },
+            {
+                "label": "Supplemental Deferred Purchase Price",
+                "concept": "SupplementalDeferredPurchasePrice",
+                "unit": "usd",
+                "value": 1500000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue from Contract with Customer, Excluding Assessed Tax",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 28000000
+            },
+            {
+                "label": "Cost of Revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 17132000
+            },
+            {
+                "label": "Gross Profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 10868000
+            },
+            {
+                "label": "Selling, General and Administrative Expense.",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 8723000
+            },
+            {
+                "label": "Research and Development Expense.",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 914000
+            },
+            {
+                "label": "The aggregate expense charged against earnings to allocate the cost of intangible assets excluding capitalized software development costs and acquired data sets in a systematic and rational manner to the periods expected to benefit from such assets.",
+                "concept": "iti:AmortizationOfIntangibleAssetsLessCapitalizedSoftwareDevelopmentCostsAndAcquiredDataSets",
+                "unit": "usd",
+                "value": 230000
+            },
+            {
+                "label": "Restructuring Charges",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 619000
+            },
+            {
+                "label": "Operating Expenses.",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 10486000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 382000
+            },
+            {
+                "label": "Other Nonoperating Income (Expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Interest Income (Expense), Nonoperating, Net",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 54000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 452000
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 34000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 418000
+            },
+            {
+                "label": "Discontinued Operation, Income (Loss) from Discontinued Operation During Phase-out Period, Net of Tax",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationDuringPhaseOutPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1358000
+            },
+            {
+                "label": "Discontinued Operation, Gain (Loss) on Disposal of Discontinued Operation, Net of Tax",
+                "concept": "DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax",
+                "unit": "usd",
+                "value": 11288000
+            },
+            {
+                "label": "Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": 9930000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10348000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations, Per Basic Share",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.24
+            },
+            {
+                "label": "Earnings Per Share, Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.25
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations, Per Diluted Share",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.01
+            },
+            {
+                "label": "Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.24
+            },
+            {
+                "label": "Earnings Per Share, Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.25
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 40732
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 41507
+            }
+        ]
+    }
+}

@@ -1,0 +1,428 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "GBLX",
+    "data": {
+        "bs": [],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1846700
+            },
+            {
+                "label": "Loss from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperations",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -1846700
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 13028
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Bad debt expense/(recovery)",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": -3728
+            },
+            {
+                "label": "Amortization of debt discount and beneficial conversion feature",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 510885
+            },
+            {
+                "label": "Interest expense on conversion of notes payable",
+                "concept": "InterestExpenseDebtExcludingAmortization",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Default penalty on convertible note payable",
+                "concept": "gblx:DefaultPenatlyOnConvertibleNotePayable",
+                "unit": "usd",
+                "value": 286059
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 70814
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -3828
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInDepositOtherAssets",
+                "concept": "IncreaseDecreaseInDepositOtherAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -64602
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 72280
+            },
+            {
+                "label": "gblx_IncreaseDecreaseInAccruedLiabilitiesExcludingInterestPayable",
+                "concept": "gblx:IncreaseDecreaseInAccruedLiabilitiesExcludingInterestPayable",
+                "unit": "usd",
+                "value": 264662
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInterestPayableNet",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 247549
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 8840
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInDueToRelatedParties",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": 125664
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -323845
+            },
+            {
+                "label": "Net cash used in operating activities of discontinued operations",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -323845
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireIntangibleAssets",
+                "concept": "PaymentsToAcquireIntangibleAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in investing activities of discontinued operations",
+                "concept": "CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from warrant exercises",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": 151202
+            },
+            {
+                "label": "Proceeds from convertible notes payable",
+                "concept": "ProceedsFromConvertibleDebt",
+                "unit": "usd",
+                "value": 150000
+            },
+            {
+                "label": "Proceeds from line of credit",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "us-gaap_PaymentsOfDebtIssuanceCosts",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsOfStockIssuanceCosts",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 15121
+            },
+            {
+                "label": "us-gaap_RepaymentsOfLongTermDebtAndCapitalSecurities",
+                "concept": "RepaymentsOfLongTermDebtAndCapitalSecurities",
+                "unit": "usd",
+                "value": 17772
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 273309
+            },
+            {
+                "label": "Net cash used in financing activities of discontinued operations",
+                "concept": "CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 273309
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -50536
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash paid for income tax",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Depreciation capitalized in inventory",
+                "concept": "gblx:DepreciationCapitalizedInInventory",
+                "unit": "usd",
+                "value": 164654
+            },
+            {
+                "label": "Property capitalized under operating leases",
+                "concept": "gblx:PropertyCapitalizedUnderOperatingLeases",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Patent filing and drafting costs capitalized in intangible assets",
+                "concept": "gblx:PatentFilingAndDraftingCostsCapitalizedInIntangibleAssets",
+                "unit": "usd",
+                "value": 78226
+            },
+            {
+                "label": "Discount on convertible notes payable attributable to warrant modification",
+                "concept": "gblx:DebtConversionDiscountAttributableToWarrantModification",
+                "unit": "usd",
+                "value": 150000
+            },
+            {
+                "label": "Stock issued upon conversion of long-term note payable",
+                "concept": "DebtConversionConvertedInstrumentAmount1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Induced dividend from warrant exercises",
+                "concept": "gblx:InducedDividendFromExerciseOfWarrants",
+                "unit": "usd",
+                "value": 17263
+            },
+            {
+                "label": "Cumulative effect of the new lease standard",
+                "concept": "gblx:CumulativeEffectOfNewLeaseStandard",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Sales revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 551197
+            },
+            {
+                "label": "us-gaap_CostOfRevenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 491795
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 59402
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 804708
+            },
+            {
+                "label": "LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -745306
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 795313
+            },
+            {
+                "label": "gblx_DebtDefaultPenalty",
+                "concept": "gblx:DebtDefaultPenalty",
+                "unit": "usd",
+                "value": 286059
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -11182
+            },
+            {
+                "label": "Total other expense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -1092554
+            },
+            {
+                "label": "LOSS BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1837860
+            },
+            {
+                "label": "us-gaap_IncomeTaxExpenseBenefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 8840
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1846700
+            },
+            {
+                "label": "Loss from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1846700
+            },
+            {
+                "label": "Loss attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1846700
+            },
+            {
+                "label": "Continuing operations",
+                "concept": "NetIncomeLossFromContinuingOperationsAvailableToCommonShareholdersBasic",
+                "unit": "usd",
+                "value": -1846700
+            },
+            {
+                "label": "Discontinued operations",
+                "concept": "NetIncomeLossFromDiscontinuedOperationsAvailableToCommonShareholdersBasic",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -1846700
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_EarningsPerShareBasicAndDiluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Weighted average common shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 277968516
+            }
+        ]
+    }
+}

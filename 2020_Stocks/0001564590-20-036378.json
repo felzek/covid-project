@@ -1,0 +1,122 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EEX",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 218600000.0
+            },
+            {
+                "label": "Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 218600000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 7000000.0
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 48200000.0
+            },
+            {
+                "label": "Cost of revenue net of cancellation adjustments.",
+                "concept": "eex:CostOfRevenueNetOfCancellationAdjustments",
+                "unit": "usd",
+                "value": 800000.0
+            },
+            {
+                "label": "Selling, general and administrative expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 25100000.0
+            },
+            {
+                "label": "Depreciation and amortization expense",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 12200000.0
+            },
+            {
+                "label": "Goodwill impairment charges",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 18700000.0
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 5600000.0
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 13100000.0
+            },
+            {
+                "label": "Provision for (benefit from) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 3200000.0
+            },
+            {
+                "label": "Net income loss and comprehensive income loss.",
+                "concept": "eex:NetIncomeLossAndComprehensiveIncomeLoss",
+                "unit": "usd",
+                "value": 9900000.0
+            },
+            {
+                "label": "Net income loss and comprehensive income loss attributable to common shareholders.",
+                "concept": "eex:NetIncomeLossAndComprehensiveIncomeLossAttributableToCommonShareholders",
+                "unit": "usd",
+                "value": 9600000.0
+            },
+            {
+                "label": "Basic earnings (loss) per share",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.13
+            },
+            {
+                "label": "Diluted earnings (loss) per share",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.13
+            },
+            {
+                "label": "Basic weighted average common shares outstanding",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 71444000
+            },
+            {
+                "label": "Diluted weighted average common shares outstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 71470000
+            }
+        ]
+    }
+}

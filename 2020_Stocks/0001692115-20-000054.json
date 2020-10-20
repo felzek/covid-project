@@ -1,0 +1,338 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SWX",
+    "data": {
+        "bs": [
+            {
+                "label": "Gas plant",
+                "concept": "swx:PublicUtilitiesPropertyPlantandEquipmentGasPlant",
+                "unit": "usd",
+                "value": 8086597000
+            },
+            {
+                "label": "Less: accumulated depreciation",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 2367836000
+            },
+            {
+                "label": "Construction work in progress",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentConstructionWorkInProgress",
+                "unit": "usd",
+                "value": 217616000
+            },
+            {
+                "label": "Net utility plant",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 5936377000
+            },
+            {
+                "label": "Other property and investments",
+                "concept": "swx:OtherPropertyAndInvestments",
+                "unit": "usd",
+                "value": 809111000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 199591000
+            },
+            {
+                "label": "Accounts receivable, net of allowances",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 480077000
+            },
+            {
+                "label": "Accrued utility revenue",
+                "concept": "swx:AccruedUtilityRevenue",
+                "unit": "usd",
+                "value": 35800000
+            },
+            {
+                "label": "Income taxes receivable, net",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 4077000
+            },
+            {
+                "label": "Deferred purchased gas costs",
+                "concept": "DeferredGasCost",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 147655000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 867200000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 337978000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 632000
+            },
+            {
+                "label": "Deferred charges and other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 474737000
+            },
+            {
+                "label": "Total noncurrent assets",
+                "concept": "AssetsNoncurrentOtherThanNoncurrentInvestmentsAndPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 813347000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8426035000
+            },
+            {
+                "label": "Common stock, $1 par (authorized - 120,000,000 shares; issued and outstanding - 55,909,903 and 55,007,433 shares)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 57540000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1523630000
+            },
+            {
+                "label": "Accumulated other comprehensive loss, net",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 55617000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1085742000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2611295000
+            },
+            {
+                "label": "Redeemable noncontrolling interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 86921000
+            },
+            {
+                "label": "Long-term debt, less current maturities",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 2639317000
+            },
+            {
+                "label": "Total capitalization",
+                "concept": "CapitalizationLongtermDebtAndEquity",
+                "unit": "usd",
+                "value": 5337533000
+            },
+            {
+                "label": "Current maturities of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 171668000
+            },
+            {
+                "label": "Short-term debt",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 58000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 189373000
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 69898000
+            },
+            {
+                "label": "Income taxes payable, net",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued general taxes",
+                "concept": "AccrualForTaxesOtherThanIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 48220000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 21525000
+            },
+            {
+                "label": "Deferred purchased gas costs",
+                "concept": "DeferredGasPurchasesCurrent",
+                "unit": "usd",
+                "value": 69938000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 289395000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 918017000
+            },
+            {
+                "label": "Deferred income taxes and investment tax credits, net",
+                "concept": "swx:DeferredIncomeTaxesAndUnamortizedInvestmentTaxCredits",
+                "unit": "usd",
+                "value": 631388000
+            },
+            {
+                "label": "Accumulated removal costs",
+                "concept": "OtherAccruedLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 401000000
+            },
+            {
+                "label": "Other deferred credits and other long-term liabilities",
+                "concept": "DeferredCreditsAndOtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1138097000
+            },
+            {
+                "label": "Total deferred income taxes and other credits",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 2170485000
+            },
+            {
+                "label": "Total capitalization and liabilities",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 8426035000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 39881000
+            },
+            {
+                "label": "Net actuarial loss",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of prior service cost",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 220000
+            },
+            {
+                "label": "Amortization of net actuarial loss",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 7187000
+            },
+            {
+                "label": "Prior service cost",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostsCreditArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Regulatory adjustment",
+                "concept": "swx:OtherComprehensiveIncomeDefinedBenefitPlansRegulatoryAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6380000
+            },
+            {
+                "label": "Net defined benefit pension plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1027000
+            },
+            {
+                "label": "Amounts reclassified into net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 635000
+            },
+            {
+                "label": "Net forward-starting interest rate swaps",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 635000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1794000
+            },
+            {
+                "label": "Total other comprehensive income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3456000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 43337000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1916000
+            },
+            {
+                "label": "Comprehensive income attributable to Southwest Gas Holdings, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 41421000
+            }
+        ]
+    }
+}

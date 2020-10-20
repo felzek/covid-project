@@ -1,0 +1,303 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "MCFT",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH AND CASH EQUIVALENTS \u2014 BEGINNING OF PERIOD",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 16319000
+            },
+            {
+                "label": "CASH AND CASH EQUIVALENTS \u2014 BEGINNING OF PERIOD",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 16319000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -24047000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 10527000
+            },
+            {
+                "label": "Share-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1061000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": -9840000
+            },
+            {
+                "label": "Noncash change in the unrecognized tax expense (benefit) during the period. Excludes changes in deferred tax expense (benefit).",
+                "concept": "mcft:UnrecognizedTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 788000
+            },
+            {
+                "label": "Amortization of debt issuance costs",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 572000
+            },
+            {
+                "label": "Goodwill and other intangible asset impairment",
+                "concept": "GoodwillAndIntangibleAssetImpairment",
+                "unit": "usd",
+                "value": 56437000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -6291000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -4752000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -695000
+            },
+            {
+                "label": "Income tax receivable",
+                "concept": "IncreaseDecreaseInIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 3973000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -6874000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in accrued expenses and other liabilities that are due within one year or within the normal operating cycle if longer.",
+                "concept": "mcft:IncreaseDecreaseInAccruedExpensesAndOtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": -5527000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": -664000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 30198000
+            },
+            {
+                "label": "Purchases of property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 14241000
+            },
+            {
+                "label": "Proceeds from disposal of property, plant and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -14218000
+            },
+            {
+                "label": "Principal payments on long-term debt",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 15357000
+            },
+            {
+                "label": "Borrowings on revolving credit facility",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 35000000
+            },
+            {
+                "label": "Principal payments on revolving credit facility",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 25000000
+            },
+            {
+                "label": "Proceeds from issuance of insurance premium financing.",
+                "concept": "mcft:ProceedsFromIssuanceOfInsurancePremiumFinancing",
+                "unit": "usd",
+                "value": 1130000
+            },
+            {
+                "label": "Principal payments on insurance premium financing.",
+                "concept": "mcft:PrincipalPaymentsOnInsurancePremiumFinancing",
+                "unit": "usd",
+                "value": 468000
+            },
+            {
+                "label": "Other, net",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -792000
+            },
+            {
+                "label": "Net cash provided (used) by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -5487000
+            },
+            {
+                "label": "NET CHANGE IN CASH AND CASH EQUIVALENTS",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 10493000
+            },
+            {
+                "label": "Cash payments for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 4841000
+            },
+            {
+                "label": "Cash payments for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 6146000
+            },
+            {
+                "label": "Capital expenditures in accounts payable and accrued expenses",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 318000
+            }
+        ],
+        "ic": [
+            {
+                "label": "NET SALES",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 363073000
+            },
+            {
+                "label": "COST OF SALES",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 287717000
+            },
+            {
+                "label": "GROSS PROFIT",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 75356000
+            },
+            {
+                "label": "Selling and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 15981000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 25557000
+            },
+            {
+                "label": "Amortization of other intangible assets.",
+                "concept": "mcft:AmortizationOfOtherIntangibleAssets",
+                "unit": "usd",
+                "value": 3948000
+            },
+            {
+                "label": "Goodwill and other intangible asset impairment",
+                "concept": "GoodwillAndIntangibleAssetImpairment",
+                "unit": "usd",
+                "value": 56437000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 101923000
+            },
+            {
+                "label": "OPERATING INCOME (LOSS)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -26567000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 5045000
+            },
+            {
+                "label": "INCOME (LOSS) BEFORE INCOME TAX EXPENSE (BENEFIT)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -31612000
+            },
+            {
+                "label": "INCOME TAX EXPENSE (BENEFIT)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -7565000
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -24047000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -1.28
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -1.28
+            },
+            {
+                "label": "Basic earnings (loss) per share",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 18734482
+            },
+            {
+                "label": "Diluted earnings (loss) per share",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 18734482
+            }
+        ]
+    }
+}

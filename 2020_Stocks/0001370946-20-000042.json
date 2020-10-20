@@ -1,0 +1,230 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "OC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 582000000
+            },
+            {
+                "label": "Receivables, less allowances of $10 at June 30, 2020 and $11 at December 31, 2019",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 986000000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 951000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 85000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 2604000000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 3716000000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 168000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 966000000
+            },
+            {
+                "label": "Intangible assets",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 1650000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 32000000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 234000000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 9370000000
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1393000000
+            },
+            {
+                "label": "Long-term debt, net of current portion",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 3314000000
+            },
+            {
+                "label": "Pension plan liability",
+                "concept": "DefinedBenefitPensionPlanLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 208000000
+            },
+            {
+                "label": "Other employee benefits liability",
+                "concept": "OtherPostretirementDefinedBenefitPlanLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 173000000
+            },
+            {
+                "label": "Non-current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 111000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 304000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 204000000
+            },
+            {
+                "label": "Preferred stock, par value $0.01 per share",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $0.01 per share",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 4054000000
+            },
+            {
+                "label": "Accumulated earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1445000000
+            },
+            {
+                "label": "Accumulated other comprehensive deficit",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 675000000
+            },
+            {
+                "label": "Cost of common stock in treasury",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 1201000000
+            },
+            {
+                "label": "Total Owens Corning stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3624000000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 39000000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3663000000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 9370000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET EARNINGS (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 95000000
+            },
+            {
+                "label": "Currency translation adjustment (net of tax of $(9) and $2 for the three months ended June 30, 2020 and 2019, respectively, and $1 and $(1) for the six months ended June 30, 2020 and 2019, respectively)",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 53000000
+            },
+            {
+                "label": "Pension and other postretirement adjustment (net of tax of $0 for both the three months ended June 30, 2020 and 2019, and $0 for both the six months ended June 30, 2020 and 2019)",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Hedging adjustment (net of tax of $0 for both the three months ended June 30, 2020 and 2019, and $0 and $1 for the six months ended June 30, 2020 and 2019, respectively)",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "COMPREHENSIVE EARNINGS (LOSS)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 146000000
+            },
+            {
+                "label": "Comprehensive loss attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "COMPREHENSIVE EARNINGS (LOSS) ATTRIBUTABLE TO OWENS CORNING",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 147000000
+            }
+        ]
+    }
+}

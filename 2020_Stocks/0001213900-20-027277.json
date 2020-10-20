@@ -1,0 +1,134 @@
+{
+    "startDate": "2019-05-01",
+    "endDate": "2020-04-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "GSHN",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15600
+            },
+            {
+                "label": "Notes payable -related party",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 16534
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 32134
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, par value $0.0001, 200,000,000 shares authorized, 10,000,000 shares and zero shares issued and outstanding as of April 30, 2020 and 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Common stock, Par Value $0.0001, 600,000,000 shares authorized, 29,018,750 and 29,018,750 shares issued and outstanding as of April 30, 2020 and 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2902
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 122948
+            },
+            {
+                "label": "Retained earnings (deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -158984
+            },
+            {
+                "label": "Total Stockholders\u2019 (Deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -32134
+            },
+            {
+                "label": "Total Liabilities and Stockholders\u2019 (Equity)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Administrative expenses -related party",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 16534
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 26534
+            },
+            {
+                "label": "(Loss) from operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": -26534
+            },
+            {
+                "label": "Other (expense) net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -26534
+            },
+            {
+                "label": "Basic and diluted (loss) per common share (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Weighted average number of shares outstanding (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 29018750
+            }
+        ]
+    }
+}

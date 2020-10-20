@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SUI",
+    "data": {
+        "bs": [
+            {
+                "label": "Notes and other receivables, net",
+                "concept": "AccountsAndNotesReceivableNet",
+                "unit": "usd",
+                "value": 180391000
+            },
+            {
+                "label": "Notes Receivable, Fair Value Disclosure",
+                "concept": "NotesReceivableFairValueDisclosure",
+                "unit": "usd",
+                "value": 40700000.0
+            },
+            {
+                "label": "Secured Debt",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 3205507000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 63355000
+            },
+            {
+                "label": "Foreign currency translation gain / (loss) adjustment",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 3872000
+            },
+            {
+                "label": "Total Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 67227000
+            },
+            {
+                "label": "Less: Comprehensive Income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2883000
+            },
+            {
+                "label": "Comprehensive Income attributable to Sun Communities, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 64344000
+            }
+        ]
+    }
+}

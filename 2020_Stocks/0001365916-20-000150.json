@@ -1,0 +1,332 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AMRS",
+    "data": {
+        "bs": [
+            {
+                "label": "2020 (remaining six months), finance leases",
+                "concept": "FinanceLeaseLiabilityPaymentsRemainderOfFiscalYear",
+                "unit": "usd",
+                "value": 2185000
+            },
+            {
+                "label": "2021, finance leases",
+                "concept": "FinanceLeaseLiabilityPaymentsDueNextTwelveMonths",
+                "unit": "usd",
+                "value": 4566000
+            },
+            {
+                "label": "2022, financing leases",
+                "concept": "FinanceLeaseLiabilityPaymentsDueYearTwo",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "2023, financing leases",
+                "concept": "FinanceLeaseLiabilityPaymentsDueYearThree",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "2024, financing leases",
+                "concept": "FinanceLeaseLiabilityPaymentsDueYearFour",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total lease payments, financing leases",
+                "concept": "FinanceLeaseLiabilityPaymentsDue",
+                "unit": "usd",
+                "value": 6751000
+            },
+            {
+                "label": "Less: amount representing interest",
+                "concept": "FinanceLeaseLiabilityUndiscountedExcessAmount",
+                "unit": "usd",
+                "value": 841000
+            },
+            {
+                "label": "Total lease liability, financing leases",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 5910000
+            },
+            {
+                "label": "Financing lease liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 3605000
+            },
+            {
+                "label": "Financing lease liabilities, net of current portion",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2305000
+            },
+            {
+                "label": "2020 (remaining six months), operating leases",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsRemainderOfFiscalYear",
+                "unit": "usd",
+                "value": 3918000
+            },
+            {
+                "label": "2021, operating leases",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths",
+                "unit": "usd",
+                "value": 7478000
+            },
+            {
+                "label": "2022, operating leases",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueYearTwo",
+                "unit": "usd",
+                "value": 7654000
+            },
+            {
+                "label": "2023, operating leases",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueYearThree",
+                "unit": "usd",
+                "value": 3318000
+            },
+            {
+                "label": "2024, operating leases",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDueYearFour",
+                "unit": "usd",
+                "value": 152000
+            },
+            {
+                "label": "Total lease payments, operating leases",
+                "concept": "LesseeOperatingLeaseLiabilityPaymentsDue",
+                "unit": "usd",
+                "value": 22520000
+            },
+            {
+                "label": "Less: amount representing interest",
+                "concept": "LesseeOperatingLeaseLiabilityUndiscountedExcessAmount",
+                "unit": "usd",
+                "value": 5170000
+            },
+            {
+                "label": "Operating lease liability",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 17400000.0
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 4893000
+            },
+            {
+                "label": "Operating lease liabilities, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 12457000
+            },
+            {
+                "label": "2020 (remaining six months), total leases",
+                "concept": "amrs:LeaseLiabilityPaymentsRemainderofFiscalYear",
+                "unit": "usd",
+                "value": 6103000
+            },
+            {
+                "label": "2021, total leases",
+                "concept": "amrs:LeaseLiabilityPaymentsYearOne",
+                "unit": "usd",
+                "value": 12044000
+            },
+            {
+                "label": "2022, total leases",
+                "concept": "amrs:LeaseLiabilityPaymentsDueYearTwo",
+                "unit": "usd",
+                "value": 7654000
+            },
+            {
+                "label": "2023, total leases",
+                "concept": "amrs:LeaseLiabilityPaymentsDueYearThree",
+                "unit": "usd",
+                "value": 3318000
+            },
+            {
+                "label": "2024, total leases",
+                "concept": "amrs:LeaseLiabilityPaymentsDueYearFour",
+                "unit": "usd",
+                "value": 152000
+            },
+            {
+                "label": "Total lease payments, total leases",
+                "concept": "amrs:LeaseLiabilityPaymentDue",
+                "unit": "usd",
+                "value": 29271000
+            },
+            {
+                "label": "Less: amount representing interest",
+                "concept": "amrs:LeaseLiabilityUndiscountedExcessAmount",
+                "unit": "usd",
+                "value": 6011000
+            },
+            {
+                "label": "Total lease liability, total leases",
+                "concept": "amrs:OperatingandFinanceLeaseLiabilities",
+                "unit": "usd",
+                "value": 23260000
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "amrs:OperatingandFinanceLeaseLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8498000
+            },
+            {
+                "label": "Lease liabilities, net of current portion",
+                "concept": "amrs:OperatingandFinanceLeaseLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 14762000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 30005000
+            },
+            {
+                "label": "Cost of products sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 23098000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 16965000
+            },
+            {
+                "label": "Sales, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 30503000
+            },
+            {
+                "label": "Total cost and operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 70566000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 40561000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 20118000
+            },
+            {
+                "label": "Loss from change in fair value of derivative instruments",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 11779000
+            },
+            {
+                "label": "Loss from change in fair value of debt",
+                "concept": "amrs:DebtChangesinFairValueGainLoss",
+                "unit": "usd",
+                "value": 14949000
+            },
+            {
+                "label": "Loss upon extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 22029000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1497000
+            },
+            {
+                "label": "Total other expense, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 67378000
+            },
+            {
+                "label": "Loss before income taxes and loss from investment in affiliate",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 107939000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 99000
+            },
+            {
+                "label": "Loss from investment in affiliate",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 277000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 108315000
+            },
+            {
+                "label": "Less: income attributable to noncontrolling interest in Aprinnova",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2107000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 110422000
+            },
+            {
+                "label": "Less: deemed dividend related to proceeds discount and issuance costs upon conversion of Series D",
+                "concept": "amrs:DeemedDividendRelatedToProceedsDiscountAndIssuanceCostsUponConversionOfSeriesDPreferredStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Add: losses allocated to participating securities",
+                "concept": "UndistributedEarningsLossAllocatedToParticipatingSecuritiesBasic",
+                "unit": "usd",
+                "value": 6361000
+            },
+            {
+                "label": "Net loss attributable to Amyris, Inc. common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 104061000
+            },
+            {
+                "label": "Loss per share attributable to common stockholders, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.56
+            },
+            {
+                "label": "Weighted-average shares of common stock outstanding used in computing loss per share of common stock, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 184827330
+            }
+        ]
+    }
+}

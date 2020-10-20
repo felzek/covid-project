@@ -1,0 +1,266 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "ABCE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 781
+            },
+            {
+                "label": "Accounts receivable on completed projects",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 210738
+            },
+            {
+                "label": "Costs and estimated earnings on contracts in progress",
+                "concept": "CostsInExcessOfBillingsOnUncompletedContractsOrProgramsExpectedToBeCollectedWithinOneYear",
+                "unit": "usd",
+                "value": 104181
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 435904
+            },
+            {
+                "label": "Vehicles, office furniture & equipment \u2013 net of accumulated depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 352503
+            },
+            {
+                "label": "Investment in long term leases",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 4004
+            },
+            {
+                "label": "Total Other Assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 6704
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 795111
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 613783
+            },
+            {
+                "label": "Short term notes payable",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 403595
+            },
+            {
+                "label": "Excess billing on contracts in progress",
+                "concept": "BillingsInExcessOfCost",
+                "unit": "usd",
+                "value": 69945
+            },
+            {
+                "label": "Derivative liability on convertible debentures",
+                "concept": "ConvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 389181
+            },
+            {
+                "label": "Notes payable from officers",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 292820
+            },
+            {
+                "label": "Convertible debentures",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 453974
+            },
+            {
+                "label": "Current portion of long term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 16717
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "ConvertibleLongTermNotesPayable",
+                "unit": "usd",
+                "value": 2240015
+            },
+            {
+                "label": "Long term debt, net of current portion",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 296576
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, 100,000,000 shares authorized, $0.001 par value, and 30,000,000 shares issued and outstanding at March 31, 2020 and 30,000,000 at December 31, 2019.",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Common stock 5,000,000,000 shares authorized, $0.001 value, and 454,840,256 issued and outstanding at March 31, 2020 and 150,590,887 outstanding at December 31, 2019 respectively.",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 454840
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 4673463
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -6914283
+            },
+            {
+                "label": "Total Stockholders\u2019 Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -1741480
+            },
+            {
+                "label": "Total Liabilities and Stockholders\u2019 Deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 795111
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Cost of Sales",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 214170
+            },
+            {
+                "label": "Gross Profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 100622
+            },
+            {
+                "label": "Payroll",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 38213
+            },
+            {
+                "label": "Payroll taxes",
+                "concept": "TaxesExcludingIncomeAndExciseTaxes",
+                "unit": "usd",
+                "value": 13171
+            },
+            {
+                "label": "Consulting expense",
+                "concept": "ProfessionalAndContractServicesExpense",
+                "unit": "usd",
+                "value": 19510
+            },
+            {
+                "label": "Corporate expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 8940
+            },
+            {
+                "label": "Insurance",
+                "concept": "GeneralInsuranceExpense",
+                "unit": "usd",
+                "value": 6362
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 13529
+            },
+            {
+                "label": "Rent",
+                "concept": "LeaseAndRentalExpense",
+                "unit": "usd",
+                "value": 8915
+            },
+            {
+                "label": "Other selling and administrative expenses",
+                "concept": "OtherSellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 51539
+            },
+            {
+                "label": "Total operating expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 160179
+            },
+            {
+                "label": "Interest on notes payable",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 3080
+            },
+            {
+                "label": "Change in derivative Gain (Loss)",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": -290137
+            },
+            {
+                "label": "Total other expenses",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -293217
+            },
+            {
+                "label": "Net income (Loss) before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -352774
+            },
+            {
+                "label": "Provision for income tax",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -352774
+            },
+            {
+                "label": "Weighted average number of common shares used in the calculation (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 305215572
+            }
+        ]
+    }
+}

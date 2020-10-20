@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VTVT",
+    "data": {
+        "bs": [
+            {
+                "label": "Total cash, cash equivalents and restricted cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 6392000
+            },
+            {
+                "label": "Total cash, cash equivalents and restricted cash and cash equivalents, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 6392000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 2509000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1695000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 4204000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -4204000
+            },
+            {
+                "label": "The net amount of other related party income and expense amounts, the components of which are not separately disclosed on the income statement, resulting from ancillary business-related activities (that is, excluding major activities considered part of the normal operations of the business) also known as other nonoperating income (expense) recognized for the period. Such amounts may include: (a) dividends, (b) interest on securities, (c) net gains or losses on securities, (d) unusual costs, (e) gains or losses on foreign exchange transactions, and (f) miscellaneous other income and expense items.",
+                "concept": "vtvt:OtherIncomeExpensesRelatedParty",
+                "unit": "usd",
+                "value": -565000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 222000
+            },
+            {
+                "label": "Loss before income taxes and noncontrolling interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -4991000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net loss before noncontrolling interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -4991000
+            },
+            {
+                "label": "Less: net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1623000
+            },
+            {
+                "label": "Net loss attributable to vTv Therapeutics Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -3368000
+            },
+            {
+                "label": "Net loss attributable to vTv Therapeutics Inc. common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -3368000
+            }
+        ]
+    }
+}

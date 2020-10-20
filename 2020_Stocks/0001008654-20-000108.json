@@ -1,0 +1,230 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TUP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 120000000.0
+            },
+            {
+                "label": "Accounts receivable, less allowances of $65.8 and $63.6, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 117200000.0
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 216100000.0
+            },
+            {
+                "label": "Non-trade amounts receivable, net",
+                "concept": "NontradeReceivablesCurrent",
+                "unit": "usd",
+                "value": 39000000.0
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 21300000.0
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 513600000.0
+            },
+            {
+                "label": "Deferred Income Tax Assets, Net",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 187800000.0
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 242100000.0
+            },
+            {
+                "label": "Operating lease assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 79200000.0
+            },
+            {
+                "label": "Long-term receivables, less allowances of $13.8 and $13.9, respectively",
+                "concept": "AccountsReceivableNetNoncurrent",
+                "unit": "usd",
+                "value": 13900000.0
+            },
+            {
+                "label": "Trademarks and tradenames, net",
+                "concept": "tup:TrademarksandTradenamesNet",
+                "unit": "usd",
+                "value": 22600000.0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 56000000.0
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 79100000.0
+            },
+            {
+                "label": "Total identifiable assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1194300000.0
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 92600000.0
+            },
+            {
+                "label": "Short-term borrowings and current portion of long-term debt and finance lease obligations",
+                "concept": "DebtCurrent",
+                "unit": "usd",
+                "value": 801500000.0
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 350300000.0
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1244400000.0
+            },
+            {
+                "label": "Long-term debt and finance lease obligations",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 2100000.0
+            },
+            {
+                "label": "Operating Lease, Liability, Noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 52300000.0
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 177800000.0
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1476600000.0
+            },
+            {
+                "label": "Preferred stock, $0.01 par value, 200,000,000 shares authorized; none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 600,000,000 shares authorized; 63,607,090 shares issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 215200000.0
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1115000000.0
+            },
+            {
+                "label": "Treasury stock, 14,489,503 and 14,678,742 shares, respectively, at cost",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 909600000.0
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 703500000.0
+            },
+            {
+                "label": "Total shareholders' equity (deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 282300000.0
+            },
+            {
+                "label": "Total liabilities and shareholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1194300000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 63800000.0
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 22800000.0
+            },
+            {
+                "label": "Deferred gain (loss) on cash flow hedges, net of tax benefit (provision) of $0.0, ($0.1), $0.0 and $0.5, respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 5600000.0
+            },
+            {
+                "label": "Pension and other post-retirement benefit (costs), net of tax benefit (provision) of $0.3, $0.2, ($0.5) and $0.1, respectively",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 16300000.0
+            },
+            {
+                "label": "Total comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 80100000.0
+            }
+        ]
+    }
+}

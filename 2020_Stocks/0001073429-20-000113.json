@@ -1,0 +1,176 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "USCR",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 70300000.0
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 109600000.0
+            },
+            {
+                "label": "Total lease assets",
+                "concept": "uscr:LeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 179900000.0
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 13700000.0
+            },
+            {
+                "label": "Current maturities of long-term debt",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 24300000.0
+            },
+            {
+                "label": "Long-term operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 59800000.0
+            },
+            {
+                "label": "Long-term debt, net of current maturities",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 60600000.0
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "uscr:LeaseLiability",
+                "unit": "usd",
+                "value": 158400000.0
+            },
+            {
+                "label": "Accumulated amortization",
+                "concept": "uscr:FinanceLeaseRightOfUseAssetAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 36500000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 322700000.0
+            },
+            {
+                "label": "Cost of goods sold before depreciation, depletion and amortization",
+                "concept": "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 250100000.0
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 31700000.0
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 25200000.0
+            },
+            {
+                "label": "Change in value of contingent consideration",
+                "concept": "BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1",
+                "unit": "usd",
+                "value": 5800000.0
+            },
+            {
+                "label": "Loss (gain) on sale/disposal of assets, net",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 21600000.0
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 11400000.0
+            },
+            {
+                "label": "Other income, net",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 10800000.0
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 4300000.0
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 6500000.0
+            },
+            {
+                "label": "Less: Net income (loss) attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Net income (loss) attributable to U.S. Concrete",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6600000.0
+            },
+            {
+                "label": "Basic earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.39
+            },
+            {
+                "label": "Diluted earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.39
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 16600000.000000002
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 16600000.000000002
+            }
+        ]
+    }
+}

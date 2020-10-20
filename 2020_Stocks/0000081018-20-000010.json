@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PSCO",
+    "data": {
+        "bs": [
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableGrossCurrent",
+                "unit": "usd",
+                "value": 308200000.0
+            },
+            {
+                "label": "Less allowance for bad debts",
+                "concept": "AllowanceForDoubtfulAccountsReceivableCurrent",
+                "unit": "usd",
+                "value": 23900000.0
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 284300000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 108100000.0
+            },
+            {
+                "label": "Reclassification of loss to net income, net of tax of $0.1, $0.1, $0.2, and $0.2, respectively",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI on Derivatives, Tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesTax",
+                "unit": "usd",
+                "value": 100000.0
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 108400000.0
+            }
+        ]
+    }
+}

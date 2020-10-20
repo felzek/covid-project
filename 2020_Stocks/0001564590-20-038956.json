@@ -1,0 +1,152 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "WWD",
+    "data": {
+        "bs": [
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1909766000
+            },
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Treasury stock, shares",
+                "concept": "TreasuryStockShares",
+                "unit": "shares",
+                "value": 10610000
+            },
+            {
+                "label": "Number of shares of company stock, issued to a rabbi trust set up specifically to accumulate stock or other investments for the purpose of deferring taxable income to participating employees until the stock or other investments are distributed to the participating employees.",
+                "concept": "wwd:TreasuryStockDeferredCompensationShares",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1909766000
+            },
+            {
+                "label": "Common stock, shares issued",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Treasury stock, shares",
+                "concept": "TreasuryStockShares",
+                "unit": "shares",
+                "value": 10610000
+            },
+            {
+                "label": "Number of shares of company stock, issued to a rabbi trust set up specifically to accumulate stock or other investments for the purpose of deferring taxable income to participating employees until the stock or other investments are distributed to the participating employees.",
+                "concept": "wwd:TreasuryStockDeferredCompensationShares",
+                "unit": "shares",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 38465000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 11067000
+            },
+            {
+                "label": "Current period adjustment in other comprehensive income reflecting gains or losses on foreign currency transactions that are designated as, and are effective as, hedges of a net investment in a foreign entity.",
+                "concept": "wwd:TranslationAdjustmentForNetInvestmentHedgeIncreaseDecreaseGross",
+                "unit": "usd",
+                "value": 792000
+            },
+            {
+                "label": "Taxes on changes in foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTranslationAdjustmentTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 213000
+            },
+            {
+                "label": "Foreign currency translation and transactions adjustments, net of tax",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 10062000
+            },
+            {
+                "label": "Unrealized (loss) gain on fair value adjustment of derivative instruments (Note 8)",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 26011000
+            },
+            {
+                "label": "Reclassification of net realized (gain) loss on derivatives to earnings (Note 8)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesBeforeTax",
+                "unit": "usd",
+                "value": 22649000
+            },
+            {
+                "label": "Taxes on changes in derivative transactions",
+                "concept": "OtherComprehensiveIncomeDerivativesQualifyingAsHedgesTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1025000
+            },
+            {
+                "label": "Derivative adjustments, net of tax",
+                "concept": "OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 47635000
+            },
+            {
+                "label": "Net prior service cost",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditBeforeTax",
+                "unit": "usd",
+                "value": 240000
+            },
+            {
+                "label": "Net loss",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax",
+                "unit": "usd",
+                "value": 627000
+            },
+            {
+                "label": "The amount of increase or decrease in amounts recognized in other comprehensive income (but not yet recognized in net periodic benefit cost) for defined benefit plans attributed to foreign currency changes. The effects of foreign currency exchange rate changes that are to be disclosed are those applicable to plans of a foreign operation whose functional currency is not the reporting currency.",
+                "concept": "wwd:OtherComprehensiveIncomeDefinedBenefitPlansForeignCurrencyExchangeRateChanges",
+                "unit": "usd",
+                "value": 101000
+            },
+            {
+                "label": "Taxes on changes in pension and other postretirement benefit plan liability adjustments, net of foreign currency exchange rate changes",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 192000
+            },
+            {
+                "label": "Pension and other postretirement benefit plan adjustments, net of tax",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 574000
+            },
+            {
+                "label": "Total comprehensive earnings",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1466000
+            }
+        ]
+    }
+}

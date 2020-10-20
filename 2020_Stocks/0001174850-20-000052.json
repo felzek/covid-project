@@ -1,0 +1,260 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NCBS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 66870000
+            },
+            {
+                "label": "Interest-earning deposits",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 755814000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 822684000
+            },
+            {
+                "label": "Certificates of deposit in other banks",
+                "concept": "ncbs:TimeDepositInOtherBanks",
+                "unit": "usd",
+                "value": 17809000
+            },
+            {
+                "label": "Securities available for sale (\u201cAFS\u201d), at fair value",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 510809000
+            },
+            {
+                "label": "Other investments",
+                "concept": "OtherInvestments",
+                "unit": "usd",
+                "value": 26375000
+            },
+            {
+                "label": "Loans held for sale",
+                "concept": "LoansReceivableHeldForSaleAmount",
+                "unit": "usd",
+                "value": 21832000
+            },
+            {
+                "label": "Loans",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 2821501000
+            },
+            {
+                "label": "Allowance for credit losses - loans (\u201cACL-Loans\u201d)",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 29130000
+            },
+            {
+                "label": "Loans, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 2792371000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 59896000
+            },
+            {
+                "label": "Bank owned life insurance (\u201cBOLI\u201d)",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 78953000
+            },
+            {
+                "label": "Goodwill and other intangibles, net",
+                "concept": "IntangibleAssetsNetIncludingGoodwill",
+                "unit": "usd",
+                "value": 164094000
+            },
+            {
+                "label": "Accrued interest receivable and other assets",
+                "concept": "InterestReceivableAndOtherAssets",
+                "unit": "usd",
+                "value": 46405000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4541228000
+            },
+            {
+                "label": "Noninterest-bearing demand deposits",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 1087884000
+            },
+            {
+                "label": "Interest-bearing deposits",
+                "concept": "InterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 2449921000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 3537805000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Long-term borrowings",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 417826000
+            },
+            {
+                "label": "Accrued interest payable and other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 52744000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4008375000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValueOutstanding",
+                "unit": "usd",
+                "value": 104000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 301778000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 216863000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 13288000
+            },
+            {
+                "label": "Total Nicolet Bankshares, Inc. stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 532033000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 820000
+            },
+            {
+                "label": "Total stockholders\u2019 equity and noncontrolling interest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 532853000
+            },
+            {
+                "label": "Total liabilities, noncontrolling interest and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 4541228000
+            },
+            {
+                "label": "Preferred shares authorized (no par value) (in shares)",
+                "concept": "PreferredStockSharesAuthorized",
+                "unit": "shares",
+                "value": 10000000
+            },
+            {
+                "label": "Preferred shares issued and outstanding (in shares)",
+                "concept": "PreferredStockSharesIssued",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares authorized (par value $0.01 per share) (in shares)",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": 30000000
+            },
+            {
+                "label": "Common shares outstanding (in shares)",
+                "concept": "CommonStockSharesOutstanding",
+                "unit": "shares",
+                "value": 10424407
+            },
+            {
+                "label": "Common shares issued (in shares)",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 10443763
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 13579000
+            },
+            {
+                "label": "Net unrealized holding gains (losses)",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 7985000
+            },
+            {
+                "label": "Net realized (gains) losses included in income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 164000
+            },
+            {
+                "label": "Income tax (expense) benefit",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 2112000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 5709000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 19288000
+            }
+        ]
+    }
+}

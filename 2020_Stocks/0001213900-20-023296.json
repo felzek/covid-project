@@ -1,0 +1,116 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SGOU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, beginning of the period",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2248
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 19748
+            },
+            {
+                "label": "Related Party Accrued Shareholder Salary",
+                "concept": "AccruedSalariesCurrent",
+                "unit": "usd",
+                "value": 137500
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 140500
+            },
+            {
+                "label": "Common stock, $0.0001 par value; 75,000,000 shares authorized; 36,693,000 shares and 36,293,000 shares issued and outstanding as of June 30,2020 and December 31, 2019 respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3669
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 348261
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -120752
+            },
+            {
+                "label": "Total Liabilities and Stockholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 19748
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Commissions revenue",
+                "concept": "RevenuesExcludingInterestAndDividends",
+                "unit": "usd",
+                "value": 1100
+            },
+            {
+                "label": "General and administration expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4324
+            },
+            {
+                "label": "Related Party office rent, equipment rent and salary expense",
+                "concept": "EquipmentExpense",
+                "unit": "usd",
+                "value": 3450
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 7774
+            },
+            {
+                "label": "Net (loss) from operations before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+                "unit": "usd",
+                "value": -6674
+            },
+            {
+                "label": "Income tax",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -6674
+            },
+            {
+                "label": "Profit (Loss) per common share (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Weights average of shares outstanding (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 36693000
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-03-01",
+    "endDate": "2020-05-31",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SNX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1117149000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1117149000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 56960000
+            },
+            {
+                "label": "Change in unrealized gains (losses) of defined benefit plans, net of taxes of $0 for the three and six months ended May 31, 2020 and 2019",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized gains (losses) on cash flow hedges during the period, net of taxes of $6,210 and $16,174 for the three and six months ended May 31, 2020, respectively, and $10,288 and $15,884 for the three and six months ended May 31, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 24429000
+            },
+            {
+                "label": "Reclassification of net (gains) losses on cash flow hedges to net income, net of tax expense (benefit) of ($904) and ($557) for the three and six months ended May 31, 2020, respectively, and $1,231 and $2,120 for three and six months ended May 31, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 2833000
+            },
+            {
+                "label": "Total change in unrealized gains (losses) on cash flow hedges, net of taxes",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 21596000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of taxes of $148 and $294 for the three and six months ended May 31, 2020, respectively, and $174 and ($24) for the three and six months ended May 31, 2019, respectively",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 61723000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 83319000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 26359000
+            }
+        ]
+    }
+}

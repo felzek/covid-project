@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "IBTX",
+    "data": {
+        "bs": [
+            {
+                "label": "Outstanding balance",
+                "concept": "CertainLoansAcquiredInTransferNotAccountedForAsDebtSecuritiesOutstandingBalance",
+                "unit": "usd",
+                "value": 277043000
+            },
+            {
+                "label": "Carrying amount",
+                "concept": "CertainLoansAcquiredInTransferNotAccountedForAsDebtSecuritiesCarryingAmountNet",
+                "unit": "usd",
+                "value": 249661000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 38693000
+            },
+            {
+                "label": "Change in net unrealized gains on available for sale securities during the year",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 9852000
+            },
+            {
+                "label": "Reclassification for amount realized through sales of securities available for sale included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Other comprehensive income before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 9826000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 1568000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 8258000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 46951000
+            }
+        ]
+    }
+}

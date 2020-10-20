@@ -1,0 +1,243 @@
+{
+    "startDate": "2019-06-29",
+    "endDate": "2020-07-03",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "AVNW",
+    "data": {
+        "bs": [
+            {
+                "label": "Advance payments",
+                "concept": "avnw:ContractWithCustomerLiabilityAdvancePayments",
+                "unit": "usd",
+                "value": 2529000
+            },
+            {
+                "label": "Unearned income",
+                "concept": "avnw:ContractWithCustomerLiabilityUnearnedRevenue",
+                "unit": "usd",
+                "value": 19343000
+            },
+            {
+                "label": "Advance payments and unearned revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 21872000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 257000
+            },
+            {
+                "label": "Depreciation and amortization of property, plant and equipment",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 4387000
+            },
+            {
+                "label": "Provision for (recovery from) uncollectible receivables",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Share-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1686000
+            },
+            {
+                "label": "Deferred tax assets, net",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 172000
+            },
+            {
+                "label": "Charges for inventory and customer service inventory write-downs",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 945000
+            },
+            {
+                "label": "Loss on disposition of property, plant and equipment, net",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 56000
+            },
+            {
+                "label": "Noncash lease expense",
+                "concept": "avnw:NoncashLeaseExpense",
+                "unit": "usd",
+                "value": 4416000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 7043000
+            },
+            {
+                "label": "Unbilled receivables",
+                "concept": "IncreaseDecreaseInContractWithCustomerAsset",
+                "unit": "usd",
+                "value": 304000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 5651000
+            },
+            {
+                "label": "Customer service inventories",
+                "concept": "avnw:IncreaseDecreaseInCustomerServiceInventories",
+                "unit": "usd",
+                "value": 1023000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 3122000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 4285000
+            },
+            {
+                "label": "Advance payments and unearned revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 6304000
+            },
+            {
+                "label": "Income taxes payable or receivable",
+                "concept": "IncreaseDecreaseInIncomeTaxesPayableNetOfIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 1978000
+            },
+            {
+                "label": "Other assets and liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 3615000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 17493000
+            },
+            {
+                "label": "Payments for acquisition of property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 4608000
+            },
+            {
+                "label": "Maturities of short-term investments",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfShorttermInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 4608000
+            },
+            {
+                "label": "Proceeds from borrowings",
+                "concept": "ProceedsFromIssuanceOfDebt",
+                "unit": "usd",
+                "value": 41911000
+            },
+            {
+                "label": "Repayments of borrowings",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 41911000
+            },
+            {
+                "label": "Payments for repurchase of common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 1772000
+            },
+            {
+                "label": "Payments for taxes related to net settlement of equity awards",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 802000
+            },
+            {
+                "label": "Proceeds from issuance of common stock under employee stock plans and exercises of stock options",
+                "concept": "ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                "unit": "usd",
+                "value": 29000
+            },
+            {
+                "label": "Net cash (used in) provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 2545000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 669000
+            },
+            {
+                "label": "Net increase (decrease) in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 9671000
+            },
+            {
+                "label": "Unpaid property, plant and equipment",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 277000
+            },
+            {
+                "label": "Noncontrolling interests buyout",
+                "concept": "avnw:NoncashInvestingNoncontrollingInterestBuyout",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "Cash paid for income taxes, net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 1057000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Restructuring charges (recovery)",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 4049000
+            },
+            {
+                "label": "Charges for inventory and customer service inventory write-downs",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 945000
+            }
+        ]
+    }
+}

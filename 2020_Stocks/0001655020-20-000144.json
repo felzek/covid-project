@@ -1,0 +1,446 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "XOG",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 62553000
+            },
+            {
+                "label": "Trade",
+                "concept": "xog:TradeAccountsReceivableCurrent",
+                "unit": "usd",
+                "value": 48599000
+            },
+            {
+                "label": "Oil, natural gas and NGL sales",
+                "concept": "xog:OilNaturalGasAndNglSalesReceivablesCurrent",
+                "unit": "usd",
+                "value": 48275000
+            },
+            {
+                "label": "Inventory, prepaid expenses and other",
+                "concept": "xog:InventoryAndPrepaidExpensesNetCurrent",
+                "unit": "usd",
+                "value": 34732000
+            },
+            {
+                "label": "Commodity derivative asset",
+                "concept": "CommodityContractAssetCurrent",
+                "unit": "usd",
+                "value": 55667000
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 249826000
+            },
+            {
+                "label": "Proved oil and gas properties",
+                "concept": "ProvedOilAndGasPropertySuccessfulEffortMethod",
+                "unit": "usd",
+                "value": 4707989000
+            },
+            {
+                "label": "Unproved oil and gas properties",
+                "concept": "UnprovedOilAndGasPropertySuccessfulEffortMethod",
+                "unit": "usd",
+                "value": 356741000
+            },
+            {
+                "label": "Wells in progress",
+                "concept": "CapitalizedCostsUncompletedWellsEquipmentAndFacilities",
+                "unit": "usd",
+                "value": 137944000
+            },
+            {
+                "label": "Less: accumulated depletion, depreciation, amortization and impairment charges",
+                "concept": "OilAndGasPropertySuccessfulEffortMethodAccumulatedDepreciationDepletionAmortizationAndImpairment",
+                "unit": "usd",
+                "value": 3135748000
+            },
+            {
+                "label": "Net oil and gas properties",
+                "concept": "OilAndGasPropertySuccessfulEffortMethodNet",
+                "unit": "usd",
+                "value": 2066926000
+            },
+            {
+                "label": "Gathering systems and facilities, net of accumulated depreciation",
+                "concept": "xog:GatheringSystemsAndFacilitiesSuccessfulEffortMethodNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other property and equipment, net of accumulated depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 71912000
+            },
+            {
+                "label": "Net Property and Equipment",
+                "concept": "xog:OilAndGasPropertySuccessfulEffortMethodAndPropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2138838000
+            },
+            {
+                "label": "Commodity derivative asset",
+                "concept": "CommodityContractAssetNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 15692000
+            },
+            {
+                "label": "Total Non-Current Assets",
+                "concept": "AssetsNoncurrentOtherThanNoncurrentInvestmentsAndPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 15692000
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2404356000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "xog:AccountsPayableAndAccruedLiabilitiesExcludingRevenueAndTaxesCurrent",
+                "unit": "usd",
+                "value": 43329000
+            },
+            {
+                "label": "Accounts Payable and Accrued Liabilities, Related Party",
+                "concept": "xog:AccountsPayableAndAccruedLiabilitiesRelatedParty",
+                "unit": "usd",
+                "value": 5030000
+            },
+            {
+                "label": "Production taxes payable",
+                "concept": "DeferredRevenueCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Commodity derivative liability",
+                "concept": "SalesAndExciseTaxPayableCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4145000
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "InterestAndDividendsPayableCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Debtor In Possession Financing, Line of Credit",
+                "concept": "xog:DebtorInPossessionFinancingLineOfCredit",
+                "unit": "usd",
+                "value": 37500000
+            },
+            {
+                "label": "Line of Credit, Current",
+                "concept": "LinesOfCreditCurrent",
+                "unit": "usd",
+                "value": 481935000
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 571939000
+            },
+            {
+                "label": "Credit Facility\u2014Note\u00a06",
+                "concept": "LongTermLineOfCredit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Senior Notes, net of unamortized debt issuance costs",
+                "concept": "xog:SeniorNotesPayableNetOfDiscountAndIssuanceCostsNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Production taxes payable",
+                "concept": "xog:SalesAndExciseTaxPayableNoncurrent",
+                "unit": "usd",
+                "value": 1681000
+            },
+            {
+                "label": "Commodity derivative liability",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other non-current liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Non-Current Liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1681000
+            },
+            {
+                "label": "Liabilities Subject to Compromise",
+                "concept": "LiabilitiesSubjectToCompromise",
+                "unit": "usd",
+                "value": 1697341000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2270961000
+            },
+            {
+                "label": "Commitments and Contingencies\u2014Note\u00a014",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Series A Convertible Preferred Stock, $0.01 par value; 50,000,000 shares authorized, 185,280 issued and outstanding",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 187975000
+            },
+            {
+                "label": "Common stock, $0.01 par value; 900,000,000 share authorized; 138,343,432 and 137,657,922 issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1336000
+            },
+            {
+                "label": "Treasury stock, at cost, 38,859,078 shares",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 170138000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 2140327000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2026105000
+            },
+            {
+                "label": "Total Extraction Oil & Gas, Inc. Stockholders' Equity (Deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 54580000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Stockholders' Equity (Deficit)",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 54580000
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Equity (Deficit)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2404356000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 63129000
+            },
+            {
+                "label": "Lease operating expense",
+                "concept": "OperatingLeaseExpense",
+                "unit": "usd",
+                "value": 22984000
+            },
+            {
+                "label": "Production taxes",
+                "concept": "ProductionTaxExpense",
+                "unit": "usd",
+                "value": 4679000
+            },
+            {
+                "label": "Exploration and abandonment expenses",
+                "concept": "ExplorationExpense",
+                "unit": "usd",
+                "value": 62661000
+            },
+            {
+                "label": "Depletion, depreciation, amortization and accretion",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 82620000
+            },
+            {
+                "label": "Impairment of long lived assets",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": 960000
+            },
+            {
+                "label": "Gain on sale of property and equipment",
+                "concept": "xog:GainLossOnSaleOfAssetsOfUnconsolidatedSubsidiary",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 25148000
+            },
+            {
+                "label": "Other Cost and Expense, Operating",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 13209000
+            },
+            {
+                "label": "Total Operating Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 238567000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 175438000
+            },
+            {
+                "label": "Commodity derivatives gain (loss)",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 69301000
+            },
+            {
+                "label": "Loss on deconsolidation of Elevation Midstream, LLC",
+                "concept": "DeconsolidationGainOrLossAmount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reorganization Items",
+                "concept": "ReorganizationItems",
+                "unit": "usd",
+                "value": 26919000
+            },
+            {
+                "label": "Interest expense(1)",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 20314000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 38000
+            },
+            {
+                "label": "Total Other Income (Expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 116496000
+            },
+            {
+                "label": "Income (Loss) Before Income Taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 291934000
+            },
+            {
+                "label": "Income tax (expense) benefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 291934000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Extraction Oil & Gas, Inc.",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 291934000
+            },
+            {
+                "label": "Adjustments to reflect Series A Preferred Stock dividends and accretion of discount",
+                "concept": "PreferredStockDividendsAndOtherAdjustments",
+                "unit": "usd",
+                "value": 5818000
+            },
+            {
+                "label": "Net Income (Loss) Available to Common Shareholders, Basic and Diluted",
+                "concept": "xog:NetIncomeLossAttributableToCommonShareholders",
+                "unit": "usd",
+                "value": 297752000
+            },
+            {
+                "label": "Basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 2.16
+            },
+            {
+                "label": "Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 138163000
+            }
+        ]
+    }
+}

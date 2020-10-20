@@ -1,0 +1,369 @@
+{
+    "startDate": "2020-02-02",
+    "endDate": "2020-05-02",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "AWSM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, cash equivalents and restricted cash, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 4886000
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash, beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 4886000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10338000
+            },
+            {
+                "label": "Income (loss) from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": -236000
+            },
+            {
+                "label": "Income (loss) from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 10574000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 180000
+            },
+            {
+                "label": "Accretion of debt discount.",
+                "concept": "awsm:AccretionOfDebtDiscount",
+                "unit": "usd",
+                "value": 666000
+            },
+            {
+                "label": "Non cash interest.",
+                "concept": "awsm:NonCashInterest",
+                "unit": "usd",
+                "value": 232000
+            },
+            {
+                "label": "Provision for (recovery of) bad debts",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": -16000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 151000
+            },
+            {
+                "label": "Gain (loss) on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 13642000
+            },
+            {
+                "label": "Change in inventory reserve.",
+                "concept": "awsm:ChangeInInventoryReserve",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Loss (gain) on derivative liability",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": 543000
+            },
+            {
+                "label": "Impairment of right of use assets",
+                "concept": "OperatingLeaseImpairmentLoss",
+                "unit": "usd",
+                "value": 53000
+            },
+            {
+                "label": "Trade accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -261000
+            },
+            {
+                "label": "Other accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsAndOtherReceivables",
+                "unit": "usd",
+                "value": -1006000
+            },
+            {
+                "label": "Inventory",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -2351000
+            },
+            {
+                "label": "Prepaid assets",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -213000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -1136000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -1388000
+            },
+            {
+                "label": "Operating lease right of use assets and lease liabilities.",
+                "concept": "awsm:OperatingLeaseRightOfUseAssetsAndLeaseLiabilities",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Net cash used in continuing operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -1020000
+            },
+            {
+                "label": "Net cash provided by (used in) discontinued operating activities",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": -232000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -1252000
+            },
+            {
+                "label": "Purchase of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Net cash provided by (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -7000
+            },
+            {
+                "label": "Proceeds from notes payable net of debt issuance costs.",
+                "concept": "awsm:ProceedsFromNotesPayableNetOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 3098000
+            },
+            {
+                "label": "Payment of notes payable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 250000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 2848000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 128000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1717000
+            },
+            {
+                "label": "Conversion of accounts payable to equity.",
+                "concept": "awsm:ConversionOfAccountsPayableToEquity",
+                "unit": "usd",
+                "value": 690000
+            },
+            {
+                "label": "Accounts receivable offset against conversion of accounts payable to equity",
+                "concept": "awsm:AccountsReceivableOffsetAgainstConversionOfAccountsPayableToEquity",
+                "unit": "usd",
+                "value": 227000
+            },
+            {
+                "label": "Record operating lease right-of-use assets and operating lease liabilities.",
+                "concept": "awsm:RecordOperatingLeaseRightOfUseAssetsAndOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 437000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 13943000
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 9448000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 4495000
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 7126000
+            },
+            {
+                "label": "Operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -2631000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 924000
+            },
+            {
+                "label": "Decrease (increase) in fair value of derivative liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -543000
+            },
+            {
+                "label": "Gain (loss) on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 13642000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -56000
+            },
+            {
+                "label": "Income (loss) from continuing operations before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 10574000
+            },
+            {
+                "label": "Income (loss) from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 10574000
+            },
+            {
+                "label": "Income (loss) from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": -236000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10338000
+            },
+            {
+                "label": "Continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.16
+            },
+            {
+                "label": "Discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Total",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.16
+            },
+            {
+                "label": "Continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.16
+            },
+            {
+                "label": "Discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Total",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.16
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 65728000
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 65943000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 10338000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 128000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 10466000
+            }
+        ]
+    }
+}

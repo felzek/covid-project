@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ETRN",
+    "data": {
+        "bs": [
+            {
+                "label": "Current assets",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationCurrentAssets",
+                "unit": "usd",
+                "value": 265510000
+            },
+            {
+                "label": "Non-current assets",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationNoncurrentAssets",
+                "unit": "usd",
+                "value": 5327476000
+            },
+            {
+                "label": "Total assets",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationAssets",
+                "unit": "usd",
+                "value": 5592986000
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationCurrentLiabilities",
+                "unit": "usd",
+                "value": 197634000
+            },
+            {
+                "label": "Equity",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationEquity",
+                "unit": "usd",
+                "value": 5395352000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationLiabilitiesAndEquity",
+                "unit": "usd",
+                "value": 5592986000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Environmental remediation reserve",
+                "concept": "etrn:EquityMethodInvestmentSummarizedFinancialInformationEnvironmentalRemediationReserve",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Other income",
+                "concept": "etrn:EquityMethodInvestmentSummarizedFinancialInformationOtherIncome",
+                "unit": "usd",
+                "value": 31000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "etrn:EquityMethodInvestmentSummarizedFinancialInformationInterestIncome",
+                "unit": "usd",
+                "value": 36262000
+            },
+            {
+                "label": "AFUDC \u2014 equity",
+                "concept": "etrn:EquityMethodInvestmentSummarizedFinancialInformationAllowanceForFundsUsedDuringConstructionCapitalizedCostOfEquity",
+                "unit": "usd",
+                "value": 84612000
+            },
+            {
+                "label": "Net income",
+                "concept": "EquityMethodInvestmentSummarizedFinancialInformationNetIncomeLoss",
+                "unit": "usd",
+                "value": 120855000
+            }
+        ]
+    }
+}

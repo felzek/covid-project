@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PFG",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 3150400000.0
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 3150400000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 416100000.0
+            },
+            {
+                "label": "Net unrealized gains/losses on fixed maturities and equity securities available-for-sale net of adjustments related to deferred acquisition costs, sales inducements, unearned revenue reserves, changes in policyholder benefits and claims and applicable income taxes.",
+                "concept": "pfg:OtherComprehensiveIncomeAvailableForSaleSecuritiesPeriodIncreaseDecreaseNetOfTax",
+                "unit": "usd",
+                "value": 2037700000.0
+            },
+            {
+                "label": "Net unrealized gains/losses on derivative instruments designated and qualifying as the effective portion of cash flow hedges net of adjustments related to deferred acquisition costs, sales inducements, and applicable income taxes.",
+                "concept": "pfg:OtherComprehensiveIncomeDerivativesPeriodIncreaseDecreaseNetOfTax",
+                "unit": "usd",
+                "value": 16399999.999999998
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 16399999.999999998
+            },
+            {
+                "label": "Other Comprehensive (Income) Loss, Pension and Other Postretirement Benefit Plans, Adjustment, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 10400000.0
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2048100000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2464200000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 16000000.0
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2448200000.0
+            }
+        ]
+    }
+}

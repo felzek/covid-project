@@ -1,0 +1,74 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "IVAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Standard Product Warranty Accrual, Current",
+                "concept": "StandardProductWarrantyAccrualCurrent",
+                "unit": "usd",
+                "value": 487000
+            },
+            {
+                "label": "Standard Product Warranty Accrual, Noncurrent",
+                "concept": "StandardProductWarrantyAccrualNoncurrent",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Standard Product Warranty Accrual",
+                "concept": "StandardProductWarrantyAccrual",
+                "unit": "usd",
+                "value": 662000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1524000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Securities, Available-for-Sale, Unrealized Holding Gain (Loss) Arising During Period, before Tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 51000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Gain (Loss), before Reclassification and Tax",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), before Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 71000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossTaxPortionAttributableToParent1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Parent",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 71000
+            },
+            {
+                "label": "Comprehensive Income (Loss), Net of Tax, Attributable to Parent",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1595000
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "GDP",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 74397000
+            },
+            {
+                "label": "us-gaap_StockholdersEquity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 74397000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss) applicable to common stock",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -15658000
+            },
+            {
+                "label": "Weighted average shares of common stock outstanding - basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 12540000
+            },
+            {
+                "label": "Net income (loss) per common share - basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -1.25
+            },
+            {
+                "label": "Interest, discount and amortization on New 2L Notes",
+                "concept": "InterestOnConvertibleDebtNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "unit": "usd",
+                "value": -15658000
+            },
+            {
+                "label": "Common shares issuable upon conversion of the New 2L Notes (in shares)",
+                "concept": "IncrementalCommonSharesAttributableToConversionOfDebtSecurities",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares issuable on assumed conversion of restricted stock ** (in shares)",
+                "concept": "gdp:IncrementalCommonSharesAttributableToDilutiveEffectOfConversionOfRestrictedStock",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Weighted average shares of common stock outstanding - diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 12540000
+            },
+            {
+                "label": "Net income (loss) per common share - diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -1.25
+            }
+        ]
+    }
+}

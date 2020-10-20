@@ -1,0 +1,417 @@
+{
+    "startDate": "2019-06-30",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "KTCC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 553000
+            },
+            {
+                "label": "Trade receivables, net of allowance for doubtful accounts of $609 and $58",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 86123000
+            },
+            {
+                "label": "Contract assets",
+                "concept": "ContractWithCustomerAssetNetCurrent",
+                "unit": "usd",
+                "value": 23753000
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 115020000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 17315000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 242764000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 31764000
+            },
+            {
+                "label": "Operating Lease, Right-of-Use Asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 17568000
+            },
+            {
+                "label": "Deferred income tax asset",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 10178000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2587000
+            },
+            {
+                "label": "Total other assets",
+                "concept": "ktcc:TotalOtherAssetsNonCurrent",
+                "unit": "usd",
+                "value": 12765000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 304861000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 80204000
+            },
+            {
+                "label": "Accrued compensation and vacation",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10428000
+            },
+            {
+                "label": "Current portion of debt, net",
+                "concept": "OtherLongTermDebtCurrent",
+                "unit": "usd",
+                "value": 7508000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 14079000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 112219000
+            },
+            {
+                "label": "Term loans",
+                "concept": "OtherLongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 3258000
+            },
+            {
+                "label": "Revolving loan",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 60094000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 12624000
+            },
+            {
+                "label": "Deferred income tax liability",
+                "concept": "DeferredTaxLiabilitiesTaxDeferredIncome",
+                "unit": "usd",
+                "value": 234000
+            },
+            {
+                "label": "Other long-term obligations",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 875000
+            },
+            {
+                "label": "Total long-term liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 77085000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 189304000
+            },
+            {
+                "label": "Commitments and contingencies (Note 4 and 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, no par value\u2014shares authorized 25,000; issued and outstanding 10,760 and 10,760 shares, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 46946000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 70111000
+            },
+            {
+                "label": "Accumulated other comprehensive (loss) income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1500000
+            },
+            {
+                "label": "Total shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 115557000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 304861000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4758000
+            },
+            {
+                "label": "Goodwill and intangible assets impairment",
+                "concept": "GoodwillAndIntangibleAssetImpairment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 5591000
+            },
+            {
+                "label": "Amortization of deferred loan costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Provision for obsolete inventory",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 136000
+            },
+            {
+                "label": "Provision for warranty",
+                "concept": "ProductWarrantyExpense",
+                "unit": "usd",
+                "value": 121000
+            },
+            {
+                "label": "Provision for (recovery of) doubtful accounts",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 551000
+            },
+            {
+                "label": "Loss on disposal of assets",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": 207000
+            },
+            {
+                "label": "Share-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 266000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 958000
+            },
+            {
+                "label": "Loss on settlement of arbitration",
+                "concept": "LossContingencyLossInPeriod",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Trade receivables",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": 28254000
+            },
+            {
+                "label": "Contract assets",
+                "concept": "IncreaseDecreaseInContractWithCustomerAsset",
+                "unit": "usd",
+                "value": 1592000
+            },
+            {
+                "label": "Cash received from arbitration settlement",
+                "concept": "ProceedsFromLegalSettlements",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 14725000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 7728000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 6632000
+            },
+            {
+                "label": "Accrued compensation and vacation",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": 3669000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 292000
+            },
+            {
+                "label": "Cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 31004000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 8623000
+            },
+            {
+                "label": "Proceeds from sale of fixed assets",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 696000
+            },
+            {
+                "label": "Cash receipts from deferred purchase price of factored receivables",
+                "concept": "ProceedsFromSaleAndCollectionOfReceivables",
+                "unit": "usd",
+                "value": 4350000
+            },
+            {
+                "label": "Cash provided by (used in) investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 3577000
+            },
+            {
+                "label": "Payment of financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 84000
+            },
+            {
+                "label": "Proceeds from issuance of long term debt",
+                "concept": "ProceedsFromRepaymentsOfOtherLongTermDebt",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Repayments of long term debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 7121000
+            },
+            {
+                "label": "Borrowings under revolving credit agreement",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 177343000
+            },
+            {
+                "label": "Repayments of revolving credit agreement",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 140605000
+            },
+            {
+                "label": "Cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 34533000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 48000
+            },
+            {
+                "label": "Interest payments",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 2483000
+            },
+            {
+                "label": "Income tax payments, net of refunds",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 683000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4758000
+            },
+            {
+                "label": "Unrealized gain (loss) on hedging instruments, net of tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 3926000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 832000
+            }
+        ]
+    }
+}

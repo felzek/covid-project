@@ -1,0 +1,314 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SQFT",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 26666657
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 136030293
+            },
+            {
+                "label": "Tenant improvements",
+                "concept": "TenantImprovements",
+                "unit": "usd",
+                "value": 15274081
+            },
+            {
+                "label": "Lease intangibles",
+                "concept": "sqft:FiniteLivedIntangibleAssetsNetOfAmountsIncludedInRealEstateAssetsHeldForSale",
+                "unit": "usd",
+                "value": 5321296
+            },
+            {
+                "label": "Real estate assets and lease intangibles held for investment, cost",
+                "concept": "sqft:RealEstateInvestmentPropertyAndLeaseIntangiblesHeldForInvestmentAtCost",
+                "unit": "usd",
+                "value": 183292327
+            },
+            {
+                "label": "Accumulated depreciation and amortization",
+                "concept": "sqft:RealEstateInvestmentPropertyAndLeaseIntangiblesAccumulatedDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 31698035
+            },
+            {
+                "label": "Real estate assets and lease intangibles held for investment, net",
+                "concept": "sqft:RealEstateInvestmentPropertyAndLeaseIntangiblesHeldForInvestmentNet",
+                "unit": "usd",
+                "value": 151594292
+            },
+            {
+                "label": "Real estate assets held for sale, net",
+                "concept": "RealEstateHeldforsale",
+                "unit": "usd",
+                "value": 24921374
+            },
+            {
+                "label": "Real estate assets, net",
+                "concept": "sqft:RealEstateInvestmentPropertyAndLeaseIntangiblesHeldForInvestmentAndRealEstateHeldForSaleNet",
+                "unit": "usd",
+                "value": 176515666
+            },
+            {
+                "label": "Cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 8657989
+            },
+            {
+                "label": "Deferred leasing costs, net",
+                "concept": "DeferredCostsLeasingNet",
+                "unit": "usd",
+                "value": 1674881
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 2423000
+            },
+            {
+                "label": "Other assets, net",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 4949592
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 194221128
+            },
+            {
+                "label": "Mortgage notes payable, net",
+                "concept": "sqft:MortgageNotesPayableNet",
+                "unit": "usd",
+                "value": 111301705
+            },
+            {
+                "label": "Mortgage notes payable related to properties held for sale, net",
+                "concept": "sqft:MortgageNotesPayableRelatedToPropertiesHeldForSaleNet",
+                "unit": "usd",
+                "value": 14229223
+            },
+            {
+                "label": "Mortgage notes payable, total net",
+                "concept": "sqft:MortgageNotesPayable",
+                "unit": "usd",
+                "value": 125530928
+            },
+            {
+                "label": "Note payable, net",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 8250821
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 4957035
+            },
+            {
+                "label": "Accrued real estate taxes",
+                "concept": "sqft:AccruedRealEstateTaxes",
+                "unit": "usd",
+                "value": 1270148
+            },
+            {
+                "label": "Lease liability, net",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 115090
+            },
+            {
+                "label": "Below-market leases, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 226346
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 140350368
+            },
+            {
+                "label": "Commitments and contingencies (Note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 153376678
+            },
+            {
+                "label": "Dividends and accumulated losses",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 116067090
+            },
+            {
+                "label": "Total stockholders' equity before noncontrolling interest",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 37398838
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 16471922
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 53870760
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 194221128
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental income",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 5879526
+            },
+            {
+                "label": "Fees and other income",
+                "concept": "sqft:FeeAndOtherIncome",
+                "unit": "usd",
+                "value": 241878
+            },
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 6121404
+            },
+            {
+                "label": "Rental operating costs",
+                "concept": "OperatingLeaseExpense",
+                "unit": "usd",
+                "value": 1999834
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1278971
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 1622230
+            },
+            {
+                "label": "Impairment of real estate assets",
+                "concept": "ImpairmentOfRealEstate",
+                "unit": "usd",
+                "value": 845674
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 5746709
+            },
+            {
+                "label": "Interest expense-Series B preferred stock",
+                "concept": "sqft:InterestExpensePreferredStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Interest expense-mortgage notes",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 1477628
+            },
+            {
+                "label": "Interest expense - note payable",
+                "concept": "sqft:InterestExpenseNotesPayable",
+                "unit": "usd",
+                "value": 795728
+            },
+            {
+                "label": "Interest and other income (expense), net",
+                "concept": "sqft:NonoperatingInterestAndOtherIncomeExpense",
+                "unit": "usd",
+                "value": 8400
+            },
+            {
+                "label": "Gain on sales of real estate, net",
+                "concept": "GainLossOnSaleOfBusiness",
+                "unit": "usd",
+                "value": 334096
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 51369
+            },
+            {
+                "label": "Total other income (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1982229
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1607534
+            },
+            {
+                "label": "Less: Income attributable to noncontrolling interests",
+                "concept": "IncomeLossFromContinuingOperationsAttributableToNoncontrollingEntity",
+                "unit": "usd",
+                "value": 315282
+            },
+            {
+                "label": "Net loss attributable to Presidio Property Trust, Inc. common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1922816
+            },
+            {
+                "label": "Basic and diluted loss per common share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.22
+            },
+            {
+                "label": "Weighted average number of common shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 8897037
+            }
+        ]
+    }
+}

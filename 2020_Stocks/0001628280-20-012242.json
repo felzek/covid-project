@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CVGI",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease right-of-use assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 31172000
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 8274000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 25176000
+            },
+            {
+                "label": "Present value of lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 33450000
+            },
+            {
+                "label": "Right-of-use assets",
+                "concept": "cvgi:FinanceLeaseRightOfUseAssetGross",
+                "unit": "usd",
+                "value": 1414000
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "cvgi:FinanceLeaseRightOfUseAssetAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 479000
+            },
+            {
+                "label": "Right-of-use assets, net",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 935000
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 329000
+            },
+            {
+                "label": "Non-current liabilities",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 538000
+            },
+            {
+                "label": "Total finance lease liabilities",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 867000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (Loss) Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12497000
+            },
+            {
+                "label": "Foreign currency exchange translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1920000
+            },
+            {
+                "label": "Minimum pension liability, net of tax",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 446000
+            },
+            {
+                "label": "Derivative instrument, net of tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": 1104000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2578000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 9919000
+            }
+        ]
+    }
+}

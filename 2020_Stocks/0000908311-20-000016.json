@@ -1,0 +1,182 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CMCT",
+    "data": {
+        "bs": [
+            {
+                "label": "Investments in real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 507756000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 75192000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 10960000
+            },
+            {
+                "label": "Loans receivable, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 77155000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsAndNotesReceivableNet",
+                "unit": "usd",
+                "value": 2591000
+            },
+            {
+                "label": "Deferred rent receivable and charges, net",
+                "concept": "cmct:DeferredRentReceivableAndChargesNet",
+                "unit": "usd",
+                "value": 36140000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "OtherIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 6509000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 9922000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 726225000
+            },
+            {
+                "label": "Debt, net",
+                "concept": "DebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 371666000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 13063000
+            },
+            {
+                "label": "Intangible liabilities, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 880000
+            },
+            {
+                "label": "Due to related parties",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 8014000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 8453000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 402076000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES (Note\u00a015)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value; 900,000,000 shares authorized; 14,827,410 shares issued and outstanding at June 30, 2020 and 14,602,149 shares issued and outstanding at December 31, 2019.",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 795795000
+            },
+            {
+                "label": "Distributions in excess of earnings",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 753550000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 283927000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 466000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 284393000
+            },
+            {
+                "label": "TOTAL LIABILITIES, REDEEMABLE PREFERRED STOCK, AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 726225000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET (LOSS) INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4041000
+            },
+            {
+                "label": "Other comprehensive loss: cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "COMPREHENSIVE (LOSS) INCOME",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4041000
+            },
+            {
+                "label": "Comprehensive (income) loss attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "COMPREHENSIVE (LOSS) INCOME ATTRIBUTABLE TO THE COMPANY",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4043000
+            }
+        ]
+    }
+}

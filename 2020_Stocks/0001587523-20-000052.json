@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "KN",
+    "data": {
+        "bs": [
+            {
+                "label": "Severance and other restructuring reserve, beginning balance",
+                "concept": "RestructuringReserve",
+                "unit": "usd",
+                "value": 5600000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 19500000.0
+            },
+            {
+                "label": "Foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 3400000.0
+            },
+            {
+                "label": "Amortization or settlement of actuarial losses and prior service costs",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Net change in employee benefit plans",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Unrealized net gains (losses) arising during period",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Net losses reclassified into earnings",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 300000.0
+            },
+            {
+                "label": "Total cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Other comprehensive earnings (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 4300000.0
+            },
+            {
+                "label": "Comprehensive (loss) earnings",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 15200000.0
+            },
+            {
+                "label": "Net (loss) earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 19500000.0
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue",
+                "unit": "usd",
+                "value": 4099999.9999999995
+            },
+            {
+                "label": "Common stock issued for exercise of stock options and other",
+                "concept": "AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationAndExerciseOfStockOptions",
+                "unit": "usd",
+                "value": 1300000.0
+            },
+            {
+                "label": "Tax on restricted stock unit vesting",
+                "concept": "AdjustmentToAdditionalPaidInCapitalIncomeTaxEffectFromShareBasedCompensationNet",
+                "unit": "usd",
+                "value": 200000.0
+            }
+        ]
+    }
+}

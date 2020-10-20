@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "MLVF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents - Beginning",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 58944000
+            },
+            {
+                "label": "Cash and Cash Equivalents - Beginning",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 58944000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1454000
+            },
+            {
+                "label": "Unrealized holding (losses) gains on available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 302000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 62000
+            },
+            {
+                "label": "Net of tax amount",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 240000
+            },
+            {
+                "label": "Reclassification adjustment for net gains arising during the period",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Net of tax amount",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Adjustment for loss recorded on replacement of derivative",
+                "concept": "OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAdjustmentsTax",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Represents as a amortization of unrealized holding losses on securities available-for-sale transferred to held-to-maturity.",
+                "concept": "mlvf:OtherComprehensiveIncomeLossAccretionOfUnrealizedHoldingLossesOnSecuritiesTransferredFromAvailableForSaleToHeldToMaturityBeforeTax",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Represents as other comprehensive income loss accretion of unrealized holding losses on securities transferred from available for sale to held to maturity net of tax.",
+                "concept": "mlvf:OtherComprehensiveIncomeLossAccretionOfUnrealizedHoldingLossesOnSecuritiesTransferredFromAvailableForSaleToHeldToMaturityNetOfTax",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Fair value adjustments on derivatives",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesBeforeTax",
+                "unit": "usd",
+                "value": 336000
+            },
+            {
+                "label": "Tax effect",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax",
+                "unit": "usd",
+                "value": 66000
+            },
+            {
+                "label": "Net of tax amount",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 270000
+            },
+            {
+                "label": "Total other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 487000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 967000
+            }
+        ]
+    }
+}

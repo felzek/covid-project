@@ -1,0 +1,338 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "WSFS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 583221000
+            },
+            {
+                "label": "Cash in non-owned ATMs",
+                "concept": "wsfs:CashInNonOwnedAtms",
+                "unit": "usd",
+                "value": 360969000
+            },
+            {
+                "label": "Interest-bearing deposits in other banks including collateral of $11,110 at June\u00a030, 2020 and $0 December\u00a031, 2019, respectively",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 11577000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 955767000
+            },
+            {
+                "label": "Investment securities, available-for-sale (amortized cost of $2,097,114 at June\u00a030, 2020 and $1,909,483 at December\u00a031, 2019",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 2195389000
+            },
+            {
+                "label": "Investment securities, held-to-maturity, net of allowance for credit losses of $8 at June\u00a030, 2020 (fair value $132,198 at June\u00a030, 2020 and $136,625 at December\u00a031, 2019)",
+                "concept": "wsfs:DebtSecuritiesHeldToMaturityNetOfAllowanceForCreditLoss",
+                "unit": "usd",
+                "value": 127601000
+            },
+            {
+                "label": "Other investments",
+                "concept": "OtherInvestments",
+                "unit": "usd",
+                "value": 10211000
+            },
+            {
+                "label": "Loans, held for sale at fair value",
+                "concept": "LoansReceivableHeldForSaleAmount",
+                "unit": "usd",
+                "value": 109453000
+            },
+            {
+                "label": "Loans and leases, net of allowance for credit losses of $232,192 at June\u00a030, 2020 and $47,576 at December\u00a031, 2019",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 9120288000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 30391000
+            },
+            {
+                "label": "Stock in Federal Home Loan Bank of Pittsburgh at cost",
+                "concept": "FederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 9772000
+            },
+            {
+                "label": "Other real estate owned",
+                "concept": "ForeclosedAssets",
+                "unit": "usd",
+                "value": 4153000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 53222000
+            },
+            {
+                "label": "Premises and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 99320000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 472828000
+            },
+            {
+                "label": "Intangible assets",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 89687000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 295275000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 13573357000
+            },
+            {
+                "label": "Noninterest-bearing",
+                "concept": "NoninterestBearingDepositLiabilitiesDomestic",
+                "unit": "usd",
+                "value": 3188046000
+            },
+            {
+                "label": "Interest-bearing",
+                "concept": "InterestBearingDepositLiabilitiesDomestic",
+                "unit": "usd",
+                "value": 7874454000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 11062500000
+            },
+            {
+                "label": "Federal funds purchased",
+                "concept": "FederalFundsPurchased",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Federal Home Loan Bank advances",
+                "concept": "FederalHomeLoanBankAdvancesLongTerm",
+                "unit": "usd",
+                "value": 106395000
+            },
+            {
+                "label": "Trust preferred borrowings",
+                "concept": "JuniorSubordinatedDebentureOwedToUnconsolidatedSubsidiaryTrust",
+                "unit": "usd",
+                "value": 67011000
+            },
+            {
+                "label": "Senior debt",
+                "concept": "SeniorNotes",
+                "unit": "usd",
+                "value": 98714000
+            },
+            {
+                "label": "Other borrowed funds",
+                "concept": "OtherBorrowings",
+                "unit": "usd",
+                "value": 23673000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 6049000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 387221000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 11751563000
+            },
+            {
+                "label": "Common stock $0.01 par value, 90,000,000 shares authorized; issued 57,533,236 at June\u00a030, 2020 and 57,435,658 at December\u00a031, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 576000
+            },
+            {
+                "label": "Capital in excess of par value",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1050678000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 72780000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 878585000
+            },
+            {
+                "label": "Treasury stock at cost, 6,873,120 shares at June\u00a030, 2020 and 5,868,772 shares at December\u00a031, 2019",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 178950000
+            },
+            {
+                "label": "Total stockholders\u2019 equity of WSFS",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1823669000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1875000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1821794000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 13573357000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 7811000
+            },
+            {
+                "label": "Less: Net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 700000
+            },
+            {
+                "label": "Net (loss) income attributable to WSFS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7111000
+            },
+            {
+                "label": "Net unrealized gains arising during the period, net of tax expense of $1,169, $6,289, $15,707 and $11,831, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 3703000
+            },
+            {
+                "label": "Less: reclassification adjustment for net gains on sales realized in net income, net of tax expense of $458, $15, $624, and $19, respectively",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 1450000
+            },
+            {
+                "label": "Net change in unrealized gains (losses) on investment securities available-for-sale",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2253000
+            },
+            {
+                "label": "Amortization of unrealized gain on securities reclassified to held-to-maturity, net of tax expense of $18, $27, $38, and $56, respectively",
+                "concept": "wsfs:OtherComprehensiveIncomeAmortizationOfUnrealizedGainsOnSecuritiesTransferredFromAvailableForSaleToHeldToMaturityNetOfTax",
+                "unit": "usd",
+                "value": 57000
+            },
+            {
+                "label": "Change in unfunded pension liability related to unrealized gain (loss), prior service cost and transition obligation, net of tax benefit of $8, $8, $7, and $17, respectively",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostsCreditArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Pension settlement, net of tax expense of $67, $0, $67, and $0, respectively",
+                "concept": "OtherComprehensiveIncomeLossFinalizationOfPensionAndNonPensionPostretirementPlanValuationNetOfTax",
+                "unit": "usd",
+                "value": 212000
+            },
+            {
+                "label": "Net change in unfunded pension liability",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsNetOfTax",
+                "unit": "usd",
+                "value": 186000
+            },
+            {
+                "label": "Net unrealized (loss) gain arising during the period, net of tax (benefit) expense of $(8), $323, $493, and $525, respectively",
+                "concept": "wsfs:OtherComprehensiveIncomeLossCashFlowHedgeUnrealizedGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Amortization of unrealized gain on terminated cash flow hedges, net of tax benefit of $35, $0, $35, and $0, respectively",
+                "concept": "wsfs:OtherComprehensiveIncomeLossCashFlowHedgeAmortizationOfUnrealizedGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 111000
+            },
+            {
+                "label": "Net change in cash flow hedge",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 136000
+            },
+            {
+                "label": "Total other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2246000
+            },
+            {
+                "label": "Total comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 4865000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Defined Benefit Plan, Adjustment for Settlement or Curtailment Gain (Loss), Tax",
+                "concept": "OtherComprehensiveIncomeFinalizationOfPensionAndNonPensionPostretirementPlanValuationTax",
+                "unit": "usd",
+                "value": 67000
+            }
+        ]
+    }
+}

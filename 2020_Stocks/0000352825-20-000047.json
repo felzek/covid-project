@@ -1,0 +1,110 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FSTR",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating lease right-of-use assets - net (Note 8)",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 17665000
+            },
+            {
+                "label": "Operating lease liability, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 3028000
+            },
+            {
+                "label": "Long-term operating lease liabilities (Note 8)",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 14637000
+            },
+            {
+                "label": "Total operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 17665000
+            },
+            {
+                "label": "Property, plant, and equipment",
+                "concept": "fstr:FinanceLeaseRightOfUseAssetGross",
+                "unit": "usd",
+                "value": 3540000
+            },
+            {
+                "label": "Accumulated amortization",
+                "concept": "fstr:FinanceLeaseRightOfUseAssetAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 3231000
+            },
+            {
+                "label": "Property, plant, and equipment - net",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 309000
+            },
+            {
+                "label": "Finance lease liability, current",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 141000
+            },
+            {
+                "label": "Finance lease liability, noncurrent",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 168000
+            },
+            {
+                "label": "Total finance lease liabilities",
+                "concept": "FinanceLeaseLiability",
+                "unit": "usd",
+                "value": 309000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 523000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 181000
+            },
+            {
+                "label": "Unrealized gain (loss) on cash flow hedges, net of tax expense (benefit) of $19, $0, $(277), and $0 respectively",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 55000
+            },
+            {
+                "label": "Reclassification of pension liability adjustments to earnings, net of tax expense of $31, $0, $55, and $0 respectively*",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansNetOfTax",
+                "unit": "usd",
+                "value": 76000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 312000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 835000
+            }
+        ]
+    }
+}

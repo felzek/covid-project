@@ -1,0 +1,242 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CRMZ",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 9955650
+            },
+            {
+                "label": "Accounts receivable, net of allowance",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 2270026
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 798626
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 13024302
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 439299
+            },
+            {
+                "label": "Operating lease right-to-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 2291330
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1954460
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 33450
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 17742841
+            },
+            {
+                "label": "Unexpired subscription revenue",
+                "concept": "DeferredRevenueCurrent",
+                "unit": "usd",
+                "value": 9381309
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 87369
+            },
+            {
+                "label": "Current portion of operating lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 154422
+            },
+            {
+                "label": "Current portion of bank loan",
+                "concept": "LoansPayableToBankCurrent",
+                "unit": "usd",
+                "value": 907079
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1278216
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 11808395
+            },
+            {
+                "label": "Deferred taxes on income, net",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 318108
+            },
+            {
+                "label": "Unexpired subscription revenue, less current portion",
+                "concept": "DeferredRevenueNoncurrent",
+                "unit": "usd",
+                "value": 185639
+            },
+            {
+                "label": "Bank loan, less current portion",
+                "concept": "LongTermLoansFromBank",
+                "unit": "usd",
+                "value": 654421
+            },
+            {
+                "label": "Operating lease liability, less current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2221030
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 15187593
+            },
+            {
+                "label": "Preferred stock, $.01 par value; authorized 5,000,000 shares; none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock, $.01 par value; authorized 32,500,000 shares; issued and outstanding 10,722,401 shares",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 107224
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 29736129
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -27288105
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2555248
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 17742841
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Operating revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 3852003
+            },
+            {
+                "label": "Data and product costs",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 1515469
+            },
+            {
+                "label": "Selling, general and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2394266
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 53693
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 3963428
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -111425
+            },
+            {
+                "label": "Other income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 3417
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -108008
+            },
+            {
+                "label": "Benefit from income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -136929
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 28921
+            },
+            {
+                "label": "Net income (loss) per share - Basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0
+            },
+            {
+                "label": "Weighted average number of common shares outstanding - Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 10722401
+            }
+        ]
+    }
+}

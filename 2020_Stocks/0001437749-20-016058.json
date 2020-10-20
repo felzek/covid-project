@@ -1,0 +1,194 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NWHM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 85588000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 144000
+            },
+            {
+                "label": "Real estate inventories",
+                "concept": "InventoryRealEstate",
+                "unit": "usd",
+                "value": 370949000
+            },
+            {
+                "label": "Other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 48864000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 541594000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 344516000
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 196966000
+            },
+            {
+                "label": "Non-controlling interest in subsidiary",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 197078000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 541594000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 98960000
+            },
+            {
+                "label": "Cost of sales and expenses",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 106211000
+            },
+            {
+                "label": "Inventory impairments",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Gross margin",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 7251000
+            },
+            {
+                "label": "us-gaap_SellingAndMarketingExpense",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 6386000
+            },
+            {
+                "label": "us-gaap_GeneralAndAdministrativeExpense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6892000
+            },
+            {
+                "label": "Equity in net income (loss) of unconsolidated joint ventures reflected in the accompanying condensed consolidated statements of operations",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 19962000
+            },
+            {
+                "label": "Interest expensed",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1271000
+            },
+            {
+                "label": "us-gaap_ImpairmentOfLongLivedAssetsToBeDisposedOf",
+                "concept": "ImpairmentOfLongLivedAssetsToBeDisposedOf",
+                "unit": "usd",
+                "value": 94000
+            },
+            {
+                "label": "Gain on early extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 702000
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 68000
+            },
+            {
+                "label": "Pretax income (loss)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 41222000
+            },
+            {
+                "label": "us-gaap_IncomeTaxExpenseBenefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 16929000
+            },
+            {
+                "label": "Net income of unconsolidated joint ventures",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 24293000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income (loss) attributable to The New Home Company Inc.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 24293000
+            },
+            {
+                "label": "Basic earnings (loss) per share attributable to The New Home Company Inc. (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 1.32
+            },
+            {
+                "label": "Diluted earnings (loss) per share attributable to The New Home Company Inc. (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 1.32
+            },
+            {
+                "label": "Basic weighted-average shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 18341549
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 18341549
+            }
+        ]
+    }
+}

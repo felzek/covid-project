@@ -1,0 +1,242 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "REX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 152708000
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": 32656000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 950000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 9744000
+            },
+            {
+                "label": "Total",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 30383000
+            },
+            {
+                "label": "Refundable income taxes",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 10620000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 246939000
+            },
+            {
+                "label": "Total",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 158513000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 15345000
+            },
+            {
+                "label": "Deferred taxes",
+                "concept": "DeferredTaxAssetsLiabilitiesNet",
+                "unit": "usd",
+                "value": 21182000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 884000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 472338000
+            },
+            {
+                "label": "Accounts payable, trade (includes $578 and $676 with related parties at July 31, 2020 and January 31, 2020, respectively)",
+                "concept": "AccountsPayableTradeCurrent",
+                "unit": "usd",
+                "value": 8584000
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 5310000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 21189000
+            },
+            {
+                "label": "Deferred taxes",
+                "concept": "DeferredTaxLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 3670000
+            },
+            {
+                "label": "Long-term operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 9600000
+            },
+            {
+                "label": "Total long-term liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 13410000
+            },
+            {
+                "label": "Common stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 299000
+            },
+            {
+                "label": "Paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 149044000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 577602000
+            },
+            {
+                "label": "Total REX shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 386354000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 51385000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 437739000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 472338000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net sales and revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 39327000
+            },
+            {
+                "label": "Cost of sales (includes $4,887 and $43,469 with related parties for the quarters ended July 31, 2020 and 2019, respectively, and $17,159 and $90,207 with related parties for the six months ended July 31,2020 and 2019, respectively)",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 40658000
+            },
+            {
+                "label": "Gross (loss) profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 1331000
+            },
+            {
+                "label": "Selling, general and administrative expenses (includes $152 and $(348) with related parties for the quarters ended July 31, 2020 and 2019, respectively, and $(145) and $(335) with related parties for the six months ended July 31, 2020 and 2019, respectively)",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4438000
+            },
+            {
+                "label": "Equity in (loss) income of unconsolidated affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 507000
+            },
+            {
+                "label": "Interest and other income, (net)",
+                "concept": "InterestAndOtherIncome",
+                "unit": "usd",
+                "value": 197000
+            },
+            {
+                "label": "(Loss) income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 6079000
+            },
+            {
+                "label": "Benefit for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 4046000
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 2033000
+            },
+            {
+                "label": "Net loss (income) attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 285000
+            },
+            {
+                "label": "Net (loss) income attributable to REX common shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1748000
+            },
+            {
+                "label": "Weighted average shares outstanding \u2013 basic and diluted (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 6216000
+            },
+            {
+                "label": "Basic and diluted net (loss) income per share attributable to REX common shareholders (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.28
+            }
+        ]
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "EIX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 524000000
+            },
+            {
+                "label": "Receivables, less allowances for uncollectible accounts",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 936000000
+            },
+            {
+                "label": "Accrued unbilled revenue",
+                "concept": "UnbilledReceivablesCurrent",
+                "unit": "usd",
+                "value": 629000000
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 382000000
+            },
+            {
+                "label": "Income tax receivables",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 108000000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 49000000
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsCurrent",
+                "unit": "usd",
+                "value": 1692000000
+            },
+            {
+                "label": "Wildfire Insurance Fund contributions",
+                "concept": "eix:InsuranceFundContributionCurrent",
+                "unit": "usd",
+                "value": 323000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 153000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 4796000000
+            },
+            {
+                "label": "Nuclear decommissioning trusts",
+                "concept": "DecommissioningTrustAssetsAmount",
+                "unit": "usd",
+                "value": 4566000000
+            },
+            {
+                "label": "Other investments",
+                "concept": "OtherLongTermInvestments",
+                "unit": "usd",
+                "value": 84000000
+            },
+            {
+                "label": "Total investments",
+                "concept": "eix:InvestmentsAndOtherAssets",
+                "unit": "usd",
+                "value": 4650000000
+            },
+            {
+                "label": "Utility property, plant and equipment, less accumulated depreciation and amortization",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 45386000000
+            },
+            {
+                "label": "Nonutility property, plant and equipment, less accumulated depreciation",
+                "concept": "PropertyPlantAndEquipmentOtherNet",
+                "unit": "usd",
+                "value": 167000000
+            },
+            {
+                "label": "Total property, plant and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 45553000000
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsNoncurrent",
+                "unit": "usd",
+                "value": 6528000000
+            },
+            {
+                "label": "Wildfire Insurance Fund contributions",
+                "concept": "eix:PrepaidWildfireInsuranceNoncurrent",
+                "unit": "usd",
+                "value": 2606000000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 672000000
+            },
+            {
+                "label": "Other long-term assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 2246000000
+            },
+            {
+                "label": "Total long-term assets",
+                "concept": "eix:LongTermAssetsNoncurrent",
+                "unit": "usd",
+                "value": 12052000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 67051000000
+            },
+            {
+                "label": "Short-term debt",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 475000000
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 1029000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1657000000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 312000000
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "eix:DepositsfromCustomersCurrent",
+                "unit": "usd",
+                "value": 281000000
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityCurrent",
+                "unit": "usd",
+                "value": 857000000
+            },
+            {
+                "label": "Current portion of operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 65000000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1223000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 5899000000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 19238000000
+            },
+            {
+                "label": "Deferred income taxes and credits",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 5295000000
+            },
+            {
+                "label": "Pensions and benefits",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 656000000
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 3013000000
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 8395000000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 607000000
+            },
+            {
+                "label": "Wildfire-related claims",
+                "concept": "LossContingencyAccrualAtCarryingValue",
+                "unit": "usd",
+                "value": 4561000000
+            },
+            {
+                "label": "Other deferred credits and other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 2941000000
+            },
+            {
+                "label": "Total deferred credits and other liabilities",
+                "concept": "DeferredCreditsAndOtherLiabilities",
+                "unit": "usd",
+                "value": 25468000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 50605000000
+            },
+            {
+                "label": "Commitments and contingencies (Note\u00a012)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, no par value",
+                "concept": "CommonStocksIncludingAdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5908000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 65000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 8410000000
+            },
+            {
+                "label": "Total Edison International's common shareholders' equity",
+                "concept": "eix:CommonShareholdersEquity",
+                "unit": "usd",
+                "value": 14253000000
+            },
+            {
+                "label": "Noncontrolling interests \u2013 preferred and preference stock of SCE",
+                "concept": "MinorityInterestAmountRepresentedByPreferredStock",
+                "unit": "usd",
+                "value": 2193000000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 16446000000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 67051000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Dividend income",
+                "concept": "eix:VariableInterestEntitiesDividendIncome",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Dividend distributions",
+                "concept": "eix:VariableInterestEntitiesDividendDistributions",
+                "unit": "usd",
+                "value": 5000000
+            }
+        ]
+    }
+}

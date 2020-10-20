@@ -1,0 +1,183 @@
+{
+    "startDate": "2019-04-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "CARV",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash on deposit with subsidiaries",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 496000
+            },
+            {
+                "label": "Investment in subsidiaries",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 65018000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 161000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 65675000
+            },
+            {
+                "label": "Borrowings",
+                "concept": "OtherBorrowings",
+                "unit": "usd",
+                "value": 13403000
+            },
+            {
+                "label": "Accounts payable to subsidiaries",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 739000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 2639000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 16781000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 48894000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 65675000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 5423000
+            },
+            {
+                "label": "Equity in net loss from subsidiaries",
+                "concept": "IncomeLossFromSubsidiariesNetOfTax",
+                "unit": "usd",
+                "value": 4499000
+            },
+            {
+                "label": "Increase in account receivable from subsidiaries",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Decrease (increase) in other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 36000
+            },
+            {
+                "label": "Increase (decrease) in accounts payable to subsidiaries",
+                "concept": "IncreaseDecreaseInDueToAffiliates",
+                "unit": "usd",
+                "value": 176000
+            },
+            {
+                "label": "Decrease in other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 785000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Proceeds from (Payments for) Other Financing Activities",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Net cash provided by (used in) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Net decrease in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 1000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Equity in net loss from subsidiaries",
+                "concept": "IncomeLossFromSubsidiariesNetOfTax",
+                "unit": "usd",
+                "value": 4499000
+            },
+            {
+                "label": "Other income",
+                "concept": "NoninterestIncomeOtherOperatingIncome",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Total income",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 4473000
+            },
+            {
+                "label": "Advances and other borrowed money",
+                "concept": "InterestExpenseBorrowings",
+                "unit": "usd",
+                "value": 815000
+            },
+            {
+                "label": "Director's fees",
+                "concept": "NoninterestExpenseDirectorsFees",
+                "unit": "usd",
+                "value": 32000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 103000
+            },
+            {
+                "label": "Total expense",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 950000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 5423000
+            }
+        ]
+    }
+}

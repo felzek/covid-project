@@ -1,0 +1,231 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CNX",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 430722000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8319684000
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 476524000
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3752730000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Gathering Revenue - Related Party",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 54203000
+            },
+            {
+                "label": "Gathering Revenue - Third Party",
+                "concept": "cnx:GatheringRevenueExcludingRelatedParty",
+                "unit": "usd",
+                "value": 11749000
+            },
+            {
+                "label": "Other Operating Income",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 86000
+            },
+            {
+                "label": "Total Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 66038000
+            },
+            {
+                "label": "Operating Expense - Related Party",
+                "concept": "RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 4367000
+            },
+            {
+                "label": "Operating Expense - Third Party",
+                "concept": "cnx:OperatingExpenseExcludingRelatedParty",
+                "unit": "usd",
+                "value": 6049000
+            },
+            {
+                "label": "General and Administrative Expense - Related Party",
+                "concept": "RelatedPartyTransactionSellingGeneralAndAdministrativeExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 2748000
+            },
+            {
+                "label": "General and Administrative Expense - Third Party",
+                "concept": "cnx:GeneralandAdministrativeExpenseExcludingRelatedParty",
+                "unit": "usd",
+                "value": 1585000
+            },
+            {
+                "label": "(Gain) Loss on Asset Sales and Abandonments",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 1663000
+            },
+            {
+                "label": "Depreciation Expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 8209000
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 8617000
+            },
+            {
+                "label": "Total Costs and Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 33238000
+            },
+            {
+                "label": "Net (Loss) Income Attributable to CNX Resources Shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 32800000
+            },
+            {
+                "label": "Net Cash Provided by Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 45495000
+            },
+            {
+                "label": "Net Cash Used in Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 14297000
+            },
+            {
+                "label": "Net Cash (Used in) Provided by Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 35444000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Gathering Revenue - Related Party",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 54203000
+            },
+            {
+                "label": "Gathering Revenue - Third Party",
+                "concept": "cnx:GatheringRevenueExcludingRelatedParty",
+                "unit": "usd",
+                "value": 11749000
+            },
+            {
+                "label": "Other Operating Income",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 86000
+            },
+            {
+                "label": "Total Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 66038000
+            },
+            {
+                "label": "Operating Expense - Related Party",
+                "concept": "RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 4367000
+            },
+            {
+                "label": "Operating Expense - Third Party",
+                "concept": "cnx:OperatingExpenseExcludingRelatedParty",
+                "unit": "usd",
+                "value": 6049000
+            },
+            {
+                "label": "General and Administrative Expense - Related Party",
+                "concept": "RelatedPartyTransactionSellingGeneralAndAdministrativeExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 2748000
+            },
+            {
+                "label": "General and Administrative Expense - Third Party",
+                "concept": "cnx:GeneralandAdministrativeExpenseExcludingRelatedParty",
+                "unit": "usd",
+                "value": 1585000
+            },
+            {
+                "label": "(Gain) Loss on Asset Sales and Abandonments",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 1663000
+            },
+            {
+                "label": "Depreciation Expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 8209000
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 8617000
+            },
+            {
+                "label": "Total Costs and Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 33238000
+            },
+            {
+                "label": "Net (Loss) Income Attributable to CNX Resources Shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 32800000
+            },
+            {
+                "label": "Net Cash Provided by Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 45495000
+            },
+            {
+                "label": "Net Cash Used in Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 14297000
+            },
+            {
+                "label": "Net Cash (Used in) Provided by Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 35444000
+            }
+        ]
+    }
+}

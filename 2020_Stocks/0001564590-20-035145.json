@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HST",
+    "data": {
+        "bs": [
+            {
+                "label": "CASH AND CASH EQUIVALENTS AND RESTRICTED CASH, BEGINNING OF PERIOD",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1733000000
+            },
+            {
+                "label": "CASH AND CASH EQUIVALENTS AND RESTRICTED CASH, BEGINNING OF PERIOD",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 1733000000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1578000000
+            },
+            {
+                "label": "Restricted cash (included in other assets)",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Furniture, fixtures and equipment replacement fund",
+                "concept": "ReplacementReserveEscrow",
+                "unit": "usd",
+                "value": 154000000
+            },
+            {
+                "label": "Total cash and cash equivalents and restricted cash shown in the statements of cash flows",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1733000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 356000000
+            },
+            {
+                "label": "Change in fair value of derivative instruments",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "OTHER COMPREHENSIVE INCOME (LOSS), NET OF TAX",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME (LOSS)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 358000000
+            },
+            {
+                "label": "Less: Comprehensive (income) loss attributable to non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME (LOSS) ATTRIBUTABLE TO HOST HOTELS & RESORTS, INC.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 354000000
+            }
+        ]
+    }
+}

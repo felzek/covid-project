@@ -1,0 +1,308 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VRIAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Fixed maturities, available-for-sale, at fair value (amortized cost of $23,613 as of 2020 and $23,107 as of 2019; allowance for credit losses of $5 as of 2020)",
+                "concept": "vriac:AvailableForSaleDebtSecuritiesExcludingSecuritiesValuedAtFairValueOption",
+                "unit": "usd",
+                "value": 26156000000
+            },
+            {
+                "label": "Fixed maturities, at fair value using the fair value option",
+                "concept": "vriac:AvailableForSaleSecuritiesDebtSecuritiesUsingFairValueOption",
+                "unit": "usd",
+                "value": 1788000000
+            },
+            {
+                "label": "Equity securities, at fair value (cost of $113 as of 2020 and $73 as of 2019)",
+                "concept": "EquitySecuritiesFvNi",
+                "unit": "usd",
+                "value": 110000000
+            },
+            {
+                "label": "Mortgage loans on real estate, net of valuation allowance of $0 as of 2019",
+                "concept": "NotesAndLoansReceivableGrossCurrent",
+                "unit": "usd",
+                "value": 4731000000
+            },
+            {
+                "label": "Less: Allowance for credit losses",
+                "concept": "AllowanceForNotesAndLoansReceivableCurrent",
+                "unit": "usd",
+                "value": 55000000
+            },
+            {
+                "label": "Mortgage loans on real estate, net",
+                "concept": "NotesAndLoansReceivableNetCurrent",
+                "unit": "usd",
+                "value": 4676000000
+            },
+            {
+                "label": "Policy loans",
+                "concept": "LoansInsurancePolicy",
+                "unit": "usd",
+                "value": 195000000
+            },
+            {
+                "label": "Limited partnerships/corporations",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 753000000
+            },
+            {
+                "label": "Derivatives",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 677000000
+            },
+            {
+                "label": "Other investments",
+                "concept": "OtherInvestments",
+                "unit": "usd",
+                "value": 44000000
+            },
+            {
+                "label": "Total investments",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 35047000000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 364000000
+            },
+            {
+                "label": "Short-term investments under securities loan agreements, including collateral delivered",
+                "concept": "SecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 1225000000
+            },
+            {
+                "label": "Accrued investment income",
+                "concept": "AccruedInvestmentIncomeReceivable",
+                "unit": "usd",
+                "value": 300000000
+            },
+            {
+                "label": "Premiums receivable and reinsurance recoverable",
+                "concept": "ReinsuranceRecoverablesGross",
+                "unit": "usd",
+                "value": 1267000000
+            },
+            {
+                "label": "Reinsurance Recoverable, Allowance for Credit Loss",
+                "concept": "ReinsuranceRecoverablesAllowance",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Premiums receivable and reinsurance recoverable, net",
+                "concept": "ReinsuranceRecoverables",
+                "unit": "usd",
+                "value": 1265000000
+            },
+            {
+                "label": "Deferred policy acquisition costs, Value of business acquired and Sales inducements to contract owners",
+                "concept": "vriac:DeferredPolicyAcquisitionCostsValueOfBusinessAcquiredAndSalesInducementsToContractOwners",
+                "unit": "usd",
+                "value": 407000000
+            },
+            {
+                "label": "Short-term loan to affiliate",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 254000000
+            },
+            {
+                "label": "Current income tax recoverable",
+                "concept": "IncomeTaxReceivable",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Due from affiliates",
+                "concept": "DueFromAffiliates",
+                "unit": "usd",
+                "value": 81000000
+            },
+            {
+                "label": "Property and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 59000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 223000000
+            },
+            {
+                "label": "Assets held in separate accounts",
+                "concept": "SeparateAccountAssets",
+                "unit": "usd",
+                "value": 75740000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 114971000000
+            },
+            {
+                "label": "Future policy benefits and contract owner account balances",
+                "concept": "LiabilityForFuturePolicyBenefitsAndUnpaidClaimsAndClaimsAdjustmentExpense",
+                "unit": "usd",
+                "value": 31958000000
+            },
+            {
+                "label": "Payable for securities purchased",
+                "concept": "InvestmentRelatedLiabilities",
+                "unit": "usd",
+                "value": 103000000
+            },
+            {
+                "label": "Payables under securities loan agreements, including collateral held",
+                "concept": "ObligationToReturnSecuritiesReceivedAsCollateral",
+                "unit": "usd",
+                "value": 1164000000
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 80000000
+            },
+            {
+                "label": "Derivatives",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 736000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredTaxLiabilities",
+                "unit": "usd",
+                "value": 383000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 296000000
+            },
+            {
+                "label": "Liabilities related to separate accounts",
+                "concept": "SeparateAccountsLiability",
+                "unit": "usd",
+                "value": 75740000000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 110460000000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock (100,000 shares authorized, 55,000 issued and outstanding as of 2020 and 2019; $50 par value per share)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 2873000000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1535000000
+            },
+            {
+                "label": "Retained earnings (deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 100000000
+            },
+            {
+                "label": "Total shareholder's equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4511000000
+            },
+            {
+                "label": "Total liabilities and shareholder's equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 114971000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 93000000
+            },
+            {
+                "label": "Unrealized gains (losses) on securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 1269000000
+            },
+            {
+                "label": "Impairments",
+                "concept": "OtherThanTemporaryImpairmentLossesInvestmentsPortionInOtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Pension and other postretirement benefits liability",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Other comprehensive income (loss), before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1268000000
+            },
+            {
+                "label": "Income tax expense (benefit) related to items of other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossTaxPortionAttributableToParent1",
+                "unit": "usd",
+                "value": 266000000
+            },
+            {
+                "label": "Other comprehensive income (loss), after tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1002000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1095000000
+            }
+        ]
+    }
+}

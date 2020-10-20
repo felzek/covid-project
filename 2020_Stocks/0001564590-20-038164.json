@@ -1,0 +1,176 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "GEOS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, beginning of fiscal year",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 26669000
+            },
+            {
+                "label": "Cash and cash equivalents, beginning of fiscal year",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 26669000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Products",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 6975000
+            },
+            {
+                "label": "Rental",
+                "concept": "OperatingLeasesIncomeStatementLeaseRevenue",
+                "unit": "usd",
+                "value": 15728000
+            },
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 22703000
+            },
+            {
+                "label": "Products",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 8660000
+            },
+            {
+                "label": "Rental",
+                "concept": "OtherCostOfOperatingRevenue",
+                "unit": "usd",
+                "value": 5979000
+            },
+            {
+                "label": "Total cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 14639000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 8064000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5704000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 4014000
+            },
+            {
+                "label": "Change in estimated fair value of contingent consideration",
+                "concept": "BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1",
+                "unit": "usd",
+                "value": 662000
+            },
+            {
+                "label": "Provision for (recovery) of doubtful accounts.",
+                "concept": "geos:ProvisionForRecoveryOfDoubtfulAccounts",
+                "unit": "usd",
+                "value": 248000
+            },
+            {
+                "label": "Operating expenses excluding gain (loss) on sale of property plant equipment.",
+                "concept": "geos:OperatingExpensesExcludingGainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": 10628000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 2564000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 574000
+            },
+            {
+                "label": "Foreign exchange gains (losses), net",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 307000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Total other income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 852000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1712000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 573000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2285000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.17
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.17
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 13545340
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 13545340
+            }
+        ]
+    }
+}

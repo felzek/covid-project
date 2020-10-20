@@ -1,0 +1,80 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VBTX",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning balance for allowance for unfunded commitments",
+                "concept": "vbtx:AllowanceForUnfundedCommitments",
+                "unit": "usd",
+                "value": 8398000
+            },
+            {
+                "label": "Beginning balance for allowance for unfunded commitments",
+                "concept": "vbtx:AllowanceForUnfundedCommitments",
+                "unit": "usd",
+                "value": 8398000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 24028000
+            },
+            {
+                "label": "Change in net unrealized gains on securities available-for-sale during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 4773000
+            },
+            {
+                "label": "Reclassification adjustment for net (gains) losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 2879000
+            },
+            {
+                "label": "Net unrealized gains on securities available-for-sale",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1894000
+            },
+            {
+                "label": "Net unrealized (losses) gains on derivative instruments designated as cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 4668000
+            },
+            {
+                "label": "Other comprehensive (loss) income, before tax",
+                "concept": "OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 2774000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 518000
+            },
+            {
+                "label": "Other comprehensive (loss) income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 3292000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 20736000
+            }
+        ]
+    }
+}

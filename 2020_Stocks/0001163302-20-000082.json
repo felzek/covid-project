@@ -1,0 +1,68 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "X",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning of period",
+                "concept": "AccrualForEnvironmentalLossContingencies",
+                "unit": "usd",
+                "value": 173000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net (loss) earnings attributable to United States Steel Corporation",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 589000000
+            },
+            {
+                "label": "Changes in foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Changes in pension and other employee benefit accounts",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 29000000
+            },
+            {
+                "label": "Changes in derivative financial instruments",
+                "concept": "OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Total other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 64000000
+            },
+            {
+                "label": "Comprehensive (loss) income including noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 525000000
+            },
+            {
+                "label": "Less: Net earnings attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to United States Steel Corporation",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 525000000
+            }
+        ]
+    }
+}

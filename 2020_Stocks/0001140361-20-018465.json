@@ -1,0 +1,98 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CSAF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 10839362
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 6287866
+            },
+            {
+                "label": "Fixed income securities (cost $16,640,971 and $28,782,516, respectively)",
+                "concept": "USGovernmentSecuritiesAtCarryingValue",
+                "unit": "usd",
+                "value": 16641407
+            },
+            {
+                "label": "Short term investments (cost $920,312 and $3,076, respectively)",
+                "concept": "MoneyMarketFundsAtCarryingValue",
+                "unit": "usd",
+                "value": 920312
+            },
+            {
+                "label": "Interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 221635
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 156297635
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 164646
+            },
+            {
+                "label": "Accrued commissions and other trading fees on open contracts",
+                "concept": "CommissionsPayableToBrokerDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 36319
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4401820
+            },
+            {
+                "label": "General Partner - 0.000 and 0.000 redeemable units outstanding at June 30, 2020 and December 31, 2019",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Limited Partners - 70,875.539 and 74,725.829 redeemable units outstanding at June 30, 2020 and December 31, 2019",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 151895815
+            },
+            {
+                "label": "Balances",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 151895815
+            },
+            {
+                "label": "Total liabilities and partners' capital (Net Asset Value)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 156297635
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Trading gains (losses)",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -8978418
+            }
+        ]
+    }
+}

@@ -1,0 +1,428 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CDE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 70924000
+            },
+            {
+                "label": "Receivables",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 21986000
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 52752000
+            },
+            {
+                "label": "Ore on leach pads",
+                "concept": "cde:OreOnLeachPadCurrent",
+                "unit": "usd",
+                "value": 75111000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 18730000
+            },
+            {
+                "label": "Current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 239503000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 234133000
+            },
+            {
+                "label": "Mining properties, net",
+                "concept": "MineralPropertiesNet",
+                "unit": "usd",
+                "value": 704580000
+            },
+            {
+                "label": "Ore on leach pads, noncurrent",
+                "concept": "cde:OreOnLeachPadNonCurrent",
+                "unit": "usd",
+                "value": 78605000
+            },
+            {
+                "label": "Restricted assets",
+                "concept": "OtherRestrictedAssetsNoncurrent",
+                "unit": "usd",
+                "value": 8636000
+            },
+            {
+                "label": "Equity and debt securities",
+                "concept": "AvailableForSaleSecuritiesEquitySecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 15086000
+            },
+            {
+                "label": "Receivables",
+                "concept": "AccountsReceivableNetNoncurrent",
+                "unit": "usd",
+                "value": 22978000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 57559000
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1361080000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 58241000
+            },
+            {
+                "label": "Accrued liabilities and other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 68457000
+            },
+            {
+                "label": "Debt",
+                "concept": "DebtCurrent",
+                "unit": "usd",
+                "value": 27176000
+            },
+            {
+                "label": "Reclamation",
+                "concept": "AccruedReclamationCostsCurrent",
+                "unit": "usd",
+                "value": 3094000
+            },
+            {
+                "label": "Current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 156968000
+            },
+            {
+                "label": "Debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 321443000
+            },
+            {
+                "label": "Reclamation",
+                "concept": "MineReclamationAndClosingLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 137715000
+            },
+            {
+                "label": "Deferred tax liabilities",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 35266000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 55831000
+            },
+            {
+                "label": "Non-current liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 550255000
+            },
+            {
+                "label": "Common stock, par value $0.01 per share; authorized 300,000,000 shares, 243,731,885 issued and outstanding at June 30, 2020 and 241,529,021 at December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2437000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3605982000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 7706000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2946856000
+            },
+            {
+                "label": "Stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 653857000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1361080000
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1209000
+            },
+            {
+                "label": "Income (loss) from discontinued operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 27876000
+            },
+            {
+                "label": "Accretion",
+                "concept": "AccretionExpense",
+                "unit": "usd",
+                "value": 2908000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1545000
+            },
+            {
+                "label": "Loss on debt extinguishments",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Fair value adjustments, net",
+                "concept": "cde:FairValueAdjustmentsNet",
+                "unit": "usd",
+                "value": 10067000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2287000
+            },
+            {
+                "label": "Gain on Modification of Lease",
+                "concept": "cde:GainLossonModificationofLease",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Inventory Write-down",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 5208000
+            },
+            {
+                "label": "Revenue Recognized",
+                "concept": "ContractWithCustomerLiabilityRevenueRecognized",
+                "unit": "usd",
+                "value": 8134000
+            },
+            {
+                "label": "Foreign exchange and other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 913000
+            },
+            {
+                "label": "Receivables",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": 1536000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 1081000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 8056000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 2047000
+            },
+            {
+                "label": "CASH PROVIDED BY OPERATING ACTIVITIES CONTINUING OPERATIONS",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 9947000
+            },
+            {
+                "label": "Cash provided by (used in) activities of discontinued operations",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 9947000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 16682000
+            },
+            {
+                "label": "Proceeds from the sale of assets",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Proceeds from Collection of Notes Receivable",
+                "concept": "ProceedsFromCollectionOfNotesReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 183000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities, Continuing Operations",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 2946000
+            },
+            {
+                "label": "Cash provided by (used in) activities of discontinued operations",
+                "concept": "CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 2946000
+            },
+            {
+                "label": "Proceeds from Issuance of Common Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Issuance of notes and bank borrowings, net of issuance costs",
+                "concept": "ProceedsFromIssuanceOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 100000000
+            },
+            {
+                "label": "Payments on long-term debt, capital leases, and associated costs",
+                "concept": "RepaymentsOfLongTermDebtAndCapitalSecurities",
+                "unit": "usd",
+                "value": 95713000
+            },
+            {
+                "label": "Gold production royalty payments",
+                "concept": "PaymentForContingentConsiderationLiabilityFinancingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 141000
+            },
+            {
+                "label": "Cash provided by (used in) activities of continuing operations",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 4428000
+            },
+            {
+                "label": "Cash provided by (used in) activities of discontinued operations",
+                "concept": "CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash provided by (used in) activities of discontinued operations",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 4428000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash and cash equivalents",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 929000
+            },
+            {
+                "label": "INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 18250000
+            },
+            {
+                "label": "Less net cash provided by (used in) discontinued operations",
+                "concept": "NetCashProvidedByUsedInDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "NET CHANGE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH",
+                "concept": "cde:CashAndCashEquivalentsPeriodIncreaseDecreaseIncludingNetCashProvidedByUsedInDiscontinuedOperationsAssetsHeldForSale",
+                "unit": "usd",
+                "value": 18250000
+            },
+            {
+                "label": "Proceeds from Sale and Maturity of Marketable Securities",
+                "concept": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+                "unit": "usd",
+                "value": 19802000
+            }
+        ],
+        "ic": []
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SLB",
+    "data": {
+        "bs": [
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 12456000000
+            },
+            {
+                "label": "Balance, shares",
+                "concept": "SharesOutstanding",
+                "unit": "shares",
+                "value": 1388000000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 12456000000
+            },
+            {
+                "label": "Balance, shares",
+                "concept": "SharesOutstanding",
+                "unit": "shares",
+                "value": 1388000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 3428000000
+            },
+            {
+                "label": "Unrealized net change arising during the period",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Net (loss) gain on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 28000000
+            },
+            {
+                "label": "Reclassification to net income (loss) of net realized loss",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Amortization to net income (loss) of net actuarial loss",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax",
+                "unit": "usd",
+                "value": 37000000
+            },
+            {
+                "label": "Amortization to net income (loss) of net prior service credit",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditBeforeTax",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Impact of curtailment",
+                "concept": "DefinedBenefitPlanRecognizedNetGainLossDueToSettlementsAndCurtailments1",
+                "unit": "usd",
+                "value": 69000000
+            },
+            {
+                "label": "Income taxes on pension and other postretirement benefit plans",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3443000000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Schlumberger",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3449000000
+            }
+        ]
+    }
+}

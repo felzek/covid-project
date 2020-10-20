@@ -1,0 +1,62 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CPS",
+    "data": {
+        "bs": [
+            {
+                "label": "Assets held for sale",
+                "concept": "AssetsHeldForSaleNotPartOfDisposalGroupCurrentOther",
+                "unit": "usd",
+                "value": 30337000
+            },
+            {
+                "label": "Operating lease right-of-use assets, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 110091000
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 20913000
+            },
+            {
+                "label": "Liabilities held for sale",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": 41093000
+            },
+            {
+                "label": "Long-term operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 88995000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 6789000
+            },
+            {
+                "label": "Comprehensive loss attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1675000
+            },
+            {
+                "label": "Comprehensive (loss) income attributable to Cooper-Standard Holdings Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 121998000
+            }
+        ]
+    }
+}

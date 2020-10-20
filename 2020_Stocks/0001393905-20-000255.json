@@ -1,0 +1,164 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PWCO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 104889
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 35512
+            },
+            {
+                "label": "Prepaid expenses and deposits",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 32008
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 172409
+            },
+            {
+                "label": "Intangible asset - license agreement",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 101250
+            },
+            {
+                "label": "Fixed asset - engines, net of accumulated depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 8225
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 281884
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 713287
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 713287
+            },
+            {
+                "label": "Common stock, $0.001 par value: 325,000,000 shares authorized; 210,342,722 shares issued and outstanding at both June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 210342
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1310910
+            },
+            {
+                "label": "Retained earnings (deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -1952655
+            },
+            {
+                "label": "Total Stockholders' Equity (Deficit)",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -431403
+            },
+            {
+                "label": "Total Liabilities and Stockholders' Equity (Deficit)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 281884
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Project Management",
+                "concept": "PropertyManagementFeeRevenue",
+                "unit": "usd",
+                "value": 41570
+            },
+            {
+                "label": "Engine Business",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 41570
+            },
+            {
+                "label": "Consulting fees",
+                "concept": "ProfessionalAndContractServicesExpense",
+                "unit": "usd",
+                "value": 19760
+            },
+            {
+                "label": "Engine Development & Production",
+                "concept": "ProductionCosts",
+                "unit": "usd",
+                "value": 23928
+            },
+            {
+                "label": "General and Administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 16763
+            },
+            {
+                "label": "Legal and other professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 21862
+            },
+            {
+                "label": "Total Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 82313
+            },
+            {
+                "label": "Net Income (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -40743
+            },
+            {
+                "label": "Net (Loss) per Common Share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Weighted Average Common Shares Outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 210342722
+            }
+        ]
+    }
+}

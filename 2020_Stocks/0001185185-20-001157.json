@@ -1,0 +1,368 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LBTI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1149639
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 258574
+            },
+            {
+                "label": "Notes receivable",
+                "concept": "NotesAndLoansReceivableNetCurrent",
+                "unit": "usd",
+                "value": 255704
+            },
+            {
+                "label": "Other receivables",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 2863
+            },
+            {
+                "label": "Advances to suppliers, net",
+                "concept": "AdvancesOnInventoryPurchases",
+                "unit": "usd",
+                "value": 91409
+            },
+            {
+                "label": "Due from related parties",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 1182291
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 847623
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 3788103
+            },
+            {
+                "label": "Long-term prepaid expense",
+                "concept": "PrepaidExpenseNoncurrent",
+                "unit": "usd",
+                "value": 15397
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1517966
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 1614229
+            },
+            {
+                "label": "Total noncurrent assets",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 3147592
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 6935695
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 295077
+            },
+            {
+                "label": "Unearned revenue",
+                "concept": "DeferredRevenueCurrent",
+                "unit": "usd",
+                "value": 139512
+            },
+            {
+                "label": "Accrued liabilities and other payables",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1325826
+            },
+            {
+                "label": "Taxes payable",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 303901
+            },
+            {
+                "label": "Due to related parties",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 933375
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2997691
+            },
+            {
+                "label": "DEFERRED INCOME",
+                "concept": "DeferredIncomeCurrent",
+                "unit": "usd",
+                "value": 1247828
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4245519
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value; 500,000,000 shares authorized, 185,968,370 shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 185968
+            },
+            {
+                "label": "Paid-in capital deficiency",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": -6666351
+            },
+            {
+                "label": "Statutory reserve",
+                "concept": "RetainedEarningsAppropriated",
+                "unit": "usd",
+                "value": 135676
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -131562
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 8462907
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 703538
+            },
+            {
+                "label": "TOTAL EQUITY",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2690176
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 6935695
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 2217832
+            },
+            {
+                "label": "Sales - related party",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 101560
+            },
+            {
+                "label": "Total sales",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 2319392
+            },
+            {
+                "label": "Cost of sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 1973791
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 345601
+            },
+            {
+                "label": "Selling",
+                "concept": "SellingExpense",
+                "unit": "usd",
+                "value": 29344
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 326993
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 356337
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -10736
+            },
+            {
+                "label": "Financial income (expense)",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 410
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 27754
+            },
+            {
+                "label": "Subsidy income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 48494
+            },
+            {
+                "label": "Total non-operating income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 76658
+            },
+            {
+                "label": "Income (loss) before income tax",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 65922
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 25933
+            },
+            {
+                "label": "Income (loss) from continuing operations",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": 39989
+            },
+            {
+                "label": "Income (loss) from operations of discontinued entities, net of tax",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Income (loss) before noncontrolling interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 39989
+            },
+            {
+                "label": "Less: loss attributable to noncontrolling interest from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2745
+            },
+            {
+                "label": "Net income (loss) to the Company",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 42734
+            },
+            {
+                "label": "Foreign currency translation gain attributable to discontinued operations",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Foreign currency translation loss attributable to the Company",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": -57766
+            },
+            {
+                "label": "Foreign currency translation gain attributable to noncontrolling interest",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1542
+            },
+            {
+                "label": "Comprehensive loss attributable to the Company",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -15032
+            },
+            {
+                "label": "Comprehensive loss attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1203
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 185968370
+            },
+            {
+                "label": "Basic and diluted income (loss) per share from continuing operations (in Dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Basic and diluted income (loss) per share from discontinued operations (in Dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0
+            },
+            {
+                "label": "Basic and diluted net income (loss) per share (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            }
+        ]
+    }
+}

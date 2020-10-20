@@ -1,0 +1,56 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "PPHI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 22867591
+            },
+            {
+                "label": "Cash and cash equivalents, at beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 22867591
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 358063
+            },
+            {
+                "label": "Unrealized holding gain during the period, net of income tax expense of $938,368 and $277,179 for three months ended June 30, 2020 and 2019 and $450,285 and $621,384 for six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 3533937
+            },
+            {
+                "label": "Reclassification adjustments for (gains) losses included in net income (loss), net of income tax (expense) benefit of $(1,033) and $(6) for three months ended June 30, 2020 and 2019 and $(11,412) and $7,509 for six months ended June 30, 2020 and 2019, respectively",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 3887
+            },
+            {
+                "label": "Other comprehensive income",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 3530050
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 3888113
+            }
+        ]
+    }
+}

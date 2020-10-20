@@ -1,0 +1,140 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "HFFG",
+    "data": {
+        "bs": [
+            {
+                "label": "Property and equipment, at cost",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 171046286
+            },
+            {
+                "label": "Less: accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 31773447
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 139272839
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 104560096
+            },
+            {
+                "label": "Cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 83947312
+            },
+            {
+                "label": "GROSS PROFIT",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 20612784
+            },
+            {
+                "label": "DISTRIBUTION, SELLING AND ADMINISTRATIVE EXPENSES",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 25092568
+            },
+            {
+                "label": "INCOME (LOSS) FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 4479784
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 132
+            },
+            {
+                "label": "Interest expenses",
+                "concept": "hffg:InterestExpenseAndBankCharges",
+                "unit": "usd",
+                "value": 324319
+            },
+            {
+                "label": "Goodwill impairment loss",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 264730
+            },
+            {
+                "label": "Change in fair value of interest rate swap contracts",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": 1264254
+            },
+            {
+                "label": "Total Other Income (Expenses), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1323711
+            },
+            {
+                "label": "INCOME (LOSS) BEFORE INCOME TAX PROVISION (BENEFIT)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5803495
+            },
+            {
+                "label": "PROVISION (BENEFIT) FOR INCOME TAXES",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 1489305
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 4314190
+            },
+            {
+                "label": "Less: net income (loss) attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 255287
+            },
+            {
+                "label": "NET INCOME (LOSS) ATTRIBUTABLE TO HF FOODS GROUP INC.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 4058903
+            },
+            {
+                "label": "Earnings (loss) per common share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Weighted average shares - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 52145096
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "startDate": "2020-03-29",
+    "endDate": "2020-06-27",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "SANM",
+    "data": {
+        "bs": [
+            {
+                "label": "Stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 904218000
+            },
+            {
+                "label": "Treasury Stock, Shares",
+                "concept": "TreasuryStockShares",
+                "unit": "shares",
+                "value": 39613000
+            },
+            {
+                "label": "Treasury Stock, Shares",
+                "concept": "TreasuryStockShares",
+                "unit": "shares",
+                "value": 39613000
+            },
+            {
+                "label": "Stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 904218000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 44880000
+            },
+            {
+                "label": "Change in foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1199000
+            },
+            {
+                "label": "Change in net unrealized amount",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 624000
+            },
+            {
+                "label": "Amount reclassified into net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 1002000
+            },
+            {
+                "label": "Changes in unrecognized net actuarial losses and unrecognized transition costs",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeReclassificationAdjustmentsNetOfTax",
+                "unit": "usd",
+                "value": 619000
+            },
+            {
+                "label": "Amortization of actuarial losses and transition costs",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansNetOfTax",
+                "unit": "usd",
+                "value": 332000
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1290000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 46170000
+            }
+        ]
+    }
+}

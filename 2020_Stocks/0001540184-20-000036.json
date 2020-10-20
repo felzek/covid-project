@@ -1,0 +1,140 @@
+{
+    "startDate": "2020-05-01",
+    "endDate": "2020-07-31",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "MDLA",
+    "data": {
+        "bs": [
+            {
+                "label": "Accrued salaries and bonuses",
+                "concept": "mdla:AccruedSalariesAndBonusCurrent",
+                "unit": "usd",
+                "value": 5060000
+            },
+            {
+                "label": "Accrued commissions",
+                "concept": "AccruedSalesCommissionCurrent",
+                "unit": "usd",
+                "value": 10602000
+            },
+            {
+                "label": "Accrued vacation",
+                "concept": "AccruedVacationCurrent",
+                "unit": "usd",
+                "value": 4313000
+            },
+            {
+                "label": "Employee stock purchase plan",
+                "concept": "DeferredCompensationShareBasedArrangementsLiabilityCurrent",
+                "unit": "usd",
+                "value": 6230000
+            },
+            {
+                "label": "Payroll taxes",
+                "concept": "AccruedPayrollTaxesCurrent",
+                "unit": "usd",
+                "value": 5717000
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 31922000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 115525000
+            },
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 115525000
+            },
+            {
+                "label": "Total cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 41172000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 74353000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 27790000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 51942000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 29137000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 108869000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 34516000
+            },
+            {
+                "label": "Interest income and other income (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 448000
+            },
+            {
+                "label": "Loss before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 34964000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 234000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 35198000
+            },
+            {
+                "label": "Net loss per share attributable to common stockholders, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.25
+            },
+            {
+                "label": "Weighted-average shares used in computing net loss per share attributable to common stockholders, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 142479000
+            }
+        ]
+    }
+}

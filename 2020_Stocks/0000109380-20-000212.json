@@ -1,0 +1,50 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ZIONS",
+    "data": {
+        "bs": [
+            {
+                "label": "Net unfunded commitments to extend credit",
+                "concept": "UnusedCommitmentsToExtendCredit",
+                "unit": "usd",
+                "value": 23498000000
+            },
+            {
+                "label": "Commercial letters of credit",
+                "concept": "zions:CommercialLettersOfCredit",
+                "unit": "usd",
+                "value": 21000000
+            },
+            {
+                "label": "Total unfunded lending commitments",
+                "concept": "zions:TotalUnfundedLendingCommitments",
+                "unit": "usd",
+                "value": 24229000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Other noninterest-bearing investments, Nonmarketable equity securities, Gross gains",
+                "concept": "zions:OtherNoninterestBearingInvestmentsNonmarketableEquitySecuritiesGrossGains",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Other noninterest-bearing investments, Nonmarketable equity securities, Gross losses",
+                "concept": "zions:OtherNoninterestBearingInvestmentsNonmarketableEquitySecuritiesGrossLosses",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Net losses",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 4000000
+            }
+        ]
+    }
+}

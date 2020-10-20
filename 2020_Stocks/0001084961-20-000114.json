@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "ECPG",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 293800000
+            },
+            {
+                "label": "Investment in receivable portfolios, net",
+                "concept": "CertainLoansAcquiredInTransferNotAccountedForAsDebtSecuritiesCarryingAmountNet",
+                "unit": "usd",
+                "value": 3201241000
+            },
+            {
+                "label": "Deferred court costs, net",
+                "concept": "OtherDeferredCostsNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 117873000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 289916000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 838024000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4740854000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 218471000
+            },
+            {
+                "label": "Borrowings",
+                "concept": "DebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 3353730000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 126266000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3698467000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Convertible preferred stock, $0.01 par value, 5,000 shares authorized, no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 75,000 shares authorized, 31,288 and 31,097 shares issued and outstanding as of June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 313000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 227030000
+            },
+            {
+                "label": "Accumulated earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 963698000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 152190000
+            },
+            {
+                "label": "Total Encore Capital Group, Inc. stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1038851000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 3536000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1042387000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 4740854000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 130784000
+            },
+            {
+                "label": "Unrealized gain (loss) on derivative instruments",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax",
+                "unit": "usd",
+                "value": 948000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationTax",
+                "unit": "usd",
+                "value": 384000
+            },
+            {
+                "label": "Unrealized gain (loss) on derivative instruments, net of tax",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 564000
+            },
+            {
+                "label": "Unrealized loss on foreign currency translation",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 2032000
+            },
+            {
+                "label": "Removal of other comprehensive loss in connection with divestiture",
+                "concept": "ecpg:OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodDivestitureNetOfTax",
+                "unit": "usd",
+                "value": 2632000
+            },
+            {
+                "label": "Unrealized gain (loss) on foreign currency translation, net of divestiture",
+                "concept": "ecpg:OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfDivestitureNetOfTax",
+                "unit": "usd",
+                "value": 600000
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax:",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1164000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 131948000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 452000
+            },
+            {
+                "label": "Unrealized loss (gain) on foreign currency translation",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interest:",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 451000
+            },
+            {
+                "label": "Comprehensive income attributable to Encore Capital Group, Inc. stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 131497000
+            }
+        ]
+    }
+}

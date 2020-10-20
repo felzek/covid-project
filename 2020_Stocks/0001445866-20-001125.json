@@ -1,0 +1,393 @@
+{
+    "startDate": "2019-05-01",
+    "endDate": "2020-04-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "DTII",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash {1}",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 70416
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 21368
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 111784
+            },
+            {
+                "label": "Fixed assets, net of depreciation of $2,915",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 31996
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 143780
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 364199
+            },
+            {
+                "label": "Accrued interest and fees payable",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 178066
+            },
+            {
+                "label": "Customer deposits",
+                "concept": "CustomerDepositsCurrent",
+                "unit": "usd",
+                "value": 45695
+            },
+            {
+                "label": "Derivative liabilities",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1333288
+            },
+            {
+                "label": "Convertible notes payable, net of discount",
+                "concept": "ConvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 821949
+            },
+            {
+                "label": "Payables - related parties",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 970547
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayableCurrent",
+                "unit": "usd",
+                "value": 424226
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4209270
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4209270
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common shares",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 905
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 6288325
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -10193808
+            },
+            {
+                "label": "Total",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -3904234
+            },
+            {
+                "label": "Non-controlling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": -161256
+            },
+            {
+                "label": "Total stockholders' deficit",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -4065490
+            },
+            {
+                "label": "Total liabilities and stockholders' deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 143780
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss) before non-controlling interest",
+                "concept": "IncomeLossIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -949379
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 2915
+            },
+            {
+                "label": "Common stock issued for services {1}",
+                "concept": "IssuanceOfStockAndWarrantsForServicesOrClaims",
+                "unit": "usd",
+                "value": 166717
+            },
+            {
+                "label": "Impairment of asset {1}",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Amortization of debt discount and financing fees",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 341099
+            },
+            {
+                "label": "Gain(loss) on extinguishment of debt",
+                "concept": "ExtinguishmentOfDebtGainLossNetOfTax",
+                "unit": "usd",
+                "value": 204906
+            },
+            {
+                "label": "(Increase) decrease in inventory",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 18581
+            },
+            {
+                "label": "(Increase) decrease in prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 9500
+            },
+            {
+                "label": "Increase in accounts payable and accrued expense",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 301752
+            },
+            {
+                "label": "Increase in customer deposits",
+                "concept": "IncreaseDecreaseInCustomerDeposits",
+                "unit": "usd",
+                "value": 45965
+            },
+            {
+                "label": "Increase in payables - related parties",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": 220668
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -328733
+            },
+            {
+                "label": "Purchase of fixed assets",
+                "concept": "PaymentsForPurchaseOfOtherAssets1",
+                "unit": "usd",
+                "value": 34911
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -34911
+            },
+            {
+                "label": "Repayment of convertible notes",
+                "concept": "RepaymentsOfConvertibleDebt",
+                "unit": "usd",
+                "value": 158000
+            },
+            {
+                "label": "Proceeds from convertible notes payable, net",
+                "concept": "ProceedsFromConvertibleDebt",
+                "unit": "usd",
+                "value": 597000
+            },
+            {
+                "label": "Proceeds (repayment) from notes payable",
+                "concept": "ProceedsFromRepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": -5000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 434000
+            },
+            {
+                "label": "Net increase (decrease) in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 70356
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 22600
+            },
+            {
+                "label": "Income tax paid",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock issued for convertible debt",
+                "concept": "StockIssuedDuringPeriodValueConversionOfConvertibleSecurities",
+                "unit": "usd",
+                "value": 232419
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Consulting fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 529479
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 224716
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 903440
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -903440
+            },
+            {
+                "label": "Impairment of asset",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Gain (loss) on notes payable",
+                "concept": "GainsLossesOnRestructuringOfDebt",
+                "unit": "usd",
+                "value": -2178519
+            },
+            {
+                "label": "Gain (loss) on derivative liabilities",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 2307215
+            },
+            {
+                "label": "Gain on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 204906
+            },
+            {
+                "label": "Total other income (expense)",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -45939
+            },
+            {
+                "label": "Income/(Loss) Before Income Taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+                "unit": "usd",
+                "value": -949379
+            },
+            {
+                "label": "Net income (loss) before non-controlling interest",
+                "concept": "IncomeLossIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -949379
+            },
+            {
+                "label": "Non-controlling interest in net loss of consolidated subsidiary",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -31653
+            },
+            {
+                "label": "Net gain (loss) attributed to the Company",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -917726
+            },
+            {
+                "label": "Basic net income (loss) per common share",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.13
+            },
+            {
+                "label": "Basic weighted average common shares outstanding",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 6969922
+            },
+            {
+                "label": "Diluted net income (loss) per common share",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.13
+            },
+            {
+                "label": "Diluted weighted average common shares outstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 6969922
+            }
+        ]
+    }
+}

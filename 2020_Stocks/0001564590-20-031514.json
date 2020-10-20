@@ -1,0 +1,206 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "CVIA",
+    "data": {
+        "bs": [
+            {
+                "label": "Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 298164000
+            },
+            {
+                "label": "Beginning of period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": 298164000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss attributable to Covia Holdings Corporation",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 941000
+            },
+            {
+                "label": "Depreciation depletion and amortization including other expense..",
+                "concept": "cvia:DepreciationDepletionAndAmortizationIncludingOtherExpense",
+                "unit": "usd",
+                "value": 34830000
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 1237000
+            },
+            {
+                "label": "Gain on disposal of fixed assets",
+                "concept": "GainsLossesOnSalesOfAssets",
+                "unit": "usd",
+                "value": 815000
+            },
+            {
+                "label": "Deferred income tax benefit",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 665000
+            },
+            {
+                "label": "Stock compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1650000
+            },
+            {
+                "label": "Less: Net loss attributable to the non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 2277000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 12070000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 2060000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 23517000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 40000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 24376000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 728000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 8297000
+            },
+            {
+                "label": "Capitalized interest",
+                "concept": "InterestPaidCapitalized",
+                "unit": "usd",
+                "value": 752000
+            },
+            {
+                "label": "Proceeds from sale of fixed assets",
+                "concept": "ProceedsFromSaleOfProductiveAssets",
+                "unit": "usd",
+                "value": 1083000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 7966000
+            },
+            {
+                "label": "Repayments of term loan.",
+                "concept": "cvia:RepaymentsOfTermLoan",
+                "unit": "usd",
+                "value": 7931000
+            },
+            {
+                "label": "Payments on other long-term debt",
+                "concept": "RepaymentsOfOtherLongTermDebt",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "Payments of finance lease liabilities.",
+                "concept": "cvia:PaymentsOfFinanceLeaseLiabilities",
+                "unit": "usd",
+                "value": 1182000
+            },
+            {
+                "label": "Tax payments for withholdings on share-based awards exercised or distributed",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 183000
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 9331000
+            },
+            {
+                "label": "Effect of foreign currency exchange rate changes",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 3295000
+            },
+            {
+                "label": "Decrease in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 21320000
+            },
+            {
+                "label": "Interest paid, net of capitalized interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 25503000
+            },
+            {
+                "label": "Income taxes (paid) refunded",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 83000
+            },
+            {
+                "label": "Non-cash increase in asset retirement obligations.",
+                "concept": "cvia:NonCashIncreaseInAssetRetirementObligations",
+                "unit": "usd",
+                "value": 6474000
+            },
+            {
+                "label": "Capital expenditures and capitalized interest in accounts payable and accrued expenses.",
+                "concept": "cvia:CapitalExpendituresAndCapitalizedInterestInAccountsPayableAndAccruedExpenses",
+                "unit": "usd",
+                "value": 2369000
+            },
+            {
+                "label": "Right-of-use assets obtained in exchange for lease liabilities",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 169000
+            }
+        ],
+        "ic": []
+    }
+}

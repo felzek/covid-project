@@ -1,0 +1,326 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "KBSGI",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 19545000
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 131958000
+            },
+            {
+                "label": "Tenant origination and absorption costs",
+                "concept": "kbsgi:TenantOriginationAndAbsorptionCostsGross",
+                "unit": "usd",
+                "value": 11228000
+            },
+            {
+                "label": "Total real estate, cost",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 162731000
+            },
+            {
+                "label": "Less accumulated depreciation and amortization",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 21254000
+            },
+            {
+                "label": "Total real estate held for investment, net",
+                "concept": "kbsgi:RealEstateInvestmentPropertyExcludingHeldForSale",
+                "unit": "usd",
+                "value": 141477000
+            },
+            {
+                "label": "Real estate held for sale, net",
+                "concept": "RealEstateHeldforsale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total real estate, net",
+                "concept": "kbsgi:TotalRealEstate",
+                "unit": "usd",
+                "value": 141477000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4562000
+            },
+            {
+                "label": "Investment in unconsolidated joint venture",
+                "concept": "RealEstateInvestmentsUnconsolidatedRealEstateAndOtherJointVentures",
+                "unit": "usd",
+                "value": 562000
+            },
+            {
+                "label": "Rents and other receivables",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 3134000
+            },
+            {
+                "label": "Above-market leases, net",
+                "concept": "kbsgi:AboveMarketLeasesNet",
+                "unit": "usd",
+                "value": 105000
+            },
+            {
+                "label": "Assets related to real estate held for sale",
+                "concept": "kbsgi:AssetsRelatedToRealEstateHeldForSale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 1524000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 151364000
+            },
+            {
+                "label": "Notes payable, net",
+                "concept": "kbsgi:DisposalGroupExcludingDiscontinuedOperationLiabilities",
+                "unit": "usd",
+                "value": 94403000
+            },
+            {
+                "label": "Notes payable related to real estate held for sale, net",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total notes payable, net",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 94403000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1635000
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 6406000
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 215000
+            },
+            {
+                "label": "Below-market leases, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 1978000
+            },
+            {
+                "label": "Liabilities related to real estate held for sale",
+                "concept": "kbsgi:LiabilitiesRelatedToRealEstateHeldForSale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 4406000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 109043000
+            },
+            {
+                "label": "Commitments and contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable common stock",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 800000
+            },
+            {
+                "label": "Preferred stock, $.01 par value; 10,000,000 shares authorized, no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 84642000
+            },
+            {
+                "label": "Cumulative distributions and net losses",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 43223000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 41521000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 151364000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Rental income",
+                "concept": "OperatingLeasesIncomeStatementLeaseRevenue",
+                "unit": "usd",
+                "value": 4624000
+            },
+            {
+                "label": "Other operating income",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 44000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 4668000
+            },
+            {
+                "label": "Operating, maintenance, and management",
+                "concept": "CostOfOtherPropertyOperatingExpense",
+                "unit": "usd",
+                "value": 908000
+            },
+            {
+                "label": "Property management fees and expenses to affiliate",
+                "concept": "kbsgi:PropertyManagementFeesAndExpensesToAffiliate",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "Real estate taxes and insurance",
+                "concept": "RealEstateTaxesAndInsurance",
+                "unit": "usd",
+                "value": 706000
+            },
+            {
+                "label": "Asset management fees to affiliate",
+                "concept": "AffiliateCosts",
+                "unit": "usd",
+                "value": 426000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 660000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 1990000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 849000
+            },
+            {
+                "label": "Impairment charges on real estate",
+                "concept": "ImpairmentOfRealEstate",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 5574000
+            },
+            {
+                "label": "Interest and other income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Gain on sale of real estate, net",
+                "concept": "GainsLossesOnSalesOfInvestmentRealEstate",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Equity in income (loss) of unconsolidated joint venture",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 34000
+            },
+            {
+                "label": "Loss from extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total other income",
+                "concept": "kbsgi:OtherIncomeLoss",
+                "unit": "usd",
+                "value": 35000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 871000
+            },
+            {
+                "label": "Net loss per common share, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.09
+            },
+            {
+                "label": "Weighted-average number of common shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 10182690
+            }
+        ]
+    }
+}

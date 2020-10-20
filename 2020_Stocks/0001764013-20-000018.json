@@ -1,0 +1,357 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "IMVT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 280279000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 5813000
+            },
+            {
+                "label": "Income tax receivable",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "Value-added tax receivable",
+                "concept": "ValueAddedTaxReceivableCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 286116000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 4063000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Deferred offering costs",
+                "concept": "DeferredCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 290291000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 8011000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10095000
+            },
+            {
+                "label": "Current portion of operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1102000
+            },
+            {
+                "label": "Due to Roivant Sciences Ltd.",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 336000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 19544000
+            },
+            {
+                "label": "Operating lease liabilities, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2972000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 22516000
+            },
+            {
+                "label": "Commitments and contingencies (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock value",
+                "concept": "PreferredStockValueOutstanding",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $0.0001 per share, 500,000,000 shares authorized, 81,811,727 shares issued and 80,911,727 shares outstanding at June\u00a030, 2020 and 500,000,000 shares authorized, 56,455,376 shares issued and 54,655,376 shares outstanding at March\u00a031, 2020",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 385691000
+            },
+            {
+                "label": "Accumulated other comprehensive income (loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 117934000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 267775000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 290291000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 26708000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 3981000
+            },
+            {
+                "label": "Depreciation on property and equipment",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "ForeignCurrencyTransactionGainLossUnrealized",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "Loss on disposal of property and equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Noncash lease expense",
+                "concept": "OperatingLeaseRightOfUseAssetAmortizationExpense",
+                "unit": "usd",
+                "value": 152000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 353000
+            },
+            {
+                "label": "Income tax receivable",
+                "concept": "IncreaseDecreaseInIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Value-added tax receivable",
+                "concept": "imvt:IncreaseDecreaseInValueAddedTaxReceivable",
+                "unit": "usd",
+                "value": 3009000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 6811000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 597000
+            },
+            {
+                "label": "Due to Roivant Sciences Ltd.",
+                "concept": "IncreaseDecreaseInDueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "imvt:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 141000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 13798000
+            },
+            {
+                "label": "Purchase of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 47000
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 47000
+            },
+            {
+                "label": "Capital contributions",
+                "concept": "ProceedsFromContributedCapital",
+                "unit": "usd",
+                "value": 164000
+            },
+            {
+                "label": "Proceeds from stock options exercised",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 63000
+            },
+            {
+                "label": "Payment of deferred offering costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 602000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 193553000
+            },
+            {
+                "label": "Net change in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 179708000
+            },
+            {
+                "label": "Purchase of property and equipment in accounts payable",
+                "concept": "imvt:PurchaseOfPropertyAndEquipmentInAccountsPayable",
+                "unit": "usd",
+                "value": 19000
+            },
+            {
+                "label": "Deferred offering costs in accrued expenses",
+                "concept": "imvt:NoncashOrPartNoncashDeferredInitialPublicOfferingCostsIncludedInAccruedExpenses",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating lease right-of-use assets obtained and exchanged for operating lease liabilities",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 4215000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Research and development (includes $477 and $65 of stock-based compensation expense for the three months ended June 30, 2020 and 2019, respectively)",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 16922000
+            },
+            {
+                "label": "General and administrative (includes $3,504 and $507 of stock-based compensation expense for the three months ended June 30, 2020 and 2019, respectively)",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 9664000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 26586000
+            },
+            {
+                "label": "Other expense (income), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 74000
+            },
+            {
+                "label": "Loss before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 26660000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 48000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 26708000
+            },
+            {
+                "label": "Net loss per common share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.38
+            },
+            {
+                "label": "Weighted-average common shares outstanding \u2013 basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 70818867
+            }
+        ]
+    }
+}

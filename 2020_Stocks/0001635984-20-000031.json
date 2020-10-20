@@ -1,0 +1,152 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NWLI",
+    "data": {
+        "bs": [
+            {
+                "label": "Debt securities held to maturity - fair value",
+                "concept": "HeldToMaturitySecuritiesFairValue",
+                "unit": "usd",
+                "value": 6898842000
+            },
+            {
+                "label": "Debt securities available for sale, at fair value (cost: $3,166,206 and $3,206,120)",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 3373113000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsFairValueDisclosure",
+                "unit": "usd",
+                "value": 450703000
+            },
+            {
+                "label": "Mortgage loans",
+                "concept": "nwli:MortgageLoansOnRealEstateCommercialAndConsumerNetFairValueDisclosure",
+                "unit": "usd",
+                "value": 273701000
+            },
+            {
+                "label": "Real estate",
+                "concept": "nwli:RealEstateFairValueDisclosure",
+                "unit": "usd",
+                "value": 34298000
+            },
+            {
+                "label": "Policy loans",
+                "concept": "nwli:LoansGrossInsurancePolicyFairValueDisclosure",
+                "unit": "usd",
+                "value": 76811000
+            },
+            {
+                "label": "Other loans",
+                "concept": "LoansReceivableFairValueDisclosure",
+                "unit": "usd",
+                "value": 18064000
+            },
+            {
+                "label": "Derivatives, index options",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 66738000
+            },
+            {
+                "label": "Equity securities, at fair value (cost: $15,361 and $16,894)",
+                "concept": "EquitySecuritiesFvNi",
+                "unit": "usd",
+                "value": 17918000
+            },
+            {
+                "label": "Life interest in Libbie Shearn Moody Trust",
+                "concept": "nwli:InterestInTrustFairValueDisclosure",
+                "unit": "usd",
+                "value": 9230000
+            },
+            {
+                "label": "Other investments",
+                "concept": "nwli:OtherAssetsBookValueAndFairValueDisclosure",
+                "unit": "usd",
+                "value": 4515000
+            },
+            {
+                "label": "Deferred annuity contracts",
+                "concept": "nwli:LiabilityForDeferredAnnuityContractsFairValueDisclosure",
+                "unit": "usd",
+                "value": 6755394000
+            },
+            {
+                "label": "Immediate annuity and supplemental contracts",
+                "concept": "nwli:LiabilityForFuturePolicyBenefitsIndividualAndGroupAnnuitiesAndSupplementaryContractsFairValueDisclosure",
+                "unit": "usd",
+                "value": 403856000
+            },
+            {
+                "label": "Contingent consideration on businesses acquired",
+                "concept": "BusinessCombinationContingentConsiderationLiability",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net earnings (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 48413000
+            },
+            {
+                "label": "Net unrealized holding gains (losses) arising during period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 107365000
+            },
+            {
+                "label": "Net unrealized liquidity gains (losses)",
+                "concept": "nwli:ChangeInNetUnrealizedGainLossOnInvestmentSecuritiesHavingCreditLossesRecognizedInConsolidatedStatementOfIncomeNetofTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification adjustment for net amounts included in net earnings",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 1367000
+            },
+            {
+                "label": "Net unrealized gains (losses) on securities",
+                "concept": "nwli:OtherComprehensiveIncomeLossSecuritiesAdjustmentsAndOtherThanTemporaryImpairmentLossesPortionAttributableToParent",
+                "unit": "usd",
+                "value": 105998000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 92000
+            },
+            {
+                "label": "Amortization of net prior service cost and net gain (loss)",
+                "concept": "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax",
+                "unit": "usd",
+                "value": 2067000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 103839000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 152252000
+            }
+        ]
+    }
+}

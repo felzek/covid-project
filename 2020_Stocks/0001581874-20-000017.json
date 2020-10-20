@@ -1,0 +1,85 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "TSIF",
+    "data": {
+        "bs": [],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Investment Income, Dividend",
+                "concept": "InvestmentIncomeDividend",
+                "unit": "usd",
+                "value": 681685
+            },
+            {
+                "label": "Other operating income",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 34
+            },
+            {
+                "label": "Total investment income",
+                "concept": "GrossInvestmentIncomeOperating",
+                "unit": "usd",
+                "value": 681719
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 161100
+            },
+            {
+                "label": "Other",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 1295
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 162395
+            },
+            {
+                "label": "Net investment income (loss)",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 519324
+            },
+            {
+                "label": "Net change in unrealized appreciation on investment",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 2813973
+            },
+            {
+                "label": "Net increase in members\u2019 capital resulting from operations",
+                "concept": "tsif:NetIncomeAttributableToLimitedLiabilityCompanyMembers",
+                "unit": "usd",
+                "value": 3333297
+            },
+            {
+                "label": "Net investment income (loss) per unit",
+                "concept": "InvestmentCompanyInvestmentIncomeLossPerShare",
+                "unit": "usd/shares",
+                "value": 78
+            },
+            {
+                "label": "Net increase in members\u2019 capital resulting from operations per unit",
+                "concept": "InvestmentCompanyInvestmentIncomeLossFromOperationsPerShare",
+                "unit": "usd/shares",
+                "value": 502
+            },
+            {
+                "label": "Weighted average units outstanding",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 6638
+            }
+        ]
+    }
+}

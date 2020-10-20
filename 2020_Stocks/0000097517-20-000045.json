@@ -1,0 +1,254 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TPL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 258364000
+            },
+            {
+                "label": "Accrued receivables, net",
+                "concept": "OtherReceivables",
+                "unit": "usd",
+                "value": 49564000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 3208000
+            },
+            {
+                "label": "Property, plant and equipment, net of accumulated depreciation of $18,130 and $11,313 as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 85477000
+            },
+            {
+                "label": "Real estate acquired",
+                "concept": "RealEstateGrossAtCarryingValue",
+                "unit": "usd",
+                "value": 108296000
+            },
+            {
+                "label": "Royalty interests acquired, net of accumulated depletion of $360 and $260 as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "tpl:TotalRoyaltyInterests",
+                "unit": "usd",
+                "value": 45905000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 2786000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 553600000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 15372000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 1985000
+            },
+            {
+                "label": "Deferred taxes payable",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 40127000
+            },
+            {
+                "label": "Unearned revenue",
+                "concept": "ContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 20036000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 3141000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 80661000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Certificates of Proprietary Interest, par value $100 each; none outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Sub-share Certificates in Certificates of Proprietary Interest, par value $0.0333 each; outstanding 7,756,156 Sub-share Certificates as of June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1434000
+            },
+            {
+                "label": "Net proceeds from all sources",
+                "concept": "RetainedEarningsUnappropriated",
+                "unit": "usd",
+                "value": 474373000
+            },
+            {
+                "label": "Total capital",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 472939000
+            },
+            {
+                "label": "Total liabilities and capital",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 553600000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 54568000
+            },
+            {
+                "label": "Salaries and related employee expenses",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 8937000
+            },
+            {
+                "label": "Water service-related expenses",
+                "concept": "WaterProductionCosts",
+                "unit": "usd",
+                "value": 2165000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2448000
+            },
+            {
+                "label": "Legal and professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 2610000
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 3678000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 19838000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 34730000
+            },
+            {
+                "label": "Other income",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 193000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 34923000
+            },
+            {
+                "label": "Current",
+                "concept": "CurrentIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 7985000
+            },
+            {
+                "label": "Deferred",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 645000
+            },
+            {
+                "label": "Total income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 7340000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 27583000
+            },
+            {
+                "label": "Other comprehensive income \u2014 periodic pension costs, net of income taxes of $3, $2, $7 and $5, respectively",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 13000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 27596000
+            },
+            {
+                "label": "Weighted average number of Sub-share Certificates outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 7756156
+            },
+            {
+                "label": "Net income per Sub-share Certificate \u2014 basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 3.56
+            },
+            {
+                "label": "Cash dividends per Sub-share Certificate (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareCashPaid",
+                "unit": "usd/shares",
+                "value": "N/A"
+            }
+        ]
+    }
+}

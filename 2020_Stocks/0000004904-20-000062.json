@@ -1,0 +1,512 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AEP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 348800000.0
+            },
+            {
+                "label": "Restricted Cash",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 155900000.0
+            },
+            {
+                "label": "Other Temporary Investments",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": 192300000.0
+            },
+            {
+                "label": "Customers",
+                "concept": "AccountsReceivableGrossCurrent",
+                "unit": "usd",
+                "value": 630300000.0
+            },
+            {
+                "label": "Accrued Unbilled Revenues",
+                "concept": "UnbilledReceivablesCurrent",
+                "unit": "usd",
+                "value": 201100000.0
+            },
+            {
+                "label": "Pledged Accounts Receivable - AEP Credit",
+                "concept": "TransfersAccountedForAsSecuredBorrowingsAssetsCarryingAmount",
+                "unit": "usd",
+                "value": 976300000.0
+            },
+            {
+                "label": "Miscellaneous",
+                "concept": "OtherReceivables",
+                "unit": "usd",
+                "value": 34800000.0
+            },
+            {
+                "label": "Allowance for Uncollectible Accounts",
+                "concept": "AllowanceForDoubtfulAccountsReceivableCurrent",
+                "unit": "usd",
+                "value": 51000000.0
+            },
+            {
+                "label": "Total Accounts Receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 1791500000.0
+            },
+            {
+                "label": "Fuel",
+                "concept": "InventoryRawMaterials",
+                "unit": "usd",
+                "value": 616500000.0
+            },
+            {
+                "label": "Materials and Supplies",
+                "concept": "OtherInventorySupplies",
+                "unit": "usd",
+                "value": 663300000.0
+            },
+            {
+                "label": "Risk Management Assets",
+                "concept": "DerivativeAssetsCurrent",
+                "unit": "usd",
+                "value": 150100000.0
+            },
+            {
+                "label": "Regulatory Asset for Under-Recovered Fuel Costs",
+                "concept": "RegulatoryAssetsCurrent",
+                "unit": "usd",
+                "value": 58000000.0
+            },
+            {
+                "label": "Margin Deposits",
+                "concept": "MarginDepositAssets",
+                "unit": "usd",
+                "value": 55300000.0
+            },
+            {
+                "label": "Prepayments and Other Current Assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 241500000.0
+            },
+            {
+                "label": "TOTAL CURRENT ASSETS",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 4273200000.0
+            },
+            {
+                "label": "Generation",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentGenerationOrProcessing",
+                "unit": "usd",
+                "value": 23127400000.0
+            },
+            {
+                "label": "Transmission",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentTransmission",
+                "unit": "usd",
+                "value": 25921800000.0
+            },
+            {
+                "label": "Distribution",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentDistribution",
+                "unit": "usd",
+                "value": 23153100000.0
+            },
+            {
+                "label": "Other Property, Plant and Equipment",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentOtherPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 5115300000.0
+            },
+            {
+                "label": "Construction Work in Progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 4386600000.0
+            },
+            {
+                "label": "Total Property, Plant and Equipment",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 81704200000.0
+            },
+            {
+                "label": "Accumulated Depreciation and Amortization",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 19777400000.0
+            },
+            {
+                "label": "TOTAL PROPERTY, PLANT AND EQUIPMENT - NET",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 61926800000.0
+            },
+            {
+                "label": "Regulatory Assets",
+                "concept": "RegulatoryAssetsNoncurrent",
+                "unit": "usd",
+                "value": 3431900000.0
+            },
+            {
+                "label": "Securitized Assets",
+                "concept": "SecuritizedRegulatoryTransitionAssetsNoncurrent",
+                "unit": "usd",
+                "value": 710900000.0
+            },
+            {
+                "label": "Spent Nuclear Fuel and Decommissioning Trusts",
+                "concept": "aep:SpentNuclearFuelAndDecommissioningTrusts",
+                "unit": "usd",
+                "value": 2957000000.0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 52500000.0
+            },
+            {
+                "label": "Long-term Risk Management Assets",
+                "concept": "DerivativeAssetsNoncurrent",
+                "unit": "usd",
+                "value": 247100000.0
+            },
+            {
+                "label": "Operating Lease Assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 912900000.0
+            },
+            {
+                "label": "Deferred Charges and Other Noncurrent Assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 3292500000.0
+            },
+            {
+                "label": "TOTAL OTHER NONCURRENT ASSETS",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 11604800000.0
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 77804800000.0
+            },
+            {
+                "label": "Accounts Payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1628000000.0
+            },
+            {
+                "label": "Securitized Debt for Receivables - AEP Credit",
+                "concept": "TransfersAccountedForAsSecuredBorrowingsAssociatedLiabilitiesCarryingAmount",
+                "unit": "usd",
+                "value": 634000000.0
+            },
+            {
+                "label": "Other Short-term Debt",
+                "concept": "ShortTermBankLoansAndNotesPayable",
+                "unit": "usd",
+                "value": 2442600000.0
+            },
+            {
+                "label": "Total Short-term Debt",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 3076600000.0
+            },
+            {
+                "label": "Long-term Debt Due Within One Year",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 2137699999.9999998
+            },
+            {
+                "label": "Risk Management Liabilities",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 102500000.0
+            },
+            {
+                "label": "Customer Deposits",
+                "concept": "CustomerDepositsCurrent",
+                "unit": "usd",
+                "value": 356500000.0
+            },
+            {
+                "label": "Accrued Taxes",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 1212500000.0
+            },
+            {
+                "label": "Accrued Interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 261300000.0
+            },
+            {
+                "label": "Obligations Under Operating Leases",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 236400000.0
+            },
+            {
+                "label": "Regulatory Liability for Over-Recovered Fuel Costs",
+                "concept": "RegulatoryLiabilityCurrent",
+                "unit": "usd",
+                "value": 127600000.0
+            },
+            {
+                "label": "Other Current Liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 982900000.0
+            },
+            {
+                "label": "TOTAL CURRENT LIABILITIES",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10122000000.0
+            },
+            {
+                "label": "Long-term Debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 26637700000.0
+            },
+            {
+                "label": "Affiliated Long Term Debt Noncurrent",
+                "concept": "aep:AffiliatedLongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Long-term Risk Management Liabilities",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 245200000.0
+            },
+            {
+                "label": "Deferred Income Taxes",
+                "concept": "DeferredTaxLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 7811200000.0
+            },
+            {
+                "label": "Regulatory Liabilities and Deferred Investment Tax Credits",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 8242900000.0
+            },
+            {
+                "label": "Asset Retirement Obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 2471000000.0
+            },
+            {
+                "label": "Employee Benefits and Pension Obligations",
+                "concept": "aep:EmployeeBenefitsAndPensionObligations",
+                "unit": "usd",
+                "value": 459900000.0
+            },
+            {
+                "label": "Obligations Under Operating Leases",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 688500000.0
+            },
+            {
+                "label": "Deferred Credits and Other Noncurrent Liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 715400000.0
+            },
+            {
+                "label": "TOTAL NONCURRENT LIABILITIES",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 47271800000.0
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 57393800000.0
+            },
+            {
+                "label": "Rate Matters",
+                "concept": "aep:RateMatters",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable Noncontrolling Interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 63700000.0
+            },
+            {
+                "label": "Contingently Reedemable Performance Share Awards",
+                "concept": "aep:MezzanineEquity",
+                "unit": "usd",
+                "value": 69100000.0
+            },
+            {
+                "label": "Total Mezzanine Equity",
+                "concept": "aep:TotalMezzanineEquity",
+                "unit": "usd",
+                "value": 132800000.00000001
+            },
+            {
+                "label": "Common Stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3355400000.0
+            },
+            {
+                "label": "Paid-in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 6603000000.0
+            },
+            {
+                "label": "Retained Earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 10221900000.0
+            },
+            {
+                "label": "Accumulated Other Comprehensive Income (Loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 172900000.0
+            },
+            {
+                "label": "TOTAL COMMON SHAREHOLDER'S EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 20007400000.0
+            },
+            {
+                "label": "Noncontrolling Interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 270800000.0
+            },
+            {
+                "label": "Beginning Balance",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 20278200000.0
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 77804800000.0
+            },
+            {
+                "label": "Common Stock, Shares Authorized",
+                "concept": "CommonStockSharesAuthorized",
+                "unit": "shares",
+                "value": 600000000
+            },
+            {
+                "label": "Common Stock, Par or Stated Value Per Share",
+                "concept": "CommonStockParOrStatedValuePerShare",
+                "unit": "usd/shares",
+                "value": 6.5
+            },
+            {
+                "label": "Treasury Stock, Shares",
+                "concept": "TreasuryStockShares",
+                "unit": "shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Beginning Balance, Shares",
+                "concept": "CommonStockSharesIssued",
+                "unit": "shares",
+                "value": 516214732
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 514500000.0
+            },
+            {
+                "label": "Cash Flow Hedges, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 45300000.0
+            },
+            {
+                "label": "Amortization of Pension and OPEB Deferred Costs, Net of Tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 1700000.0
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax, Total",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 43600000.0
+            },
+            {
+                "label": "TOTAL COMPREHENSIVE INCOME (LOSS)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 558100000.0
+            },
+            {
+                "label": "Total Comprehensive Income (Loss) Attributable to Noncontrolling Interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 6300000.0
+            },
+            {
+                "label": "TOTAL COMPREHENSIVE INCOME (LOSS) ATTRIBUTABLE TO COMMON SHAREHOLDERS",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 564400000.0
+            },
+            {
+                "label": "Cash Flow Hedges, Tax",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax",
+                "unit": "usd",
+                "value": 12000000.0
+            },
+            {
+                "label": "Amortization of Pension and OPEB Deferred Costs, Tax",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+                "unit": "usd",
+                "value": 400000.0
+            }
+        ]
+    }
+}

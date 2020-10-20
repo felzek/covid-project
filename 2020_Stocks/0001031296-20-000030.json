@@ -1,0 +1,338 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "FE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 116000000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 49000000
+            },
+            {
+                "label": "Other Receivables",
+                "concept": "OtherReceivables",
+                "unit": "usd",
+                "value": 212000000
+            },
+            {
+                "label": "Materials and supplies, at average cost",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 303000000
+            },
+            {
+                "label": "Prepaid taxes and other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 286000000
+            },
+            {
+                "label": "Current assets - discontinued operations",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1986000000
+            },
+            {
+                "label": "In service",
+                "concept": "fe:PropertyPlantAndEquipmentExcludingConstructionInProgress",
+                "unit": "usd",
+                "value": 42794000000
+            },
+            {
+                "label": "Less \u2014 Accumulated provision for depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 11818000000
+            },
+            {
+                "label": "Property, plant and equipment in service net of accumulated provision for depreciation",
+                "concept": "fe:NetPlantExcludingConstructionWorkInProgress",
+                "unit": "usd",
+                "value": 30976000000
+            },
+            {
+                "label": "Construction work in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 1432000000
+            },
+            {
+                "label": "Total net property, plant and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 32408000000
+            },
+            {
+                "label": "PROPERTY, PLANT AND EQUIPMENT, NET - HELD FOR SALE (NOTE 9)",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 44000000
+            },
+            {
+                "label": "Nuclear fuel disposal trust",
+                "concept": "fe:NuclearFuelDisposalTrust",
+                "unit": "usd",
+                "value": 278000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLongTermInvestments",
+                "unit": "usd",
+                "value": 297000000
+            },
+            {
+                "label": "Investments - held for sale (Note 10)",
+                "concept": "fe:DisposalGroupIncludingDiscontinuedOperationInvestments",
+                "unit": "usd",
+                "value": 882000000
+            },
+            {
+                "label": "Total other property and investments",
+                "concept": "LongTermInvestments",
+                "unit": "usd",
+                "value": 1457000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 5618000000
+            },
+            {
+                "label": "Regulatory assets",
+                "concept": "RegulatoryAssetsNoncurrent",
+                "unit": "usd",
+                "value": 78000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 812000000
+            },
+            {
+                "label": "Total deferred charges and other assets",
+                "concept": "fe:DeferredChargesandOtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 6508000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 42403000000
+            },
+            {
+                "label": "Currently payable long-term debt",
+                "concept": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+                "unit": "usd",
+                "value": 81000000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 115000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 882000000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 269000000
+            },
+            {
+                "label": "Accrued taxes",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 563000000
+            },
+            {
+                "label": "Accrued compensation and benefits",
+                "concept": "AccruedEmployeeBenefitsCurrent",
+                "unit": "usd",
+                "value": 267000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 367000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2544000000
+            },
+            {
+                "label": "Common Stock, Value, Outstanding",
+                "concept": "CommonStockValueOutstanding",
+                "unit": "usd",
+                "value": 54000000
+            },
+            {
+                "label": "Other paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 10673000000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3584000000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 7143000000
+            },
+            {
+                "label": "Long-term debt and other long-term obligations",
+                "concept": "LongTermDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 21980000000
+            },
+            {
+                "label": "Total capitalization",
+                "concept": "CapitalizationLongtermDebtAndEquity",
+                "unit": "usd",
+                "value": 29123000000
+            },
+            {
+                "label": "Accumulated deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 2876000000
+            },
+            {
+                "label": "Retirement benefits",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 3401000000
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 2228000000
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 170000000
+            },
+            {
+                "label": "Adverse power contract liability",
+                "concept": "fe:AdversePowerContractLiability",
+                "unit": "usd",
+                "value": 31000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1321000000
+            },
+            {
+                "label": "Noncurrent liabilities - held for sale (Note 10)",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationNoncurrent",
+                "unit": "usd",
+                "value": 709000000
+            },
+            {
+                "label": "Total noncurrent liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 10736000000
+            },
+            {
+                "label": "COMMITMENTS, GUARANTEES AND CONTINGENCIES (Note 11)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total liabilities and capitalization",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 42403000000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "NET INCOME",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Pension and OPEB prior service costs",
+                "concept": "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Amortized losses on derivative hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossBeforeTax",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "Income tax benefits on other comprehensive loss",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Other comprehensive loss, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 307000000
+            }
+        ]
+    }
+}

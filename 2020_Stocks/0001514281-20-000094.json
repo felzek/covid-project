@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "MITT",
+    "data": {
+        "bs": [
+            {
+                "label": "Residential mortgage loans, at fair value - $171,316 and $171,224 pledged as collateral, respectively (2)",
+                "concept": "MortgageLoansOnRealEstate",
+                "unit": "usd",
+                "value": 379822000
+            },
+            {
+                "label": "Commercial loans, at fair value - $5,441 and $4,674 pledged as collateral, respectively",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 127685000
+            },
+            {
+                "label": "Investments in debt and equity of affiliates",
+                "concept": "InvestmentsInAndAdvancesToAffiliatesAtFairValue",
+                "unit": "usd",
+                "value": 122929000
+            },
+            {
+                "label": "Excess mortgage servicing rights, at fair value",
+                "concept": "mitt:ExcessMortgageServicingRightsAtFairValue",
+                "unit": "usd",
+                "value": 12294000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 68150000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 1084000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 11163000
+            },
+            {
+                "label": "Assets held for sale - Single-family rental properties, net",
+                "concept": "AssetsHeldForSaleNotPartOfDisposalGroupCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 855598000
+            },
+            {
+                "label": "Financing arrangements",
+                "concept": "DebtLongtermAndShorttermCombinedAmount",
+                "unit": "usd",
+                "value": 251098000
+            },
+            {
+                "label": "Securitized debt, at fair value",
+                "concept": "CollateralizedFinancings",
+                "unit": "usd",
+                "value": 198974000
+            },
+            {
+                "label": "Dividend payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 31396000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 8446000
+            },
+            {
+                "label": "Liabilities held for sale - Single-family rental properties, net",
+                "concept": "mitt:LiabilitiesHeldForSale",
+                "unit": "usd",
+                "value": 306000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 490220000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 13)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $0.01 per share; 450,000 shares of common stock authorized and 33,825 and 32,742 shares issued and outstanding at June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 338000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 666127000
+            },
+            {
+                "label": "Retained earnings/(deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 573544000
+            },
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 365378000
+            },
+            {
+                "label": "Total Liabilities & Stockholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 855598000
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Included in net income",
+                "concept": "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetGainLossIncludedInEarnings1",
+                "unit": "usd",
+                "value": 190000
+            },
+            {
+                "label": "Change in unrealized appreciation/(depreciation) for level 3 assets/liabilities still held",
+                "concept": "FairValueAssetsMeasuredOnRecurringBasisChangeInUnrealizedGainLoss",
+                "unit": "usd",
+                "value": 4000
+            }
+        ]
+    }
+}

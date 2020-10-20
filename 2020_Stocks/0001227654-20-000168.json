@@ -1,0 +1,92 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CMP",
+    "data": {
+        "bs": [
+            {
+                "label": "Operating leases",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 45800000.0
+            },
+            {
+                "label": "Finance leases",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 5200000.0
+            },
+            {
+                "label": "Total leased assets",
+                "concept": "cmp:LeaseRightofUseAsset",
+                "unit": "usd",
+                "value": 51000000.0
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 8000000.0
+            },
+            {
+                "label": "Current finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Other noncurrent operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 38100000.0
+            },
+            {
+                "label": "Other noncurrent finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 4600000.0
+            },
+            {
+                "label": "Total lease liabilities",
+                "concept": "cmp:LeaseLiability",
+                "unit": "usd",
+                "value": 52300000.0
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "Amortization of lease assets",
+                "concept": "FinanceLeaseRightOfUseAssetAmortization",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Interest on lease liabilities",
+                "concept": "FinanceLeaseInterestExpense",
+                "unit": "usd",
+                "value": 200000.0
+            },
+            {
+                "label": "Operating lease cost",
+                "concept": "OperatingLeaseCost",
+                "unit": "usd",
+                "value": 3500000.0
+            },
+            {
+                "label": "Variable lease cost",
+                "concept": "VariableLeaseCost",
+                "unit": "usd",
+                "value": 1800000.0
+            },
+            {
+                "label": "Net lease cost",
+                "concept": "LeaseCost",
+                "unit": "usd",
+                "value": 5900000.0
+            }
+        ]
+    }
+}

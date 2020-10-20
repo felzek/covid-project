@@ -1,0 +1,218 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "LPI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 820873
+            },
+            {
+                "label": "Maturities receivable",
+                "concept": "InsuranceSettlementsReceivable",
+                "unit": "usd",
+                "value": 60925232
+            },
+            {
+                "label": "Prepaids and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 319887
+            },
+            {
+                "label": "Restricted cash and cash equivalents",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 102067952
+            },
+            {
+                "label": "Life insurance policies",
+                "concept": "LifeSettlementContractsFairValueMethodCarryingAmount",
+                "unit": "usd",
+                "value": 166888015
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 331021959
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 24881214
+            },
+            {
+                "label": "Premium liability",
+                "concept": "lpi:LiabilitiesForFuturePaymentOfPremiumObligations",
+                "unit": "usd",
+                "value": 27462398
+            },
+            {
+                "label": "Maturity liability",
+                "concept": "lpi:MaturityLiability",
+                "unit": "usd",
+                "value": 7753980
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 232460
+            },
+            {
+                "label": "Due to related parties",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 17609299
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "lpi:AssumedLiabilities",
+                "unit": "usd",
+                "value": 12177288
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 3233774
+            },
+            {
+                "label": "Commitments and Contingencies (Note 2)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 93350413
+            },
+            {
+                "label": "Net assets",
+                "concept": "AssetsNet",
+                "unit": "usd",
+                "value": 237671546
+            }
+        ],
+        "cf": [
+            {
+                "label": "Increase in net assets resulting from operations",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 55071687
+            },
+            {
+                "label": "Change in fair value of life insurance policies",
+                "concept": "LifeSettlementContractsFairValueMethodUnrealizedGainLoss",
+                "unit": "usd",
+                "value": 59870057
+            },
+            {
+                "label": "Prepaids and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 438802
+            },
+            {
+                "label": "Assumed tax liability",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Premium liability",
+                "concept": "IncreaseDecreaseInUnearnedPremiums",
+                "unit": "usd",
+                "value": 5720891
+            },
+            {
+                "label": "Maturity liability",
+                "concept": "lpi:IncreaseDecreaseInMaturityLiabilities",
+                "unit": "usd",
+                "value": 505885
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 16291
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "lpi:IncreaseDecreaseInDistributionPayable",
+                "unit": "usd",
+                "value": 199000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 977823
+            },
+            {
+                "label": "Net cash flows used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 10668834
+            },
+            {
+                "label": "Premiums paid on policies",
+                "concept": "PaymentsToAcquireLifeInsurancePolicies",
+                "unit": "usd",
+                "value": 30894181
+            },
+            {
+                "label": "Net proceeds from maturities of life settlements",
+                "concept": "ProceedsFromLifeInsurancePolicies",
+                "unit": "usd",
+                "value": 64741222
+            },
+            {
+                "label": "Net cash flows provided by investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 33847041
+            },
+            {
+                "label": "Payments on notes payable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 916667
+            },
+            {
+                "label": "Redemption of Units",
+                "concept": "lpi:PaymentsForRedemptionOfCapitalUnits",
+                "unit": "usd",
+                "value": 134895
+            },
+            {
+                "label": "Net cash flows used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1051562
+            },
+            {
+                "label": "Net increase in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 22126645
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 26796
+            }
+        ],
+        "ic": []
+    }
+}
