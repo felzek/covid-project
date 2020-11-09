@@ -1,0 +1,36 @@
+https://www.mtholyoke.edu/~ahoyerle/math333/ThreeBasicModels.pdf
+https://python.quantecon.org/sir_model.html
+https://www.youtube.com/watch?v=BoI_ej-T0V4
+https://www.youtube.com/watch?v=kwGukY_2qWQ
+
+Epidemiological Models
+
+1) Disease Spreading Agent: Virus
+2) Transmission occurs through person -> person, and person -> environment
+						     environment -> person
+
+3) For those who recover from COVID-19, new research shows immunity to the 
+   virus can last for at least 5-7 months, and may last much longer.
+
+Model Criteria:
+- Susceptible class: S(t)
+- Infective class: I(t)
+- Removed class: R(t)
+
+
+Assumptions (for greater details click the link above and go to the Section labeled "Assumptions and Notation":
+
+1) Constant population size N, which is large enough so that the sizes of each class 
+   can be considered as continuous variables. Other factors are taken into account if you include vital dynamics.
+2) Population is homogeneously mixing.
+3) More assumptions, read the section.
+
+
+
+
+
+
+
+
+
+
