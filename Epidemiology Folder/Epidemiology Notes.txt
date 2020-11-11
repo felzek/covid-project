@@ -2,6 +2,9 @@ https://www.mtholyoke.edu/~ahoyerle/math333/ThreeBasicModels.pdf
 https://python.quantecon.org/sir_model.html
 https://www.youtube.com/watch?v=BoI_ej-T0V4
 https://www.youtube.com/watch?v=kwGukY_2qWQ
+https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus
+https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-28-covid-19-what-we-know-may-2020.pdf?sfvrsn=ed6e286c_2
+https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf#:~:text=Using%20available%20preliminary%20data%2C,severe%20or%20critical%20disease
 
 Epidemiological Models
 
@@ -25,6 +28,19 @@ Assumptions (for greater details click the link above and go to the Section labe
 2) Population is homogeneously mixing.
 3) More assumptions, read the section.
 
+We need:
+
+COVID-19:
+Transmission Rate R_0: (each person infects 2 to 4 people) (assume Normal Distribution and make random vector) *gamma 
+1/Infection time (sigma): Infection time is 4 to 5 days
+1/Recovery time (gamma) : Recovery time is 14 days for mild cases, and 3-6 weeks for patients with severe or critical disease
+
+
+Influenza:
+
+
+
+Flu:
 
 
 
