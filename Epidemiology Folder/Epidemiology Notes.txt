@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=kwGukY_2qWQ
 https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus
 https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-28-covid-19-what-we-know-may-2020.pdf?sfvrsn=ed6e286c_2
 https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf#:~:text=Using%20available%20preliminary%20data%2C,severe%20or%20critical%20disease
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30257-7/fulltext (SARS, Covid, Flu fatality rates table)
+https://thorax.bmj.com/content/60/5/361
+https://www.bmj.com/content/368/bmj.m641.long
 
 Epidemiological Models
 
@@ -32,6 +35,7 @@ We need:
 
 COVID-19:
 Transmission Rate R_0: (each person infects 2 to 4 people) (assume Normal Distribution and make random vector) *gamma 
+(SARS-CoV-2 (causes COVID-19)	1.5 to 3.5)
 1/Infection time (sigma): Infection time is 4 to 5 days
 1/Recovery time (gamma) : Recovery time is 14 days for mild cases, and 3-6 weeks for patients with severe or critical disease
 
@@ -41,7 +45,7 @@ Influenza:
 R_0: Seasonal Influenza	0.9 to 2.1
 (Source: https://sph.umich.edu/pursuit/2020posts/how-scientists-quantify-outbreaks.html   <---- This site has a really nice table of R_0 values)
 
-Infection time:People with flu are most contagious in the first 3-4 days after their illness begins.
+Infection time: People with flu are most contagious in the first 3-4 days after their illness begins.
 Some otherwise healthy adults may be able to infect others beginning 1 day before symptoms develop and up to 5 to 7 days after becoming sick.
 (Source: https://www.cdc.gov/flu/about/keyfacts.htm )
 
@@ -49,7 +53,10 @@ Recovery time: Symptoms usually appear from one to four days after exposure to t
 For people who've had a flu shot, the symptoms may last a shorter amount of time, or be less severe. 
 (Source: https://www.health.harvard.edu/staying-healthy/how-long-does-the-flu-last )
 
-Flu:
+SARS:
+R_0: SARS	<1 to 2.75 (umich source with table)
+Infection time: 2 weeks (https://www.cdc.gov/sars/about/faq.html)
+Recovery time: 90 day (https://respiratory-research.biomedcentral.com/articles/10.1186/1465-9921-6-42)
 
 
 
