@@ -1,0 +1,31 @@
+
+population x
+
+y = 1/ recover time, infectious period
+
+sigma = 1/4.5 time before infection
+
+
+'
+
+
+
+------------------------------------------------
+
+Removed pop group
+
+Susceptible group = old susceptible group + (Removed pop group from # infected at t-182)
+	If t-182 is negative, t-182 == 0
+
+REmoved group = Removed + new removed - old removed
+	old removed = removed group - (t-182 as before)
+
+probability of dying pop # for normal causes
+	for time t, binomial(n = pop size, p = .00888) = number of ppl that could die 
+	subtract from each group - susceptible, infected, removed
+		susceptible pop/total pop * # die = number that die from susceptible pop
+
+propability of new birth adding to pop size
+	for time t, binomial(n = pop size, p = .01199) = number of ppl that could die 
+	subtract from each group - susceptible, infected, removed
+		susceptible pop/total pop * # die = number that die from susceptible pop
