@@ -36,7 +36,9 @@ We need:
 COVID-19:
 Transmission Rate R_0: (each person infects 2 to 4 people) (assume Normal Distribution and make random vector) *gamma 
 (SARS-CoV-2 (causes COVID-19)	1.5 to 3.5)
-1/Infection time (sigma): Infection time is 4 to 5 days
+
+1/Infection time (sigma): Infection time is 24 days (https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus#:~:text=Most%20people%20with%20coronavirus%20who,there%20are%20documented%20exceptions.)
+(harvard health said infecious for 10 days after symptoms resolve)
 1/Recovery time (gamma) : Recovery time is 14 days for mild cases, and 3-6 weeks for patients with severe or critical disease
 
 
