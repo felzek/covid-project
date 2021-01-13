@@ -1,6 +1,8 @@
 rm(list=ls())
 gc()
 
+#stat packages. tidyverse - data anlysis
+
 library(tidyverse)
 library(haven)
 
@@ -8,7 +10,7 @@ library(haven)
 data <- read.csv("~/covid_data.csv")
 
 # load estimates from the regression
-# coefficients and date fixed effects
+# coefficients and date fixed effects (FE)
 b_se <- read.csv("~/coef_date_FE.csv")
 home_ratio_par <- b_se$coef[1]
 Log_Y_par <- b_se$coef[2]
@@ -17,10 +19,17 @@ humidity_par <- b_se$coef[4]
 const <- b_se$coef[dim(b_se)[1]]
 
 # last 7 days date_FE
+# taking data from the past 7 days.IDate is Intger based date time class
+
 date_FE <- b_se %>% filter(coef_name == "Idate") %>% arrange(date) %>% 
   slice(tail(row_number(), 7)) %>% select(coef, date)
 
-# Create day-of-week for merging later
+# date is being assigned a veriable from the previous composition
+# date_FE is assigned the final overall output.
+
+# Each date has a coeff
+
+# Create day-of-week (dow) for merging later
 dow <- data %>% select(date, dow) %>% unique()
 date_FE <- date_FE %>% left_join(dow, by="date") %>% 
   group_by(dow) %>% summarize(date_FE = mean(coef))
